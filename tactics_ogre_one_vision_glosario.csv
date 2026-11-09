@@ -1,0 +1,115 @@
+﻿Juego,Categoria,Termino original,Traduccion elegida,Estado,Notas
+Tactics Ogre: One Vision,Stats,HP,PS,Confirmado,Usar PS y no PV.
+Tactics Ogre: One Vision,Stats,MP,PM,Confirmado,Se mantiene PM para MP.
+Tactics Ogre: One Vision,Stats,TP,PT,Confirmado,Usar PT para TP.
+Tactics Ogre: One Vision,Stats,RT,TE,Confirmado,Equivalencia seleccionada para RT.
+Tactics Ogre: One Vision,UI,[FOCUS],[Enfoque],Confirmado,Mantener los corchetes.
+Tactics Ogre: One Vision,UI,Manual (sufijo),GUIA,Confirmado,Usar como sufijo.
+Tactics Ogre: One Vision,Elementos,LIGHT,LUZ,Confirmado,No traducir como Sol.
+Tactics Ogre: One Vision,Terminologia,damage,da?o,Confirmado,Excepcion explicita para la palabra inglesa damage; no usar ? en otras palabras.
+Tactics Ogre: One Vision,Terminologia,Lord,Lord,Confirmado,No traducir como Senor.
+Tactics Ogre: One Vision,Terminologia,Krystallos,Krystallos,Confirmado,Conservar sin traducir.
+Tactics Ogre: One Vision,Estados y efectos,Dodge,ELUDE,Confirmado,Asociado en el contexto a RESIST AIR.
+Tactics Ogre: One Vision,Estados y efectos,RESIST AIR,,Pendiente de equivalencia independiente,Se menciono junto con DODGE/ELUDE pero no consta una traduccion separada confirmada.
+Tactics Ogre: One Vision,Estados y efectos,ICE AVERSE,AVERSION A HIELO,Confirmado,Mantener el concepto de aversion al elemento hielo.
+Tactics Ogre: One Vision,Estados y efectos,SPELLSLIP,MAGIFALLO,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,FEEBLEMIND,MENTEDEBIL,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,DEBUFF,MERMA,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,Mute,Mudez,Confirmado,Forma corta seleccionada.
+Tactics Ogre: One Vision,Estados y efectos,BENUMB,PASMAR,Confirmado,No confundir con STUN.
+Tactics Ogre: One Vision,Estados y efectos,STUN,PARALIZAR,Confirmado,Mantener diferenciado de PASMAR.
+Tactics Ogre: One Vision,Estados y efectos,SHACKLE,Desarme,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,BIND,Unir,Confirmado,Para habilidades de imbuicion de armas/objetos se usa el formato elemento+.
+Tactics Ogre: One Vision,Estados y efectos,WISP,LUZ FATUA,Confirmado,Relacionado con la terminologia de NO MUERTOS.
+Tactics Ogre: One Vision,Estados y efectos,UNDEAD,NO MUERTOS,Confirmado,Forma plural.
+Tactics Ogre: One Vision,Estados y efectos,Living Dead,NO MUERTO,Confirmado,Forma singular elegida para el termino de habilidad/estado.
+Tactics Ogre: One Vision,Estados y efectos,PRECISION,PRECISION,Confirmado,No sustituir por PUNTERIA.
+Tactics Ogre: One Vision,Estados y efectos,TRUEFLIGHT,PUNTERIA+,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,FALSEFLIGHT,PUNTERIA-,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,NIMBLE,ASTUTO,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,SURESTRIKE,,Pendiente de equivalencia confirmada,Se solicito trabajar la formulacion pero el contexto disponible no conserva una opcion final elegida.
+Tactics Ogre: One Vision,Habilidades y efectos,HASTE,PRISA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,QUICKEN,RAPIDEZ,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,RESOLVE,FIRMEZA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,RENEWAL,Regenerar,Confirmado - ultima revision,Reemplaza la opcion anterior RENOVAR.
+Tactics Ogre: One Vision,Habilidades y efectos,FORTIFY,BLINDAR,Confirmado - ultima revision,Reemplaza la opcion anterior FORTIFICAR.
+Tactics Ogre: One Vision,Habilidades y efectos,NULLIFY,ANULAR,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,NEGATE,Resguardo,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,HEARTEN,ALENTAR,Confirmado,Preferido frente a animo.
+Tactics Ogre: One Vision,Habilidades y efectos,BRAVERY,BRAVURA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,EASE,PAZ,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,BALEFIRE,INFIERNO,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,BLAZE,ESTALLIDO,Confirmado,No usar Rafaga.
+Tactics Ogre: One Vision,Habilidades y efectos,WATERWALK,PASEOAQUA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,DASH,FUGA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,ICEOVER,GLACIAL,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,FLASHBANG,ATURDIDORA,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,Petrifog,Petrigas,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,Timestop,PARO,Confirmado,
+Tactics Ogre: One Vision,Habilidades y efectos,SPELLCRAFT,ARTEMAGICO,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Arcana,Arcano,Confirmado,Usar el singular Arcano.
+Tactics Ogre: One Vision,Arcano y hechizos,SPELLSTRIKE,GOLPEMAGICO,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,WARD,VELO,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,CRUSHING,APLASTANTE,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,STILLED,INERTE,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,CURSE,MALDICION,Confirmado - ultima revision,No usar RUINA.
+Tactics Ogre: One Vision,Arcano y hechizos,PUTRIFY,PUDRIR,Confirmado,No usar PUTRIFICAR.
+Tactics Ogre: One Vision,Arcano y hechizos,Brainrot,DESGASTE,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Shiftstone,PIEDRAFUGA,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,PAPER DOLL,TALISMAN,Confirmado,No usar muneco.
+Tactics Ogre: One Vision,Arcano y hechizos,AIR-BRINGER,PORTA-AIRE,Confirmado - ultima revision,Reemplaza PORTA-AIREA.
+Tactics Ogre: One Vision,Arcano y hechizos,ENVENOM,ENVENENAR,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,DEMONPETAL DANCE,DANZA DEMONIFLOR,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,DEADLOCK,BLOQUEO,Confirmado,Limite de referencia: 8 caracteres.
+Tactics Ogre: One Vision,Arcano y hechizos,Somber Score,Son Sombrio,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,OSSUARY GATE,PORTAL OSEO,Confirmado,Para Gate en nombres de lugares/portales se prefiere Paso frente a Vano; esta equivalencia concreta queda como PORTAL OSEO.
+Tactics Ogre: One Vision,Arcano y hechizos,WATER STRIDERS,ZANCOS DE AGUA,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,SOUL HARVEST,COSECHA-ALMAS,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Holy Shield,MANTO SACRO,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Martyrdom,MARTIRIO,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Banish,Exilio,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Rebuild,Reponer,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Tainted Love,Amor Nefasto,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Prodigize,Prodigar,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Styx Shift,Estigsalto,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Barren Soul,Alma Vacia,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Core Collapse,Romper Nucleo,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Acid Cloud,Nube Acida,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Breach,Quebrar,Confirmado - ultima revision,Reemplaza Quebra.
+Tactics Ogre: One Vision,Arcano y hechizos,Grim Dawn,Alba Funesta,Confirmado,
+Tactics Ogre: One Vision,Arcano y hechizos,Ghostblade,Filosombra,Confirmado,
+Tactics Ogre: One Vision,Habilidades y objetos,BATTERING RAM,ARIETE,Confirmado,
+Tactics Ogre: One Vision,Habilidades y objetos,AGONY,Agonia,Confirmado,
+Tactics Ogre: One Vision,Habilidades y objetos,EMMETH,EMMET,Confirmado,
+Tactics Ogre: One Vision,Habilidades y objetos,Springboard,Trampolin,Confirmado,
+Tactics Ogre: One Vision,Habilidades y objetos,Charged Resonance,Armonia,Confirmado,El usuario indico usar armonia.
+Tactics Ogre: One Vision,Equipamiento,Scroll,Rollo,Confirmado,Preferido frente a Pergamino.
+Tactics Ogre: One Vision,Equipamiento,Cudgel,Baculo,Confirmado,
+Tactics Ogre: One Vision,Equipamiento,Sidearm,Subarma,Confirmado,
+Tactics Ogre: One Vision,Equipamiento,Robe,Ropaje,Confirmado,Termino de visualizacion/codigo PSP.
+Tactics Ogre: One Vision,Equipamiento,Weapons,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Shields,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Armor,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Gloves,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Legguards,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Shoes,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Accessories,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Books,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Instruments,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Equipamiento,Firearms,,Categoria registrada sin traduccion espanola confirmada,No consta una equivalencia aprobada en el contexto disponible.
+Tactics Ogre: One Vision,Clases,Nombres de clases (lista completa),,Pendiente de recuperar,En el contexto disponible no aparecen nombres de clases con traduccion final aprobada.
+Tactics Ogre: One Vision,Formato de descripciones,Contains the arcana ...,,Regla de estructura,Conservar la estructura que indica que el objeto contiene el arcano; no consta una frase espanola final unica.
+Tactics Ogre: One Vision,Formato y estilo,Codigos y secuencias de control,,Regla confirmada,Conservar codigos y secuencias en el mismo orden y posicion; son formato y no se traducen.
+Tactics Ogre: One Vision,Formato y estilo,Limites de caracteres,,Regla confirmada,Los numeros al final de las lineas fuente son limites maximos y no forman parte del texto traducido.
+Tactics Ogre: One Vision,Formato y estilo,Mayusculas y puntuacion,,Regla confirmada,Conservar mayusculas/minusculas y puntuacion final del original.
+Tactics Ogre: One Vision,Formato y estilo,Acentos y letra n,,Regla confirmada,No usar tildes ni la letra n con tilde en las traducciones; no reemplazar la n normal por signos.
+Tactics Ogre: One Vision,Formato y estilo,Terminaciones inclusivas,,Regla confirmada,No usar terminaciones inclusivas en -e.
+Tactics Ogre: One Vision,Formato y estilo,Abreviaturas,,Regla confirmada,Evitar abreviar si cabe el termino completo; abreviar solo cuando el limite lo exija.
+Tactics Ogre: One Vision,Formato y estilo,Gate (nombres de lugares/portales),Paso,Preferencia terminologica,Preferir Paso en lugar de Vano en nombres de lugares o portales.
+Tactics Ogre: One Vision,Formato y estilo,Bind + elemento,Elemento+,Regla confirmada,Para imbuiciones de armas/objetos: traducir el elemento seguido de +; ejemplo Bind Earth = Tierra+.
+Tactics Ogre: One Vision,Estados y efectos,FEAR,,Pendiente de recuperar,Aparece en la descripcion de HEARTEN; no consta una traduccion final elegida.
+Tactics Ogre: One Vision,Estados y efectos,SPENDTHRIFT,,Pendiente de recuperar,Aparece en la descripcion de HEARTEN; no consta una traduccion final elegida.
+Tactics Ogre: One Vision,Estados y efectos,PARANOIA,,Pendiente de recuperar,Aparece en la descripcion de HEARTEN; no consta una traduccion final elegida.
+Tactics Ogre: One Vision,Habilidades y efectos,Ice Prison,,Pendiente de recuperar,Aparece en una conversacion reciente; no consta la opcion final aprobada.
+Tactics Ogre: One Vision,Habilidades y efectos,Mighty Strike 13,,Pendiente de recuperar,Se solicito traducir este nombre; no consta una seleccion final en el contexto disponible.
+Tactics Ogre: One Vision,Elementos,FIRE,,Pendiente de equivalencia confirmada,No consta una traduccion elegida en el contexto disponible.
