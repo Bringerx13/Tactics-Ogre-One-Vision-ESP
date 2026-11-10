@@ -1,0 +1,18 @@
+Fila,Inglés original,Español propuesto,Marcadores originales
+6,Experience earned: {FF 84 01ff01} / Skill points earned: {FF 84 02ff01},Experiencia obtenida: {FF 84 01ff01} / Puntos de habilidad obtenidos: {FF 84 02ff01},{span 03 f241 29 10 03f230303031 02da70303031}
+7,You obtained the {FF 83 0101fff1f0}. / Would you like to learn it?,Has obtenido la habilidad {FF 83 0101fff1f0}. / ¿Quieres aprenderla?,{span 05 3241 2e 10 02e130303031}
+8,Excess items have been converted to goth.,Los objetos sobrantes se han convertido en GOTH.,{span 04 ee01 2a 08}
+9,Yes,Sí,{span 02 3e01 04 08}
+10,No,No,{span 02 3201 03 08}
+11,Learned {FF 83 0101fff1f0}.,Has aprendido {FF 83 0101fff1f0}.,{span 03 8041 0a 08 028130303031}
+12,Incapacitated units cannot be revived!,¡No se puede revivir a las unidades incapacitadas!,{span 04 bc01 27 08}
+13,Incapacitated units can be revived!,¡Se puede revivir a las unidades incapacitadas!,{span 04 9a01 24 08}
+14,{FF 83 0101fff1f0} recruited!,¡{FF 83 0101fff1f0} se ha unido a tus filas!,{span 03 8c41 0c 08 028d30303031}
+15,The weather turns!,¡El clima cambia!,{span 02 e801 13 08}
+16,Trap disarmed!,¡Trampa desactivada!,{span 02 c001 0f 08}
+17,Trap disarmed!,¡Trampa desactivada!,{span 02 c001 0f 08}
+18,Body and soul bound to the weapon!,¡El cuerpo y el alma han quedado ligados al arma!,{span 04 a801 23 08}
+19,Bodies swapped!,¡Los cuerpos se han intercambiado!,{span 02 d001 10 08}
+20,A new unit has arrived!,¡Ha llegado una nueva unidad!,{span 04 1601 18 08}
+21,Nothing happens.,No ocurre nada.,{span 02 d001 11 08}
+22,Stats slightly increased.,Los atributos han aumentado ligeramente.,{span 04 2601 1a 08}
