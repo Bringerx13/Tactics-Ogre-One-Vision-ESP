@@ -1,0 +1,460 @@
+Class Text — Filas 0–10,,,
+Fila,Inglés original,Español propuesto,Marcadores originales
+0 · Col. 4,nothing,nada,{span 02 6001 08 08}
+0 · Col. 8,nothing,nada,{span 02 6001 08 08}
+1 · Col. 4,Warrior,Guerrero,{span 02 6c01 08 08}
+1 · Col. 8,Amazon,Amazona,{span 02 6c01 08 08}
+1 · Col. 12,"A mainstay melee attacker adept with a wide variety of weapons. Jack-of-all-trades, master of none{if 02}... As true in undeath as it was in life{/if}.","Un combatiente cuerpo a cuerpo fundamental, diestro en el manejo de una gran variedad de armas. Sabe hacer un poco de todo, pero no destaca en nada{if 02}... y eso sigue siendo cierto ahora que es un no muerto{/if}.",{span 02 6c01 08 08} · {if 02} · {/if}
+2 · Col. 4,Archer,Arquero,{span 02 5e01 07 08}
+2 · Col. 8,Archer,Arquera,{span 02 5e01 07 08}
+2 · Col. 12,"A mainstay ranged attacker adept with bow and crossbow, though their accuracy drops sharply in bad weather{if 02}... Which is no less true now that they're a zombie{/if}.","Un combatiente a distancia fundamental, diestro con el arco y la ballesta, aunque su precisión disminuye considerablemente con el mal tiempo{if 02}... Algo que no ha cambiado ahora que es un zombi{/if}.",{span 02 5e01 07 08} · {if 02} · {/if}
+3 · Col. 4,Wizard,Mago,{span 02 5c01 07 08}
+3 · Col. 8,Sorceress,Hechicera,{span 02 5c01 07 08}
+3 · Col. 12,"A magic-user boasting unrestricted access to all damage dealing spells{if 02}... Or did, once{/if}. Low defenses make them poor in close-quarters combat{if 02}―even now that they're a zombie{/if}.",Un usuario de magia con acceso irrestricto a todos los hechizos ofensivos{if 02}... O al menos lo tenía antes{/if}. Sus bajas defensas lo hacen poco apto para el combate cuerpo a cuerpo{if 02}―algo que no ha cambiado ni ahora que es un zombi{/if}.,{span 02 5c01 07 08} · {if 02} · {/if}
+4 · Col. 4,Cleric,Clérigo,{span 02 5401 07 08}
+4 · Col. 8,Monk,Monja,{span 02 5401 07 08}
+4 · Col. 12,"A wielder of divine magic who mends wounds and cures various ailments{if 02}... Or was, once{/if}. Keep one in every battle party{if 02}. Of course, now that they're a zombie, you might think twice{/if}.","Un usuario de magia divina que sana heridas y cura diversas dolencias{if 02}... O al menos lo era antes{/if}. Conviene llevar uno en cada grupo de batalla{if 02}. Aunque, claro, ahora que es un zombi quizá debas pensártelo dos veces{/if}.",{span 02 5401 07 08} · {if 02} · {/if}
+5 · Col. 4,Spellblade,Espadachín Mágico,{span 02 9e01 0b 08}
+5 · Col. 8,Valkyrie,Valquiria,{span 02 9e01 0b 08}
+5 · Col. 12,"A well-rounded caster of attack and support spells who is also adept at sword and spear-play{if 02}... Or was, once{/if}. Able to move through water tiles{if 02}, even now that they're a zombie{/if}.","Un lanzador versátil de hechizos ofensivos y de apoyo, hábil también con la espada y la lanza{if 02}... O al menos lo era antes{/if}. Puede desplazarse por casillas de agua{if 02}, incluso ahora que es un zombi{/if}.",{span 02 9e01 0b 08} · {if 02} · {/if}
+6 · Col. 4,Knight,Caballero,{span 02 5e01 07 08}
+6 · Col. 8,Knight,Dama,{span 02 5e01 07 08}
+6 · Col. 12,"An excellent front-line warrior, able to use divine magic. Nothing halts the enemy's advance like a knight in their path. A strong defender and capable attacker{if 02}... At least, they were{/if}.","Un excelente guerrero de primera línea, capaz de usar magia divina. Nada detiene el avance enemigo como un caballero interponiéndose en su camino. Es un gran defensor y un atacante competente{if 02}... O al menos lo era antes{/if}.",{span 02 5e01 07 08} · {if 02} · {/if}
+7 · Col. 4,Terror Knight,Caballero del Terror,{span 02 ac01 0e 08}
+7 · Col. 8,Terror Knight,Dama del Terror,{span 02 ac01 0e 08}
+7 · Col. 12,"The howls of tormented spirits can be heard with every step of the terror knight's boots. Skilled in weakening enemy attacks and defense, they function as a wall to enemy advance{if 02}... Or, at least, they did{/if}.","Con cada paso de las botas del Caballero del Terror se oyen los aullidos de espíritus atormentados. Es experto en debilitar el ataque y la defensa del enemigo, y actúa como un muro que frena su avance{if 02}... O, al menos, así era antes{/if}.",{span 02 ac01 0e 08} · {if 02} · {/if}
+8 · Col. 4,Berserker,Berserker,{span 02 8001 0a 08}
+8 · Col. 8,Maenad,Ménade,{span 02 8001 0a 08}
+8 · Col. 12,"A melee attacker entirely unconcerned with their own safety, the berserker boasts a strong attack, but subpar defense{if 02}. This is little changed now that they're a zombie{/if}.","Un combatiente cuerpo a cuerpo que no se preocupa en absoluto por su propia seguridad. El berserker tiene un gran poder de ataque, pero una defensa deficiente{if 02}. Esto apenas ha cambiado ahora que es un zombi{/if}.",{span 02 8001 0a 08} · {if 02} · {/if}
+9 · Col. 4,Swordmaster,Maestro Espadachín,{span 02 a601 0c 08}
+9 · Col. 8,Blademaiden,Doncella de la Espada,{span 02 a601 0c 08}
+9 · Col. 12,"A melee attacker and master of most bladed weaponry. Able to employ powerful war dances{if 02}, even now that they're a zombie{/if}.","Un combatiente cuerpo a cuerpo y maestro en el uso de casi todo tipo de armas blancas. Puede ejecutar poderosas danzas de guerra{if 02}, incluso ahora que es un zombi{/if}.",{span 02 a601 0c 08} · {if 02} · {/if}
+10 · Col. 4,Dragoon,Dragoon,{span 02 7201 08 08}
+10 · Col. 8,Dragoon,Dragoon,{span 02 7201 08 08}
+10 · Col. 12,"A warrior with a special talent for slaying beasts and dragons{if 02}... At least, they used to be{/if}.","Un guerrero con un talento especial para abatir bestias y dragones{if 02}... Al menos, así era antes{/if}.",{span 02 7201 08 08} · {if 02} · {/if}
+11 · Col. 4,Ninja,Ninja,{span 02 4801 06 08}
+11 · Col. 8,Kunoichi,Kunoichi,{span 02 7401 09 08}
+11 · Col. 12,"A nimble warrior who prefers hit-and-run tactics to an open fight. Their attacks with double weapons can be vicious... At least, they used to be.","Un guerrero ágil que prefiere las tácticas de golpear y retirarse al combate abierto. Sus ataques con armas dobles pueden ser devastadores... Al menos, así era antes.",{if 02} · {/if}
+12 · Col. 4,Rogue,Pícaro,{span 02 5801 06 08}
+12 · Col. 8,Rogue,Pícara,{span 02 5801 06 08}
+12 · Col. 12,A former master at relieving enemies of their treasured goods and laying traps to snare the unwary.,Un experto en otros tiempos en despojar a los enemigos de sus preciadas pertenencias y tender trampas para atrapar a los incautos.,{if 02} · {/if}
+13 · Col. 4,Fusilier,Fusilero,{span 02 6601 09 08}
+13 · Col. 8,Fusilier,Fusilera,{span 02 6601 09 08}
+13 · Col. 12,"The fusilier can wield all of the powerful ranged weapons that give them their name. However, their eschewal of magic and all things supernatural has left them particularly susceptible to magic attacks, and this is little changed now that they're a zombie.","El fusilero puede empuñar todas las poderosas armas a distancia que le dan nombre. Sin embargo, su rechazo a la magia y a todo lo sobrenatural lo ha vuelto especialmente vulnerable a los ataques mágicos, algo que apenas ha cambiado ahora que es un zombi.",{if 02} · {/if}
+14 · Col. 4,Beast Tamer,Domador de Bestias,{span 02 a201 0c 08}
+14 · Col. 8,Dragoner,Domadora de Dragones,{span 02 a201 09 08}
+14 · Col. 12,"The beast tamer is able to train beasts and dragons and unleash their hidden potential... At least, they could, before they became a zombie.","El domador de bestias puede adiestrar bestias y dragones y liberar su potencial oculto... Al menos, podía hacerlo antes de convertirse en zombi.",{if 02} · {/if}
+15 · Col. 4,Warlock,Brujo,{span 02 6e01 08 08}
+15 · Col. 8,Witch,Bruja,{span 02 5401 06 08}
+15 · Col. 12,"Mage, fighter, explorer, these ardent scholars learn much of their trade from ancient writings. They are able to control golems and unleash their true potential, a feat they can still perform even now that they're a zombie.","Mago, combatiente, explorador: estos eruditos apasionados aprenden gran parte de su oficio de antiguos escritos. Pueden controlar gólems y liberar su verdadero potencial, una proeza que aún pueden realizar incluso ahora que son zombis.",{if 02} · {/if}
+16 · Col. 4,Necromancer,Nigromante,{span 02 a401 0c 08}
+16 · Col. 8,Necromancer,Nigromante,{span 02 a401 0c 08}
+16 · Col. 12,These masters of dark magic specialize in ranged combat and backing their minions from afar―even now that they've become zombies themselves.,Estos maestros de la magia oscura se especializan en el combate a distancia y apoyan a sus esbirros desde la retaguardia―incluso ahora que ellos mismos se han convertido en zombis.,{if 02} · {/if}
+17 · Col. 4,Lich,Liche,{span 02 3e01 05 08}
+17 · Col. 8,Lich,Liche,{span 02 3e01 05 08}
+17 · Col. 12,"A mage possessing a ring of the dead, as well as a great deal of magical power... Or once they did.","Un mago que posee un anillo de los muertos y un enorme poder mágico... O, al menos, así era antes.",{if 02} · {/if}
+18 · Col. 4,Angel Knight,Caballero Ángel,{span 02 a601 0d 08}
+18 · Col. 8,Angel Knight,Dama Ángel,{span 02 a601 0d 08}
+18 · Col. 12,"A mage-knight reincarnated through the use of an ensanguined rood, returning with powerful magics at their disposal... At least, they were.","Un caballero mago que ha renacido mediante el uso de una cruz ensangrentada y ha regresado con poderosos hechizos a su disposición... O, al menos, eso era antes.",{if 02} · {/if}
+19 · Col. 4,Hoplite,Hoplita,{span 02 6001 08 08}
+19 · Col. 8,Hoplite,Hoplita,{span 02 6001 08 08}
+19 · Col. 12,"A former heavily armored footsoldier, typically bearing sword and shield which they used to defend their clan upon the battlefield.","Un soldado de infantería fuertemente acorazado, que en vida fue , normalmente equipado con espada y escudo, que utilizaba para defender a su clan en el campo de batalla.",{if 02} · {/if} · {if 02} · {/if}
+20 · Col. 4,Juggernaut,Juggernaut,{span 02 9001 0b 08}
+20 · Col. 8,Titania,Titania,{span 02 9001 07 08}
+20 · Col. 12,Destroyers upon the battlefield which display uncanny mobility despite their preference of heavy equipment...before they turned into a zombie.,Destructores en el campo de batalla que demuestran una movilidad asombrosa a pesar de preferir el equipo pesado... incluso antes de convertirse en zombis.,{if 02} · {/if}
+21 · Col. 4,Patriarch,Patriarca,{span 02 7601 0a 08}
+21 · Col. 8,Matriarch,Matriarca,{span 02 7a01 0a 08}
+21 · Col. 12,"Adept at magic and a capable leader on the battlefield―or at least they were. Wields magic powerful enough to impress even wizards. This, at least, has not changed.","Destaca por su dominio de la magia y su capacidad para dirigir a sus tropas en el campo de batalla―o, al menos, así era antes. Empuña una magia lo bastante poderosa como para impresionar incluso a los magos. Esto, al menos, no ha cambiado.",{if 02} · {/if} · {if 02} · {/if}
+22 · Col. 4,Familiar,Familiar,{span 02 6c01 09 08}
+22 · Col. 8,Familiar,Familiar,{span 02 6c01 09 08}
+22 · Col. 12,"A minion of the cunning-folk once able to attack and use utility spells to weaken foes and strengthen allies. Use them for defense, or as a decoy―even now that they're a zombie.","Un sirviente de los brujos, antaño capaz de atacar y utilizar hechizos auxiliares para debilitar a los enemigos y fortalecer a los aliados. Úsalo para defender o como señuelo―incluso ahora que es un zombi.",{if 02} · {/if} · {if 02} · {/if}
+27 · Col. 4,Welkin,Welkin,{span 02 ac01 07 08}
+27 · Col. 8,Welkin,Welkin,{span 02 ac01 07 08}
+27 · Col. 12,"This dragon, well-versed in the ways of the air, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to.","Este dragón, experto en las artes del aire, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+28 · Col. 4,Nidhogg,Nidhogg,{span 02 a601 08 08}
+28 · Col. 8,Nidhogg,Nidhogg,{span 02 a601 08 08}
+28 · Col. 12,"This dragon, well-versed in the ways of the earth, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to","Este dragón, experto en las artes de la tierra, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+29 · Col. 4,Raijin,Raijin,{span 02 c401 07 08}
+29 · Col. 8,Raijin,Raijin,{span 02 c401 07 08}
+29 · Col. 12,"This dragon, well-versed in the ways of lightning, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to.","Este dragón, experto en las artes del relámpago, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+30 · Col. 4,Ouroboros,Ouroboros,{span 02 aa01 0a 08}
+30 · Col. 8,Ouroboros,Ouroboros,{span 02 aa01 0a 08}
+30 · Col. 12,"This dragon, well-versed in the ways of water, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to.","Este dragón, experto en las artes del agua, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+31 · Col. 4,Flarebrass,Flarebrass,{span 02 aa01 0b 08}
+31 · Col. 8,Flarebrass,Flarebrass,{span 02 aa01 0b 08}
+31 · Col. 12,"This dragon, well-versed in the ways of fire, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to.","Este dragón, experto en las artes del fuego, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+32 · Col. 4,Amaroq,Amaroq,{span 02 a601 07 08}
+32 · Col. 8,Amaroq,Amaroq,{span 02 a601 07 08}
+32 · Col. 12,"This dragon, well-versed in the ways of ice, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath. Or at least, it used to.","Este dragón, experto en las artes del hielo, actúa como una unidad pesada en el campo de batalla. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento. O, al menos, así era antes.",{if 02} · {/if}
+33 · Col. 4,Bahamut,Bahamut,{span 02 9001 08 08}
+33 · Col. 8,Bahamut,Bahamut,{span 02 9001 08 08}
+33 · Col. 12,"This dragon is well-versed in the ways of the Light. Unlike most of its kin, it managed to suppress their savage nature and discover pleasure in protecting its allies. Strangely, it still can.","Este dragón domina las artes de la Luz. A diferencia de la mayoría de los de su especie, logró reprimir su naturaleza salvaje y descubrió el placer de proteger a sus aliados. Curiosamente, todavía puede hacerlo.",{if 02} · {/if}
+34 · Col. 4,Tiamat,Tiamat,{span 02 9e01 07 08}
+34 · Col. 8,Tiamat,Tiamat,{span 02 9e01 07 08}
+34 · Col. 12,"This dragon is well-versed in the ways of the Dark. Unlike most of its kin, it revels in pain and suffering, often entering the fray with a barrage of powerful hexes. And it is still able to.","Este dragón domina las artes de la Oscuridad. A diferencia de la mayoría de los de su especie, se deleita en el dolor y el sufrimiento, y suele lanzarse al combate con una andanada de poderosas maldiciones. Y todavía es capaz de hacerlo.",{if 02} · {/if}
+35 · Col. 4,Hydra,Hidra,{span 02 5601 06 08}
+35 · Col. 8,Hydra,Hidra,{span 02 5601 06 08}
+35 · Col. 12,"A dragon with three heads. Its scales reduce damage taken while it deals death with tail and breath―as it still does even now, as a zombie.","Un dragón de tres cabezas. Sus escamas reducen el daño que recibe y siembra la muerte con la cola y el aliento―como sigue haciendo incluso ahora, convertido en zombi.",{if 02} · {/if}
+36 · Col. 4,Golem,Gólem,{span 02 8e01 0b 08}
+36 · Col. 8,Golem,Gólem,{span 02 8e01 0b 08}
+36 · Col. 12,A behemoth fashioned of iron and stone. At first made and worshipped as a protector of a downtrodden people. Few worship it now that it's a zombie.,Un coloso forjado en hierro y piedra. En sus orígenes fue creado y venerado como protector de un pueblo oprimido. Pocos lo veneran ahora que se ha convertido en zombi.,{if 02} · {/if}
+37 · Col. 4,Trickster,Embaucador,{span 02 9a01 0c 08}
+37 · Col. 8,Trickstress,Embaucadora,{span 02 9a01 0c 08}
+37 · Col. 12,"This demon kin can fight with spell or blade and inflict a plethora of vile afflictions with breath and gaze. And still can, now that it's a zombie.",Este ser de linaje demoníaco puede luchar con hechizos o con la espada e infligir multitud de nefastas aflicciones con su aliento y su mirada. Y aún puede hacerlo ahora que es un zombi.,{if 02} · {/if}
+38 · Col. 4,Warden,Guardián,{span 02 8401 0b 08}
+38 · Col. 8,Warden,Guardiana,{span 02 8401 0b 08}
+38 · Col. 12,Homunculi like this were usually created by powerful sages as retainers and stalwart guards of their abodes. Not even death will end their vigil .,Los homúnculos de este tipo solían ser creados por poderosos sabios para servirles y proteger sus moradas. Ni siquiera la muerte pondrá fin a su guardia.,{if 02} · {/if}
+39 · Col. 4,Dragonborn,Dracónido,{span 02 a201 0d 08}
+39 · Col. 8,Dragonborn,Dracónida,{span 02 a201 0d 08}
+39 · Col. 12,"A half-dragon champion that eschews martial training, instead relying on their vast strength and dragon magic. And still does now that it's a zombie.",Un campeón mestizo de dragón que prescinde del adiestramiento marcial y confía en su enorme fuerza y en la magia dracónica. Y sigue haciéndolo ahora que es un zombi.,{if 02} · {/if}
+40 · Col. 4,Gryphon,Grifo,{span 02 7201 08 08}
+40 · Col. 8,Gryphon,Grifo,{span 02 7201 08 08}
+40 · Col. 12,"A monstrous lion with the head of an eagle and giant wings. Able to move with ease over rough terrain and changing elevations even now, as a zombie.","Un león monstruoso con cabeza de águila y enormes alas. Puede desplazarse con facilidad por terrenos escarpados y zonas de distintos niveles, incluso ahora que es un zombi.",{if 02} · {/if}
+41 · Col. 4,Cockatrice,Cocatriz,{span 02 8a01 0b 08}
+41 · Col. 8,Cockatrice,Cocatriz,{span 02 8a01 0b 08}
+41 · Col. 12,A monstrous rooster with the scales and tail of a serpent. Its breath is enough to turn men to stone―even now that it's a zombie.,Un gallo monstruoso con escamas y cola de serpiente. Su aliento basta para convertir a los hombres en piedra―incluso ahora que es un zombi.,{if 02} · {/if}
+42 · Col. 4,Octopus,Pulpo,{span 02 6e01 08 08}
+42 · Col. 8,Octopus,Pulpo,{span 02 6e01 08 08}
+42 · Col. 12,"A large monster that fights better in the water than on land―and, indeed, must be in water to employ special skills. This holds true even now that it's a zombie.","Un monstruo de gran tamaño que combate mejor en el agua que en tierra y que, de hecho, necesita estar en el agua para utilizar sus habilidades especiales. Esto sigue siendo así incluso ahora que es un zombi.",{if 02} · {/if}
+43 · Col. 4,Cyclops,Cíclope,{span 02 6c01 08 08}
+43 · Col. 8,Cyclops,Cíclope,{span 02 6c01 08 08}
+43 · Col. 12,"An aggressive, violent giant, yet possessed of intellect enough to wield magic―even now that it's a zombie.","Un gigante agresivo y violento, pero con la inteligencia suficiente para manejar la magia―incluso ahora que es un zombi.",{if 02} · {/if}
+51 · Col. 4,Lord,Monarca,{span 02 4201 05 08}
+51 · Col. 8,Lady,Emperatriz,{span 02 4201 05 08}
+51 · Col. 12,Title given by the Order of Philaha to those it deems worthy of carrying on the mantle of Valerian rule. Their power is largely a factor of their past achievements.,Título otorgado por la Orden de Philaha a quienes considera dignos de asumir el legado del gobierno valerio. Su poder depende en gran medida de sus méritos pasados.,{span 10 0a03 27 08}
+52 · Col. 4,Ranger,Explorador,{span 02 6201 07 08}
+52 · Col. 8,Ranger,Exploradora,{span 02 6201 07 08}
+52 · Col. 12,"A wandering warrior adept in the use of a wide range of martial skills. Particularly good at taking out specific targets, rangers perform well in all manner of situations.",Un guerrero errante experto en una amplia variedad de técnicas de combate. Los exploradores destacan especialmente a la hora de eliminar objetivos concretos y se desenvuelven bien en todo tipo de situaciones.,{span 10 3a03 2e 08}
+53 · Col. 4,Priest,Sacerdote,{span 02 5801 07 08}
+53 · Col. 8,Sibyl,Sibila,{span 02 5801 07 08}
+53 · Col. 12,A venerated cleric well-versed in matters of the spirit. Noted for their ability to use offensive divine magic.,"Un clérigo venerado, versado en los asuntos del espíritu. Destaca por su capacidad para utilizar magia divina ofensiva.",{span 0a ae02 31 08}
+54 · Col. 4,Heretic,Hereje,{span 02 9201 08 08}
+54 · Col. 8,Heretic,Hereje,{span 02 9201 08 08}
+54 · Col. 12,An evil priest who uses the power gained through their devotions to acquire a mastery of dark magic. Some are also surprisingly skilled in swordplay.,Un sacerdote malvado que utiliza el poder obtenido mediante sus devociones para dominar la magia oscura. Algunos también son sorprendentemente hábiles con la espada.,{span 0e 9403 18 08}
+55 · Col. 4,Prince,Príncipe,{span 02 7201 07 08}
+55 · Col. 8,Princess,Princesa,{span 02 7201 09 08}
+55 · Col. 12,Only one deemed to be the rightful heir to the Valerian Kingdom may become princess. The Princess serves as a mage-knight on the front lines to fight for peace in her kingdom.,Solo quien sea reconocido como heredero legítimo del Reino de Valeria puede convertirse en princesa. La Princesa combate en primera línea como caballero mago para defender la paz de su reino.,{span 10 ba03 32 08}
+56 · Col. 4,Paladin,Paladín,{span 02 6201 08 08}
+56 · Col. 8,Freya,Freya,{span 02 6201 08 08}
+56 · Col. 12,"A knight among knights, serving the king himself. Able to channel divine power through their blades.","Un caballero entre caballeros, al servicio del propio rey. Es capaz de canalizar el poder divino a través de sus armas.",{span 0a 5c02 26 08}
+57 · Col. 4,Astromancer,Astromante,{span 02 a201 0c 08}
+57 · Col. 8,Oracle,Oráculo,{span 02 a201 0c 08}
+57 · Col. 12,A master magus who draws upon the power of the stars to work their magic. Also a skilled diviner.,Un maestro de la magia que recurre al poder de las estrellas para realizar sus hechizos. También es una experta en la adivinación.,{span 0a 5802 23 08}
+58 · Col. 4,Vartan,Vartan,{span 02 5e01 07 08}
+58 · Col. 8,Vartan,Vartan,{span 02 5e01 07 08}
+58 · Col. 12,"A winged warrior with a light step on the battlefield. Excellent at both melee and ranged attacks... At least, they were.","Un guerrero alado de paso ligero en el campo de batalla. Sobresale tanto en los ataques cuerpo a cuerpo como a distancia... O, al menos, así era antes.",{if 02} · {/if}
+59 · Col. 4,White Knight,Caballero Blanco,{span 02 a401 0d 08}
+59 · Col. 8,White Knight,Dama Blanca,{span 02 a401 0d 08}
+59 · Col. 12,Only knights commander are granted the title of White Knight. In both defense and offense they are far superior to common knights.,"Solo los comandantes de caballeros reciben el título de Caballero Blanco. Tanto en defensa como en ataque, son muy superiores a los caballeros comunes.",{span 0c cc03 05 08}
+60 · Col. 4,Shaman,Chamán,{span 02 6801 07 08}
+60 · Col. 8,Shaman,Chamana,{span 02 6801 07 08}
+60 · Col. 12,"An oracle serving the many gods of Valeria, shamans are adept at wielding elemental magic.",Un oráculo al servicio de los numerosos dioses de Valeria. Los chamanes son expertos en el uso de la magia elemental.,{span 0a 0602 1c 08}
+61 · Col. 4,Sage,Sabio,{span 02 5401 06 08}
+61 · Col. 8,Wicce,Wicca,{span 02 5401 06 08}
+61 · Col. 12,Don't you dare make the mistake of calling me a witch!,¡Ni se te ocurra llamarme bruja!,{span 06 7201 37 08}
+62 · Col. 4,Bard,Bardo,{span 02 9001 05 08}
+62 · Col. 8,Songstress,Cantante,{span 02 9001 0b 08}
+62 · Col. 12,"A traveling minstrel and singer of renown, able to perform enthralling songs and dances to encourage allies and dishearten enemies―and still are able to, since becoming zombie.","Un trovador itinerante y cantante de renombre, capaz de interpretar canciones y danzas cautivadoras para animar a los aliados y desmoralizar a los enemigos―y todavía puede hacerlo desde que se convirtió en zombi.",{if 02} · {/if}
+63 · Col. 4,Buccaneer,Bucanero,{span 02 8601 0a 08}
+63 · Col. 8,Buccaneer,Bucanera,{span 02 8601 0a 08}
+63 · Col. 12,"A pirate plying the Obero Sea, only those unaffiliated with any groups or orders are called by the name of buccaneer.",Un pirata que surca el mar de Obero. Solo reciben el nombre de bucaneros aquellos que no pertenecen a ningún grupo ni orden.,{span 0c 2002 37 08}
+65 · Col. 4,Sacred Fist,Puño Sagrado,{span 02 e601 11 08}
+65 · Col. 8,Sacred Fist,Puño Sagrado,{span 02 e601 11 08}
+65 · Col. 12,"A warrior monk tasked with guarding the highest of the ecclesiarchy. They avail themselves of only the most basic of equipment, training their bodies to become harder than steel.",Un monje guerrero encargado de proteger a los más altos miembros de la jerarquía eclesiástica. Utiliza únicamente el equipo más básico y entrena su cuerpo hasta hacerlo más duro que el acero.,{span 10 d203 36 08}
+66 · Col. 4,Geomancer,Geomante,{span 02 e601 11 08}
+66 · Col. 8,Geomancer,Geomante,{span 02 e601 11 08}
+66 · Col. 12,"A warrior attuned to the primal forces of nature. They are able to freely channel those forces and shape them to create new life, or simply rain rock and fire upon their foes.","Un guerrero en sintonía con las fuerzas primordiales de la naturaleza. Puede canalizar esas fuerzas libremente y darles forma para crear nueva vida o, sencillamente, descargar una lluvia de rocas y fuego sobre sus enemigos.",{span 10 d203 36 08}
+67 · Col. 4,Sword Saint,Santo de la Espada,{span 02 e601 11 08}
+67 · Col. 8,Sword Saint,Santa de la Espada,{span 02 e601 11 08}
+67 · Col. 12,A master of the blade attuned to the energy of the universe. They are able to freely channel that force to perform feats of skill far beyond the grasp of a common soldier.,Un maestro de la espada en sintonía con la energía del universo. Puede canalizar esa fuerza libremente para realizar proezas que superan con creces las habilidades de un soldado común.,{span 10 d203 36 08}
+68 · Col. 4,Enchanter,Encantador,{span 02 e601 11 08}
+68 · Col. 8,Enchantress,Encantadora,{span 02 e601 11 08}
+68 · Col. 12,"A scholar dedicated to the study of arcane constructs, animating them with unrivaled skill. As battlefield is the ultimate test of their creations, many are also capable warriors.","Un estudioso dedicado al estudio de las construcciones arcanas, a las que da vida con una habilidad sin igual. Como el campo de batalla es la prueba definitiva para sus creaciones, muchos también son guerreros capaces.",{span 10 d203 36 08}
+69 · Col. 4,Headhunter,Cazador,{span 02 e601 11 08}
+69 · Col. 8,Headhunter,Cazadora,{span 02 e601 11 08}
+69 · Col. 12,"These hunters of men and monsters are the most at home in the wild. Often accompanied by tamed beasts, they possess a vast array of skills needed to track and subdue their prey.","Estos cazadores de hombres y monstruos se sienten como en casa en plena naturaleza. A menudo acompañados de bestias domesticadas, poseen una amplia variedad de habilidades para rastrear y someter a sus presas.",{span 10 d203 36 08}
+70 · Col. 4,Knight Commander,Caballero Comandante,{span 02 e601 11 08}
+70 · Col. 8,Knight Commander,Caballera Comandante,{span 02 e601 11 08}
+70 · Col. 12,"A high-ranking knight of Lodis. Typically given command of 500 to 2000 troops, the Dark Knights Loslorien prefer to attack in smaller numbers (30 to 100) of highly trained elites.","Un caballero de alto rango de Lodis. Por lo general, recibe el mando de entre 500 y 2000 soldados. Los Caballeros Oscuros de Loslorien prefieren atacar en grupos más reducidos, de entre 30 y 100 élites altamente adiestrados.",{span 10 d203 36 08}
+71 · Col. 4,Knight Commander,Caballero Comandante,{span 02 e601 11 08}
+71 · Col. 8,Knight Commander,Caballera Comandante,{span 02 e601 11 08}
+71 · Col. 12,"A high-ranking knight of Lodis. Typically given command of 500 to 2000 troops, the Dark Knights Loslorien prefer to attack in smaller numbers (30 to 100) of highly trained elites.","Un caballero de alto rango de Lodis. Por lo general, recibe el mando de entre 500 y 2000 soldados. Los Caballeros Oscuros de Loslorien prefieren atacar en grupos más reducidos, de entre 30 y 100 miembros de élite altamente adiestrados.",{span 10 d203 36 08}
+72 · Col. 4,Death Templar,Templario de la Muerte,{span 02 b401 0e 08}
+72 · Col. 8,Death Templar,Templaria de la Muerte,{span 02 b401 0e 08}
+72 · Col. 12,"The highest rank of knight in Lodis, given control of a knightly order. There are 16 such knights in Lodis, each thought to be worth 100 knights in battle.","El rango más alto entre los caballeros de Lodis, cuyos miembros reciben el mando de una orden de caballería. Lodis cuenta con 16 caballeros de este rango, cada uno de los cuales equivale, según se dice, a cien caballeros en combate.",{span 0e aa03 1e 08}
+73 · Col. 4,Harbinger,Heraldo,{span 02 9601 0c 08}
+73 · Col. 8,Furia,Furia,{span 02 9601 0c 08}
+73 · Col. 12,"An arcane archer that carries the blessing of Nestharot, their arrows tearing the very firmament asunder to call forth the nature's calamity. A maiden is usually chosen, but there have been some exceptions.","Un arquero arcano que cuenta con la bendición de Nestharot. Sus flechas rasgan el firmamento para invocar las calamidades de la naturaleza. Normalmente se elige a una doncella para este cometido, aunque ha habido algunas excepciones.",{span 12 dc04 12 08}
+74 · Col. 4,Commando,Comando,{span 02 7401 09 08}
+74 · Col. 8,Commando,Comando,{span 02 7401 09 08}
+74 · Col. 12,"An elite mercenary from Balboede, trained in the use of exotic weaponry and equipment.","Un mercenario de élite de Balboede, adiestrado en el uso de armas y equipamiento poco convencionales.",{span 08 b602 18 08}
+75 · Col. 4,Death Knight,Caballero de la Muerte,{span 02 a401 0d 08}
+75 · Col. 8,Death Knight,Dama de la Muerte,{span 02 a401 0d 08}
+75 · Col. 12,"A fallen, demonic knight, sometimes seen leading the endless hordes of shambling, ravenous minions.","Un caballero demoníaco caído en desgracia, al que a veces se ve liderando hordas interminables de esbirros tambaleantes y voraces.",{span 0a 8202 25 08}
+76 · Col. 4,Dark Lord,Monarca Oscuro,{span 02 7c01 0a 08}
+76 · Col. 8,Dark Lord,Monarca Oscuro,{span 02 7c01 0a 08}
+76 · Col. 12,"A fallen Dynast-King now corrupted by the Dark. More divine than human, the Dark Lord has forgotten much of his human life, and now only bears hatred and envy for the living.","Un Rey Dinasta caído, corrompido ahora por la Oscuridad. Más divino que humano, el Lord Oscuro ha olvidado gran parte de su vida mortal y ahora solo siente odio y envidia hacia los vivos.",{span 10 a403 31 08}
+77 · Col. 4,Dark Lord,Monarca Oscuro,{span 02 7c01 0a 08}
+77 · Col. 8,Dark Lord,Monarca Oscuro,{span 02 7c01 0a 08}
+77 · Col. 12,"A fallen Dynast-King now corrupted by the Dark. More divine than human, the Dark Lord has forgotten much of his human life, and now only bears hatred and envy for the living.","Un Rey Dinasta caído, corrompido ahora por la Oscuridad. Más divino que humano, el Lord Oscuro ha olvidado gran parte de su vida mortal y ahora solo siente odio y envidia hacia los vivos.",{span 10 a403 31 08}
+78 · Col. 4,Revenant,Renacido,{span 02 7a01 09 08}
+78 · Col. 8,Revenant,Renacido,{span 02 7a01 09 08}
+78 · Col. 12,"A ghast created by the merging of the Dark and a soul filled with hatred. This soul belonged to Dynast-King Dorgalua's arch-rival, King Rodrick of Brigantys.",Un espectro creado por la fusión de la Oscuridad con un alma consumida por el odio. Esa alma perteneció al mayor rival del Rey Dinasta Dorgalua: el rey Rodrick de Brigantys.,{span 0e d003 20 08}
+81 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+81 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+81 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Warrior.","Un caballero de los Caballeros Oscuros de Loslorien, antaño vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un guerrero.",{if 02} · {/if}
+82 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+82 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+82 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of an Archer.","Un caballero de los Caballeros Oscuros de Loslorien, antaño vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un arquero.",{if 02} · {/if}
+83 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+83 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+83 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Wizard.","Un caballero de los Caballeros Oscuros de Loslorien, antaño vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un mago.",{if 02} · {/if}
+84 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+84 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+84 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Cleric.","Un caballero de los Caballeros Oscuros de Loslorien, antaño vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un clérigo.",{if 02} · {/if}
+85 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+85 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+85 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Spellblade.","Un caballero de los Caballeros Oscuros de Loslorien, antaño vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un espadachín mágico.",{if 02} · {/if}
+86 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+86 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+86 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Knight.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Caballero.",{if 02} · {/if}
+87 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+87 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+87 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Terror Knight.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Caballero del Terror.",{if 02} · {/if}
+88 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+88 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+88 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Berserker.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Berserker.",{if 02} · {/if}
+89 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+89 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+89 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Swordmaster.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Maestro de Espadas.",{if 02} · {/if}
+90 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+90 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+90 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Dragoon.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Dragontino.",{if 02} · {/if}
+91 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+91 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+91 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Ninja.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Ninja.",{if 02} · {/if}
+92 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+92 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+92 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Rogue.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Pícaro.",{if 02} · {/if}
+93 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+93 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+93 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Fusilier.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Fusilero.",{if 02} · {/if}
+94 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+94 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+94 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Beast Tamer.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Domador de Bestias.",{if 02} · {/if}
+95 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+95 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+95 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Warlock.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Brujo.",{if 02} · {/if}
+96 · Col. 4,Templar,Templario,{span 02 6e01 08 08}
+96 · Col. 8,Templar,Templaria,{span 02 6e01 08 08}
+96 · Col. 12,"A formerly living knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Necromancer.","Un caballero de los Caballeros Oscuros de Loslorien, que en otro tiempo estuvo vivo, perteneciente a una élite especialmente adiestrada en las técnicas de combate de un Nigromante.",{if 02} · {/if}
+97 · Col. 4,Summoner,Invocador,{span 02 7801 09 08}
+97 · Col. 8,Strega,Strega,{span 02 8401 06 08}
+97 · Col. 12,"A magic-user whose command of a wide range of spells dwarfs the knowledge of a common wizard. Able to use their power without worshipping or forging a pact with any gods, demons, or spirits.","Un usuario de magia cuyo dominio de una amplia variedad de hechizos supera con creces los conocimientos de un mago común. Puede utilizar su poder sin venerar a ningún dios ni establecer pactos con dioses, demonios o espíritus.",{span 12 8804 02 08}
+98 · Col. 4,Assassin,Asesino,{span 02 be01 11 08}
+98 · Col. 8,Assassin,Asesina,{span 02 be01 11 08}
+98 · Col. 12,"A killer-of-men for hire, will use any means at their disposal to claim their mark.",Un asesino a sueldo que recurre a cualquier medio a su alcance para acabar con su objetivo.,{span 0a 0202 1c 08}
+99 · Col. 4,False Hierophant,Falso Hierofante,{span 02 be01 11 08}
+99 · Col. 8,False Hierophant,Falsa Hierofante,{span 02 be01 11 08}
+99 · Col. 12,"A fallen exarch who chose power over faith, attaining their rank by use of improper means.",Un exarca caído que antepuso el poder a la fe y alcanzó su rango mediante métodos poco legítimos.,{span 0a 0202 1c 08}
+100 · Col. 4,Fleeing Villager,Aldeano en Fuga,{span 02 be01 11 08}
+100 · Col. 8,Fleeing Villager,Aldeana en Fuga,{span 02 be01 11 08}
+100 · Col. 12,"A villager of Golyat, fleeing before the sudden attack of the Dark Knights and the Bakram.",Un habitante de Golyat que huye ante el repentino ataque de los Caballeros Oscuros y los bakram.,{span 0a 0202 1c 08}
+101 · Col. 4,Vasque Survivor,Superviviente de Vasque,{span 02 c801 10 08}
+101 · Col. 8,Vasque Survivor,Superviviente de Vasque,{span 02 c801 10 08}
+101 · Col. 12,One of the people driven from their village during Hierophant Balbatos's blood war. Many lay hidden in Lhazan Fortress following the Bakram invasion.,Una de las personas expulsadas de su aldea durante la guerra sangrienta del Hierofante Balbatos. Muchas se refugiaron en la fortaleza de Lhazan tras la invasión de los bakram.,{span 0e 7e03 18 08}
+102 · Col. 4,Hanged Man,Ahorcado,{span 02 9601 0b 08}
+102 · Col. 8,Hanged Man,Ahorcada,{span 02 9601 0b 08}
+102 · Col. 12,This corpse of a man hanged for collaborating with the Bakram was animated by a dark necromancer.,El cadáver de un hombre ahorcado por colaborar con los bakram fue reanimado por un nigromante oscuro.,{span 0a 7002 23 08}
+103 · Col. 4,Spectre,Espectro,{span 02 6a01 08 08}
+103 · Col. 8,Spectre,Espectro,{span 02 6a01 08 08}
+103 · Col. 12,"The spirit of a dead sailor lingering in the depths of the Pirate's Graveyard. As long as they still yearn for something of their former lives, they will never be free.","El espíritu de un marinero fallecido que vaga por las profundidades del Cementerio de los Piratas. Mientras siga añorando algo de su vida anterior, nunca podrá alcanzar la libertad.",{span 10 0e03 2b 08}
+111 · Col. 4,Gladiator,Gladiador,{span 02 7c01 0a 08}
+111 · Col. 8,Gladiator,Gladiadora,{span 02 7c01 0a 08}
+111 · Col. 12,"A former swordmaster, skilled with the blade. Now fallen to killing men for a pittance of goth.","Un antiguo maestro de espadas, diestro con la hoja. Ahora se dedica a matar hombres por unas míseras monedas de GOTH.",{span 0a 1a02 21 08}
+112 · Col. 4,Deadeye,Tirador Certero,{span 02 a401 0d 08}
+112 · Col. 8,Deadeye,Tiradora Certera,{span 02 a401 0d 08}
+112 · Col. 12,A dedicated assassin who revels in the taking of life.,Un asesino entregado a su oficio que disfruta arrebatando vidas.,{span 06 6001 37 08}
+113 · Col. 4,Arcanist,Arcanista,{span 02 9801 0c 08}
+113 · Col. 8,Arcanist,Arcanista,{span 02 9801 0c 08}
+113 · Col. 12,A dark mage that offered their very essence in exchange for limitless knowledge.,Un mago oscuro que entregó su propia esencia a cambio de un conocimiento ilimitado.,{span 08 ae02 12 08}
+114 · Col. 4,Apostate,Apóstata,{span 02 7601 09 08}
+114 · Col. 8,Apostate,Apóstata,{span 02 7601 09 08}
+114 · Col. 12,A fallen priest―an apostate who uses divine magic for personal gain.,Un sacerdote caído: un apóstata que utiliza la magia divina en beneficio propio.,{span 08 1202 06 08}
+115 · Col. 4,Hexblade,Hoja Maldita,{span 02 7a01 09 08}
+115 · Col. 8,Hexblade,Hoja Maldita,{span 02 7a01 09 08}
+115 · Col. 12,"A mystic warrior fallen from grace, adept at infusing their blade with dark essence.","Un guerrero místico caído en desgracia, experto en imbuir su hoja con esencia oscura.",{span 08 9a02 16 08}
+116 · Col. 4,Blackguard,Guerrero Impío,{span 02 ba01 0e 08}
+116 · Col. 8,Blackguard,Guerrera Impía,{span 02 ba01 0e 08}
+116 · Col. 12,"A knight who attained immortality through a pact with a demon. No light of reason shines in its eyes, only a lust for bloodshed.","Un guerrero que alcanzó la inmortalidad mediante un pacto con un demonio. En sus ojos no brilla la razón, sino únicamente una sed insaciable de sangre.",{span 0c 9e03 03 08}
+117 · Col. 4,Dreadnought,Acorazado,{span 02 a201 0c 08}
+117 · Col. 8,Dreadnought,Acorazada,{span 02 a201 0c 08}
+117 · Col. 12,Ungodly means were used to fetch the soul of this knight from the Abyss who now animates this suit of armor.,"Mediante métodos impíos, se extrajo del Abismo el alma de este caballero, que ahora anima esta armadura.",{span 0a d602 2e 08}
+118 · Col. 4,Marauder,Saqueador,{span 02 9601 0c 08}
+118 · Col. 8,Marauder,Saqueadora,{span 02 9601 0c 08}
+118 · Col. 12,A savage raider that revels in removing heads from their bodies.,Un saqueador salvaje que disfruta separando las cabezas de sus cuerpos.,{span 06 dc02 02 08}
+119 · Col. 4,Sellsword,Mercenario,{span 02 8e01 0c 08}
+119 · Col. 8,Sellsword,Mercenaria,{span 02 8e01 0c 08}
+119 · Col. 12,A born killer who thinks of taking lives as nothing more than a game.,Un asesino de nacimiento que considera quitar vidas poco más que un juego.,{span 08 0402 07 08}
+120 · Col. 4,Slayer,Verdugo,{span 02 b201 0e 08}
+120 · Col. 8,Slayer,Verduga,{span 02 b201 0e 08}
+120 · Col. 12,"An insane hunter of man or beast that kills not for honor, glory or gold. They live but for the sheer enjoyment of spilling blood.","Un cazador de hombres y bestias enloquecido, que no mata por honor, gloria ni oro. Su única razón para vivir es el puro placer de derramar sangre.",{span 0c c603 05 08}
+121 · Col. 4,Stalker,Acechador,{span 02 a001 0d 08}
+121 · Col. 8,Stalker,Acechadora,{span 02 a001 0d 08}
+121 · Col. 12,"A dweller in darkness, fed on the blood of the Abyss.",Una criatura que habita en la oscuridad y se alimenta de la sangre del Abismo.,{span 06 6601 36 08}
+122 · Col. 4,Outlaw,Forajido,{span 02 a001 0c 08}
+122 · Col. 8,Outlaw,Forajida,{span 02 a001 0c 08}
+122 · Col. 12,"A bandit skilled in inflicting so much pain, death feels like an afterthought.",Un bandido experto en infligir tanto dolor que la muerte parece casi un detalle secundario.,{span 08 3a02 10 08}
+123 · Col. 4,Sniper,Francotirador,{span 02 5e01 07 08}
+123 · Col. 8,Sniper,Francotiradora,{span 02 5e01 07 08}
+123 · Col. 12,"Snipers never hesitate to pull the trigger of their fusil on a man. In fact, they rather enjoy it.","Los francotiradores nunca vacilan a la hora de apretar el gatillo de su fusil contra una persona. De hecho, disfrutan haciéndolo.",{span 0a 1602 24 08}
+124 · Col. 4,Cannibal,Caníbal,{span 02 7201 0a 08}
+124 · Col. 8,Cannibal,Caníbala,{span 02 7201 0a 08}
+124 · Col. 12,"A savage master of dragon and beast who craves human flesh, often joining their pets in their gruesome feast.",Un salvaje domador de dragones y bestias que ansía la carne humana y a menudo se une a sus mascotas en sus espantosos festines.,{span 0a a402 2f 08}
+125 · Col. 4,Dragonlord,Monarca Dragón,{span 02 9201 0b 08}
+125 · Col. 8,Dragonlord,Monarca Dragón,{span 02 9201 0b 08}
+125 · Col. 12,"An evil magus, conversant in all forms of spellcraft. Has the peculiar habit of taking men's skins to use as covers for spellbooks.","Un mago malvado, versado en todas las formas de hechicería. Tiene la peculiar costumbre de desollar a los hombres para utilizar sus pieles como cubiertas de grimorios.",{span 0c 9e03 06 08}
+126 · Col. 4,Occultist,Ocultista,{span 02 8801 0b 08}
+126 · Col. 8,Occultist,Ocultista,{span 02 a001 0c 08}
+126 · Col. 12,"A vile master of the dead, inspiring in equal parts fear and respect.",Un siniestro señor de los muertos que inspira tanto temor como respeto.,{span 08 1c02 07 08}
+129 · Col. 4,Raven,Cuervo,{span 02 5601 06 08}
+129 · Col. 8,Raven,Cuervo,{span 02 5601 06 08}
+129 · Col. 12,"A dark winged creature, sometimes called the ""Angel of Death."" A raven rises when the Dark touches the corpse of a man who has passed on, having committed all seven deadly sins.","Una criatura alada de la oscuridad, a veces llamada el «Ángel de la Muerte». Un cuervo surge cuando la Oscuridad toca el cadáver de un hombre que ha muerto tras cometer los siete pecados capitales.",{span 10 e003 34 08}
+130 · Col. 4,Overlord,Monarca Supremo,{span 02 7201 0a 08}
+130 · Col. 8,Overlord,Monarca Suprema,{span 02 8a01 0b 08}
+130 · Col. 12,"A ruler of the underworld, wielding power without limits.",Un soberano del inframundo que ejerce un poder ilimitado.,{span 06 9001 3a 08}
+131 · Col. 4,Nephalem,Nefalem,{span 02 b801 10 08}
+131 · Col. 8,Nephalem,Nefalem,{span 02 b801 10 08}
+131 · Col. 12,The unearthly beauty of this winged stands in stark contrast to its brutally violent nature.,La belleza sobrenatural de este ser alado contrasta profundamente con su naturaleza brutalmente violenta.,{span 08 f202 1e 08}
+132 · Col. 4,Nightwing,Ala Nocturna,{span 02 8a01 0b 08}
+132 · Col. 8,Nightwing,Ala Nocturna,{span 02 8a01 0b 08}
+132 · Col. 12,"An ebon winged who fell onto the paths of darkness, the night crow will not cease battle until it has drawn blood.",Un ser alado de plumaje negro que cayó en las sendas de la oscuridad. Este cuervo nocturno no dejará de luchar hasta haber derramado sangre.,{span 0a f402 34 08}
+133 · Col. 4,Raptor,Raptor,{span 02 a601 0d 08}
+133 · Col. 8,Raptor,Raptor,{span 02 a601 0d 08}
+133 · Col. 12,"A variety of lizardman with blood-red skin. Its violence is remarkable, even toward its own kind.","Una variedad de hombre lagarto de piel rojo sangre. Su ferocidad es extraordinaria, incluso hacia los de su propia especie.",{span 0a 3602 23 08}
+134 · Col. 4,Gorgon,Gorgona,{span 02 6601 07 08}
+134 · Col. 8,Gorgon,Gorgona,{span 02 6601 07 08}
+134 · Col. 12,"A wielder of ancient magic with a gaze that can turn those who draw too near to stone. Of the many tribes of gorgon, the Medusa, Stheno, and Euryale tribes are most famous.","Una criatura que domina la magia ancestral y cuya mirada puede convertir en piedra a quienes se acercan demasiado. De las numerosas tribus de gorgonas, las más conocidas son las de Medusa, Stheno y Euríale.",{span 10 b003 2f 08}
+135 · Col. 4,Uruk,Uruk,{span 02 4801 05 08}
+135 · Col. 8,Uruk,Uruk,{span 02 4801 05 08}
+135 · Col. 12,Dark magic created this orc-human crossbreed. Superior in both strength and intellect to its forebears.,"La magia oscura creó esta mezcla de orco y humano, superior a sus antepasados tanto en fuerza como en inteligencia.",{span 0a 7c02 29 08}
+136 · Col. 4,Draug,Draug,{span 02 5801 06 08}
+136 · Col. 8,Draug,Draug,{span 02 5801 06 08}
+136 · Col. 12,"A skeletal warrior and wielder of magic, fetched from the Abyss by means of necromancy.",Un guerrero esquelético que domina la magia y que fue traído del Abismo mediante la nigromancia.,{span 08 ec02 19 08}
+137 · Col. 4,Wraith,Espectro,{span 02 5e01 07 08}
+137 · Col. 8,Wraith,Espectro,{span 02 5e01 07 08}
+137 · Col. 12,"A spirit warrior and wielder of powerful magic, fetched from the Abyss by means of necromancy.",Un guerrero espiritual que domina una poderosa magia y que fue traído del Abismo mediante la nigromancia.,{span 0a 3a02 20 08}
+138 · Col. 4,Cherub,Querubín,{span 02 7401 09 08}
+138 · Col. 8,Cherub,Querubín,{span 02 6e01 08 08}
+138 · Col. 12,"A corrupted servant of the Divine, its once merely mischievous nature twisted into committing acts of horrible cruelty and suffering.","Un servidor corrompido de lo Divino, cuya naturaleza, antes simplemente traviesa, se ha retorcido hasta llevarlo a cometer actos de crueldad y sufrimiento atroces.",{span 0c d403 08 08}
+139 · Col. 4,Incubus,Íncubo,{span 02 6401 08 08}
+139 · Col. 8,Succubus,Súcubo,{span 02 7601 09 08}
+139 · Col. 12,This nightmare flits nimbly through the air to dodge attacks. Also a wielder of powerful magic.,Esta criatura de pesadilla surca ágilmente el aire para esquivar los ataques. También domina una poderosa magia.,{span 0a 2a02 21 08}
+140 · Col. 4,Scarecrow,Espantapájaros,{span 02 9201 0a 08}
+140 · Col. 8,Boggart,Boggart,{span 02 7001 08 08}
+140 · Col. 12,This horrific creature lurched into life when the Dark settled upon a rotting pumpkin-headed scarecrow.,Esta horripilante criatura cobró vida cuando la Oscuridad se apoderó de un espantapájaros podrido con cabeza de calabaza.,{span 0a 7802 29 08}
+151 · Col. 4,Bjartskular,Bjartskular,{span 02 bc01 0f 08}
+151 · Col. 8,Bjartskular,Bjartskular,{span 02 bc01 0f 08}
+151 · Col. 12,"This dragon is named for the translucence of its steely scales. The material of its scales is second only to diamond in hardness, and the slight imperfections in its hide catch the light and sparkle like rubies and sapphires, adding to the ancient dragon's breathtaking appearance.","Este dragón recibe su nombre por la translucidez de sus escamas metálicas. El material del que están hechas solo es superado por el diamante en dureza. Las pequeñas imperfecciones de su piel captan la luz y brillan como rubíes y zafiros, realzando la sobrecogedora apariencia de este dragón ancestral.",{span 1a 0405 1e 08}
+152 · Col. 4,Deathwyrm,Dragón de la Muerte,{span 02 a201 0c 08}
+152 · Col. 8,Deathwyrm,Dragón de la Muerte,{span 02 a201 0c 08}
+152 · Col. 12,"Ebon scales cover the sinuous form of this wyrm of darkness. So dark are its scales that they absorb not only light, but the very will of men to fight.","Escamas negras cubren el sinuoso cuerpo de este dragón de la oscuridad. Son tan oscuras que absorben no solo la luz, sino también la voluntad de los hombres de luchar.",{span 0e 8e03 1a 08}
+153 · Col. 4,Scylla,Escila,{span 02 5601 07 08}
+153 · Col. 8,Scylla,Escila,{span 02 5601 07 08}
+153 · Col. 12,"A dragon with many heads, spending much of its time in the water. Often takes the form of a beautiful woman to lure travellers to a watery grave.",Un dragón de numerosas cabezas que pasa gran parte del tiempo en el agua. A menudo adopta la forma de una hermosa mujer para atraer a los viajeros hacia una tumba acuática.,{span 0e 6003 14 08}
+154 · Col. 4,Naga,Naga,{span 02 4a01 05 08}
+154 · Col. 8,Naga,Naga,{span 02 4a01 05 08}
+154 · Col. 12,"Sometimes worshipped as a serpent god, the naga is nothing more than a vile, bloodthirsty monster intent on taking human life.","A veces venerado como un dios serpiente, el naga no es más que un monstruo despreciable y sediento de sangre, empeñado en arrebatar vidas humanas.",{span 0c 8a03 01 08}
+155 · Col. 4,Damasc Golem,Gólem de Acero Damasco,{span 02 ae01 0d 08}
+155 · Col. 8,Damasc Golem,Gólem de Acero Damasco,{span 02 ae01 0d 08}
+155 · Col. 12,"A golem fashioned of damasc steel, the hardest variety of steel known to man. Immune to most melee attacks.","Un gólem forjado con acero damasco, la variedad de acero más dura que conoce el hombre. Es inmune a la mayoría de los ataques cuerpo a cuerpo.",{span 0a d402 2d 08}
+156 · Col. 4,Flesh Golem,Gólem de Carne,{span 02 9401 0c 08}
+156 · Col. 8,Flesh Golem,Gólem de Carne,{span 02 9401 0c 08}
+156 · Col. 12,Some fiendish mage patched this golem together from a jumble of leftover body parts. Its bulbous form boils with hatred toward the living.,Algún mago demoníaco ensambló este gólem con un montón de restos de cuerpos. Su abultada figura rebosa de odio hacia los vivos.,{span 0e 0803 0d 08}
+157 · Col. 4,Hippogryph,Hipogrifo,{span 02 9001 0b 08}
+157 · Col. 8,Hippogryph,Hipogrifo,{span 02 9001 0b 08}
+157 · Col. 12,A horse with the head of an eagle and giant wings. Able to fly with ease over rough terrain and changing elevations.,Un caballo con cabeza de águila y enormes alas. Puede volar con facilidad sobre terrenos escarpados y zonas de distintos niveles.,{span 0c 1202 36 08}
+158 · Col. 4,Phoenix,Fénix,{span 02 6601 08 08}
+158 · Col. 8,Phoenix,Fénix,{span 02 6601 08 08}
+158 · Col. 12,"The fabled immortal bird. Though legend says that any who drink the phoenix's blood will gain its immortality, this is likely just a myth.","La legendaria ave inmortal. Según la leyenda, quien beba la sangre del fénix obtendrá su inmortalidad, aunque probablemente no sea más que un mito.",{span 0c e603 0d 08}
+159 · Col. 4,Rukh,Rukh,{span 02 4a01 05 08}
+159 · Col. 8,Rukh,Rukh,{span 02 4a01 05 08}
+159 · Col. 12,A giant demon-bird. It's said that the demons rode upon these during the Ogre Battle.,Una gigantesca ave demoníaca. Se dice que los demonios cabalgaron sobre estas criaturas durante la Batalla de los Ogros.,{span 08 ca02 17 08}
+160 · Col. 4,Basilisk,Basilisco,{span 02 6801 09 08}
+160 · Col. 8,Basilisk,Basilisco,{span 02 6801 09 08}
+160 · Col. 12,"A serpentine desert-dweller with a gaze that can turn men to stone. When facing a basilisk, bring a shield, or don't come at all.","Una criatura serpentina que habita en el desierto y cuya mirada puede convertir a los hombres en piedra. Si vas a enfrentarte a un basilisco, lleva un escudo; de lo contrario, mejor ni te acerques.",{span 0c 9a03 04 08}
+161 · Col. 4,Kraken,Kraken,{span 02 6001 07 08}
+161 · Col. 8,Kraken,Kraken,{span 02 6001 07 08}
+161 · Col. 12,"A dweller of the deep, the kraken can control water and summon squalls at will.","Habitante de las profundidades, el kraken puede controlar el agua y convocar tormentas repentinas a voluntad.",{span 08 8802 11 08}
+162 · Col. 4,Dagon,Dagón,{span 02 5a01 06 08}
+162 · Col. 8,Dagon,Dagón,{span 02 5a01 06 08}
+162 · Col. 12,"An aquatic giant, the ""Demon of the Sea."" Can summon a great tempest to sweep its foes to the depths of the ocean.","Un gigante acuático, el «Demonio del Mar». Puede convocar una enorme tempestad para arrastrar a sus enemigos hasta las profundidades del océano.",{span 0c 2802 34 08}
+163 · Col. 4,Balor,Balor,{span 02 7601 09 08}
+163 · Col. 8,Balor,Balor,{span 02 7601 09 08}
+163 · Col. 12,"A one-eyed giant, adept in the use of elemental magic, just in case its inhuman strength isn't enough to do the job.","Un gigante de un solo ojo, experto en el uso de la magia elemental, por si su fuerza inhumana no fuera suficiente para acabar con sus enemigos.",{span 0c 0802 36 08}
+164 · Col. 4,Titan,Titán,{span 02 4e01 06 08}
+164 · Col. 8,Titan,Titán,{span 02 4e01 06 08}
+164 · Col. 12,"Member of an ancient race of giants. Sees out of only one eye, the other having been taken as punishment for turning against the gods.","Miembro de una antigua raza de gigantes. Solo ve por un ojo, pues el otro le fue arrebatado como castigo por haberse rebelado contra los dioses.",{span 0c e803 09 08}
+234 · Col. 4,Deva,Deva,{span 02 3c01 05 08}
+234 · Col. 8,Deva,Deva,{span 02 3c01 05 08}
+234 · Col. 12,"An avatar of Vija, said to be the most martially adept of the Twelve Heavenly Generals.","Una encarnación de Vija, considerado el más diestro en las artes marciales de los Doce Generales Celestiales.",{span 08 de02 19 08}
+235 · Col. 4,Icon,Icono,{span 02 4001 05 08}
+235 · Col. 8,Icon,Icono,{span 02 4001 05 08}
+235 · Col. 12,"An avatar of the Heavenly General Enja, punisher of men's crimes.","Una encarnación del General Celestial Enja, encargado de castigar los crímenes de los hombres.",{span 06 e802 03 08}
+236 · Col. 4,Deva,Deva,{span 02 7201 09 08}
+236 · Col. 8,Deva,Deva,{span 02 7201 09 08}
+236 · Col. 12,"An avatar of the Heavenly General Maitreya, who extends the hand of salvation to deserving mortals.","Una encarnación del General Celestial Maitreya, que tiende la mano de la salvación a los mortales que la merecen.",{span 0a 7802 25 08}
+237 · Col. 4,Deva,Deva,{span 02 4601 06 08}
+237 · Col. 8,Deva,Deva,{span 02 4601 06 08}
+237 · Col. 12,"An avatar of the Heavenly General Ijana, who staves off disease and calamity.","Una encarnación del General Celestial Ijana, que aleja las enfermedades y las calamidades.",{span 08 7802 0f 08}
+238 · Col. 4,Deva,Deva,{span 02 6e01 08 08}
+238 · Col. 8,Deva,Deva,{span 02 6e01 08 08}
+238 · Col. 12,"An avatar of the Heavenly General Chandra, who borrows the power of the moon in battle.","Una encarnación del General Celestial Chandra, que utiliza el poder de la luna en combate.",{span 08 f802 19 08}
+239 · Col. 4,Icon,Icono,{span 02 4c01 05 08}
+239 · Col. 8,Icon,Icono,{span 02 4c01 05 08}
+239 · Col. 12,"An avatar of Vayu, said to be the wisest of the Twelve Heavenly Generals.","Una encarnación de Vayu, considerado el más sabio de los Doce Generales Celestiales.",{span 08 5002 0b 08}
+240 · Col. 4,Deva,Deva,{span 02 4a01 06 08}
+240 · Col. 8,Deva,Deva,{span 02 4a01 06 08}
+240 · Col. 12,"An avatar of the Heavenly General Indra, who crushes the desires of mortals.","Una encarnación del General Celestial Indra, que reprime los deseos de los mortales.",{span 08 6c02 0e 08}
+241 · Col. 4,Deva,Deva,{span 02 6c01 08 08}
+241 · Col. 8,Deva,Deva,{span 02 6c01 08 08}
+241 · Col. 12,"An avatar of the Heavenly General Rakshas, who brings destruction and devastation to this world.","Una encarnación del General Celestial Rakshas, que trae destrucción y desolación a este mundo.",{span 0a 5402 22 08}
+242 · Col. 4,Deva,Deva,{span 02 7001 08 08}
+242 · Col. 8,Deva,Deva,{span 02 7001 08 08}
+242 · Col. 12,"An avatar of Ahurama, known as an ogre among the Twelve Heavenly Generals.","Una encarnación de Ahurama, conocido como un ogro entre los Doce Generales Celestiales.",{span 08 8202 0c 08}
+243 · Col. 4,Deva,Deva,{span 02 7001 08 08}
+243 · Col. 8,Deva,Deva,{span 02 7001 08 08}
+243 · Col. 12,"An avatar of the Heavenly General Asurama, the great revealer, who protects and preserves the teachings of the gods.","Una encarnación del General Celestial Asurama, el gran revelador, que protege y preserva las enseñanzas de los dioses.",{span 0c 3402 36 08}
+244 · Col. 4,Deva,Deva,{span 02 5201 06 08}
+244 · Col. 8,Deva,Deva,{span 02 5201 06 08}
+244 · Col. 12,"An avatar of the Heavenly General Aditi, said to be a scourge upon mankind.","Una encarnación del General Celestial Aditi, considerado un azote para la humanidad.",{span 08 6202 0d 08}
+245 · Col. 4,Deva,Deva,{span 02 6a01 08 08}
+245 · Col. 8,Deva,Deva,{span 02 6a01 08 08}
+245 · Col. 12,"An avatar of the Heavenly General Saranga, said to have shot a great demon with its bow.","Una encarnación del General Celestial Saranga, de quien se dice que abatió a un gran demonio con su arco.",{span 08 f802 1a 08}
+246 · Col. 4,Lampada,Lampada,{span 02 7001 08 08}
+246 · Col. 8,Lampada,Lampada,{span 02 7001 08 08}
+246 · Col. 12,"A guardian of the temple of Ashmedai. A normal person in appearance, her true form is shrouded in mystery.","Una guardiana del templo de Ashmedai. Aunque tiene la apariencia de una persona corriente, su verdadera forma está envuelta en el misterio.",{span 0a b802 2c 08}
+247 · Col. 4,Ascendant,Ascendente,{span 02 8801 0a 08}
+247 · Col. 8,Ascendant,Ascendente,{span 02 8801 0a 08}
+247 · Col. 12,"A guardian of the temple of Ashmedai. It is unclear whether Blackmoor was once a human who reincarnated, or was a lich from the very beginning. His true form is shrouded in mystery.",Un guardián del templo de Ashmedai. No está claro si Blackmoor fue un humano que renació o si siempre fue un liche. Su verdadera forma está envuelta en el misterio.,{span 10 f803 38 08}
+248 · Col. 4,Erinys,Erinys,{span 02 5801 07 08}
+248 · Col. 8,Erinys,Erinys,{span 02 5801 07 08}
+248 · Col. 12,"A monster, called the Sea Witch. Many are the men who have lost their lives at the bottom of the sea, lured into calamity by the dulcet tones of her voice. She feeds upon the souls of the men she kills.","Un monstruo conocido como la Bruja del Mar. Muchos hombres han perdido la vida en el fondo del océano, atraídos hacia su perdición por la dulce melodía de su voz. Se alimenta de las almas de aquellos a quienes mata.",{span 12 b404 0e 08}
+249 · Col. 4,Anima,Anima,{span 02 7e01 0a 08}
+249 · Col. 8,Anima,Anima,{span 02 7e01 0a 08}
+249 · Col. 12,The bird that pulls Hahnela's chariot across the sky. Worshipped as a divinity who calls the strong winds that usher in the spring.,El ave que arrastra el carro de Hahnela por el cielo. Es venerada como una divinidad que convoca los fuertes vientos que anuncian la llegada de la primavera.,{span 0c a003 06 08}
+250 · Col. 4,Anima,Anima,{span 02 7e01 0a 08}
+250 · Col. 8,Anima,Anima,{span 02 7e01 0a 08}
+250 · Col. 12,"A beastman said to have been created by Vaasa, Goddess of Earth, to serve her in eternity. Called the ""Ravager"" for his violence, Vaasa uses him for a watchdog.","Un hombre bestia que, según se dice, fue creado por Vaasa, la Diosa de la Tierra, para servirla eternamente. Debido a su violencia, recibe el nombre de «Devastador», y Vaasa lo utiliza como guardián.",{span 10 2203 23 08}
+251 · Col. 4,Anima,Anima,{span 02 5c01 07 08}
+251 · Col. 8,Anima,Anima,{span 02 5c01 07 08}
+251 · Col. 12,"The stormbeast, survived from the days of the Ogre Battle. Once a scourge upon mankind, Xolotl was captured by heroes who had received the protection of Nestharot, Goddess of Lightning. Now he serves as her temple guardian.","La bestia de la tormenta, superviviente de los tiempos de la Batalla de los Ogros. Xolotl fue en su día un azote para la humanidad, hasta que unos héroes amparados por Nestharot, la Diosa del Relámpago, lograron capturarlo. Ahora sirve como guardián de su templo.",{span 14 f804 23 08}
+252 · Col. 4,Anima,Anima,{span 02 5801 07 08}
+252 · Col. 8,Anima,Anima,{span 02 5801 07 08}
+252 · Col. 12,"Said to have been born from the tears Greuza, Goddess of Water, shed for her lost son, Tlaloc has been called a god of rain and of disasters. When the great winds blow, and the floods come, people say it is the work of Tlaloc.","Se dice que Tlaloc nació de las lágrimas que derramó Greuza, la Diosa del Agua, por su hijo perdido. Se le considera un dios de la lluvia y las catástrofes. Cuando soplan fuertes vientos y llegan las inundaciones, la gente afirma que es obra de Tlaloc.",{span 14 ee04 26 08}
+253 · Col. 4,Anima,Anima,{span 02 4201 06 08}
+253 · Col. 8,Anima,Anima,{span 02 4201 06 08}
+253 · Col. 12,"A creature of fire and a powerful elemental. Ifrit once wreaked havoc among the villages and towns of man, until Xoshonell, Goddess of Fire, caught him and trapped him within an urn. After many centuries, Ifrit repented, and now serves as Xoshonell's temple guardian.","Una criatura de fuego y un poderoso elemental. Ifrit sembró el caos en aldeas y ciudades humanas hasta que Xoshonell, la Diosa del Fuego, lo capturó y encerró en una urna. Tras muchos siglos, Ifrit se arrepintió y ahora sirve como guardián del templo de Xoshonell.",{span 18 9e05 10 08}
+254 · Col. 4,Anima,Anima,{span 02 9001 0b 08}
+254 · Col. 8,Anima,Anima,{span 02 9001 0b 08}
+254 · Col. 12,"A chimera with the body of a bird, shell of a turtle, and tail of a snake. It is said that Lyuneram, Goddess of Ice, turned a cruel king into this creature as punishment.","Una quimera con cuerpo de ave, caparazón de tortuga y cola de serpiente. Se dice que Lyuneram, la Diosa del Hielo, convirtió a un rey cruel en esta criatura como castigo.",{span 10 2c03 2d 08}
