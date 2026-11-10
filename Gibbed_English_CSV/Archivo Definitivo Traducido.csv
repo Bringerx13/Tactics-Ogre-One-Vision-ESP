@@ -376,8 +376,8 @@ battle/battle_data_release/class_text.xlc,XLC,8,12,,,"A melee attacker entirely 
 battle/battle_data_release/class_text.xlc,XLC,9,4,,,{span 02 a601 0c 08}Swordmaster,31,{span 02 a601 0c 08},Maestro Espadachín
 battle/battle_data_release/class_text.xlc,XLC,9,8,,,{span 02 a601 0c 08}Blademaiden,31,{span 02 a601 0c 08},Doncella de la Espada
 battle/battle_data_release/class_text.xlc,XLC,9,12,,,"A melee attacker and master of most bladed weaponry. Able to employ powerful war dances{if 02}, even now that they're a zombie{/if}.",132,{/if} | {if 02},"Un combatiente cuerpo a cuerpo y maestro en el uso de casi todo tipo de armas blancas. Puede ejecutar poderosas danzas de guerra{if 02}, incluso ahora que es un zombi{/if}."
-battle/battle_data_release/class_text.xlc,XLC,10,4,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Dragoon
-battle/battle_data_release/class_text.xlc,XLC,10,8,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Dragoon
+battle/battle_data_release/class_text.xlc,XLC,10,4,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Caballero Dragón
+battle/battle_data_release/class_text.xlc,XLC,10,8,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Caballero Dragón
 battle/battle_data_release/class_text.xlc,XLC,10,12,,,"A warrior with a special talent for slaying beasts and dragons{if 02}... At least, they used to be{/if}.",104,{/if} | {if 02},"Un guerrero con un talento especial para abatir bestias y dragones{if 02}... Al menos, así era antes{/if}."
 battle/battle_data_release/class_text.xlc,XLC,11,4,,,{span 02 4801 06 08}Ninja,25,{span 02 4801 06 08},Ninja
 battle/battle_data_release/class_text.xlc,XLC,11,8,,,{span 02 7401 09 08}Kunoichi,28,{span 02 7401 09 08},Kunoichi
@@ -1478,3 +1478,103 @@ WarrenReport/WarrenReport/people.xlc,XLC,159,12,,,{span 02 ec01 14 08}The Warrio
 WarrenReport/WarrenReport/people.xlc,XLC,163,12,,,{span 02 ec01 14 08}The Warrior Cistina,39,{span 02 ec01 14 08},La Guerrera Cistina
 WarrenReport/WarrenReport/people.xlc,XLC,164,12,,,{span 02 ec01 14 08}The Warrior Cistina,39,{span 02 ec01 14 08},La Guerrera Cistina
 WarrenReport/WarrenReport/people.xlc,XLC,165,12,,,{span 02 ec01 14 08}The Warrior Cistina,39,{span 02 ec01 14 08},La Guerrera Cistina
+WarrenReport/WarrenReport/people.xlc,XLC,166,12,,,{span 02 9601 0d 08}Sibyl Olivya,32,{span 02 9601 0d 08},Sibila Olivya
+WarrenReport/WarrenReport/people.xlc,XLC,178,12,,,{span 02 9601 0d 08}Sibyl Olivya,32,{span 02 9601 0d 08},Sibila Olivya
+WarrenReport/WarrenReport/people.xlc,XLC,179,12,,,{span 02 9601 0d 08}Sibyl Olivya,32,{span 02 9601 0d 08},Sibila Olivya
+WarrenReport/WarrenReport/people.xlc,XLC,180,12,,,{span 02 9601 0d 08}Sibyl Olivya,32,{span 02 9601 0d 08},Sibila Olivya
+WarrenReport/WarrenReport/people.xlc,XLC,181,12,,,{span 02 ce01 10 08}The Wicce Deneb,35,{span 02 ce01 10 08},La Wicca Deneb
+WarrenReport/WarrenReport/people.xlc,XLC,182,12,,,{span 02 ce01 10 08}The Wicce Deneb,35,{span 02 ce01 10 08},La Wicca Deneb
+WarrenReport/WarrenReport/people.xlc,XLC,193,12,,,{span 02 ce01 10 08}The Wicce Deneb,35,{span 02 ce01 10 08},La Wicca Deneb
+WarrenReport/WarrenReport/people.xlc,XLC,194,12,,,{span 02 ce01 10 08}The Wicce Deneb,35,{span 02 ce01 10 08},La Wicca Deneb
+WarrenReport/WarrenReport/people.xlc,XLC,195,12,,,{span 02 ce01 10 08}The Wicce Deneb,35,{span 02 ce01 10 08},La Wicca Deneb
+WarrenReport/WarrenReport/people.xlc,XLC,196,12,,,{span 02 d201 11 08}Gilbald Skygazer,36,{span 02 d201 11 08},"Gilbald, el Astrónomo"
+WarrenReport/WarrenReport/people.xlc,XLC,211,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,212,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,213,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,214,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,215,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,216,12,,,{span 04 2a01 18 08}The Dark Knight Andoras,43,{span 04 2a01 18 08},El Caballero Oscuro Andoras
+WarrenReport/WarrenReport/people.xlc,XLC,226,12,,,{span 02 ba01 0f 08}Abuna Donnalto,34,{span 02 ba01 0f 08},Abuna Donnalto
+WarrenReport/WarrenReport/people.xlc,XLC,238,12,,,{span 02 ba01 0f 08}Abuna Donnalto,34,{span 02 ba01 0f 08},Abuna Donnalto
+WarrenReport/WarrenReport/people.xlc,XLC,239,12,,,{span 02 ba01 0f 08}Abuna Donnalto,34,{span 02 ba01 0f 08},Abuna Donnalto
+WarrenReport/WarrenReport/people.xlc,XLC,240,12,,,{span 02 ba01 0f 08}Abuna Donnalto,34,{span 02 ba01 0f 08},Abuna Donnalto
+WarrenReport/WarrenReport/people.xlc,XLC,241,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,242,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,243,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,244,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,245,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,246,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,253,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,254,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,255,12,,,{span 02 8c01 0c 08}Sir Folcurt,31,{span 02 8c01 0c 08},Sir Folcurt
+WarrenReport/WarrenReport/people.xlc,XLC,256,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,257,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,258,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,259,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,260,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,261,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,268,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,269,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,270,12,,,{span 02 ce01 10 08}The Magus Bayin,35,{span 02 ce01 10 08},El Mago Bayin
+WarrenReport/WarrenReport/people.xlc,XLC,271,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,272,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,273,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,274,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,275,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,276,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,277,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,278,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,279,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,280,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,283,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,284,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,285,12,,,{span 04 2001 18 08}Thunder Maiden Arycelle,43,{span 04 2001 18 08},La Doncella del Trueno Arycelle
+WarrenReport/WarrenReport/people.xlc,XLC,286,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,287,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,288,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,289,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,290,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,291,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,292,12,,,{span 02 e201 12 08}Hobyrim Steelsong,37,{span 02 e201 12 08},"Hobyrim, Canto de Acero"
+WarrenReport/WarrenReport/people.xlc,XLC,293,12,,,{span 02 e201 12 08}Hobyrim Steelsong,37,{span 02 e201 12 08},"Hobyrim, Canto de Acero"
+WarrenReport/WarrenReport/people.xlc,XLC,295,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,296,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,297,12,,,{span 04 1e01 16 08}The Swordsman Hobyrim,41,{span 04 1e01 16 08},El Espadachín Hobyrim
+WarrenReport/WarrenReport/people.xlc,XLC,298,12,,,{span 02 e201 12 08}Hobyrim Steelsong,37,{span 02 e201 12 08},"Hobyrim, Canto de Acero"
+WarrenReport/WarrenReport/people.xlc,XLC,299,12,,,{span 02 e201 12 08}Hobyrim Steelsong,37,{span 02 e201 12 08},"Hobyrim, Canto de Acero"
+WarrenReport/WarrenReport/people.xlc,XLC,300,12,,,{span 02 e201 12 08}Hobyrim Steelsong,37,{span 02 e201 12 08},"Hobyrim, Canto de Acero"
+WarrenReport/WarrenReport/people.xlc,XLC,301,12,,,{span 04 1a01 16 08}The Wyrmknight Jeunan,41,{span 04 1a01 16 08},El Caballero Dragón Jeunan
+WarrenReport/WarrenReport/people.xlc,XLC,302,12,,,{span 04 1a01 16 08}The Wyrmknight Jeunan,41,{span 04 1a01 16 08},El Caballero Dragón Jeunan
+WarrenReport/WarrenReport/people.xlc,XLC,313,12,,,{span 04 1a01 16 08}The Wyrmknight Jeunan,41,{span 04 1a01 16 08},El Caballero Dragón Jeunan
+WarrenReport/WarrenReport/people.xlc,XLC,314,12,,,{span 04 1a01 16 08}The Wyrmknight Jeunan,41,{span 04 1a01 16 08},El Caballero Dragón Jeunan
+WarrenReport/WarrenReport/people.xlc,XLC,315,12,,,{span 04 1a01 16 08}The Wyrmknight Jeunan,41,{span 04 1a01 16 08},El Caballero Dragón Jeunan
+WarrenReport/WarrenReport/people.xlc,XLC,316,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,317,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,318,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,319,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,328,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,329,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,330,12,,,"{span 02 fa01 14 08}Ocionne, Wyrmcaller",39,{span 02 fa01 14 08},"Ocionne, Invocadora de Dragones"
+WarrenReport/WarrenReport/people.xlc,XLC,331,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,332,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,333,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,334,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,335,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,336,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,337,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,343,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,344,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,345,12,,,{span 02 fa01 14 08}Xapan the Mercenary,39,{span 02 fa01 14 08},Xapan el Mercenario
+WarrenReport/WarrenReport/people.xlc,XLC,346,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,347,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,348,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,349,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,358,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,359,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,360,12,,,{span 02 8a01 0c 08}Sir Dievold,31,{span 02 8a01 0c 08},Sir Dievold
+WarrenReport/WarrenReport/people.xlc,XLC,361,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
+WarrenReport/WarrenReport/people.xlc,XLC,362,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
+WarrenReport/WarrenReport/people.xlc,XLC,363,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
+WarrenReport/WarrenReport/people.xlc,XLC,364,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
+WarrenReport/WarrenReport/people.xlc,XLC,365,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
+WarrenReport/WarrenReport/people.xlc,XLC,373,12,,,{span 02 9601 0d 08}Sibyl Oelias,32,{span 02 9601 0d 08},Sibila Oelias
