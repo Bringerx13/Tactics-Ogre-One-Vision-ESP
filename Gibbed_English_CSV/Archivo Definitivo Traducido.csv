@@ -1358,3 +1358,33 @@ WarrenReport/music_text.xlc,XLC,66,4,,,Lay of Peace,12,,Canto de paz
 WarrenReport/music_text.xlc,XLC,66,12,,,"Composer: Masaharu Iwata / Arranger: Masaharu Iwata  Iuria's Song (0:33)  ""For Iuria's song we wanted to create a song that a person free of all constraints would sing. This is how I see the winged folk."" (Iwata)",212,,Compositor: Masaharu Iwata / Arreglista: Masaharu Iwata  Canción de Iuria (0:33)  «Para la canción de Iuria queríamos crear una melodía que pudiera cantar alguien libre de toda atadura. Así es como concibo al pueblo alado». (Iwata)
 WarrenReport/music_text.xlc,XLC,67,4,,,Piercing Truths,15,,Verdades que duelen
 WarrenReport/music_text.xlc,XLC,67,12,,,"Composer: Masaharu Iwata / Arranger: Yoshimi Kudo  New Music Box 4 (1:34)  ""Using the melody of the music box that appears during the story, we switched over the harmony to create a piece that conveys hopelessness and a sense of loss."" (Kudo)",242,,Compositor: Masaharu Iwata / Arreglista: Yoshimi Kudo  Nueva caja de música 4 (1:34)  «Tomamos la melodía de la caja de música que aparece durante la historia y cambiamos la armonía para crear una pieza que transmite desesperanza y una profunda sensación de pérdida». (Kudo)
+WarrenReport/music_text.xlc,XLC,0,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},{span 02 6001 08 08}nada
+WarrenReport/music_text.xlc,XLC,0,12,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},{span 02 6001 08 08}nada
+WarrenReport/people.xlc,XLC,0,12,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},{span 02 6001 08 08}nada
+WarrenReport/people.xlc,XLC,1,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,2,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,3,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,4,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,5,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,6,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,7,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,8,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,9,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,10,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} \| {span 03 0241 01 08 020230313030},{span 03 0241 01 08 020230313030}{hero}
+WarrenReport/people.xlc,XLC,16,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,17,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,18,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,19,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,20,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,21,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,22,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,23,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,24,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,25,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,26,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,27,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,28,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,29,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,30,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},{span 02 4a01 05 08}Vyce
+WarrenReport/people.xlc,XLC,31,12,,,{span 02 5c01 07 08}Catiua,26,{span 02 5c01 07 08},{span 02 5c01 07 08}Catiua
+WarrenReport/people.xlc,XLC,33,12,,,{span 02 5c01 07 08}Catiua,26,{span 02 5c01 07 08},{span 02 5c01 07 08}Catiua
