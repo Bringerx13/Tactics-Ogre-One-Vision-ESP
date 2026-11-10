@@ -1,0 +1,459 @@
+﻿archivo,tipo,fila,columna,id_entrada,nid,texto_ingles,caracteres,marcadores,estado
+battle/battle_data_release/class_text.xlc,XLC,0,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,1,4,,,{span 02 6c01 08 08}Warrior,27,{span 02 6c01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,2,4,,,{span 02 5e01 07 08}Archer,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,3,4,,,{span 02 5c01 07 08}Wizard,26,{span 02 5c01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,4,4,,,{span 02 5401 07 08}Cleric,26,{span 02 5401 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,5,4,,,{span 02 9e01 0b 08}Spellblade ,31,{span 02 9e01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,6,4,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,7,4,,,{span 02 ac01 0e 08}Terror Knight,33,{span 02 ac01 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,8,4,,,{span 02 8001 0a 08}Berserker,29,{span 02 8001 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,9,4,,,{span 02 a601 0c 08}Swordmaster,31,{span 02 a601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,10,4,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,11,4,,,{span 02 4801 06 08}Ninja,25,{span 02 4801 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,12,4,,,{span 02 5801 06 08}Rogue,25,{span 02 5801 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,13,4,,,{span 02 6601 09 08}Fusilier,28,{span 02 6601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,14,4,,,{span 02 a201 0c 08}Beast Tamer,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,15,4,,,{span 02 6e01 08 08}Warlock,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,16,4,,,{span 02 a401 0c 08}Necromancer,31,{span 02 a401 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,17,4,,,{span 02 3e01 05 08}Lich,24,{span 02 3e01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,18,4,,,{span 02 a601 0d 08}Angel Knight ,33,{span 02 a601 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,19,4,,,{span 02 6001 08 08}Hoplite,27,{span 02 6001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,20,4,,,{span 02 9001 0b 08}Juggernaut,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,21,4,,,{span 02 7601 0a 08}Patriarch,29,{span 02 7601 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,22,4,,,{span 02 6c01 09 08}Familiar,28,{span 02 6c01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,27,4,,,{span 02 ac01 07 08}Welkin      ,32,{span 02 ac01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,28,4,,,{span 02 a601 08 08}Nidhogg     ,32,{span 02 a601 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,29,4,,,{span 02 c401 07 08}Raijin        ,34,{span 02 c401 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,30,4,,,{span 02 aa01 0a 08}Ouroboros   ,32,{span 02 aa01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,31,4,,,{span 02 aa01 0b 08}Flarebrass  ,32,{span 02 aa01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,32,4,,,{span 02 a601 07 08}Amaroq      ,32,{span 02 a601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,33,4,,,{span 02 9001 08 08}Bahamut   ,30,{span 02 9001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,34,4,,,{span 02 9e01 07 08}Tiamat     ,31,{span 02 9e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,35,4,,,{span 02 5601 06 08}Hydra,25,{span 02 5601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,36,4,,,{span 02 8e01 0b 08}Golem     ,30,{span 02 8e01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,37,4,,,{span 02 9a01 0c 08}Trickster  ,31,{span 02 9a01 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,38,4,,,{span 02 8401 0b 08}Warden    ,30,{span 02 8401 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,39,4,,,{span 02 a201 0d 08}Dragonborn  ,32,{span 02 a201 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,40,4,,,{span 02 7201 08 08}Gryphon,27,{span 02 7201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,41,4,,,{span 02 8a01 0b 08}Cockatrice,30,{span 02 8a01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,42,4,,,{span 02 6e01 08 08}Octopus,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,43,4,,,{span 02 6c01 08 08}Cyclops,27,{span 02 6c01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,51,4,,,{span 02 4201 05 08}Lord,24,{span 02 4201 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,52,4,,,{span 02 6201 07 08}Ranger,26,{span 02 6201 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,53,4,,,{span 02 5801 07 08}Priest,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,54,4,,,{span 02 9201 08 08}Heretic    ,31,{span 02 9201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,55,4,,,{span 02 7201 07 08}Prince  ,28,{span 02 7201 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,56,4,,,{span 02 6201 08 08}Paladin,27,{span 02 6201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,57,4,,,{span 02 a201 0c 08}Astromancer,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,58,4,,,{span 02 5e01 07 08}Vartan,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,59,4,,,{span 02 a401 0d 08}White Knight,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,60,4,,,{span 02 6801 07 08}Shaman,26,{span 02 6801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,61,4,,,{span 02 5401 06 08}Sage ,25,{span 02 5401 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,62,4,,,{span 02 9001 05 08}Bard      ,30,{span 02 9001 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,63,4,,,{span 02 8601 0a 08}Buccaneer,29,{span 02 8601 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,65,4,,,{span 02 e601 11 08}Sacred Fist     ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,66,4,,,{span 02 e601 11 08}Geomancer       ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,67,4,,,{span 02 e601 11 08}Sword Saint     ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,68,4,,,{span 02 e601 11 08}Enchanter       ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,69,4,,,{span 02 e601 11 08}Headhunter      ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,70,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,71,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,72,4,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,73,4,,,{span 02 9601 0c 08}Harbinger  ,31,{span 02 9601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,74,4,,,{span 02 7401 09 08}Commando,28,{span 02 7401 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,75,4,,,{span 02 a401 0d 08}Death Knight,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,76,4,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,77,4,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,78,4,,,{span 02 7a01 09 08}Revenant,28,{span 02 7a01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,81,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,82,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,83,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,84,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,85,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,86,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,87,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,88,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,89,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,90,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,91,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,92,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,93,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,94,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,95,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,96,4,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,97,4,,,{span 02 7801 09 08}Summoner,28,{span 02 7801 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,98,4,,,{span 02 be01 11 08}Assassin        ,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,99,4,,,{span 02 be01 11 08}False Hierophant,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,100,4,,,{span 02 be01 11 08}Fleeing Villager,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,101,4,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,102,4,,,{span 02 9601 0b 08}Hanged Man,30,{span 02 9601 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,103,4,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,111,4,,,{span 02 7c01 0a 08}Gladiator,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,112,4,,,{span 02 a401 0d 08}Deadeye     ,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,113,4,,,{span 02 9801 0c 08}Arcanist   ,31,{span 02 9801 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,114,4,,,{span 02 7601 09 08}Apostate,28,{span 02 7601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,115,4,,,{span 02 7a01 09 08}Hexblade,28,{span 02 7a01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,116,4,,,{span 02 ba01 0e 08}Blackguard   ,33,{span 02 ba01 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,117,4,,,{span 02 a201 0c 08}Dreadnought,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,118,4,,,{span 02 9601 0c 08}Marauder   ,31,{span 02 9601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,119,4,,,{span 02 8e01 0c 08}Sellsword  ,31,{span 02 8e01 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,120,4,,,{span 02 b201 0e 08}Slayer       ,33,{span 02 b201 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,121,4,,,{span 02 a001 0d 08}Stalker     ,32,{span 02 a001 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,122,4,,,{span 02 a001 0c 08}Outlaw     ,31,{span 02 a001 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,123,4,,,{span 02 5e01 07 08}Sniper,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,124,4,,,{span 02 7201 0a 08}Cannibal ,29,{span 02 7201 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,125,4,,,{span 02 9201 0b 08}Dragonlord,30,{span 02 9201 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,126,4,,,{span 02 8801 0b 08}Occultist ,30,{span 02 8801 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,129,4,,,{span 02 5601 06 08}Raven,25,{span 02 5601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,130,4,,,{span 02 7201 0a 08}Overlord ,29,{span 02 7201 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,131,4,,,{span 02 b801 10 08}Nephalem       ,35,{span 02 b801 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,132,4,,,{span 02 8a01 0b 08}Nightwing ,30,{span 02 8a01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,133,4,,,{span 02 a601 0d 08}Raptor      ,32,{span 02 a601 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,134,4,,,{span 02 6601 07 08}Gorgon,26,{span 02 6601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,135,4,,,{span 02 4801 05 08}Uruk,24,{span 02 4801 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,136,4,,,{span 02 5801 06 08}Draug,25,{span 02 5801 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,137,4,,,{span 02 5e01 07 08}Wraith,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,138,4,,,{span 02 7401 09 08}Cherub  ,28,{span 02 7401 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,139,4,,,{span 02 6401 08 08}Incubus,27,{span 02 6401 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,140,4,,,{span 02 9201 0a 08}Scarecrow,29,{span 02 9201 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,151,4,,,{span 02 bc01 0f 08}Bjartskular   ,34,{span 02 bc01 0f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,152,4,,,{span 02 a201 0c 08}Deathwyrm  ,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,153,4,,,{span 02 5601 07 08}Scylla,26,{span 02 5601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,154,4,,,{span 02 4a01 05 08}Naga,24,{span 02 4a01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,155,4,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,156,4,,,{span 02 9401 0c 08}Flesh Golem,31,{span 02 9401 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,157,4,,,{span 02 9001 0b 08}Hippogryph,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,158,4,,,{span 02 6601 08 08}Phoenix,27,{span 02 6601 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,159,4,,,{span 02 4a01 05 08}Rukh,24,{span 02 4a01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,160,4,,,{span 02 6801 09 08}Basilisk,28,{span 02 6801 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,161,4,,,{span 02 6001 07 08}Kraken,26,{span 02 6001 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,162,4,,,{span 02 5a01 06 08}Dagon,25,{span 02 5a01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,163,4,,,{span 02 7601 09 08}Balor   ,28,{span 02 7601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,164,4,,,{span 02 4e01 06 08}Titan,25,{span 02 4e01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,234,4,,,{span 02 3c01 05 08}Deva,24,{span 02 3c01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,235,4,,,{span 02 4001 05 08}Icon,24,{span 02 4001 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,236,4,,,{span 02 7201 09 08}Deva    ,28,{span 02 7201 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,237,4,,,{span 02 4601 06 08}Deva ,25,{span 02 4601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,238,4,,,{span 02 6e01 08 08}Deva   ,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,239,4,,,{span 02 4c01 05 08}Icon,24,{span 02 4c01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,240,4,,,{span 02 4a01 06 08}Deva ,25,{span 02 4a01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,241,4,,,{span 02 6c01 08 08}Deva   ,27,{span 02 6c01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,242,4,,,{span 02 7001 08 08}Deva   ,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,243,4,,,{span 02 7001 08 08}Deva   ,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,244,4,,,{span 02 5201 06 08}Deva ,25,{span 02 5201 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,245,4,,,{span 02 6a01 08 08}Deva   ,27,{span 02 6a01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,246,4,,,{span 02 7001 08 08}Lampada,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,247,4,,,{span 02 8801 0a 08}Ascendant,29,{span 02 8801 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,248,4,,,{span 02 5801 07 08}Erinys,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,249,4,,,{span 02 7e01 0a 08}Anima    ,29,{span 02 7e01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,250,4,,,{span 02 7e01 0a 08}Anima    ,29,{span 02 7e01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,251,4,,,{span 02 5c01 07 08}Anima ,26,{span 02 5c01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,252,4,,,{span 02 5801 07 08}Anima ,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,253,4,,,{span 02 4201 06 08}Anima,25,{span 02 4201 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,254,4,,,{span 02 9001 0b 08}Anima     ,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,0,8,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,1,8,,,{span 02 6c01 07 08}Amazon ,27,{span 02 6c01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,2,8,,,{span 02 5e01 07 08}Archer,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,3,8,,,{span 02 9601 0a 08}Sorceress  ,31,{span 02 9601 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,4,8,,,{span 02 5401 05 08}Monk  ,26,{span 02 5401 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,5,8,,,{span 02 6c01 09 08}Valkyrie,28,{span 02 6c01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,6,8,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,7,8,,,{span 02 ac01 0e 08}Terror Knight,33,{span 02 ac01 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,8,8,,,{span 02 8001 06 08}Maenad   ,29,{span 02 8001 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,9,8,,,{span 02 a601 0c 08}Blademaiden,31,{span 02 a601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,10,8,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,11,8,,,{span 02 7401 09 08}Kunoichi,28,{span 02 7401 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,12,8,,,{span 02 5801 06 08}Rogue,25,{span 02 5801 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,13,8,,,{span 02 6601 09 08}Fusilier,28,{span 02 6601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,14,8,,,{span 02 a201 09 08}Dragoner   ,31,{span 02 a201 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,15,8,,,{span 02 5401 06 08}Witch,25,{span 02 5401 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,16,8,,,{span 02 a401 0c 08}Necromancer,31,{span 02 a401 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,17,8,,,{span 02 3e01 05 08}Lich,24,{span 02 3e01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,18,8,,,{span 02 a601 0d 08}Angel Knight ,33,{span 02 a601 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,19,8,,,{span 02 6001 08 08}Hoplite,27,{span 02 6001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,20,8,,,{span 02 9001 07 08}Titania   ,30,{span 02 9001 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,21,8,,,{span 02 7a01 0a 08}Matriarch,29,{span 02 7a01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,22,8,,,{span 02 6c01 09 08}Familiar,28,{span 02 6c01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,27,8,,,{span 02 ac01 07 08}Welkin      ,32,{span 02 ac01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,28,8,,,{span 02 a601 08 08}Nidhogg     ,32,{span 02 a601 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,29,8,,,{span 02 c401 07 08}Raijin        ,34,{span 02 c401 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,30,8,,,{span 02 aa01 0a 08}Ouroboros   ,32,{span 02 aa01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,31,8,,,{span 02 aa01 0b 08}Flarebrass  ,32,{span 02 aa01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,32,8,,,{span 02 a601 07 08}Amaroq      ,32,{span 02 a601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,33,8,,,{span 02 9001 08 08}Bahamut   ,30,{span 02 9001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,34,8,,,{span 02 9e01 07 08}Tiamat     ,31,{span 02 9e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,35,8,,,{span 02 5601 06 08}Hydra,25,{span 02 5601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,36,8,,,{span 02 8e01 0b 08}Golem     ,30,{span 02 8e01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,37,8,,,{span 02 9a01 0c 08}Trickstress,31,{span 02 9a01 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,38,8,,,{span 02 8401 0b 08}Warden    ,30,{span 02 8401 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,39,8,,,{span 02 a201 0d 08}Dragonborn  ,32,{span 02 a201 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,40,8,,,{span 02 7201 08 08}Gryphon,27,{span 02 7201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,41,8,,,{span 02 8a01 0b 08}Cockatrice,30,{span 02 8a01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,42,8,,,{span 02 6e01 08 08}Octopus,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,43,8,,,{span 02 6c01 08 08}Cyclops,27,{span 02 6c01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,51,8,,,{span 02 4201 05 08}Lady,24,{span 02 4201 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,52,8,,,{span 02 6201 07 08}Ranger,26,{span 02 6201 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,53,8,,,{span 02 5801 07 08}Sibyl ,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,54,8,,,{span 02 9201 08 08}Heretic    ,31,{span 02 9201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,55,8,,,{span 02 7201 09 08}Princess,28,{span 02 7201 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,56,8,,,{span 02 6201 08 08}Freya  ,27,{span 02 6201 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,57,8,,,{span 02 a201 0c 08}Oracle     ,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,58,8,,,{span 02 5e01 07 08}Vartan,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,59,8,,,{span 02 a401 0d 08}White Knight,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,60,8,,,{span 02 6801 07 08}Shaman,26,{span 02 6801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,61,8,,,{span 02 5401 06 08}Wicce,25,{span 02 5401 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,62,8,,,{span 02 9001 0b 08}Songstress,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,63,8,,,{span 02 8601 0a 08}Buccaneer,29,{span 02 8601 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,65,8,,,{span 02 e601 11 08}Sacred Fist     ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,66,8,,,{span 02 e601 11 08}Geomancer       ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,67,8,,,{span 02 e601 11 08}Sword Saint     ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,68,8,,,{span 02 e601 11 08}Enchantress     ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,69,8,,,{span 02 e601 11 08}Headhunter      ,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,70,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,71,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,72,8,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,73,8,,,{span 02 9601 0c 08}Furia      ,31,{span 02 9601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,74,8,,,{span 02 7401 09 08}Commando,28,{span 02 7401 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,75,8,,,{span 02 a401 0d 08}Death Knight,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,76,8,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,77,8,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,78,8,,,{span 02 7a01 09 08}Revenant,28,{span 02 7a01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,81,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,82,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,83,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,84,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,85,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,86,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,87,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,88,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,89,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,90,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,91,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,92,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,93,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,94,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,95,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,96,8,,,{span 02 6e01 08 08}Templar,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,97,8,,,{span 02 8401 06 08}Strega   ,29,{span 02 8401 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,98,8,,,{span 02 be01 11 08}Assassin        ,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,99,8,,,{span 02 be01 11 08}False Hierophant,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,100,8,,,{span 02 be01 11 08}Fleeing Villager,36,{span 02 be01 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,101,8,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,102,8,,,{span 02 9601 0b 08}Hanged Man,30,{span 02 9601 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,103,8,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,111,8,,,{span 02 7c01 0a 08}Gladiator,29,{span 02 7c01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,112,8,,,{span 02 a401 0d 08}Deadeye     ,32,{span 02 a401 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,113,8,,,{span 02 9801 0c 08}Arcanist   ,31,{span 02 9801 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,114,8,,,{span 02 7601 09 08}Apostate,28,{span 02 7601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,115,8,,,{span 02 7a01 09 08}Hexblade,28,{span 02 7a01 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,116,8,,,{span 02 ba01 0e 08}Blackguard   ,33,{span 02 ba01 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,117,8,,,{span 02 a201 0c 08}Dreadnought,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,118,8,,,{span 02 9601 0c 08}Marauder   ,31,{span 02 9601 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,119,8,,,{span 02 8e01 0c 08}Sellsword  ,31,{span 02 8e01 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,120,8,,,{span 02 b201 0e 08}Slayer       ,33,{span 02 b201 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,121,8,,,{span 02 a001 0d 08}Stalker     ,32,{span 02 a001 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,122,8,,,{span 02 a001 0c 08}Outlaw     ,31,{span 02 a001 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,123,8,,,{span 02 5e01 07 08}Sniper,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,124,8,,,{span 02 7201 0a 08}Cannibal ,29,{span 02 7201 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,125,8,,,{span 02 9201 0b 08}Dragonlord,30,{span 02 9201 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,126,8,,,{span 02 a001 0c 08}Occultist  ,31,{span 02 a001 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,129,8,,,{span 02 5601 06 08}Raven,25,{span 02 5601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,130,8,,,{span 02 8a01 0b 08}Overlord  ,30,{span 02 8a01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,131,8,,,{span 02 b801 10 08}Nephalem       ,35,{span 02 b801 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,132,8,,,{span 02 8a01 0b 08}Nightwing ,30,{span 02 8a01 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,133,8,,,{span 02 a601 0d 08}Raptor      ,32,{span 02 a601 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,134,8,,,{span 02 6601 07 08}Gorgon,26,{span 02 6601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,135,8,,,{span 02 4801 05 08}Uruk,24,{span 02 4801 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,136,8,,,{span 02 5801 06 08}Draug,25,{span 02 5801 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,137,8,,,{span 02 5e01 07 08}Wraith,26,{span 02 5e01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,138,8,,,{span 02 6e01 08 08}Cherub ,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,139,8,,,{span 02 7601 09 08}Succubus,28,{span 02 7601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,140,8,,,{span 02 7001 08 08}Boggart,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,151,8,,,{span 02 bc01 0f 08}Bjartskular   ,34,{span 02 bc01 0f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,152,8,,,{span 02 a201 0c 08}Deathwyrm  ,31,{span 02 a201 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,153,8,,,{span 02 5601 07 08}Scylla,26,{span 02 5601 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,154,8,,,{span 02 4a01 05 08}Naga,24,{span 02 4a01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,155,8,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,156,8,,,{span 02 9401 0c 08}Flesh Golem,31,{span 02 9401 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,157,8,,,{span 02 9001 0b 08}Hippogryph,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,158,8,,,{span 02 6601 08 08}Phoenix,27,{span 02 6601 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,159,8,,,{span 02 4a01 05 08}Rukh,24,{span 02 4a01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,160,8,,,{span 02 6801 09 08}Basilisk,28,{span 02 6801 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,161,8,,,{span 02 6001 07 08}Kraken,26,{span 02 6001 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,162,8,,,{span 02 5a01 06 08}Dagon,25,{span 02 5a01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,163,8,,,{span 02 7601 09 08}Balor   ,28,{span 02 7601 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,164,8,,,{span 02 4e01 06 08}Titan,25,{span 02 4e01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,234,8,,,{span 02 3c01 05 08}Deva,24,{span 02 3c01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,235,8,,,{span 02 4001 05 08}Icon,24,{span 02 4001 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,236,8,,,{span 02 7201 09 08}Deva    ,28,{span 02 7201 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,237,8,,,{span 02 4601 06 08}Deva ,25,{span 02 4601 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,238,8,,,{span 02 6e01 08 08}Deva   ,27,{span 02 6e01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,239,8,,,{span 02 4c01 05 08}Icon,24,{span 02 4c01 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,240,8,,,{span 02 4a01 06 08}Deva ,25,{span 02 4a01 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,241,8,,,{span 02 6c01 08 08}Deva   ,27,{span 02 6c01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,242,8,,,{span 02 7001 08 08}Deva   ,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,243,8,,,{span 02 7001 08 08}Deva   ,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,244,8,,,{span 02 5201 06 08}Deva ,25,{span 02 5201 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,245,8,,,{span 02 6a01 08 08}Deva   ,27,{span 02 6a01 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,246,8,,,{span 02 7001 08 08}Lampada,27,{span 02 7001 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,247,8,,,{span 02 8801 0a 08}Ascendant,29,{span 02 8801 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,248,8,,,{span 02 5801 07 08}Erinys,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,249,8,,,{span 02 7e01 0a 08}Anima    ,29,{span 02 7e01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,250,8,,,{span 02 7e01 0a 08}Anima    ,29,{span 02 7e01 0a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,251,8,,,{span 02 5c01 07 08}Anima ,26,{span 02 5c01 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,252,8,,,{span 02 5801 07 08}Anima ,26,{span 02 5801 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,253,8,,,{span 02 4201 06 08}Anima,25,{span 02 4201 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,254,8,,,{span 02 9001 0b 08}Anima     ,30,{span 02 9001 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,1,12,,,"A mainstay melee attacker adept with a wide variety of weapons. Jack-of-all-trades, master of none{if 02}... As true in undeath as it was in life{/if}.",151,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,2,12,,,"A mainstay ranged attacker adept with bow and crossbow, though their accuracy drops sharply in bad weather{if 02}... Which is no less true now that they're a zombie{/if}.",170,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,3,12,,,"A magic-user boasting unrestricted access to all damage dealing spells{if 02}... Or did, once{/if}. Low defenses make them poor in close-quarters combat{if 02}―even now that they're a zombie{/if}.",196,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,4,12,,,"A wielder of divine magic who mends wounds and cures various ailments{if 02}... Or was, once{/if}. Keep one in every battle party{if 02}. Of course, now that they're a zombie, you might think twice{/if}.",203,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,5,12,,,"A well-rounded caster of attack and support spells who is also adept at sword and spear-play{if 02}... Or was, once{/if}. Able to move through water tiles{if 02}, even now that they're a zombie{/if}.",199,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,6,12,,,"An excellent front-line warrior, able to use divine magic. Nothing halts the enemy's advance like a knight in their path. A strong defender and capable attacker{if 02}... At least, they were{/if}.",196,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,7,12,,,"The howls of tormented spirits can be heard with every step of the terror knight's boots. Skilled in weakening enemy attacks and defense, they function as a wall to enemy advance{if 02}... Or, at least, they did{/if}.",217,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,8,12,,,"A melee attacker entirely unconcerned with their own safety, the berserker boasts a strong attack, but subpar defense{if 02}. This is little changed now that they're a zombie{/if}.",180,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,9,12,,,"A melee attacker and master of most bladed weaponry. Able to employ powerful war dances{if 02}, even now that they're a zombie{/if}.",132,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,10,12,,,"A warrior with a special talent for slaying beasts and dragons{if 02}... At least, they used to be{/if}.",104,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,11,12,,,"A nimble warrior who prefers hit-and-run tactics to an open fight. Their attacks with double weapons can be vicious{if 02}... At least, they used to be{/if}.",157,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,12,12,,,A {if 02}former {/if}master at relieving enemies of their treasured goods and laying traps to snare the unwary.,111,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,13,12,,,"The fusilier can wield all of the powerful ranged weapons that give them their name. However, their eschewal of magic and all things supernatural has left them particularly susceptible to magic attacks{if 02}, and this is little changed now that they're a zombie{/if}.",268,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,14,12,,,"The beast tamer is able to train beasts and dragons and unleash their hidden potential{if 02}... At least, they could, before they became a zombie{/if}.",152,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,15,12,,,"Mage, fighter, explorer, these ardent scholars learn much of their trade from ancient writings. They are able to control golems and unleash their true potential{if 02}, a feat they can still perform even now that they're a zombie{/if}.",235,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,16,12,,,These masters of dark magic specialize in ranged combat and backing their minions from afar{if 02}―even now that they've become zombies themselves{/if}.,152,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,17,12,,,"A mage possessing a ring of the dead, as well as a great deal of magical power{if 02}... Or once they did{/if}.",111,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,18,12,,,"A mage-knight reincarnated through the use of an ensanguined rood, returning with powerful magics at their disposal{if 02}... At least, they were{/if}.",151,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,19,12,,,"A {if 02}former {/if}heavily armored footsoldier, typically bearing sword and shield which they use{if 02}d{/if} to defend their clan upon the battlefield.",155,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,20,12,,,Destroyers upon the battlefield which display uncanny mobility despite their preference of heavy equipment{if 02}...before they turned into a zombie{/if}.,154,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,21,12,,,"Adept at magic and a capable leader on the battlefield{if 02}―or at least they were{/if}. Wields magic powerful enough to impress even wizards{if 02}. This, at least, has not changed{/if}.",188,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,22,12,,,"A minion of the cunning-folk {if 02}once {/if}able to attack and use utility spells to weaken foes and strengthen allies. Use them for defense, or as a decoy{if 02}―even now that they're a zombie{/if}.",201,{/if} | {/if} | {if 02} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,27,12,,,"This dragon, well-versed in the ways of the air, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if}.",202,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,28,12,,,"This dragon, well-versed in the ways of the earth, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if} ",204,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,29,12,,,"This dragon, well-versed in the ways of lightning, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if}.",204,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,30,12,,,"This dragon, well-versed in the ways of water, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if}.",200,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,31,12,,,"This dragon, well-versed in the ways of fire, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if}.",199,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,32,12,,,"This dragon, well-versed in the ways of ice, serves as a heavy unit on the battlefield. Its scales reduce damage taken while it deals death with tail and breath{if 02}. Or at least, it used to{/if}.",198,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,33,12,,,"This dragon is well-versed in the ways of the Light. Unlike most of its kin, it managed to suppress their savage nature and discover pleasure in protecting its allies{if 02}. Strangely, it still can{/if}.",204,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,34,12,,,"This dragon is well-versed in the ways of the Dark. Unlike most of its kin, it revels in pain and suffering, often entering the fray with a barrage of powerful hexes{if 02}. And it is still able to{/if}.",203,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,35,12,,,"A dragon with three heads. Its scales reduce damage taken while it deals death with tail and breath{if 02}―as it still does even now, as a zombie{/if}.",151,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,36,12,,,A behemoth fashioned of iron and stone. At first made and worshipped as a protector of a downtrodden people{if 02}. Few worship it now that it's a zombie{/if}.,159,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,37,12,,,"This demon kin can fight with spell or blade and inflict a plethora of vile afflictions with breath and gaze{if 02}. And still can, now that it's a zombie{/if}.",160,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,38,12,,,Homunculi like this were usually created by powerful sages as retainers and stalwart guards of their abodes{if 02}. Not even death will end their vigil  {/if}.,159,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,39,12,,,"A half-dragon champion that eschews martial training, instead relying on their vast strength and dragon magic{if 02}. And still does now that it's a zombie{/if}.",161,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,40,12,,,"A monstrous lion with the head of an eagle and giant wings. Able to move with ease over rough terrain and changing elevations{if 02} even now, as a zombie{/if}.",160,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,41,12,,,A monstrous rooster with the scales and tail of a serpent. Its breath is enough to turn men to stone{if 02}―even now that it's a zombie{/if}.,141,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,42,12,,,"A large monster that fights better in the water than on land―and, indeed, must be in water to employ special skills{if 02}. This holds true even now that it's a zombie{/if}.",173,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,43,12,,,"An aggressive, violent giant, yet possessed of intellect enough to wield magic{if 02}―even now that it's a zombie{/if}.",119,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,51,12,,,{span 10 0a03 27 08}Title given by the Order of Philaha to those it deems worthy of carrying on the mantle of Valerian rule. Their power is largely a factor of their past achievements.,184,{span 10 0a03 27 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,52,12,,,"{span 10 3a03 2e 08}A wandering warrior adept in the use of a wide range of martial skills. Particularly good at taking out specific targets, rangers perform well in all manner of situations.",191,{span 10 3a03 2e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,53,12,,,{span 0a ae02 31 08}A venerated cleric well-versed in matters of the spirit. Noted for their ability to use offensive divine magic.,131,{span 0a ae02 31 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,54,12,,,{span 0e 9403 18 08}An evil priest who uses the power gained through their devotions to acquire a mastery of dark magic. Some are also surprisingly skilled in swordplay.,169,{span 0e 9403 18 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,55,12,,,{span 10 ba03 32 08}Only one deemed to be the rightful heir to the Valerian Kingdom may become princess. The Princess serves as a mage-knight on the front lines to fight for peace in her kingdom.,195,{span 10 ba03 32 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,56,12,,,"{span 0a 5c02 26 08}A knight among knights, serving the king himself. Able to channel divine power through their blades.",120,{span 0a 5c02 26 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,57,12,,,{span 0a 5802 23 08}A master magus who draws upon the power of the stars to work their magic. Also a skilled diviner.,117,{span 0a 5802 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,58,12,,,"A winged warrior with a light step on the battlefield. Excellent at both melee and ranged attacks{if 02}... At least, they were{/if}.",133,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,59,12,,,{span 0c cc03 05 08}Only knights commander are granted the title of White Knight. In both defense and offense they are far superior to common knights.,150,{span 0c cc03 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,60,12,,,"{span 0a 0602 1c 08}An oracle serving the many gods of Valeria, shamans are adept at wielding elemental magic.",110,{span 0a 0602 1c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,61,12,,,{span 06 7201 37 08}Don't you dare make the mistake of calling me a witch!,74,{span 06 7201 37 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,62,12,,,"A traveling minstrel and singer of renown, able to perform enthralling songs and dances to encourage allies and dishearten enemies{if 02}―and still are able to, since becoming zombie{/if}.",188,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,63,12,,,"{span 0c 2002 37 08}A pirate plying the Obero Sea, only those unaffiliated with any groups or orders are called by the name of buccaneer.",137,{span 0c 2002 37 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,65,12,,,"{span 10 d203 36 08}A warrior monk tasked with guarding the highest of the ecclesiarchy. They avail themselves of only the most basic of equipment, training their bodies to become harder than steel. ",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,66,12,,,"{span 10 d203 36 08}A warrior attuned to the primal forces of nature. They are able to freely channel those forces and shape them to create new life, or simply rain rock and fire upon their foes.    ",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,67,12,,,{span 10 d203 36 08}A master of the blade attuned to the energy of the universe. They are able to freely channel that force to perform feats of skill far beyond the grasp of a common soldier.        ,199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,68,12,,,"{span 10 d203 36 08}A scholar dedicated to the study of arcane constructs, animating them with unrivaled skill. As battlefield is the ultimate test of their creations, many are also capable warriors.",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,69,12,,,"{span 10 d203 36 08}These hunters of men and monsters are the most at home in the wild. Often accompanied by tamed beasts, they possess a vast array of skills needed to track and subdue their prey.  ",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,70,12,,,"{span 10 d203 36 08}A high-ranking knight of Lodis. Typically given command of 500 to 2000 troops, the Dark Knights Loslorien prefer to attack in smaller numbers (30 to 100) of highly trained elites.",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,71,12,,,"{span 10 d203 36 08}A high-ranking knight of Lodis. Typically given command of 500 to 2000 troops, the Dark Knights Loslorien prefer to attack in smaller numbers (30 to 100) of highly trained elites.",199,{span 10 d203 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,72,12,,,"{span 0e aa03 1e 08}The highest rank of knight in Lodis, given control of a knightly order. There are 16 such knights in Lodis, each thought to be worth 100 knights in battle.",175,{span 0e aa03 1e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,73,12,,,"{span 12 dc04 12 08}An arcane archer that carries the blessing of Nestharot, their arrows tearing the very firmament asunder to call forth the nature's calamity. A maiden is usually chosen, but there have been some exceptions.",226,{span 12 dc04 12 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,74,12,,,"{span 08 b602 18 08}An elite mercenary from Balboede, trained in the use of exotic weaponry and equipment.",106,{span 08 b602 18 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,75,12,,,"{span 0a 8202 25 08}A fallen, demonic knight, sometimes seen leading the endless hordes of shambling, ravenous minions.",119,{span 0a 8202 25 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,76,12,,,"{span 10 a403 31 08}A fallen Dynast-King now corrupted by the Dark. More divine than human, the Dark Lord has forgotten much of his human life, and now only bears hatred and envy for the living.",194,{span 10 a403 31 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,77,12,,,"{span 10 a403 31 08}A fallen Dynast-King now corrupted by the Dark. More divine than human, the Dark Lord has forgotten much of his human life, and now only bears hatred and envy for the living.",194,{span 10 a403 31 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,78,12,,,"{span 0e d003 20 08}A ghast created by the merging of the Dark and a soul filled with hatred. This soul belonged to Dynast-King Dorgalua's arch-rival, King Rodrick of Brigantys.",177,{span 0e d003 20 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,81,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Warrior.               ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,82,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of an Archer.               ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,83,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Wizard.                ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,84,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Cleric.                ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,85,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Spellblade.            ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,86,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Knight.                ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,87,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Terror Knight.         ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,88,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Berserker.             ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,89,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Swordmaster.           ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,90,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Dragoon.               ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,91,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Ninja.                 ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,92,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Rogue.                 ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,93,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Fusilier.              ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,94,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Beast Tamer.           ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,95,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Warlock.               ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,96,12,,,"A {if 02}formerly living {/if}knight of the Dark Knights Loslorien, an elite specially trained in the skills of a Necromancer.           ",137,{/if} | {if 02},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,97,12,,,"{span 12 8804 02 08}A magic-user whose command of a wide range of spells dwarfs the knowledge of a common wizard. Able to use their power without worshipping or forging a pact with any gods, demons, or spirits.",210,{span 12 8804 02 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,98,12,,,"{span 0a 0202 1c 08}A killer-of-men for hire, will use any means at their disposal to claim their mark.       ",110,{span 0a 0202 1c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,99,12,,,"{span 0a 0202 1c 08}A fallen exarch who chose power over faith, attaining their rank by use of improper means.",110,{span 0a 0202 1c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,100,12,,,"{span 0a 0202 1c 08}A villager of Golyat, fleeing before the sudden attack of the Dark Knights and the Bakram.",110,{span 0a 0202 1c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,101,12,,,{span 0e 7e03 18 08}One of the people driven from their village during Hierophant Balbatos's blood war. Many lay hidden in Lhazan Fortress following the Bakram invasion.,169,{span 0e 7e03 18 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,102,12,,,{span 0a 7002 23 08}This corpse of a man hanged for collaborating with the Bakram was animated by a dark necromancer.,117,{span 0a 7002 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,103,12,,,"{span 10 0e03 2b 08}The spirit of a dead sailor lingering in the depths of the Pirate's Graveyard. As long as they still yearn for something of their former lives, they will never be free.",188,{span 10 0e03 2b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,111,12,,,"{span 0a 1a02 21 08}A former swordmaster, skilled with the blade. Now fallen to killing men for a pittance of goth.",115,{span 0a 1a02 21 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,112,12,,,{span 06 6001 37 08}A dedicated assassin who revels in the taking of life.,74,{span 06 6001 37 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,113,12,,,{span 08 ae02 12 08}A dark mage that offered their very essence in exchange for limitless knowledge.,100,{span 08 ae02 12 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,114,12,,,{span 08 1202 06 08}A fallen priest―an apostate who uses divine magic for personal gain.,88,{span 08 1202 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,115,12,,,"{span 08 9a02 16 08}A mystic warrior fallen from grace, adept at infusing their blade with dark essence.",104,{span 08 9a02 16 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,116,12,,,"{span 0c 9e03 03 08}A knight who attained immortality through a pact with a demon. No light of reason shines in its eyes, only a lust for bloodshed.",148,{span 0c 9e03 03 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,117,12,,,{span 0a d602 2e 08}Ungodly means were used to fetch the soul of this knight from the Abyss who now animates this suit of armor.,128,{span 0a d602 2e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,118,12,,,{span 06 dc02 02 08}A savage raider that revels in removing heads from their bodies.,84,{span 06 dc02 02 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,119,12,,,{span 08 0402 07 08}A born killer who thinks of taking lives as nothing more than a game.,89,{span 08 0402 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,120,12,,,"{span 0c c603 05 08}An insane hunter of man or beast that kills not for honor, glory or gold. They live but for the sheer enjoyment of spilling blood.",150,{span 0c c603 05 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,121,12,,,"{span 06 6601 36 08}A dweller in darkness, fed on the blood of the Abyss.",73,{span 06 6601 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,122,12,,,"{span 08 3a02 10 08}A bandit skilled in inflicting so much pain, death feels like an afterthought.",98,{span 08 3a02 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,123,12,,,"{span 0a 1602 24 08}Snipers never hesitate to pull the trigger of their fusil on a man. In fact, they rather enjoy it.",118,{span 0a 1602 24 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,124,12,,,"{span 0a a402 2f 08}A savage master of dragon and beast who craves human flesh, often joining their pets in their gruesome feast.",129,{span 0a a402 2f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,125,12,,,"{span 0c 9e03 06 08}An evil magus, conversant in all forms of spellcraft. Has the peculiar habit of taking men's skins to use as covers for spellbooks.",151,{span 0c 9e03 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,126,12,,,"{span 08 1c02 07 08}A vile master of the dead, inspiring in equal parts fear and respect.",89,{span 08 1c02 07 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,129,12,,,"{span 10 e003 34 08}A dark winged creature, sometimes called the ""Angel of Death."" A raven rises when the Dark touches the corpse of a man who has passed on, having committed all seven deadly sins.",197,{span 10 e003 34 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,130,12,,,"{span 06 9001 3a 08}A ruler of the underworld, wielding power without limits.",77,{span 06 9001 3a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,131,12,,,{span 08 f202 1e 08}The unearthly beauty of this winged stands in stark contrast to its brutally violent nature.,112,{span 08 f202 1e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,132,12,,,"{span 0a f402 34 08}An ebon winged who fell onto the paths of darkness, the night crow will not cease battle until it has drawn blood.",134,{span 0a f402 34 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,133,12,,,"{span 0a 3602 23 08}A variety of lizardman with blood-red skin. Its violence is remarkable, even toward its own kind.",117,{span 0a 3602 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,134,12,,,"{span 10 b003 2f 08}A wielder of ancient magic with a gaze that can turn those who draw too near to stone. Of the many tribes of gorgon, the Medusa, Stheno, and Euryale tribes are most famous.",192,{span 10 b003 2f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,135,12,,,{span 0a 7c02 29 08}Dark magic created this orc-human crossbreed. Superior in both strength and intellect to its forebears.,123,{span 0a 7c02 29 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,136,12,,,"{span 08 ec02 19 08}A skeletal warrior and wielder of magic, fetched from the Abyss by means of necromancy.",107,{span 08 ec02 19 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,137,12,,,"{span 0a 3a02 20 08}A spirit warrior and wielder of powerful magic, fetched from the Abyss by means of necromancy.",114,{span 0a 3a02 20 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,138,12,,,"{span 0c d403 08 08}A corrupted servant of the Divine, its once merely mischievous nature twisted into committing acts of horrible cruelty and suffering.",153,{span 0c d403 08 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,139,12,,,{span 0a 2a02 21 08}This nightmare flits nimbly through the air to dodge attacks. Also a wielder of powerful magic.,115,{span 0a 2a02 21 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,140,12,,,{span 0a 7802 29 08}This horrific creature lurched into life when the Dark settled upon a rotting pumpkin-headed scarecrow.,123,{span 0a 7802 29 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,151,12,,,"{span 1a 0405 1e 08}This dragon is named for the translucence of its steely scales. The material of its scales is second only to diamond in hardness, and the slight imperfections in its hide catch the light and sparkle like rubies and sapphires, adding to the ancient dragon's breathtaking appearance.",301,{span 1a 0405 1e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,152,12,,,"{span 0e 8e03 1a 08}Ebon scales cover the sinuous form of this wyrm of darkness. So dark are its scales that they absorb not only light, but the very will of men to fight.",171,{span 0e 8e03 1a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,153,12,,,"{span 0e 6003 14 08}A dragon with many heads, spending much of its time in the water. Often takes the form of a beautiful woman to lure travellers to a watery grave.",165,{span 0e 6003 14 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,154,12,,,"{span 0c 8a03 01 08}Sometimes worshipped as a serpent god, the naga is nothing more than a vile, bloodthirsty monster intent on taking human life.",146,{span 0c 8a03 01 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,155,12,,,"{span 0a d402 2d 08}A golem fashioned of damasc steel, the hardest variety of steel known to man. Immune to most melee attacks.",127,{span 0a d402 2d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,156,12,,,{span 0e 0803 0d 08}Some fiendish mage patched this golem together from a jumble of leftover body parts. Its bulbous form boils with hatred toward the living.,158,{span 0e 0803 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,157,12,,,{span 0c 1202 36 08}A horse with the head of an eagle and giant wings. Able to fly with ease over rough terrain and changing elevations.,136,{span 0c 1202 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,158,12,,,"{span 0c e603 0d 08}The fabled immortal bird. Though legend says that any who drink the phoenix's blood will gain its immortality, this is likely just a myth.",158,{span 0c e603 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,159,12,,,{span 08 ca02 17 08}A giant demon-bird. It's said that the demons rode upon these during the Ogre Battle.,105,{span 08 ca02 17 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,160,12,,,"{span 0c 9a03 04 08}A serpentine desert-dweller with a gaze that can turn men to stone. When facing a basilisk, bring a shield, or don't come at all.",149,{span 0c 9a03 04 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,161,12,,,"{span 08 8802 11 08}A dweller of the deep, the kraken can control water and summon squalls at will.",99,{span 08 8802 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,162,12,,,"{span 0c 2802 34 08}An aquatic giant, the ""Demon of the Sea."" Can summon a great tempest to sweep its foes to the depths of the ocean.",134,{span 0c 2802 34 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,163,12,,,"{span 0c 0802 36 08}A one-eyed giant, adept in the use of elemental magic, just in case its inhuman strength isn't enough to do the job.",136,{span 0c 0802 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,164,12,,,"{span 0c e803 09 08}Member of an ancient race of giants. Sees out of only one eye, the other having been taken as punishment for turning against the gods.",154,{span 0c e803 09 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,234,12,,,"{span 08 de02 19 08}An avatar of Vija, said to be the most martially adept of the Twelve Heavenly Generals.",107,{span 08 de02 19 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,235,12,,,"{span 06 e802 03 08}An avatar of the Heavenly General Enja, punisher of men's crimes.",85,{span 06 e802 03 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,236,12,,,"{span 0a 7802 25 08}An avatar of the Heavenly General Maitreya, who extends the hand of salvation to deserving mortals.",119,{span 0a 7802 25 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,237,12,,,"{span 08 7802 0f 08}An avatar of the Heavenly General Ijana, who staves off disease and calamity.",97,{span 08 7802 0f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,238,12,,,"{span 08 f802 19 08}An avatar of the Heavenly General Chandra, who borrows the power of the moon in battle.",107,{span 08 f802 19 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,239,12,,,"{span 08 5002 0b 08}An avatar of Vayu, said to be the wisest of the Twelve Heavenly Generals.",93,{span 08 5002 0b 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,240,12,,,"{span 08 6c02 0e 08}An avatar of the Heavenly General Indra, who crushes the desires of mortals.",96,{span 08 6c02 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,241,12,,,"{span 0a 5402 22 08}An avatar of the Heavenly General Rakshas, who brings destruction and devastation to this world.",116,{span 0a 5402 22 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,242,12,,,"{span 08 8202 0c 08}An avatar of Ahurama, known as an ogre among the Twelve Heavenly Generals.",94,{span 08 8202 0c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,243,12,,,"{span 0c 3402 36 08}An avatar of the Heavenly General Asurama, the great revealer, who protects and preserves the teachings of the gods.",136,{span 0c 3402 36 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,244,12,,,"{span 08 6202 0d 08}An avatar of the Heavenly General Aditi, said to be a scourge upon mankind.",95,{span 08 6202 0d 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,245,12,,,"{span 08 f802 1a 08}An avatar of the Heavenly General Saranga, said to have shot a great demon with its bow.",108,{span 08 f802 1a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,246,12,,,"{span 0a b802 2c 08}A guardian of the temple of Ashmedai. A normal person in appearance, her true form is shrouded in mystery.",126,{span 0a b802 2c 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,247,12,,,"{span 10 f803 38 08}A guardian of the temple of Ashmedai. It is unclear whether Blackmoor was once a human who reincarnated, or was a lich from the very beginning. His true form is shrouded in mystery.",201,{span 10 f803 38 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,248,12,,,"{span 12 b404 0e 08}A monster, called the Sea Witch. Many are the men who have lost their lives at the bottom of the sea, lured into calamity by the dulcet tones of her voice. She feeds upon the souls of the men she kills.",222,{span 12 b404 0e 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,249,12,,,{span 0c a003 06 08}The bird that pulls Hahnela's chariot across the sky. Worshipped as a divinity who calls the strong winds that usher in the spring.,151,{span 0c a003 06 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,250,12,,,"{span 10 2203 23 08}A beastman said to have been created by Vaasa, Goddess of Earth, to serve her in eternity. Called the ""Ravager"" for his violence, Vaasa uses him for a watchdog.",180,{span 10 2203 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,251,12,,,"{span 14 f804 23 08}The stormbeast, survived from the days of the Ogre Battle. Once a scourge upon mankind, Xolotl was captured by heroes who had received the protection of Nestharot, Goddess of Lightning. Now he serves as her temple guardian.",243,{span 14 f804 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,252,12,,,"{span 14 ee04 26 08}Said to have been born from the tears Greuza, Goddess of Water, shed for her lost son, Tlaloc has been called a god of rain and of disasters. When the great winds blow, and the floods come, people say it is the work of Tlaloc.",246,{span 14 ee04 26 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,253,12,,,"{span 18 9e05 10 08}A creature of fire and a powerful elemental. Ifrit once wreaked havoc among the villages and towns of man, until Xoshonell, Goddess of Fire, caught him and trapped him within an urn. After many centuries, Ifrit repented, and now serves as Xoshonell's temple guardian.",287,{span 18 9e05 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/class_text.xlc,XLC,254,12,,,"{span 10 2c03 2d 08}A chimera with the body of a bird, shell of a turtle, and tail of a snake. It is said that Lyuneram, Goddess of Ice, turned a cruel king into this creature as punishment.",190,{span 10 2c03 2d 08},ORIGINAL - PENDIENTE DE TRADUCCION

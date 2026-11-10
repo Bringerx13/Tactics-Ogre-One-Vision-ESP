@@ -1,0 +1,20 @@
+﻿archivo,tipo,fila,columna,id_entrada,nid,texto_ingles,caracteres,marcadores,estado
+battle/battle_data_release/battle_notification_messages.xlc,XLC,6,0,,,"{span 03 f241 29 10 03f230303031 02da70303031}Experience earned: {FF 84 01ff01}
+Skill points earned: {FF 84 02ff01}",115,{FF 84 01ff01} | {FF 84 02ff01} | {span 03 f241 29 10 03f230303031 02da70303031},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,7,0,,,"{span 05 3241 2e 10 02e130303031}You obtained the {FF 83 0101fff1f0}.
+Would you like to learn it?",97,{FF 83 0101fff1f0} | {span 05 3241 2e 10 02e130303031},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,8,0,,,{span 04 ee01 2a 08}Excess items have been converted to goth.,61,{span 04 ee01 2a 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,9,0,,,{span 02 3e01 04 08}Yes,23,{span 02 3e01 04 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,10,0,,,{span 02 3201 03 08}No,22,{span 02 3201 03 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,11,0,,,{span 03 8041 0a 08 028130303031}Learned {FF 83 0101fff1f0}.,60,{FF 83 0101fff1f0} | {span 03 8041 0a 08 028130303031},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,12,0,,,{span 04 bc01 27 08}Incapacitated units cannot be revived!,58,{span 04 bc01 27 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,13,0,,,{span 04 9a01 24 08}Incapacitated units can be revived!,55,{span 04 9a01 24 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,14,0,,,{span 03 8c41 0c 08 028d30303031}{FF 83 0101fff1f0} recruited!,62,{FF 83 0101fff1f0} | {span 03 8c41 0c 08 028d30303031},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,15,0,,,{span 02 e801 13 08}The weather turns!,38,{span 02 e801 13 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,16,0,,,{span 02 c001 0f 08}Trap disarmed!,34,{span 02 c001 0f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,17,0,,,{span 02 c001 0f 08}Trap disarmed!,34,{span 02 c001 0f 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,18,0,,,{span 04 a801 23 08}Body and soul bound to the weapon!,54,{span 04 a801 23 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,19,0,,,{span 02 d001 10 08}Bodies swapped!,35,{span 02 d001 10 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,20,0,,,{span 04 1601 18 08}A new unit has arrived!,43,{span 04 1601 18 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,21,0,,,{span 02 d001 11 08}Nothing happens.,36,{span 02 d001 11 08},ORIGINAL - PENDIENTE DE TRADUCCION
+battle/battle_data_release/battle_notification_messages.xlc,XLC,22,0,,,{span 04 2601 1a 08}Stats slightly increased.,45,{span 04 2601 1a 08},ORIGINAL - PENDIENTE DE TRADUCCION
