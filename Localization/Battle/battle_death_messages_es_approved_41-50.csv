@@ -1,0 +1,11 @@
+archivo,tipo,fila,columna,id_entrada,nid,texto_espanol,estado
+battle/battle_data_release/battle_death_messages.xlc,XLC,41,0,,,"{np}¡Si {w}vuelvo {w}a {w}pisar {w}otra {w}vez {w}el {w}campo {w}de {w}batalla, {w}será {w}como {w}un {w}héroe!",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,42,0,,,"{np}Puedo {w}aceptar {w}no {w}lograr {w}derrotar {w}a {w}mi {w}enemigo... {w}pero {w}no {w}fallar {w}a {w}mis {w}compañeros.",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,43,0,,,"{np}Caer {w}antes {w}de {w}cumplir {w}mis {w}sueños... {w}¡eso {w}sí {w}es {w}fracasar!",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,44,0,,,"{np}Solo {w}necesito {w}recuperarme {w}un {w}poco... {w}y {w}pronto {w}podré {w}luchar {w}de {w}nuevo...",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,45,0,,,"{np}Sabía {w}que {w}podía {w}pasar... {w}pero {w}la {w}derrota {w}no {w}resulta {w}menos {w}amarga.",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,46,0,,,"{np}Hice {w}mi {w}parte. {w}Fui {w}de {w}ayuda. {w}Recibiré {w}mi {w}recompensa... {w}eso {w}espero.",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,47,0,,,"{np}Parece {w}que {w}perdí {w}el {w}control... {w}de {w}la {w}Rueda {w}del {w}destino...",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,48,0,,,"{np}Dicen {w}que {w}un {w}hombre {w}muere {w}solo {w}una {w}vez... {w}pero {w}hoy {w}no.",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,49,0,,,"{np}Recordaré {w}este {w}día; {w}te {w}haré {w}pagar {w}por {w}ello... {w}¡más {w}tarde!",Aprobado por el usuario
+battle/battle_data_release/battle_death_messages.xlc,XLC,50,0,,,"{np}Enfrentarme {w}a {w}mi {w}enemigo {w}y {w}ser {w}incapaz {w}de {w}derrotarlo... {w}¡qué {w}vergüenza!",Aprobado por el usuario
