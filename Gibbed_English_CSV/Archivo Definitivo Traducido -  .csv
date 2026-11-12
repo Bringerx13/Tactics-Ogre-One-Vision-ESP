@@ -5488,3 +5488,103 @@ event/chapter/event_data/character_names.xlc,XLC,31,4,,,"{span 02 a801 10 08}Lin
 event/chapter/event_data/character_names.xlc,XLC,32,4,,,{span 02 8a01 0b 08}Sir Leonar,30,{span 02 8a01 0b 08},Sir Leonar
 event/chapter/event_data/character_names.xlc,XLC,33,4,,,{span 02 b001 0d 08}Dame Ravness,32,{span 02 b001 0d 08},Dama Ravness
 event/chapter/event_data/character_names.xlc,XLC,34,4,,,{span 02 ec01 14 08}The Pirate Azelstan,39,{span 02 ec01 14 08},El Pirata Azelstan
+event/chapter/event_data/character_names.xlc,XLC,35,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,36,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,37,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,38,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,39,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,40,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,41,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,42,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,43,4,,,{span 02 cc01 11 08}Partisan Warrior,36,{span 02 cc01 11 08},Guerrero Partisano
+event/chapter/event_data/character_names.xlc,XLC,44,4,,,{span 02 b801 0f 08}Partisan Scout,34,{span 02 b801 0f 08},Explorador Partisano
+event/chapter/event_data/character_names.xlc,XLC,45,4,,,{span 02 c201 10 08}Partisan Corpse,35,{span 02 c201 10 08},Cadáver Partisano
+event/chapter/event_data/character_names.xlc,XLC,46,4,,,{span 02 fa01 15 08}Skeletal Storekeeper,40,{span 02 fa01 15 08},Dependiente Esquelético
+event/chapter/event_data/character_names.xlc,XLC,47,4,,,{span 02 ae01 0e 08}Pumpkin Clerk,33,{span 02 ae01 0e 08},Dependiente Calabaza
+event/chapter/event_data/character_names.xlc,XLC,48,4,,,{span 02 e601 14 08}Spectral Proprietor,39,{span 02 e601 14 08},Propietario Espectral
+event/chapter/event_data/character_names.xlc,XLC,49,4,,,{span 02 9801 0b 08}Shopmaster,30,{span 02 9801 0b 08},Encargado de la Tienda
+event/chapter/event_data/character_names.xlc,XLC,50,4,,,{span 02 5201 07 08}Klaire,26,{span 02 5201 07 08},Klaire
+event/chapter/event_data/character_names.xlc,XLC,51,4,,,{span 04 2c01 19 08}The Dark Knight Lanselot,44,{span 04 2c01 19 08},El Caballero Oscuro Lanselot
+event/chapter/event_data/character_names.xlc,XLC,52,4,,,{span 04 3e01 1a 08}The Dark Knight Balxephon,45,{span 04 3e01 1a 08},El Caballero Oscuro Balxephon
+event/chapter/event_data/character_names.xlc,XLC,53,4,,,{span 04 0a01 16 08}The Dark Knight Volaq,41,{span 04 0a01 16 08},El Caballero Oscuro Volaq
+event/chapter/event_data/character_names.xlc,XLC,54,4,,,{span 04 1c01 17 08}The Dark Knight Barbas,42,{span 04 1c01 17 08},El Caballero Oscuro Barbas
+event/chapter/event_data/character_names.xlc,XLC,55,4,,,{span 04 1c01 17 08}The Dark Knight Martym,42,{span 04 1c01 17 08},El Caballero Oscuro Martym
+event/chapter/event_data/character_names.xlc,XLC,56,4,,,{span 02 ec01 13 08}The Dark Knight Oz,38,{span 02 ec01 13 08},El Caballero Oscuro Oz
+event/chapter/event_data/character_names.xlc,XLC,57,4,,,{span 04 0c01 15 08}The Dark Knight Ozma,40,{span 04 0c01 15 08},El Caballero Oscuro Ozma
+event/chapter/event_data/character_names.xlc,XLC,58,4,,,{span 02 a401 0c 08}Duke Ronwey,31,{span 02 a401 0c 08},Duque Ronwey
+event/chapter/event_data/character_names.xlc,XLC,59,4,,,{span 02 a801 0e 08}King Dorgalua,33,{span 02 a801 0e 08},Rey Dorgalua
+event/chapter/event_data/character_names.xlc,XLC,60,4,,,{span 04 0401 15 08}Regent Brantyn Morne,40,{span 04 0401 15 08},Regente Brantyn Morne
+event/chapter/event_data/character_names.xlc,XLC,61,4,,,{span 04 2801 17 08}The Necromancer Nybeth,42,{span 04 2801 17 08},El Nigromante Nybeth
+event/chapter/event_data/character_names.xlc,XLC,62,4,,,{span 02 ec01 14 08}Hierophant Balbatos,39,{span 02 ec01 14 08},Hierofante Balbatos
+event/chapter/event_data/character_names.xlc,XLC,63,4,,,{span 02 8e01 0b 08}Sir Xaebos,30,{span 02 8e01 0b 08},Sir Xaebos
+event/chapter/event_data/character_names.xlc,XLC,64,4,,,{span 02 b201 0e 08}Abuna Prancet,33,{span 02 b201 0e 08},Abuna Prancet
+event/chapter/event_data/character_names.xlc,XLC,65,4,,,{span 02 8a01 0b 08}Mannaflora,30,{span 02 8a01 0b 08},Mannaflora
+event/chapter/event_data/character_names.xlc,XLC,66,4,,,{span 02 9e01 0d 08}King Rodrick,32,{span 02 9e01 0d 08},Rey Rodrick
+event/chapter/event_data/character_names.xlc,XLC,67,4,,,"{span 04 0a01 18 08}Tristan, the Saint King",43,{span 04 0a01 18 08},"Tristan, el Rey Santo"
+event/chapter/event_data/character_names.xlc,XLC,68,4,,,{span 02 d801 12 08}Archiereus Mreuva,37,{span 02 d801 12 08},Pontífice Mreuva
+event/chapter/event_data/character_names.xlc,XLC,69,4,,,{span 02 be01 0f 08}Queen Vernotta,34,{span 02 be01 0f 08},Reina Vernotta
+event/chapter/event_data/character_names.xlc,XLC,70,4,,,{span 02 e201 13 08}Stratarchis Vogras,38,{span 02 e201 13 08},Estratarca Vogras
+event/chapter/event_data/character_names.xlc,XLC,71,4,,,{span 02 8401 0b 08}Sir Marino,30,{span 02 8401 0b 08},Sir Marino
+event/chapter/event_data/character_names.xlc,XLC,72,4,,,{span 02 8a01 0b 08}Sir Agares,30,{span 02 8a01 0b 08},Sir Agares
+event/chapter/event_data/character_names.xlc,XLC,73,4,,,{span 04 0e01 15 08}The Archmage Anaberg,40,{span 04 0e01 15 08},El Archimago Anaberg
+event/chapter/event_data/character_names.xlc,XLC,74,4,,,"{span 02 e001 12 08}Wynoa, Arkhiatros",37,{span 02 e001 12 08},"Wynoa, Archiatra"
+event/chapter/event_data/character_names.xlc,XLC,75,4,,,{span 04 1c01 16 08}The White Mage Vepahl,41,{span 04 1c01 16 08},El Mago Blanco Vepahl
+event/chapter/event_data/character_names.xlc,XLC,76,4,,,{span 02 e001 13 08}The Pirate Veldrei,38,{span 02 e001 13 08},El Pirata Veldrei
+event/chapter/event_data/character_names.xlc,XLC,77,4,,,{span 02 9c01 0c 08}Sir Vermado,31,{span 02 9c01 0c 08},Sir Vermado
+event/chapter/event_data/character_names.xlc,XLC,78,4,,,{span 02 c401 0f 08}The Magus Uram,34,{span 02 c401 0f 08},El Mago Uram
+event/chapter/event_data/character_names.xlc,XLC,79,4,,,{span 02 f401 14 08}Aeshan the Defeated,39,{span 02 f401 14 08},Aeshan el Derrotado
+event/chapter/event_data/character_names.xlc,XLC,80,4,,,{span 02 ae01 0f 08}Captain Ehlrig,34,{span 02 ae01 0f 08},Capitán Ehlrig
+event/chapter/event_data/character_names.xlc,XLC,81,4,,,{span 02 e201 11 08}The Gryphon Obda,36,{span 02 e201 11 08},El Grifo Obda
+event/chapter/event_data/character_names.xlc,XLC,82,4,,,"{span 02 e001 12 08}Orgeau, Mercenary",37,{span 02 e001 12 08},"Orgeau, Mercenario"
+event/chapter/event_data/character_names.xlc,XLC,83,4,,,{span 02 c601 0f 08}The Magus Orba,34,{span 02 c601 0f 08},El Mago Orba
+event/chapter/event_data/character_names.xlc,XLC,84,4,,,{span 04 0801 15 08}The Magus Kakrinoros,40,{span 04 0801 15 08},El Mago Kakrinoros
+event/chapter/event_data/character_names.xlc,XLC,85,4,,,"{span 04 0601 14 08}Gousin, Man-At-Arms",39,{span 04 0601 14 08},"Gousin, Hombre de Armas"
+event/chapter/event_data/character_names.xlc,XLC,86,4,,,{span 02 8401 0b 08}Sir Farrel,30,{span 02 8401 0b 08},Sir Farrel
+event/chapter/event_data/character_names.xlc,XLC,87,4,,,{span 02 e801 12 08}Headhunter Gannon,37,{span 02 e801 12 08},Cazador de Cabezas Gannon
+event/chapter/event_data/character_names.xlc,XLC,88,4,,,{span 04 2601 17 08}Quartermaster Roberval,42,{span 04 2601 17 08},Intendente Roberval
+event/chapter/event_data/character_names.xlc,XLC,89,4,,,{span 02 d401 10 08}The Magus Garba,35,{span 02 d401 10 08},El Mago Garba
+event/chapter/event_data/character_names.xlc,XLC,90,4,,,{span 04 2601 17 08}High Commander Gatialo,42,{span 04 2601 17 08},Alto Comandante Gatialo
+event/chapter/event_data/character_names.xlc,XLC,91,4,,,{span 02 9201 0c 08}Sir Latimer,31,{span 02 9201 0c 08},Sir Latimer
+event/chapter/event_data/character_names.xlc,XLC,92,4,,,"{span 02 e801 11 08}Genzo, Swordsman",36,{span 02 e801 11 08},"Genzo, Espadachín"
+event/chapter/event_data/character_names.xlc,XLC,93,4,,,{span 04 0601 15 08}Xadoba the Enchanted,40,{span 04 0601 15 08},Xadoba la Encantada
+event/chapter/event_data/character_names.xlc,XLC,94,4,,,{span 02 d401 11 08}The Mage Gildora,36,{span 02 d401 11 08},La Maga Gildora
+event/chapter/event_data/character_names.xlc,XLC,95,4,,,{span 04 1a01 17 08}The Beastlord Stanoska,42,{span 04 1a01 17 08},El Señor de las Bestias Stanoska
+event/chapter/event_data/character_names.xlc,XLC,96,4,,,{span 02 ca01 0f 08}The Mage Dagon,34,{span 02 ca01 0f 08},El Mago Dagon
+event/chapter/event_data/character_names.xlc,XLC,97,4,,,{span 02 cc01 11 08}The Pirate Darza,36,{span 02 cc01 11 08},El Pirata Darza
+event/chapter/event_data/character_names.xlc,XLC,98,4,,,{span 02 8801 0b 08}Sir Hektor,30,{span 02 8801 0b 08},Sir Hektor
+event/chapter/event_data/character_names.xlc,XLC,99,4,,,{span 02 8e01 0c 08}Sibyl Nadia,31,{span 02 8e01 0c 08},Sibila Nadia
+event/chapter/event_data/character_names.xlc,XLC,100,4,,,{span 02 d601 10 08}Commander Hiram,35,{span 02 d601 10 08},Comandante Hiram
+event/chapter/event_data/character_names.xlc,XLC,101,4,,,{span 02 da01 12 08}The Pirate Barvan,37,{span 02 da01 12 08},El Pirata Barvan
+event/chapter/event_data/character_names.xlc,XLC,102,4,,,{span 04 1801 16 08}The Wyrmknight Pajeot,41,{span 04 1801 16 08},El Caballero Draco Pajeot
+event/chapter/event_data/character_names.xlc,XLC,103,4,,,"{span 02 d001 11 08}Bapal, Mercenary",36,{span 02 d001 11 08},"Bapal, Mercenario"
+event/chapter/event_data/character_names.xlc,XLC,104,4,,,{span 04 2c01 17 08}The Wyrmmaster Halphas,42,{span 04 2c01 17 08},El Maestro de Dragones Halphas
+event/chapter/event_data/character_names.xlc,XLC,105,4,,,"{span 02 e401 11 08}Hanzo, Swordsman",36,{span 02 e401 11 08},"Hanzo, Espadachín"
+event/chapter/event_data/character_names.xlc,XLC,106,4,,,"{span 02 ea01 13 08}Bingham, Mercenary",38,{span 02 ea01 13 08},"Bingham, Mercenario"
+event/chapter/event_data/character_names.xlc,XLC,107,4,,,"{span 02 fe01 16 08}Falfaday, Spellbinder",41,{span 02 fe01 16 08},"Falfaday, Hechicera"
+event/chapter/event_data/character_names.xlc,XLC,108,4,,,{span 04 0801 16 08}Pherenian the Godless,41,{span 04 0801 16 08},Pherenian el Impío
+event/chapter/event_data/character_names.xlc,XLC,109,4,,,{span 02 aa01 0f 08}Sir Felnatorre,34,{span 02 aa01 0f 08},Sir Felnatorre
+event/chapter/event_data/character_names.xlc,XLC,110,4,,,{span 04 2a01 17 08}The Archmage Blackmoor,42,{span 04 2a01 17 08},El Archimago Blackmoor
+event/chapter/event_data/character_names.xlc,XLC,111,4,,,"{span 02 fe01 16 08}Brutakos, Spellbinder",41,{span 02 fe01 16 08},"Brutakos, Hechicero"
+event/chapter/event_data/character_names.xlc,XLC,112,4,,,"{span 04 0201 15 08}Brezen, Swordfighter",40,{span 04 0201 15 08},"Brezen, Espadachín"
+event/chapter/event_data/character_names.xlc,XLC,113,4,,,{span 02 f201 14 08}The Wicce Vestiarri,39,{span 02 f201 14 08},La Wicca Vestiarri
+event/chapter/event_data/character_names.xlc,XLC,114,4,,,{span 04 0801 15 08}The Wicce Beelzebuth,40,{span 04 0801 15 08},La Wicca Beelzebuth
+event/chapter/event_data/character_names.xlc,XLC,115,4,,,{span 02 e601 12 08}The Gryphon Berda,37,{span 02 e601 12 08},El Grifo Berda
+event/chapter/event_data/character_names.xlc,XLC,116,4,,,{span 02 c801 10 08}The Magus Botis,35,{span 02 c801 10 08},El Mago Botis
+event/chapter/event_data/character_names.xlc,XLC,117,4,,,"{span 02 f401 13 08}Mercure, Swordsman",38,{span 02 f401 13 08},"Mercure, Espadachín"
+event/chapter/event_data/character_names.xlc,XLC,118,4,,,"{span 04 0e01 17 08}Muntzer, Necroprentice",42,{span 04 0e01 17 08},"Muntzer, Aprendiz de Nigromante"
+event/chapter/event_data/character_names.xlc,XLC,119,4,,,"{span 02 fe01 17 08}Modiliani, Spellbinder",42,{span 02 fe01 17 08},"Modiliani, Hechicero"
+event/chapter/event_data/character_names.xlc,XLC,120,4,,,"{span 04 1201 17 08}Moldova, Necroprentice",42,{span 04 1201 17 08},"Moldova, Aprendiz de Nigromante"
+event/chapter/event_data/character_names.xlc,XLC,121,4,,,{span 02 8201 0b 08}Sir Derain,30,{span 02 8201 0b 08},Sir Derain
+event/chapter/event_data/character_names.xlc,XLC,122,4,,,"{span 02 fc01 15 08}Ramidos, Spellbinder",40,{span 02 fc01 15 08},"Ramidos, Hechicero"
+event/chapter/event_data/character_names.xlc,XLC,123,4,,,{span 02 7201 0a 08}Sir Bolis,29,{span 02 7201 0a 08},Sir Bolis
+event/chapter/event_data/character_names.xlc,XLC,124,4,,,{span 02 e201 11 08}The Mage LeRozza,36,{span 02 e201 11 08},El Mago LeRozza
+event/chapter/event_data/character_names.xlc,XLC,125,4,,,{span 02 7a01 0a 08}Sir Grion,29,{span 02 7a01 0a 08},Sir Grion
+event/chapter/event_data/character_names.xlc,XLC,126,4,,,{span 02 d401 11 08}The Bandit Lobos,36,{span 02 d401 11 08},El Bandido Lobos
+event/chapter/event_data/character_names.xlc,XLC,127,4,,,{span 02 bc01 0f 08}Decurion Vance,34,{span 02 bc01 0f 08},Decurión Vance
+event/chapter/event_data/character_names.xlc,XLC,128,4,,,{span 04 0401 15 08}The Cockatrice Banga,40,{span 04 0401 15 08},La Cocatriz Banga
+event/chapter/event_data/character_names.xlc,XLC,129,4,,,{span 04 0601 15 08}The Cockatrice Zanga,40,{span 04 0601 15 08},La Cocatriz Zanga
+event/chapter/event_data/character_names.xlc,XLC,130,4,,,{span 04 0e01 16 08}Commander Apollinaire,41,{span 04 0e01 16 08},Comandante Apollinaire
+event/chapter/event_data/character_names.xlc,XLC,131,4,,,"{span 04 2c01 19 08}Cassandra, Necroprentice",44,{span 04 2c01 19 08},"Cassandra, Aprendiz de Nigromante"
+event/chapter/event_data/character_names.xlc,XLC,132,4,,,{span 02 ec01 13 08}Footman Alessandro,38,{span 02 ec01 13 08},Soldado Alessandro
+event/chapter/event_data/character_names.xlc,XLC,133,4,,,{span 02 dc01 11 08}The Bowmaid Sara,36,{span 02 dc01 11 08},La Arquera Sara
+event/chapter/event_data/character_names.xlc,XLC,134,4,,,{span 02 8a01 0c 08}Sir Voltare,31,{span 02 8a01 0c 08},Sir Voltare
