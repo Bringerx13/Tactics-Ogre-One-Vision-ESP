@@ -3988,3 +3988,53 @@ WarrenReport/WarrenReportText/4.xlc,XLC,1,4,,,{span 02 a001 0d 08}Anchor Point,3
 WarrenReport/WarrenReportText/4.xlc,XLC,0,12,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
 WarrenReport/WarrenReportText/4.xlc,XLC,0,20,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
 WarrenReport/WarrenReportText/4.xlc,XLC,1,20,,,"{span 10 d803 34 08}You can replay the story from this point while maintaining your current party and levels. However, you cannot jump to an anchor point when you have DECEASED units in your party.",197,{span 10 d803 34 08},"Puedes volver a jugar la historia desde este punto y conservar tu grupo actual y sus niveles. Sin embargo, no puedes saltar a un punto de anclaje si tienes unidades MUERTAS en tu grupo."
+battle/battle_data_release/battle_death_messages.xlc,XLC,0,0,,,{span 02 6041 08 08}{np}nothing,31,{np} \| {span 02 6041 08 08},{np}nada
+battle/battle_data_release/battle_death_messages.xlc,XLC,0,4,,,{span 02 6041 08 08}{np}nothing,31,{np} \| {span 02 6041 08 08},{np}nada
+battle/battle_data_release/battle_skill_messages.xlc,XLC,281,0,,,{np}Sorry {w}in {w}advance {w}for {w}any...breakage.,52,{np} \| {w} \| {w} \| {w} \| {w},{np}Perdón {w}de {w}antemano {w}por {w}cualquier...desperfecto.
+battle/battle_data_release/battle_skill_messages.xlc,XLC,282,0,,,"{np}If {w}you {w}thought {w}you {w}couldn't {w}be {w}any {w}more {w}envious {w}of {w}me, {w}you {w}thought {w}wrong.",116,{np} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w},"{np}Si {w}creías {w}que {w}ya {w}no {w}podías {w}sentir {w}aún {w}más {w}envidia {w}de {w}mí, {w}te {w}equivocabas."
+battle/battle_data_release/battle_skill_messages.xlc,XLC,283,0,,,"{np}You {w}still {w}need {w}me, {w}I {w}can {w}tell. {w}Don't {w}beg...it's {w}so {w}unbecoming.",96,{np} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w},"{np}Todavía {w}me {w}necesitas, {w}puedo {w}notarlo. {w}No {w}suplices... {w}es {w}algo {w}tan {w}impropio de ti."
+battle/battle_data_release/battle_skill_messages.xlc,XLC,284,0,,,"{np}Sometimes {w}it's {w}good {w}to {w}really {w}let {w}yourself {w}go, {w}no?",78,{np} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w} \| {w},"{np}A {w}veces {w}es {w}bueno {w}dejarse {w}llevar {w}de verdad, {w}¿no {w}te parece?"
+battle/battle_data_release/random_character_names.xlc,XLC,1,0,,,{span 02 5601 06 08}Denam,25,{span 02 5601 06 08},Denam
+battle/battle_data_release/random_character_names.xlc,XLC,2,0,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},Vyce
+battle/battle_data_release/random_character_names.xlc,XLC,3,0,,,{span 02 5c01 07 08}Catiua,26,{span 02 5c01 07 08},Catiua
+battle/battle_data_release/random_character_names.xlc,XLC,4,0,,,{span 02 7201 09 08}Lanselot,28,{span 02 7201 09 08},Lanselot
+battle/battle_data_release/random_character_names.xlc,XLC,5,0,,,{span 02 6401 07 08}Warren,26,{span 02 6401 07 08},Warren
+battle/battle_data_release/random_character_names.xlc,XLC,6,0,,,{span 02 7401 08 08}Canopus,27,{span 02 7401 08 08},Canopus
+battle/battle_data_release/random_character_names.xlc,XLC,7,0,,,{span 02 5e01 07 08}Mirdyn,26,{span 02 5e01 07 08},Mirdyn
+battle/battle_data_release/random_character_names.xlc,XLC,8,0,,,{span 02 5a01 07 08}Gildas,26,{span 02 5a01 07 08},Gildas
+battle/battle_data_release/random_character_names.xlc,XLC,9,0,,,{span 02 5801 06 08}Cerya,25,{span 02 5801 06 08},Cerya
+battle/battle_data_release/random_character_names.xlc,XLC,10,0,,,{span 02 5e01 07 08}Sherri,26,{span 02 5e01 07 08},Sherri
+battle/battle_data_release/random_character_names.xlc,XLC,11,0,,,{span 02 6001 08 08}Cistina,27,{span 02 6001 08 08},Cistina
+battle/battle_data_release/random_character_names.xlc,XLC,12,0,,,{span 02 5801 07 08}Olivya,26,{span 02 5801 07 08},Olivya
+battle/battle_data_release/random_character_names.xlc,XLC,13,0,,,{span 02 5601 06 08}Deneb,25,{span 02 5601 06 08},Deneb
+battle/battle_data_release/random_character_names.xlc,XLC,15,0,,,{span 02 7001 08 08}Andoras,27,{span 02 7001 08 08},Andoras
+battle/battle_data_release/random_character_names.xlc,XLC,16,0,,,{span 02 7201 09 08}Donnalto,28,{span 02 7201 09 08},Donnalto
+battle/battle_data_release/random_character_names.xlc,XLC,17,0,,,{span 02 6401 08 08}Folcurt,27,{span 02 6401 08 08},Folcurt
+battle/battle_data_release/random_character_names.xlc,XLC,18,0,,,{span 02 5201 06 08}Bayin,25,{span 02 5201 06 08},Bayin
+battle/battle_data_release/random_character_names.xlc,XLC,19,0,,,{span 02 6c01 09 08}Arycelle,28,{span 02 6c01 09 08},Arycelle
+battle/battle_data_release/random_character_names.xlc,XLC,20,0,,,{span 02 6a01 08 08}Hobyrim,27,{span 02 6a01 08 08},Hobyrim
+battle/battle_data_release/random_character_names.xlc,XLC,21,0,,,{span 02 5e01 07 08}Jeunan,26,{span 02 5e01 07 08},Jeunan
+battle/battle_data_release/random_character_names.xlc,XLC,22,0,,,{span 02 6a01 08 08}Ocionne,27,{span 02 6a01 08 08},Ocionne
+battle/battle_data_release/random_character_names.xlc,XLC,23,0,,,{span 02 5a01 06 08}Xapan,25,{span 02 5a01 06 08},Xapan
+battle/battle_data_release/random_character_names.xlc,XLC,24,0,,,{span 02 6201 08 08}Dievold,27,{span 02 6201 08 08},Dievold
+battle/battle_data_release/random_character_names.xlc,XLC,25,0,,,{span 02 5801 07 08}Oelias,26,{span 02 5801 07 08},Oelias
+battle/battle_data_release/random_character_names.xlc,XLC,26,0,,,{span 02 5e01 07 08}Rudlum,26,{span 02 5e01 07 08},Rudlum
+battle/battle_data_release/random_character_names.xlc,XLC,27,0,,,{span 02 5a01 06 08}Ganpp,25,{span 02 5a01 06 08},Ganpp
+battle/battle_data_release/random_character_names.xlc,XLC,28,0,,,{span 02 4201 06 08}Iuria,25,{span 02 4201 06 08},Iuria
+battle/battle_data_release/random_character_names.xlc,XLC,29,0,,,{span 02 7401 09 08}Cressida,28,{span 02 7401 09 08},Cressida
+battle/battle_data_release/random_character_names.xlc,XLC,31,0,,,{span 02 4e01 06 08}Lindl,25,{span 02 4e01 06 08},Lindl
+battle/battle_data_release/random_character_names.xlc,XLC,32,0,,,{span 02 6201 07 08}Leonar,26,{span 02 6201 07 08},Leonar
+battle/battle_data_release/random_character_names.xlc,XLC,33,0,,,{span 02 6e01 08 08}Ravness,27,{span 02 6e01 08 08},Ravness
+battle/battle_data_release/random_character_names.xlc,XLC,34,0,,,{span 02 7401 09 08}Azelstan,28,{span 02 7401 09 08},Azelstan
+battle/battle_data_release/random_character_names.xlc,XLC,40,0,,,{span 02 7e01 0a 08}Punkinryk,29,{span 02 7e01 0a 08},Calabaryk
+battle/battle_data_release/random_character_names.xlc,XLC,41,0,,,{span 02 9a01 0c 08}Punkinzepan,31,{span 02 9a01 0c 08},Calabazepan
+battle/battle_data_release/random_character_names.xlc,XLC,42,0,,,{span 02 8201 0b 08}Punkinmila,30,{span 02 8201 0b 08},Calabamila
+battle/battle_data_release/random_character_names.xlc,XLC,43,0,,,{span 02 9601 0d 08}Punkinmilian,32,{span 02 9601 0d 08},Calabamilian
+battle/battle_data_release/random_character_names.xlc,XLC,44,0,,,{span 02 be01 10 08}Punkinstopheles,35,{span 02 be01 10 08},Calabastopheles
+battle/battle_data_release/random_character_names.xlc,XLC,45,0,,,{span 02 8e01 0b 08}Punkinmunt,30,{span 02 8e01 0b 08},Calabamunt
+battle/battle_data_release/random_character_names.xlc,XLC,46,0,,,{span 02 7001 09 08}Punkinka,28,{span 02 7001 09 08},Calabaka
+battle/battle_data_release/random_character_names.xlc,XLC,47,0,,,{span 02 9001 0c 08}Punkinovich,31,{span 02 9001 0c 08},Calabaovich
+battle/battle_data_release/random_character_names.xlc,XLC,48,0,,,{span 02 7c01 0a 08}Punkinoff,29,{span 02 7c01 0a 08},Calabaoff
+battle/battle_data_release/random_character_names.xlc,XLC,49,0,,,{span 02 9e01 0c 08}Punkinmeyer,31,{span 02 9e01 0c 08},Calabameyer
+battle/battle_data_release/random_character_names.xlc,XLC,50,0,,,{span 02 7e01 0a 08}Punkinorz,29,{span 02 7e01 0a 08},Calabaorz
+battle/battle_data_release/random_character_names.xlc,XLC,51,0,,,{span 02 7201 09 08}Lanselot,28,{span 02 7201 09 08},Lanselot
