@@ -1889,7 +1889,7 @@ WarrenReport/WarrenReport/people.xlc,XLC,1590,12,,,{span 02 ba01 10 08}Sibyl Jos
 WarrenReport/WarrenReport/people.xlc,XLC,1591,12,,,{span 02 ba01 10 08}Sibyl Josephine,35,{span 02 ba01 10 08},Sibila Josephine
 WarrenReport/WarrenReport/people.xlc,XLC,1597,12,,,{span 02 7201 09 08}Sir Leon,28,{span 02 7201 09 08},Sir Leon
 WarrenReport/WarrenReport/people.xlc,XLC,1604,12,,,{span 02 7e01 0b 08}Sir Alfred,30,{span 02 7e01 0b 08},Sir Alfred
-WarrenReport/WarrenReport/people.xlc,XLC,1611,12,,,{span 02 f601 15 08}Punkin the Bewitched,40,{span 02 f601 15 08},Punkin la Hechizada
+WarrenReport/WarrenReport/people.xlc,XLC,1611,12,,,{span 02 f601 15 08}Punkin the Bewitched,40,{span 02 f601 15 08},Calaba la Embrujada
 WarrenReport/WarrenReport/people.xlc,XLC,1618,12,,,{span 02 d001 11 08}The Wicce Sirene,36,{span 02 d001 11 08},La Wicca Sirene
 WarrenReport/WarrenReport/people.xlc,XLC,1625,12,,,{span 02 e201 13 08}The Spirit Rackham,38,{span 02 e201 13 08},El Espíritu Rackham
 WarrenReport/WarrenReport/people.xlc,XLC,1632,12,,,{span 02 7a01 0a 08}extra row,29,{span 02 7a01 0a 08},fila adicional
@@ -3033,7 +3033,7 @@ WarrenReport/WarrenReportText/1.xlc,XLC,235,12,,,{span 0b 2442 2b 18 0a243031303
 WarrenReport/WarrenReportText/1.xlc,XLC,236,12,,,{span 0b 8c43 0b 20 0a8c30313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} The Necromancer Nybeth\n\n{hero} encounters the Necromancer Nybeth. Nybeth has used Leonar and Xaebos in his nefarious experiments.,210,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {span 0b 8c43 0b 20 0a8c30313030},{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} El Nigromante Nybeth\n\n{hero} se encuentra con el nigromante Nybeth. Nybeth ha utilizado a Leonar y Xaebos en sus perversos experimentos.
 WarrenReport/WarrenReportText/1.xlc,XLC,237,12,,,{span 0d 1643 2b 20 0c1630313130}{bEF}{bF0}{bF1}{bF2} The Dark Knights\n{bF3}{bF4}{bF5}{bF6} The Dark Knights Volaq and Ozma\n\n{hero} clashes with Dark Knight commanders at Krysaro. Dame Ozma notices the swordsman Hobyrim among the ranks of {order}.,249,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {order} \| {span 0d 1643 2b 20 0c1630313130},{bEF}{bF0}{bF1}{bF2} Los Caballeros Oscuros\n{bF3}{bF4}{bF5}{bF6} Los Caballeros Oscuros Volaq y Ozma\n\n{hero} se enfrenta a los comandantes de los Caballeros Oscuros en Krysaro. Dama Ozma repara en la presencia del espadachín Hobyrim entre las filas de {order}.
 WarrenReport/WarrenReportText/1.xlc,XLC,238,12,,,"{span 0d 8243 23 20 0c8230313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} The Spirit Rackham\n\n{hero} reached the lowest level of the Pirate's Graveyard. A spirit appeared there in the form of Azelstan, blocking the way forward.",234,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {span 0d 8243 23 20 0c8230313030},{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} El Espíritu Rackham\n\n{hero} llegó al nivel más profundo del Cementerio de los Piratas. Allí apareció un espíritu con la forma de Azelstan que le cerró el paso.
-WarrenReport/WarrenReportText/1.xlc,XLC,239,12,,,"{span 0b 3a43 06 20 0a3a30313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} Punkin the Bewitched\n\nPunkin, leader of the homunculi created by Deneb, appeared before {hero} in the form of Deneb herself.",205,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {span 0b 3a43 06 20 0a3a30313030},"{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} Punkin la Hechizada\n\nPunkin, líder de los homúnculos creados por Deneb, se presentó ante {hero} con la apariencia de la propia Deneb."
+WarrenReport/WarrenReportText/1.xlc,XLC,239,12,,,"{span 0b 3a43 06 20 0a3a30313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} Punkin the Bewitched\n\nPunkin, leader of the homunculi created by Deneb, appeared before {hero} in the form of Deneb herself.",205,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {span 0b 3a43 06 20 0a3a30313030},"{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} Punkin la Embrujada\n\nPunkin, líder de los homúnculos creados por Deneb, se presentó ante {hero} con la apariencia de la propia Deneb."
 WarrenReport/WarrenReportText/1.xlc,XLC,241,12,,,"{span 09 fc42 29 18 08fc30313030}{bEF}{bF0}{bF1}{bF2} Pirates\n\n{hero}, Canopus, and Sir Gildas skirmish with pirates while seeking out the songstress of Omish.",160,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {hero} \| {span 09 fc42 29 18 08fc30313030},"{bEF}{bF0}{bF1}{bF2} Piratas\n\n{hero}, Canopus y Sir Gildas se enfrentan en una escaramuza con piratas mientras buscan a la Cantante de Omish."
 WarrenReport/WarrenReportText/1.xlc,XLC,242,12,,,"{span 07 8a42 1b 20 068a30313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} The Wicce Sirene\n\n{hero} battles the Wicce Sirene to save Canopus's sister, Iuria.",163,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {hero} \| {span 07 8a42 1b 20 068a30313030},"{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} La Wicca Sirene\n\n{hero} se enfrenta a la Wicca Sirene para salvar a Iuria, la hermana de Canopus."
 WarrenReport/WarrenReportText/1.xlc,XLC,243,12,,,"{span 0d 1043 1f 28 0c1030313030}{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} King Rodrick\n{bF7}{bF8}{bF9}{bFA} Warren Omon\n\n{hero} is confronted by King Rodrick, who has been corrupted by the Dark, after opening the Chaos Gate to save Warren.",247,{bEF} \| {bF0} \| {bF1} \| {bF2} \| {bF3} \| {bF4} \| {bF5} \| {bF6} \| {bF7} \| {bF8} \| {bF9} \| {bFA} \| {hero} \| {span 0d 1043 1f 28 0c1030313030},"{bEF}{bF0}{bF1}{bF2} ???\n{bF3}{bF4}{bF5}{bF6} Rey Rodrick\n{bF7}{bF8}{bF9}{bFA} Warren Omon\n\n{hero} se enfrenta al rey Rodrick, corrompido por la Oscuridad tras abrir la Puerta del Caos para salvar a Warren."
@@ -5588,3 +5588,103 @@ event/chapter/event_data/character_names.xlc,XLC,131,4,,,"{span 04 2c01 19 08}Ca
 event/chapter/event_data/character_names.xlc,XLC,132,4,,,{span 02 ec01 13 08}Footman Alessandro,38,{span 02 ec01 13 08},Soldado Alessandro
 event/chapter/event_data/character_names.xlc,XLC,133,4,,,{span 02 dc01 11 08}The Bowmaid Sara,36,{span 02 dc01 11 08},La Arquera Sara
 event/chapter/event_data/character_names.xlc,XLC,134,4,,,{span 02 8a01 0c 08}Sir Voltare,31,{span 02 8a01 0c 08},Sir Voltare
+event/chapter/event_data/character_names.xlc,XLC,135,4,,,{span 02 9401 0e 08}Sibyl Felicia,33,{span 02 9401 0e 08},Sibila Felicia
+event/chapter/event_data/character_names.xlc,XLC,136,4,,,"{span 02 f601 14 08}Chamos, Spellbinder",39,{span 02 f601 14 08},"Chamos, Hechicero"
+event/chapter/event_data/character_names.xlc,XLC,137,4,,,{span 04 2c01 18 08}The Mage-Knight Phaesta,43,{span 04 2c01 18 08},La Caballera Maga Phaesta
+event/chapter/event_data/character_names.xlc,XLC,138,4,,,{span 02 8401 0a 08}Sir Tamuz,29,{span 02 8401 0a 08},Sir Tamuz
+event/chapter/event_data/character_names.xlc,XLC,139,4,,,{span 02 9201 0c 08}Young Child,31,{span 02 9201 0c 08},Niño Pequeño
+event/chapter/event_data/character_names.xlc,XLC,140,4,,,{span 04 2801 17 08}The Mage-Knight Mimose,42,{span 04 2801 17 08},La Caballera Maga Mimose
+event/chapter/event_data/character_names.xlc,XLC,141,4,,,"{span 02 cc01 11 08}Cielo, Mercenary",36,{span 02 cc01 11 08},"Cielo, Mercenario"
+event/chapter/event_data/character_names.xlc,XLC,142,4,,,{span 02 e201 11 08}The Mage Georges,36,{span 02 e201 11 08},El Mago Georges
+event/chapter/event_data/character_names.xlc,XLC,143,4,,,{span 02 9a01 0e 08}Sibyl Jilessa,33,{span 02 9a01 0e 08},Sibila Jilessa
+event/chapter/event_data/character_names.xlc,XLC,144,4,,,"{span 04 0e01 16 08}Reymos, Necroprentice",41,{span 04 0e01 16 08},"Reymos, Aprendiz de Nigromante"
+event/chapter/event_data/character_names.xlc,XLC,145,4,,,{span 02 de01 12 08}Berda the Younger,37,{span 02 de01 12 08},Berda el Joven
+event/chapter/event_data/character_names.xlc,XLC,146,4,,,{span 02 da01 11 08}Obda the Younger,36,{span 02 da01 11 08},Obda el Joven
+event/chapter/event_data/character_names.xlc,XLC,147,4,,,{span 02 dc01 12 08}The Pirate Ragnar,37,{span 02 dc01 12 08},El Pirata Ragnar
+event/chapter/event_data/character_names.xlc,XLC,148,4,,,{span 02 ba01 10 08}Sibyl Josephine,35,{span 02 ba01 10 08},Sibila Josephine
+event/chapter/event_data/character_names.xlc,XLC,149,4,,,{span 02 7201 09 08}Sir Leon,28,{span 02 7201 09 08},Sir Leon
+event/chapter/event_data/character_names.xlc,XLC,150,4,,,{span 02 7e01 0b 08}Sir Alfred,30,{span 02 7e01 0b 08},Sir Alfred
+event/chapter/event_data/character_names.xlc,XLC,151,4,,,{span 02 f601 15 08}Punkin the Bewitched,40,{span 02 f601 15 08},Calaba la Embrujada
+event/chapter/event_data/character_names.xlc,XLC,152,4,,,{span 02 e201 13 08}The Spirit Rackham,38,{span 02 e201 13 08},El Espíritu Rackham
+event/chapter/event_data/character_names.xlc,XLC,153,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,154,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,155,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,156,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,157,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,158,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
+event/chapter/event_data/character_names.xlc,XLC,159,4,,,{span 02 f201 12 08}Ruddy-cheeked Man,37,{span 02 f201 12 08},Hombre de Mejillas Coloradas
+event/chapter/event_data/character_names.xlc,XLC,160,4,,,{span 02 9e01 0c 08}Drunken Man,31,{span 02 9e01 0c 08},Hombre Borracho
+event/chapter/event_data/character_names.xlc,XLC,161,4,,,{span 02 9e01 0c 08}Drunken Man,31,{span 02 9e01 0c 08},Hombre Borracho
+event/chapter/event_data/character_names.xlc,XLC,162,4,,,{span 02 9801 0d 08}Peculiar Boy,32,{span 02 9801 0d 08},Muchacho Extraño
+event/chapter/event_data/character_names.xlc,XLC,163,4,,,{span 02 d001 11 08}The Wicce Sirene,36,{span 02 d001 11 08},La Wicca Sirene
+event/chapter/event_data/character_names.xlc,XLC,164,4,,,{span 02 da01 11 08}Omish Songstress,36,{span 02 da01 11 08},La Cantante de Omish
+event/chapter/event_data/character_names.xlc,XLC,165,4,,,{span 02 ce01 10 08}The Rogue Diego,35,{span 02 ce01 10 08},El Pícaro Diego
+event/chapter/event_data/character_names.xlc,XLC,166,4,,,{span 02 a001 0e 08}Angelic Being,33,{span 02 a001 0e 08},Ser Angélico
+event/chapter/event_data/character_names.xlc,XLC,167,4,,,{span 02 cc01 11 08}Partisan Warrior,36,{span 02 cc01 11 08},Guerrero Partisano
+event/chapter/event_data/character_names.xlc,XLC,168,4,,,{span 02 c801 10 08}Temple Guardian,35,{span 02 c801 10 08},Guardián del Templo
+event/chapter/event_data/character_names.xlc,XLC,169,4,,,{span 02 6801 07 08}Seaman,26,{span 02 6801 07 08},Marinero
+event/chapter/event_data/character_names.xlc,XLC,170,4,,,{span 02 5401 07 08}Pirate,26,{span 02 5401 07 08},Pirata
+event/chapter/event_data/character_names.xlc,XLC,171,4,,,{span 02 6601 07 08}Seadog,26,{span 02 6601 07 08},Lobo de Mar
+event/chapter/event_data/character_names.xlc,XLC,172,4,,,{span 02 d601 11 08}Resistance Scout,36,{span 02 d601 11 08},Explorador de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,173,4,,,{span 02 cc01 11 08}Voice from Below,36,{span 02 cc01 11 08},Voz desde las Profundidades
+event/chapter/event_data/character_names.xlc,XLC,174,4,,,{span 02 6e01 09 08}Partisan,28,{span 02 6e01 09 08},Partisano
+event/chapter/event_data/character_names.xlc,XLC,175,4,,,{span 02 aa01 0e 08}Royal Soldier,33,{span 02 aa01 0e 08},Soldado Real
+event/chapter/event_data/character_names.xlc,XLC,176,4,,,{span 02 9601 0c 08}Order Elder,31,{span 02 9601 0c 08},Anciano de la Orden
+event/chapter/event_data/character_names.xlc,XLC,177,4,,,{span 02 7601 09 08}Magister,28,{span 02 7601 09 08},Maestre
+event/chapter/event_data/character_names.xlc,XLC,178,4,,,{span 02 7e01 09 08}Champion,28,{span 02 7e01 09 08},Campeón
+event/chapter/event_data/character_names.xlc,XLC,179,4,,,{span 02 7601 09 08}Emissary,28,{span 02 7601 09 08},Emisario
+event/chapter/event_data/character_names.xlc,XLC,180,4,,,{span 02 5801 07 08}Sailor,26,{span 02 5801 07 08},Marinero
+event/chapter/event_data/character_names.xlc,XLC,181,4,,,{span 02 bc01 10 08}Valerian Knight,35,{span 02 bc01 10 08},Caballero Valeriano
+event/chapter/event_data/character_names.xlc,XLC,182,4,,,{span 02 6a01 08 08}Hobyrim,27,{span 02 6a01 08 08},Hobyrim
+event/chapter/event_data/character_names.xlc,XLC,183,4,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},Espectro
+event/chapter/event_data/character_names.xlc,XLC,184,4,,,{span 02 aa01 0c 08}Young Woman,31,{span 02 aa01 0c 08},Mujer Joven
+event/chapter/event_data/character_names.xlc,XLC,185,4,,,{span 02 8801 0a 08}Young Man,29,{span 02 8801 0a 08},Hombre Joven
+event/chapter/event_data/character_names.xlc,XLC,186,4,,,{span 02 b001 0e 08}Charming Girl,33,{span 02 b001 0e 08},Muchacha Encantadora
+event/chapter/event_data/character_names.xlc,XLC,187,4,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,188,4,,,{span 04 1001 17 08}Man Staring at the Sea,42,{span 04 1001 17 08},Hombre que Contempla el Mar
+event/chapter/event_data/character_names.xlc,XLC,189,4,,,{span 02 aa01 0c 08}Young Woman,31,{span 02 aa01 0c 08},Mujer Joven
+event/chapter/event_data/character_names.xlc,XLC,190,4,,,{span 04 3e01 1a 08}Former Bakram Spellbinder,45,{span 04 3e01 1a 08},Antiguo Hechicero Bakram
+event/chapter/event_data/character_names.xlc,XLC,191,4,,,{span 04 0c01 15 08}Former Bakram Knight,40,{span 04 0c01 15 08},Antiguo Caballero Bakram
+event/chapter/event_data/character_names.xlc,XLC,192,4,,,{span 02 8201 0a 08}Gruff Man,29,{span 02 8201 0a 08},Hombre Huraño
+event/chapter/event_data/character_names.xlc,XLC,193,4,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,194,4,,,{span 02 a601 0d 08}Shouting Man,32,{span 02 a601 0d 08},Hombre que Grita
+event/chapter/event_data/character_names.xlc,XLC,195,4,,,{span 02 b001 0e 08}Abuna Brantyn,33,{span 02 b001 0e 08},Abuna Brantyn
+event/chapter/event_data/character_names.xlc,XLC,196,4,,,{span 02 dc01 13 08}Sibyl of the Order,38,{span 02 dc01 13 08},Sibila de la Orden
+event/chapter/event_data/character_names.xlc,XLC,197,4,,,{span 02 a401 0c 08}Pious Woman,31,{span 02 a401 0c 08},Mujer Devota
+event/chapter/event_data/character_names.xlc,XLC,198,4,,,{span 02 6201 06 08}Woman,25,{span 02 6201 06 08},Mujer
+event/chapter/event_data/character_names.xlc,XLC,199,4,,,{span 02 ec01 14 08}Knight of the Order,39,{span 02 ec01 14 08},Caballero de la Orden
+event/chapter/event_data/character_names.xlc,XLC,200,4,,,{span 02 8201 0a 08}Attendant,29,{span 02 8201 0a 08},Asistente
+event/chapter/event_data/character_names.xlc,XLC,201,4,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},Caballero
+event/chapter/event_data/character_names.xlc,XLC,202,4,,,{span 02 6001 07 08}Winged,26,{span 02 6001 07 08},Alado
+event/chapter/event_data/character_names.xlc,XLC,203,4,,,{span 02 ae01 0d 08}Wizened Mage,32,{span 02 ae01 0d 08},Mago Anciano
+event/chapter/event_data/character_names.xlc,XLC,204,4,,,{span 02 a601 0d 08}Young Knight,32,{span 02 a601 0d 08},Joven Caballero
+event/chapter/event_data/character_names.xlc,XLC,205,4,,,{span 02 be01 0f 08}Bearded Knight,34,{span 02 be01 0f 08},Caballero Barbudo
+event/chapter/event_data/character_names.xlc,XLC,206,4,,,{span 02 e201 13 08}Galgastani Soldier,38,{span 02 e201 13 08},Soldado Galgastano
+event/chapter/event_data/character_names.xlc,XLC,207,4,,,{span 02 6c01 08 08}Warrior,27,{span 02 6c01 08 08},Guerrero
+event/chapter/event_data/character_names.xlc,XLC,208,4,,,{span 02 9801 0c 08}Dark Knight,31,{span 02 9801 0c 08},Caballero Oscuro
+event/chapter/event_data/character_names.xlc,XLC,209,4,,,{span 02 6e01 08 08}Old Man,27,{span 02 6e01 08 08},Anciano
+event/chapter/event_data/character_names.xlc,XLC,210,4,,,{span 02 9001 0a 08}Old Woman,29,{span 02 9001 0a 08},Anciana
+event/chapter/event_data/character_names.xlc,XLC,211,4,,,{span 02 d001 11 08}False Galgastani,36,{span 02 d001 11 08},Falso Galgastano
+event/chapter/event_data/character_names.xlc,XLC,212,4,,,{span 02 6c01 09 08}Arycelle,28,{span 02 6c01 09 08},Arycelle
+event/chapter/event_data/character_names.xlc,XLC,213,4,,,{span 02 ba01 0f 08}Captive Knight,34,{span 02 ba01 0f 08},Caballero Cautivo
+event/chapter/event_data/character_names.xlc,XLC,214,4,,,{span 02 6c01 07 08}Bowman,26,{span 02 6c01 07 08},Arquero
+event/chapter/event_data/character_names.xlc,XLC,215,4,,,{span 04 2201 19 08}Liberation Front Warrior,44,{span 04 2201 19 08},Combatiente del Frente de Liberación
+event/chapter/event_data/character_names.xlc,XLC,216,4,,,{span 02 ba01 0f 08}Young Walister,34,{span 02 ba01 0f 08},Joven Walister
+event/chapter/event_data/character_names.xlc,XLC,217,4,,,{span 02 c401 0f 08}Walister Woman,34,{span 02 c401 0f 08},Mujer Walister
+event/chapter/event_data/character_names.xlc,XLC,218,4,,,{span 02 be01 0f 08}Old Galgastani,34,{span 02 be01 0f 08},Galgastano Anciano
+event/chapter/event_data/character_names.xlc,XLC,219,4,,,{span 02 5401 06 08}Abuna,25,{span 02 5401 06 08},Abuna
+event/chapter/event_data/character_names.xlc,XLC,220,4,,,{span 02 e401 13 08}Resistance Soldier,38,{span 02 e401 13 08},Soldado de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,221,4,,,{span 02 8801 0a 08}Messenger,29,{span 02 8801 0a 08},Mensajero
+event/chapter/event_data/character_names.xlc,XLC,222,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballero Comandante
+event/chapter/event_data/character_names.xlc,XLC,223,4,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,224,4,,,{span 02 dc01 12 08}Resistance Knight,37,{span 02 dc01 12 08},Caballero de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,225,4,,,{span 02 d801 11 08}Resistance Magus,36,{span 02 d801 11 08},Mago de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,226,4,,,{span 02 a401 0c 08}Pious Woman,31,{span 02 a401 0c 08},Mujer Devota
+event/chapter/event_data/character_names.xlc,XLC,227,4,,,{span 02 d001 11 08}Resistance Sibyl,36,{span 02 d001 11 08},Sibila de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,228,4,,,{span 02 aa01 0f 08}Familiar Voice,34,{span 02 aa01 0f 08},Voz Familiar
+event/chapter/event_data/character_names.xlc,XLC,229,4,,,{span 02 da01 12 08}Galgastani Knight,37,{span 02 da01 12 08},Caballero Galgastano
+event/chapter/event_data/character_names.xlc,XLC,230,4,,,{span 02 b601 0e 08}Bakram Knight,33,{span 02 b601 0e 08},Caballero Bakram
+event/chapter/event_data/character_names.xlc,XLC,231,4,,,{span 02 b201 0d 08}Bakram Magus,32,{span 02 b201 0d 08},Mago Bakram
+event/chapter/event_data/character_names.xlc,XLC,232,4,,,{span 02 d201 11 08}Resistance Wicce,36,{span 02 d201 11 08},Wicca de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,233,4,,,{span 02 dc01 12 08}Resistance Archer,37,{span 02 dc01 12 08},Arquero de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,234,4,,,{span 02 ea01 13 08}Resistance Warrior,38,{span 02 ea01 13 08},Guerrero de la Resistencia
