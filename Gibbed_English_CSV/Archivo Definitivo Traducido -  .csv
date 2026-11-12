@@ -5888,3 +5888,103 @@ event/chapter/event_data/character_names.xlc,XLC,175,8,,,{span 02 aa01 0e 08}Roy
 event/chapter/event_data/character_names.xlc,XLC,176,8,,,{span 02 9601 0c 08}Order Elder,31,{span 02 9601 0c 08},Anciano de la Orden
 event/chapter/event_data/character_names.xlc,XLC,177,8,,,{span 02 7601 09 08}Magister,28,{span 02 7601 09 08},Maestre
 event/chapter/event_data/character_names.xlc,XLC,178,8,,,{span 02 7e01 09 08}Champion,28,{span 02 7e01 09 08},Campeón
+event/chapter/event_data/character_names.xlc,XLC,179,8,,,{span 02 7601 09 08}Emissary,28,{span 02 7601 09 08},Emisario
+event/chapter/event_data/character_names.xlc,XLC,180,8,,,{span 02 5801 07 08}Sailor,26,{span 02 5801 07 08},Marinero
+event/chapter/event_data/character_names.xlc,XLC,181,8,,,{span 02 bc01 10 08}Valerian Knight,35,{span 02 bc01 10 08},Caballero Valeriano
+event/chapter/event_data/character_names.xlc,XLC,182,8,,,{span 02 6a01 08 08}Hobyrim,27,{span 02 6a01 08 08},Hobyrim
+event/chapter/event_data/character_names.xlc,XLC,183,8,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},Espectro
+event/chapter/event_data/character_names.xlc,XLC,184,8,,,{span 02 aa01 0c 08}Young Woman,31,{span 02 aa01 0c 08},Mujer Joven
+event/chapter/event_data/character_names.xlc,XLC,185,8,,,{span 02 8801 0a 08}Young Man,29,{span 02 8801 0a 08},Hombre Joven
+event/chapter/event_data/character_names.xlc,XLC,186,8,,,{span 02 b001 0e 08}Charming Girl,33,{span 02 b001 0e 08},Muchacha Encantadora
+event/chapter/event_data/character_names.xlc,XLC,187,8,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,188,8,,,{span 04 1001 17 08}Man Staring at the Sea,42,{span 04 1001 17 08},Hombre que Contempla el Mar
+event/chapter/event_data/character_names.xlc,XLC,189,8,,,{span 02 aa01 0c 08}Young Woman,31,{span 02 aa01 0c 08},Mujer Joven
+event/chapter/event_data/character_names.xlc,XLC,190,8,,,{span 04 3e01 1a 08}Former Bakram Spellbinder,45,{span 04 3e01 1a 08},Antiguo Hechicero Bakram
+event/chapter/event_data/character_names.xlc,XLC,191,8,,,{span 04 0c01 15 08}Former Bakram Knight,40,{span 04 0c01 15 08},Antiguo Caballero Bakram
+event/chapter/event_data/character_names.xlc,XLC,192,8,,,{span 02 8201 0a 08}Gruff Man,29,{span 02 8201 0a 08},Hombre Huraño
+event/chapter/event_data/character_names.xlc,XLC,193,8,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,194,8,,,{span 02 a601 0d 08}Shouting Man,32,{span 02 a601 0d 08},Hombre que Grita
+event/chapter/event_data/character_names.xlc,XLC,195,8,,,{span 02 6801 08 08}Brantyn,27,{span 02 6801 08 08},Brantyn
+event/chapter/event_data/character_names.xlc,XLC,196,8,,,{span 02 dc01 13 08}Sibyl of the Order,38,{span 02 dc01 13 08},Sibila de la Orden
+event/chapter/event_data/character_names.xlc,XLC,197,8,,,{span 02 a401 0c 08}Pious Woman,31,{span 02 a401 0c 08},Mujer Devota
+event/chapter/event_data/character_names.xlc,XLC,198,8,,,{span 02 6201 06 08}Woman,25,{span 02 6201 06 08},Mujer
+event/chapter/event_data/character_names.xlc,XLC,199,8,,,{span 02 ec01 14 08}Knight of the Order,39,{span 02 ec01 14 08},Caballero de la Orden
+event/chapter/event_data/character_names.xlc,XLC,200,8,,,{span 02 8201 0a 08}Attendant,29,{span 02 8201 0a 08},Asistente
+event/chapter/event_data/character_names.xlc,XLC,201,8,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},Caballero
+event/chapter/event_data/character_names.xlc,XLC,202,8,,,{span 02 6001 07 08}Winged,26,{span 02 6001 07 08},Alado
+event/chapter/event_data/character_names.xlc,XLC,203,8,,,{span 02 ae01 0d 08}Wizened Mage,32,{span 02 ae01 0d 08},Mago Anciano
+event/chapter/event_data/character_names.xlc,XLC,204,8,,,{span 02 a601 0d 08}Young Knight,32,{span 02 a601 0d 08},Joven Caballero
+event/chapter/event_data/character_names.xlc,XLC,205,8,,,{span 02 be01 0f 08}Bearded Knight,34,{span 02 be01 0f 08},Caballero Barbudo
+event/chapter/event_data/character_names.xlc,XLC,206,8,,,{span 02 e201 13 08}Galgastani Soldier,38,{span 02 e201 13 08},Soldado Galgastano
+event/chapter/event_data/character_names.xlc,XLC,207,8,,,{span 02 6c01 08 08}Warrior,27,{span 02 6c01 08 08},Guerrero
+event/chapter/event_data/character_names.xlc,XLC,208,8,,,{span 02 9801 0c 08}Dark Knight,31,{span 02 9801 0c 08},Caballero Oscuro
+event/chapter/event_data/character_names.xlc,XLC,209,8,,,{span 02 6e01 08 08}Old Man,27,{span 02 6e01 08 08},Anciano
+event/chapter/event_data/character_names.xlc,XLC,210,8,,,{span 02 9001 0a 08}Old Woman,29,{span 02 9001 0a 08},Anciana
+event/chapter/event_data/character_names.xlc,XLC,211,8,,,{span 02 d001 11 08}False Galgastani,36,{span 02 d001 11 08},Falso Galgastano
+event/chapter/event_data/character_names.xlc,XLC,212,8,,,{span 02 6c01 09 08}Arycelle,28,{span 02 6c01 09 08},Arycelle
+event/chapter/event_data/character_names.xlc,XLC,213,8,,,{span 02 ba01 0f 08}Captive Knight,34,{span 02 ba01 0f 08},Caballero Cautivo
+event/chapter/event_data/character_names.xlc,XLC,214,8,,,{span 02 6c01 07 08}Bowman,26,{span 02 6c01 07 08},Arquero
+event/chapter/event_data/character_names.xlc,XLC,215,8,,,{span 04 2201 19 08}Liberation Front Warrior,44,{span 04 2201 19 08},Combatiente del Frente de Liberación
+event/chapter/event_data/character_names.xlc,XLC,216,8,,,{span 02 ba01 0f 08}Young Walister,34,{span 02 ba01 0f 08},Joven Walister
+event/chapter/event_data/character_names.xlc,XLC,217,8,,,{span 02 c401 0f 08}Walister Woman,34,{span 02 c401 0f 08},Mujer Walister
+event/chapter/event_data/character_names.xlc,XLC,218,8,,,{span 02 be01 0f 08}Old Galgastani,34,{span 02 be01 0f 08},Galgastano Anciano
+event/chapter/event_data/character_names.xlc,XLC,219,8,,,{span 02 5401 06 08}Abuna,25,{span 02 5401 06 08},Abuna
+event/chapter/event_data/character_names.xlc,XLC,220,8,,,{span 02 e401 13 08}Resistance Soldier,38,{span 02 e401 13 08},Soldado de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,221,8,,,{span 02 8801 0a 08}Messenger,29,{span 02 8801 0a 08},Mensajero
+event/chapter/event_data/character_names.xlc,XLC,222,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballero Comandante
+event/chapter/event_data/character_names.xlc,XLC,223,8,,,{span 02 4001 04 08}Man,23,{span 02 4001 04 08},Hombre
+event/chapter/event_data/character_names.xlc,XLC,224,8,,,{span 02 dc01 12 08}Resistance Knight,37,{span 02 dc01 12 08},Caballero de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,225,8,,,{span 02 d801 11 08}Resistance Magus,36,{span 02 d801 11 08},Mago de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,226,8,,,{span 02 a401 0c 08}Pious Woman,31,{span 02 a401 0c 08},Mujer Devota
+event/chapter/event_data/character_names.xlc,XLC,227,8,,,{span 02 d001 11 08}Resistance Sibyl,36,{span 02 d001 11 08},Sibila de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,228,8,,,{span 02 aa01 0f 08}Familiar Voice,34,{span 02 aa01 0f 08},Voz Familiar
+event/chapter/event_data/character_names.xlc,XLC,229,8,,,{span 02 da01 12 08}Galgastani Knight,37,{span 02 da01 12 08},Caballero Galgastano
+event/chapter/event_data/character_names.xlc,XLC,230,8,,,{span 02 b601 0e 08}Bakram Knight,33,{span 02 b601 0e 08},Caballero Bakram
+event/chapter/event_data/character_names.xlc,XLC,231,8,,,{span 02 b201 0d 08}Bakram Magus,32,{span 02 b201 0d 08},Mago Bakram
+event/chapter/event_data/character_names.xlc,XLC,232,8,,,{span 02 d201 11 08}Resistance Wicce,36,{span 02 d201 11 08},Wicca de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,233,8,,,{span 02 dc01 12 08}Resistance Archer,37,{span 02 dc01 12 08},Arquero de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,234,8,,,{span 02 ea01 13 08}Resistance Warrior,38,{span 02 ea01 13 08},Guerrero de la Resistencia
+event/chapter/event_data/character_names.xlc,XLC,235,8,,,{span 02 9001 0b 08}Headhunter,30,{span 02 9001 0b 08},Cazador de Cabezas
+event/chapter/event_data/character_names.xlc,XLC,236,8,,,{span 02 a401 0b 08}Townswoman,30,{span 02 a401 0b 08},Vecina
+event/chapter/event_data/character_names.xlc,XLC,237,8,,,{span 02 7201 09 08}Prisoner,28,{span 02 7201 09 08},Prisionero
+event/chapter/event_data/character_names.xlc,XLC,238,8,,,{span 02 a201 0e 08}Distant Voice,33,{span 02 a201 0e 08},Voz Lejana
+event/chapter/event_data/character_names.xlc,XLC,239,8,,,{span 02 be01 0f 08}Bakram Soldier,34,{span 02 be01 0f 08},Soldado Bakram
+event/chapter/event_data/character_names.xlc,XLC,240,8,,,{span 02 d801 11 08}Young Galgastani,36,{span 02 d801 11 08},Joven Galgastano
+event/chapter/event_data/character_names.xlc,XLC,241,8,,,{span 02 9201 0b 08}Hunted Man,30,{span 02 9201 0b 08},Hombre Perseguido
+event/chapter/event_data/character_names.xlc,XLC,242,8,,,{span 02 9201 0b 08}Hunted Man,30,{span 02 9201 0b 08},Hombre Perseguido
+event/chapter/event_data/character_names.xlc,XLC,243,8,,,{span 02 8801 0a 08}Angry Man,29,{span 02 8801 0a 08},Hombre Enfadado
+event/chapter/event_data/character_names.xlc,XLC,244,8,,,{span 02 b401 0e 08}Wizened Guide,33,{span 02 b401 0e 08},Guía Anciano
+event/chapter/event_data/character_names.xlc,XLC,245,8,,,{span 02 6401 07 08}Shadow,26,{span 02 6401 07 08},Sombra
+event/chapter/event_data/character_names.xlc,XLC,246,8,,,{span 02 6001 07 08}Peyton,26,{span 02 6001 07 08},Peyton
+event/chapter/event_data/character_names.xlc,XLC,247,8,,,{span 02 7401 09 08}Beylevra,28,{span 02 7401 09 08},Beylevra
+event/chapter/event_data/character_names.xlc,XLC,248,8,,,{span 02 5e01 07 08}Apsara,26,{span 02 5e01 07 08},Apsara
+event/chapter/event_data/character_names.xlc,XLC,249,8,,,{span 02 4c01 06 08}Briam,25,{span 02 4c01 06 08},Briam
+event/chapter/event_data/character_names.xlc,XLC,250,8,,,{span 02 b601 0f 08}Suspicious Man,34,{span 02 b601 0f 08},Hombre Sospechoso
+event/chapter/event_data/character_names.xlc,XLC,251,8,,,{span 02 6a01 08 08}Hobyrim,27,{span 02 6a01 08 08},Hobyrim
+event/chapter/event_data/character_names.xlc,XLC,252,8,,,{span 02 6a01 08 08}Hobyrim,27,{span 02 6a01 08 08},Hobyrim
+event/chapter/event_data/character_names.xlc,XLC,253,8,,,{span 02 3801 04 08}All,23,{span 02 3801 04 08},Todos
+event/chapter/event_data/character_names.xlc,XLC,254,8,,,{span 02 6801 09 08}Versalia,28,{span 02 6801 09 08},Versalia
+event/chapter/event_data/character_names.xlc,XLC,255,8,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
+event/chapter/event_data/death_agony_messages.xlc,XLC,1,0,,,{np}How {w}could {w}I {w}have {w}lost?\nWhere {w}did {w}I {w}go {w}wrong?,72,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Cómo {w}he {w}podido {w}haber {w}perdido?\n¿En {w}qué {w}me {w}he {w}equivocado?
+event/chapter/event_data/death_agony_messages.xlc,XLC,2,0,,,{np}Feh... {w}Body's {w}not {w}doing {w}as {w}it's {w}told. {w}Time {w}to {w}pull {w}out.,89,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Uf... {w}mi cuerpo {w}no {w}responde {w}como {w}se le ordena. {w}Es hora {w}de {w}retirarme {w}de aquí.
+event/chapter/event_data/death_agony_messages.xlc,XLC,3,0,,,"{np}Sorry, {w}{hero}. {w}I'm {w}out!\nAnd {w}I'd {w}better {w}not {w}hear {w}any {w}grumbling...",95,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, {w}{hero}. {w}¡Me retiro!\nY {w}más {w}vale {w}que no {w}oiga {w}quejas..."
+event/chapter/event_data/death_agony_messages.xlc,XLC,4,0,,,{np}{hero}...\nThe {w}rest...I {w}leave {w}to {w}you.,52,{hero} | {np} | {w} | {w} | {w} | {w} | {w},{np}{hero}...\nEl {w}resto...lo {w}dejo {w}en {w}tus manos.
+event/chapter/event_data/death_agony_messages.xlc,XLC,5,0,,,{np}C-Catiua...you {w}were {w}always {w}the...the {w}one.,57,{np} | {w} | {w} | {w} | {w},{np}C-Catiua...tú {w}siempre {w}fuiste {w}la...la {w}indicada.
+event/chapter/event_data/death_agony_messages.xlc,XLC,6,0,,,{np}So {w}much {w}left...undone...,34,{np} | {w} | {w},{np}Tantas {w}cosas {w}por hacer...
+event/chapter/event_data/death_agony_messages.xlc,XLC,7,0,,,{np}{hero}... {w}I'm {w}sorry.\nI've {w}done {w}all {w}I {w}could.,65,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w},{np}{hero}... {w}lo {w}siento.\nHe {w}hecho {w}todo {w}lo {w}que he podido.
+event/chapter/event_data/death_agony_messages.xlc,XLC,8,0,,,"{np}I'm {w}sorry, {w}{hero}!\nI {w}cannot {w}remain {w}here.",59,{hero} | {np} | {w} | {w} | {w} | {w} | {w},"{np}Lo {w}siento, {w}{hero}.\n¡No {w}puedo {w}quedarme {w}aquí!"
+event/chapter/event_data/death_agony_messages.xlc,XLC,9,0,,,"{np}I've {w}been {w}nothing {w}but {w}selfish, {w}and {w}I {w}apologize, {w}{hero}.",83,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No he {w}sido {w}más {w}que un {w}egoísta, {w}y {w}te {w}pido perdón, {w}{hero}."
+event/chapter/event_data/death_agony_messages.xlc,XLC,10,0,,,{np}{hero}... {w}I {w}would {w}hear {w}your {w}voice...one {w}last {w}time.,75,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}{hero}... {w}Ojalá {w}pudiera {w}oír {w}tu {w}voz...una {w}última {w}vez.
+event/chapter/event_data/death_agony_messages.xlc,XLC,11,0,,,"{np}Forced {w}off {w}the {w}field {w}of {w}battle, {w}me {w}alone! {w}This {w}is {w}to {w}my {w}shame...",104,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Forzado {w}a {w}retirarme {w}del {w}campo {w}de {w}batalla, {w}yo {w}solo! {w}¡Qué {w}gran {w}vergüenza {w}para {w}mí...!"
+event/chapter/event_data/death_agony_messages.xlc,XLC,12,0,,,"{np}Your {w}forgiveness, {w}{hero}.\nI {w}cannot {w}give {w}my {w}life {w}yet!",77,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tu {w}perdón, {w}{hero}.\n¡Aún {w}no {w}puedo {w}entregar {w}mi {w}vida!"
+event/chapter/event_data/death_agony_messages.xlc,XLC,13,0,,,"{np}This...foreign {w}soil {w}is {w}cold {w}beneath {w}me... {w}Forgiveness, {w}my {w}sovereign.",96,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esta...tierra {w}extraña {w}está {w}fría {w}bajo mis {w}pies... {w}Perdón, {w}mi señor."
+event/chapter/event_data/death_agony_messages.xlc,XLC,14,0,,,"{np}Defeat, {w}I {w}will {w}mark {w}you {w}well...that {w}we {w}never {w}meet {w}again!",87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Derrota, {w}te {w}recordaré {w}bien...para {w}que {w}no {w}volvamos {w}a {w}encontrarnos {w}jamás!"
+event/chapter/event_data/death_agony_messages.xlc,XLC,15,0,,,{np}I {w}would {w}hope {w}it {w}were {w}my {w}enemies {w}and {w}not {w}my {w}years {w}that {w}drive {w}me {w}from {w}the {w}field {w}so {w}soon.,144,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Ojalá {w}fueran {w}mis {w}propios {w}enemigos {w}y {w}no {w}mis {w}años {w}los {w}que {w}me {w}apartaran {w}del {w}campo {w}de {w}batalla {w}tan {w}pronto.
+event/chapter/event_data/death_agony_messages.xlc,XLC,16,0,,,{np}If {w}this {w}is {w}my {w}fate...I {w}accept {w}it.,55,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}Si {w}este {w}es {w}mi {w}destino...lo {w}acepto {w}así.
+event/chapter/event_data/death_agony_messages.xlc,XLC,17,0,,,{np}That's {w}a {w}deep {w}wound...or {w}two.\nBest {w}to {w}leave.,66,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}Es {w}una {w}herida {w}profunda...o {w}dos.\nSerá {w}mejor {w}retirarse.
+event/chapter/event_data/death_agony_messages.xlc,XLC,18,0,,,{np}Feh... {w}I'd {w}as {w}soon {w}never {w}turn {w}my {w}back {w}to {w}the {w}enemy. {w}But {w}better {w}to {w}face {w}flight {w}than {w}the {w}cold {w}ground!,160,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Uf... {w}antes {w}preferiría {w}no {w}dar {w}jamás {w}la {w}espalda {w}al {w}enemigo. {w}Pero {w}es {w}mejor {w}salir {w}huyendo {w}que {w}acabar {w}sobre {w}el {w}suelo {w}helado!
+event/chapter/event_data/death_agony_messages.xlc,XLC,19,0,,,"{np}Gilbald...\nLook {w}after {w}Iuria, {w}for {w}me.",52,{np} | {w} | {w} | {w} | {w},{np}Gilbald...\nCuida {w}de {w}Iuria {w}por {w}mí.
+event/chapter/event_data/death_agony_messages.xlc,XLC,20,0,,,"{np}Well, {w}this {w}is {w}it {w}for {w}me. {w}It's {w}up {w}to {w}you {w}now, {w}Lanselot.",91,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Bien, {w}ha {w}llegado {w}mi {w}final. {w}Ahora {w}todo {w}queda {w}en {w}tus {w}manos, {w}Lanselot."
+event/chapter/event_data/death_agony_messages.xlc,XLC,21,0,,,{np}Let's {w}hope...Lanselot {w}can {w}carry {w}on {w}the {w}torch {w}on {w}in {w}my {w}stead...,96,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Ojalá {w}Lanselot {w}pueda {w}seguir {w}adelante {w}llevando {w}la {w}antorcha {w}en {w}mi {w}lugar...
+event/chapter/event_data/death_agony_messages.xlc,XLC,22,0,,,{np}{hero}...look {w}beyond {w}the {w}face...of {w}things {w}and {w}people. {w}Look {w}to...the {w}heart!,105,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}{hero}...mira {w}más {w}allá {w}de {w}las apariencias...de {w}las cosas {w}y {w}las personas. {w}¡Mira {w}hacia...el {w}corazón!
+event/chapter/event_data/death_agony_messages.xlc,XLC,23,0,,,"{np}{hero}, {w}feel {w}it {w}in {w}your {w}bones, {w}or {w}not {w}at {w}all...",78,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{hero}, {w}siéntelo {w}en {w}tus {w}huesos, {w}o {w}no {w}lo {w}sientas {w}en {w}absoluto..."
