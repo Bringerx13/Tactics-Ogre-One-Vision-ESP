@@ -10574,3 +10574,154 @@ How {w}are {w}you?",43,{np} | {w} | {w} | {w} | {w},"{np}¡Pobrecito!
 ¿Cómo te encuentras?"
 event/scene/chapter_4/C4_ST_036/scene_4_60.emes,EMES,5,,472,6,{np}Canopus. {w}The {w}name's {w}{pal 16}Canopus{palreset}.,59,{np} | {pal 16} | {palreset} | {w} | {w} | {w},{np}Canopus. Me llamo {pal 16}Canopus{palreset}.
 event/scene/chapter_4/C4_ST_036/scene_4_60.emes,EMES,6,,473,13,"{np}Oh, {w}I {w}think {w}he's {w}asleep...{pp}Rise {w}and {w}shine, {w}Warren!",78,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Oh, creo que está dormido...{pp}¡Arriba, Warren!"
+Archivo,tipo,fila,columna,id_entrada,nid,texto_ingles,caracteres,marcadores,texto_espanol
+battle/battle_data_release/battle_text.xlc,XLC,0,4,,,{span 02 6401 08 08}Nothing,27,{span 02 6401 08 08},{span 02 6401 08 08}Ninguno
+battle/battle_data_release/battle_text.xlc,XLC,1,4,,,{span 02 ca01 10 08}Leather Caestus,35,{span 02 ca01 10 08},{span 02 ca01 10 08}Cestus de Cuero
+battle/battle_data_release/battle_text.xlc,XLC,2,4,,,{span 02 ec01 13 08}Bronze Knuckles,38,{span 02 ec01 13 08},{span 02 ec01 13 08}Nudilleras de Bronce
+battle/battle_data_release/battle_text.xlc,XLC,3,4,,,{span 02 c401 10 08}Iron Claws,35,{span 02 c401 10 08},{span 02 c401 10 08}Garras de Hierro
+battle/battle_data_release/battle_text.xlc,XLC,4,4,,,{span 02 e601 13 08}Baldur Claws,38,{span 02 e601 13 08},{span 02 e601 13 08}Garras de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,5,4,,,{span 02 8801 0e 08}Silver Talons,33,{span 02 8801 0e 08},{span 02 8801 0e 08}Garras Plateadas
+battle/battle_data_release/battle_text.xlc,XLC,6,4,,,{span 02 aa01 0e 08}Cat Claws,33,{span 02 aa01 0e 08},{span 02 aa01 0e 08}Garras de Gato
+battle/battle_data_release/battle_text.xlc,XLC,7,4,,,{span 02 ba01 0e 08}Beast Claws,33,{span 02 ba01 0e 08},{span 02 ba01 0e 08}Garras de Bestia
+battle/battle_data_release/battle_text.xlc,XLC,8,4,,,{span 02 dc01 11 08}Katar,36,{span 02 dc01 11 08},{span 02 dc01 11 08}Katar
+battle/battle_data_release/battle_text.xlc,XLC,9,4,,,{span 02 a601 0d 08}Jamadhar,32,{span 02 a601 0d 08},{span 02 a601 0d 08}Jamadhar
+battle/battle_data_release/battle_text.xlc,XLC,10,4,,,{span 02 c801 10 08}Bagh Nakh,35,{span 02 c801 10 08},{span 02 c801 10 08}Bagh Nakh
+battle/battle_data_release/battle_text.xlc,XLC,11,4,,,{span 02 5c01 10 08}Razor Bagh Nakh,35,{span 02 5c01 10 08},{span 02 5c01 10 08}Bagh Nakh Afilado
+battle/battle_data_release/battle_text.xlc,XLC,12,4,,,Damasc Claws,15,,Garras Damascenas
+battle/battle_data_release/battle_text.xlc,XLC,13,4,,,{span 02 ca01 10 08}Crucible Talons,35,{span 02 ca01 10 08},{span 02 ca01 10 08}Garras del Crisol
+battle/battle_data_release/battle_text.xlc,XLC,14,4,,,{span 02 ec01 13 08}Al Dhih,38,{span 02 ec01 13 08},{span 02 ec01 13 08}Al Dhih
+battle/battle_data_release/battle_text.xlc,XLC,15,4,,,{span 02 b201 0d 08}Makoto,32,{span 02 b201 0d 08},{span 02 b201 0d 08}Makoto
+battle/battle_data_release/battle_text.xlc,XLC,16,4,,,{span 02 d401 10 08}Kang Admi,35,{span 02 d401 10 08},{span 02 d401 10 08}Kang Admi
+battle/battle_data_release/battle_text.xlc,XLC,17,4,,,{span 02 ae01 0d 08}Saurian,32,{span 02 ae01 0d 08},{span 02 ae01 0d 08}Saurio
+battle/battle_data_release/battle_text.xlc,XLC,18,4,,,{span 02 b201 0e 08}Azhi Dahaka,33,{span 02 b201 0e 08},{span 02 b201 0e 08}Azhi Dahaka
+battle/battle_data_release/battle_text.xlc,XLC,19,4,,,{span 02 7e01 09 08}Hatyaara,28,{span 02 7e01 09 08},{span 02 7e01 09 08}Hatyaara
+battle/battle_data_release/battle_text.xlc,XLC,20,4,,,{span 02 bc01 10 08}Vishnu's Katara,35,{span 02 bc01 10 08},{span 02 bc01 10 08}Katara de Vishnu
+battle/battle_data_release/battle_text.xlc,XLC,21,4,,,{span 02 c801 10 08}Nue Bristles,35,{span 02 c801 10 08},{span 02 c801 10 08}Cerdas de Nue
+battle/battle_data_release/battle_text.xlc,XLC,22,4,,,{span 02 c201 0f 08}Kerberos Fangs,34,{span 02 c201 0f 08},{span 02 c201 0f 08}Colmillos de Kerberos
+battle/battle_data_release/battle_text.xlc,XLC,23,4,,,{span 02 da01 12 08}Jarnglofar,37,{span 02 da01 12 08},{span 02 da01 12 08}Jarnglofar
+battle/battle_data_release/battle_text.xlc,XLC,24,4,,,{span 02 8801 0b 08}Vaisravana,30,{span 02 8801 0b 08},{span 02 8801 0b 08}Vaisravana
+battle/battle_data_release/battle_text.xlc,XLC,25,4,,,{span 02 c401 10 08}Trueno's Scales,35,{span 02 c401 10 08},{span 02 c401 10 08}Escamas de Trueno
+battle/battle_data_release/battle_text.xlc,XLC,26,4,,,{span 02 e201 13 08}Vainateya's Talons,38,{span 02 e201 13 08},{span 02 e201 13 08}Garras de Vainateya
+battle/battle_data_release/battle_text.xlc,XLC,27,4,,,{span 04 0201 17 08}Argetlahm,42,{span 04 0201 17 08},{span 04 0201 17 08}Argetlahm
+battle/battle_data_release/battle_text.xlc,XLC,28,4,,,{span 02 6401 08 08}Shank,27,{span 02 6401 08 08},{span 02 6401 08 08}Cuchillo
+battle/battle_data_release/battle_text.xlc,XLC,29,4,,,{span 02 8401 0b 08}Kard,30,{span 02 8401 0b 08},{span 02 8401 0b 08}Kard
+battle/battle_data_release/battle_text.xlc,XLC,30,4,,,{span 02 9601 0d 08}Dirk,32,{span 02 9601 0d 08},{span 02 9601 0d 08}Puñal
+battle/battle_data_release/battle_text.xlc,XLC,31,4,,,{span 02 ba01 10 08}Baldur Dagger,35,{span 02 ba01 10 08},{span 02 ba01 10 08}Daga de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,32,4,,,{span 02 4201 0d 08}Silver Point,32,{span 02 4201 0d 08},{span 02 4201 0d 08}Punta de Plata
+battle/battle_data_release/battle_text.xlc,XLC,33,4,,,{span 02 6401 08 08}Kris,27,{span 02 6401 08 08},{span 02 6401 08 08}Kris
+battle/battle_data_release/battle_text.xlc,XLC,34,4,,,{span 02 a601 08 08}Sundang,33,{span 02 a601 08 08},{span 02 a601 08 08}Sundang
+battle/battle_data_release/battle_text.xlc,XLC,35,4,,,{span 02 ca01 11 08}Jambiya,36,{span 02 ca01 11 08},{span 02 ca01 11 08}Jambiya
+battle/battle_data_release/battle_text.xlc,XLC,36,4,,,{span 02 b401 0e 08}Khanjar,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Khanjar
+battle/battle_data_release/battle_text.xlc,XLC,37,4,,,{span 02 d401 11 08}Damasc Dagger,36,{span 02 d401 11 08},{span 02 d401 11 08}Daga Damascena
+battle/battle_data_release/battle_text.xlc,XLC,38,4,,,{span 02 4201 0f 08}Crucible Spike,34,{span 02 4201 0f 08},{span 02 4201 0f 08}Púa del Crisol
+battle/battle_data_release/battle_text.xlc,XLC,39,4,,,{span 02 6401 08 08}Caldia,27,{span 02 6401 08 08},{span 02 6401 08 08}Caldia
+battle/battle_data_release/battle_text.xlc,XLC,40,4,,,{span 02 a001 0d 08}Kotetsu,32,{span 02 a001 0d 08},{span 02 a001 0d 08}Kotetsu
+battle/battle_data_release/battle_text.xlc,XLC,41,4,,,{span 02 c401 10 08}Darktongue,35,{span 02 c401 10 08},{span 02 c401 10 08}Lengua Oscura
+battle/battle_data_release/battle_text.xlc,XLC,42,4,,,{span 02 c001 0e 08}Chidori,33,{span 02 c001 0e 08},{span 02 c001 0e 08}Chidori
+battle/battle_data_release/battle_text.xlc,XLC,43,4,,,{span 02 e001 11 08}Scarlet Fury,36,{span 02 e001 11 08},{span 02 e001 11 08}Furia Escarlata
+battle/battle_data_release/battle_text.xlc,XLC,44,4,,,{span 02 c801 11 08}Aura's Dagger,36,{span 02 c801 11 08},{span 02 c801 11 08}Daga de Aura
+battle/battle_data_release/battle_text.xlc,XLC,45,4,,,{span 02 be01 11 08}Carnwennan,36,{span 02 be01 11 08},{span 02 be01 11 08}Carnwennan
+battle/battle_data_release/battle_text.xlc,XLC,46,4,,,{span 02 b801 0f 08}Dew Point,34,{span 02 b801 0f 08},{span 02 b801 0f 08}Punto de Rocío
+battle/battle_data_release/battle_text.xlc,XLC,47,4,,,{span 02 b201 0f 08}Tinkledeath,34,{span 02 b201 0f 08},{span 02 b201 0f 08}Tinkledeath
+battle/battle_data_release/battle_text.xlc,XLC,48,4,,,{span 02 b801 10 08}Xolotl's Canine,35,{span 02 b801 10 08},{span 02 b801 10 08}Colmillo de Xólotl
+battle/battle_data_release/battle_text.xlc,XLC,49,4,,,{span 02 4e01 05 08}Yama,24,{span 02 4e01 05 08},{span 02 4e01 05 08}Yama
+battle/battle_data_release/battle_text.xlc,XLC,50,4,,,{span 02 9c01 0c 08}Setan Kober,31,{span 02 9c01 0c 08},{span 02 9c01 0c 08}Setan Kober
+battle/battle_data_release/battle_text.xlc,XLC,51,4,,,{span 02 9601 0d 08}Windbreaker,32,{span 02 9601 0d 08},{span 02 9601 0d 08}Cortavientos
+battle/battle_data_release/battle_text.xlc,XLC,52,4,,,{span 02 b401 0f 08}Mordred's Song,34,{span 02 b401 0f 08},{span 02 b401 0f 08}Canto de Mordred
+battle/battle_data_release/battle_text.xlc,XLC,53,4,,,{span 02 9c01 0c 08}Short Sword,31,{span 02 9c01 0c 08},{span 02 9c01 0c 08}Espada Corta
+battle/battle_data_release/battle_text.xlc,XLC,54,4,,,{span 02 c201 0f 08}Gladius,34,{span 02 c201 0f 08},{span 02 c201 0f 08}Gladius
+battle/battle_data_release/battle_text.xlc,XLC,55,4,,,{span 02 6601 08 08}Sabre,27,{span 02 6601 08 08},{span 02 6601 08 08}Sable
+battle/battle_data_release/battle_text.xlc,XLC,56,4,,,Baldur Sword,16,,Espada de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,57,4,,,{span 02 5c01 0d 08}Silver Brand,32,{span 02 5c01 0d 08},{span 02 5c01 0d 08}Filo de Plata
+battle/battle_data_release/battle_text.xlc,XLC,58,4,,,{span 02 7c01 0a 08}Cutlass,29,{span 02 7c01 0a 08},{span 02 7c01 0a 08}Alfanje
+battle/battle_data_release/battle_text.xlc,XLC,59,4,,,{span 02 7a01 09 08}Falchion,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Falchión
+battle/battle_data_release/battle_text.xlc,XLC,60,4,,,{span 02 9a01 0c 08}Rapier,31,{span 02 9a01 0c 08},{span 02 9a01 0c 08}Estoque
+battle/battle_data_release/battle_text.xlc,XLC,61,4,,,{span 02 a401 0d 08}Estoc,32,{span 02 a401 0d 08},{span 02 a401 0d 08}Estoc
+battle/battle_data_release/battle_text.xlc,XLC,62,4,,,{span 02 c801 10 08}Khora,35,{span 02 c801 10 08},{span 02 c801 10 08}Khora
+battle/battle_data_release/battle_text.xlc,XLC,63,4,,,{span 02 6801 08 08}Aruval,27,{span 02 6801 08 08},{span 02 6801 08 08}Aruval
+battle/battle_data_release/battle_text.xlc,XLC,64,4,,,Damasc Sword,16,,Espada Damascena
+battle/battle_data_release/battle_text.xlc,XLC,65,4,,,{span 02 5401 0f 08}Crucible Brand,34,{span 02 5401 0f 08},{span 02 5401 0f 08}Filo del Crisol
+battle/battle_data_release/battle_text.xlc,XLC,66,4,,,{span 02 7801 09 08}Ulfberht,28,{span 02 7801 09 08},{span 02 7801 09 08}Ulfberht
+battle/battle_data_release/battle_text.xlc,XLC,67,4,,,{span 02 b001 0d 08}Verloren,32,{span 02 b001 0d 08},{span 02 b001 0d 08}Verloren
+battle/battle_data_release/battle_text.xlc,XLC,68,4,,,{span 02 d601 10 08}Barbarossa,35,{span 02 d601 10 08},{span 02 d601 10 08}Barbarossa
+battle/battle_data_release/battle_text.xlc,XLC,69,4,,,{span 02 b401 0e 08}Fragarach,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Fragarach
+battle/battle_data_release/battle_text.xlc,XLC,70,4,,,{span 02 be01 10 08}Sum Manus,35,{span 02 be01 10 08},{span 02 be01 10 08}Sum Manus
+battle/battle_data_release/battle_text.xlc,XLC,71,4,,,{span 02 7601 0a 08}Cortana,29,{span 02 7601 0a 08},{span 02 7601 0a 08}Cortana
+battle/battle_data_release/battle_text.xlc,XLC,72,4,,,{span 02 5601 07 08}Isberg,26,{span 02 5601 07 08},{span 02 5601 07 08}Isberg
+battle/battle_data_release/battle_text.xlc,XLC,73,4,,,{span 02 5401 06 08}Kali,25,{span 02 5401 06 08},{span 02 5401 06 08}Kali
+battle/battle_data_release/battle_text.xlc,XLC,74,4,,,{span 02 7a01 09 08}Fandango,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Fandango
+battle/battle_data_release/battle_text.xlc,XLC,75,4,,,{span 02 9801 0d 08}Nephrite,32,{span 02 9801 0d 08},{span 02 9801 0d 08}Nefrita
+battle/battle_data_release/battle_text.xlc,XLC,76,4,,,{span 02 8201 0a 08}Lombardia,29,{span 02 8201 0a 08},{span 02 8201 0a 08}Lombardia
+battle/battle_data_release/battle_text.xlc,XLC,77,4,,,{span 02 7601 09 08}Kumbhira,28,{span 02 7601 09 08},{span 02 7601 09 08}Kumbhira
+battle/battle_data_release/battle_text.xlc,XLC,78,4,,,{span 02 d801 11 08}Legion Waster,36,{span 02 d801 11 08},{span 02 d801 11 08}Espada de Entrenamiento de la Legión
+battle/battle_data_release/battle_text.xlc,XLC,79,4,,,{span 02 8c01 0b 08}Ogre Blade,30,{span 02 8c01 0b 08},{span 02 8c01 0b 08}Hoja de Ogro
+battle/battle_data_release/battle_text.xlc,XLC,80,4,,,{span 02 7401 09 08}Ambicion,28,{span 02 7401 09 08},{span 02 7401 09 08}Ambicion
+battle/battle_data_release/battle_text.xlc,XLC,81,4,,,{span 02 7a01 0a 08}Brynhildr,29,{span 02 7a01 0a 08},{span 02 7a01 0a 08}Brynhildr
+battle/battle_data_release/battle_text.xlc,XLC,82,4,,,{span 02 b601 0f 08}Crissaegrim,34,{span 02 b601 0f 08},{span 02 b601 0f 08}Crissaegrim
+battle/battle_data_release/battle_text.xlc,XLC,83,4,,,{span 02 6a01 08 08}Oracion,27,{span 02 6a01 08 08},{span 02 6a01 08 08}Oracion
+battle/battle_data_release/battle_text.xlc,XLC,84,4,,,{span 02 ae01 0f 08}Balmung,34,{span 02 ae01 0f 08},{span 02 ae01 0f 08}Balmung
+battle/battle_data_release/battle_text.xlc,XLC,85,4,,,{span 02 c801 11 08}Caliburn,36,{span 02 c801 11 08},{span 02 c801 11 08}Caliburn
+battle/battle_data_release/battle_text.xlc,XLC,86,4,,,{span 02 9201 0b 08}Longsword,30,{span 02 9201 0b 08},{span 02 9201 0b 08}Espada Larga
+battle/battle_data_release/battle_text.xlc,XLC,87,4,,,{span 02 b801 0e 08}Claymore,33,{span 02 b801 0e 08},{span 02 b801 0e 08}Claymore
+battle/battle_data_release/battle_text.xlc,XLC,88,4,,,{span 02 9e01 0d 08}War Blade,32,{span 02 9e01 0d 08},{span 02 9e01 0d 08}Hoja de Guerra
+battle/battle_data_release/battle_text.xlc,XLC,89,4,,,{span 02 c401 10 08}Baldur Blade,35,{span 02 c401 10 08},{span 02 c401 10 08}Espada de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,90,4,,,{span 02 9201 0e 08}Silver Slayer,33,{span 02 9201 0e 08},{span 02 9201 0e 08}Matador de Plata
+battle/battle_data_release/battle_text.xlc,XLC,91,4,,,{span 02 b201 0e 08}Espadon,33,{span 02 b201 0e 08},{span 02 b201 0e 08}Espadón
+battle/battle_data_release/battle_text.xlc,XLC,92,4,,,{span 02 9c01 0d 08}Linebreaker,32,{span 02 9c01 0d 08},{span 02 9c01 0d 08}Rompelíneas
+battle/battle_data_release/battle_text.xlc,XLC,93,4,,,{span 02 c001 10 08}Zweihander,35,{span 02 c001 10 08},{span 02 c001 10 08}Zweihänder
+battle/battle_data_release/battle_text.xlc,XLC,94,4,,,{span 02 b201 0e 08}Greatsword,33,{span 02 b201 0e 08},{span 02 b201 0e 08}Espadón
+battle/battle_data_release/battle_text.xlc,XLC,95,4,,,{span 02 d801 11 08}Falx,36,{span 02 d801 11 08},{span 02 d801 11 08}Falx
+battle/battle_data_release/battle_text.xlc,XLC,96,4,,,{span 02 7c01 09 08}Slasher,28,{span 02 7c01 09 08},{span 02 7c01 09 08}Cercenador
+battle/battle_data_release/battle_text.xlc,XLC,97,4,,,{span 02 a001 0d 08}Damasc Blade,32,{span 02 a001 0d 08},{span 02 a001 0d 08}Hoja Damascena
+battle/battle_data_release/battle_text.xlc,XLC,98,4,,,{span 02 4201 10 08}Crucible Reaver,35,{span 02 4201 10 08},{span 02 4201 10 08}Desgarrador del Crisol
+battle/battle_data_release/battle_text.xlc,XLC,99,4,,,{span 02 6601 08 08}Nergal,27,{span 02 6601 08 08},{span 02 6601 08 08}Nergal
+battle/battle_data_release/battle_text.xlc,XLC,100,4,,,{span 02 a801 0d 08}Bakunawa,32,{span 02 a801 0d 08},{span 02 a801 0d 08}Bakunawa
+battle/battle_data_release/battle_text.xlc,XLC,101,4,,,{span 02 cc01 10 08}Sigmund,35,{span 02 cc01 10 08},{span 02 cc01 10 08}Sigmund
+battle/battle_data_release/battle_text.xlc,XLC,102,4,,,{span 02 9e01 0d 08}Desert Blade,32,{span 02 9e01 0d 08},{span 02 9e01 0d 08}Hoja del Desierto
+battle/battle_data_release/battle_text.xlc,XLC,103,4,,,{span 02 8801 0b 08}Gilgamesh,30,{span 02 8801 0b 08},{span 02 8801 0b 08}Gilgamesh
+battle/battle_data_release/battle_text.xlc,XLC,104,4,,,{span 02 b201 0d 08}Stasis Blade,32,{span 02 b201 0d 08},{span 02 b201 0d 08}Hoja de Estasis
+battle/battle_data_release/battle_text.xlc,XLC,105,4,,,{span 02 ec01 12 08}Terminus Est,37,{span 02 ec01 12 08},{span 02 ec01 12 08}Terminus Est
+battle/battle_data_release/battle_text.xlc,XLC,106,4,,,{span 02 8601 0a 08}Runeblade,29,{span 02 8601 0a 08},{span 02 8601 0a 08}Hoja Rúnica
+battle/battle_data_release/battle_text.xlc,XLC,107,4,,,{span 02 d401 11 08}Dragon Slayer,36,{span 02 d401 11 08},{span 02 d401 11 08}Matadragones
+battle/battle_data_release/battle_text.xlc,XLC,108,4,,,{span 02 5401 06 08}Notos,25,{span 02 5401 06 08},{span 02 5401 06 08}Notos
+battle/battle_data_release/battle_text.xlc,XLC,109,4,,,{span 02 6c01 08 08}Megiddo,27,{span 02 6c01 08 08},{span 02 6c01 08 08}Megiddo
+battle/battle_data_release/battle_text.xlc,XLC,110,4,,,{span 02 5601 07 08}Ishana,26,{span 02 5601 07 08},{span 02 5601 07 08}Ishana
+battle/battle_data_release/battle_text.xlc,XLC,111,4,,,{span 02 7a01 09 08}Durandal,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Durandal
+battle/battle_data_release/battle_text.xlc,XLC,112,4,,,{span 02 9001 0b 08}Caladbolg,30,{span 02 9001 0b 08},{span 02 9001 0b 08}Caladbolg
+battle/battle_data_release/battle_text.xlc,XLC,113,4,,,{span 02 7c01 09 08}Hand Axe,28,{span 02 7c01 09 08},{span 02 7c01 09 08}Hacha de Mano
+battle/battle_data_release/battle_text.xlc,XLC,114,4,,,{span 02 a001 0c 08}Heavy Axe,31,{span 02 a001 0c 08},{span 02 a001 0c 08}Hacha Pesada
+battle/battle_data_release/battle_text.xlc,XLC,115,4,,,{span 02 8801 0b 08}Battle Axe,30,{span 02 8801 0b 08},{span 02 8801 0b 08}Hacha de Batalla
+battle/battle_data_release/battle_text.xlc,XLC,116,4,,,{span 02 ac01 0e 08}Baldur Axe,33,{span 02 ac01 0e 08},{span 02 ac01 0e 08}Hacha de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,117,4,,,{span 02 8801 0c 08}Silver Hawk,31,{span 02 8801 0c 08},{span 02 8801 0c 08}Halcón Plateado
+battle/battle_data_release/battle_text.xlc,XLC,118,4,,,{span 02 ac01 0d 08}Tabar Zin,32,{span 02 ac01 0d 08},{span 02 ac01 0d 08}Tabar Zin
+battle/battle_data_release/battle_text.xlc,XLC,119,4,,,{span 02 8c01 0b 08}Sparth Axe,30,{span 02 8c01 0b 08},{span 02 8c01 0b 08}Hacha Sparth
+battle/battle_data_release/battle_text.xlc,XLC,120,4,,,{span 02 b001 0e 08}Bardiche,33,{span 02 b001 0e 08},{span 02 b001 0e 08}Bardiche
+battle/battle_data_release/battle_text.xlc,XLC,121,4,,,{span 02 8001 0a 08}Sagaris,29,{span 02 8001 0a 08},{span 02 8001 0a 08}Sagaris
+battle/battle_data_release/battle_text.xlc,XLC,122,4,,,{span 02 a201 0d 08}Labrys,32,{span 02 a201 0d 08},{span 02 a201 0d 08}Labrys
+battle/battle_data_release/battle_text.xlc,XLC,123,4,,,{span 02 7601 08 08}Poleaxe,27,{span 02 7601 08 08},{span 02 7601 08 08}Hacha de Asta
+battle/battle_data_release/battle_text.xlc,XLC,124,4,,,{span 02 9801 0b 08}Damasc Axe,30,{span 02 9801 0b 08},{span 02 9801 0b 08}Hacha Damascena
+battle/battle_data_release/battle_text.xlc,XLC,125,4,,,{span 02 7801 09 08}Parashu,28,{span 02 7801 09 08},{span 02 7801 09 08}Parashu
+battle/battle_data_release/battle_text.xlc,XLC,126,4,,,{span 02 9c01 0c 08}Balbriggan,31,{span 02 9c01 0c 08},{span 02 9c01 0c 08}Balbriggan
+battle/battle_data_release/battle_text.xlc,XLC,127,4,,,{span 02 9801 0b 08}Tornak,30,{span 02 9801 0b 08},{span 02 9801 0b 08}Tornak
+battle/battle_data_release/battle_text.xlc,XLC,128,4,,,{span 02 bc01 0e 08}Stormchaser,33,{span 02 bc01 0e 08},{span 02 bc01 0e 08}Cazatormentas
+battle/battle_data_release/battle_text.xlc,XLC,129,4,,,{span 02 8801 0b 08}Pangaea,30,{span 02 8801 0b 08},{span 02 8801 0b 08}Pangaea
+battle/battle_data_release/battle_text.xlc,XLC,130,4,,,{span 02 6e01 08 08}Sekhret,27,{span 02 6e01 08 08},{span 02 6e01 08 08}Sekhret
+battle/battle_data_release/battle_text.xlc,XLC,131,4,,,{span 02 9401 0b 08}Urdarbrunn,30,{span 02 9401 0b 08},{span 02 9401 0b 08}Urdarbrunn
+battle/battle_data_release/battle_text.xlc,XLC,132,4,,,{span 02 8201 0a 08}Varangian,29,{span 02 8201 0a 08},{span 02 8201 0a 08}Varangian
+battle/battle_data_release/battle_text.xlc,XLC,133,4,,,{span 02 7a01 09 08}Glamrock,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Glamrock
+battle/battle_data_release/battle_text.xlc,XLC,134,4,,,{span 02 7601 09 08}Stardust,28,{span 02 7601 09 08},{span 02 7601 09 08}Polvo Estelar
+battle/battle_data_release/battle_text.xlc,XLC,135,4,,,{span 02 4401 05 08}Prox,24,{span 02 4401 05 08},{span 02 4401 05 08}Prox
+battle/battle_data_release/battle_text.xlc,XLC,136,4,,,{span 02 6001 07 08}Boreas,26,{span 02 6001 07 08},{span 02 6001 07 08}Bóreas
+battle/battle_data_release/battle_text.xlc,XLC,137,4,,,{span 02 9001 0b 08}Kshuparaka,30,{span 02 9001 0b 08},{span 02 9001 0b 08}Kshuparaka
+battle/battle_data_release/battle_text.xlc,XLC,138,4,,,{span 02 cc01 11 08}Shaytan's Bulova,36,{span 02 cc01 11 08},{span 02 cc01 11 08}Bulova de Shaytan
+battle/battle_data_release/battle_text.xlc,XLC,139,4,,,{span 02 7a01 09 08}Durga,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Durga
+battle/battle_data_release/battle_text.xlc,XLC,140,4,,,{span 02 aa01 0d 08}Light Spear,32,{span 02 aa01 0d 08},{span 02 aa01 0d 08}Lanza Ligera
+battle/battle_data_release/battle_text.xlc,XLC,141,4,,,{span 02 ca01 10 08}Voulge,35,{span 02 ca01 10 08},{span 02 ca01 10 08}Voulge
+battle/battle_data_release/battle_text.xlc,XLC,142,4,,,{span 02 5e01 07 08}Hasta,26,{span 02 5e01 07 08},{span 02 5e01 07 08}Hasta
+battle/battle_data_release/battle_text.xlc,XLC,143,4,,,Baldur Lance,15,,Lanza de Baldur
+battle/battle_data_release/battle_text.xlc,XLC,144,4,,,{span 02 5c01 0d 08}Silver Prong,32,{span 02 5c01 0d 08},{span 02 5c01 0d 08}Púa de Plata
+battle/battle_data_release/battle_text.xlc,XLC,145,4,,,{span 02 8001 0a 08}Atgeir,29,{span 02 8001 0a 08},{span 02 8001 0a 08}Atgeir
+battle/battle_data_release/battle_text.xlc,XLC,146,4,,,{span 02 a601 0d 08}Glaive,32,{span 02 a601 0d 08},{span 02 a601 0d 08}Guja
+battle/battle_data_release/battle_text.xlc,XLC,147,4,,,{span 02 c601 10 08}Winged Pike,35,{span 02 c601 10 08},{span 02 c601 10 08}Pica Alada
+battle/battle_data_release/battle_text.xlc,XLC,148,4,,,{span 02 7601 09 08}Spetum,28,{span 02 7601 09 08},{span 02 7601 09 08}Spetum
+battle/battle_data_release/battle_text.xlc,XLC,149,4,,,{span 02 9801 0c 08}Partisan,31,{span 02 9801 0c 08},{span 02 9801 0c 08}Partisana
