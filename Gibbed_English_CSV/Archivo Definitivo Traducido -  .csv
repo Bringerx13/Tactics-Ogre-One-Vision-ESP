@@ -10781,8 +10781,7 @@ event/scene/chapter_4/C4_ST_042/scene_4_76.emes,EMES,4,,519,57,"{np}I'd {w}hold 
 event/scene/chapter_4/C4_ST_042/scene_4_80.emes,EMES,0,,520,15,{np}Enough {w}of {w}this. {w}I've {w}done {w}my {w}duty {w}to {w}Lodis {w}here.,79,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Basta ya. Aquí he cumplido con mi deber hacia Lodis.,,,
 event/scene/chapter_4/C4_ST_042/scene_4_80.emes,EMES,1,,521,255,{np}I {w}hope {w}you're {w}not {w}thinking {w}of {w}leaving!,60,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Espero que no estés pensando en marcharte!,,,
 event/scene/chapter_4/C4_ST_042/scene_4_80.emes,EMES,2,,522,15,"{np}I {w}admire {w}your {w}spirit, {w}boy!{pp}Can't {w}wait {w}to {w}see {w}what {w}happens {w}once {w}you {w}take {w}Barnicia!",127,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Admiro tu espíritu, muchacho!{pp}¡No veo la hora de ver qué pasa cuando tomes Barnicia!",,,
-event/scene/chapter_4/C4_ST_042/scene_4_80.emes,EMES,3,,523,255,{np}What? {w}You {w}think {w}this {w}a {w}game!?,48,{np} | {w} | {w} | {w} | {w} | {w},"{np}¿Qué? ¿¡Crees que esto es un juego!?
-event/scene/chapter_4/C4_ST_046/scene_4_82.emes	EMES	0		524	208	{np}What {w}business {w}have {w}the {w}Almoricans {w}here!?""",59,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Qué hacen aquí los almoricanos?
+event/scene/chapter_4/C4_ST_042/scene_4_80.emes,EMES,3,,523,255,{np}What? {w}You {w}think {w}this {w}a {w}game!?,48,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Qué? ¿¡Crees que esto es un juego!?,59,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Qué hacen aquí los almoricanos?
 event/scene/chapter_4/C4_ST_046/scene_4_82.emes,EMES,1,,525,255,{np}Lower {w}your {w}weapons {w}and {w}surrender {w}at {w}once! {w}Your {w}lives {w}will {w}be {w}spared!,105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Bajen las armas y ríndanse de inmediato! ¡Se les perdonará la vida!,,,
 event/scene/chapter_4/C4_ST_046/scene_4_82.emes,EMES,2,,526,208,"{np}As {w}you {w}spared {w}the {w}lives {w}of {w}Oz {w}and {w}Ozma!?{pp}Let's {w}show {w}them {w}Loslorien's {w}true {w}mettle, {w}boys!",136,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Igual que perdonaron la vida de Oz y Ozma?{pp}¡Muchachos, demostremos de qué es capaz Loslorien!",,,
 event/scene/chapter_4/C4_ST_046/scene_4_83.emes,EMES,0,,527,255,{np}It's {w}almost {w}as {w}if {w}they {w}didn't {w}know {w}we {w}were {w}coming...but {w}why?{pp}Surely {w}that {w}Dark {w}Knight {w}who {w}escaped {w}would {w}have {w}given {w}them {w}warning?,194,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Es casi como si no supieran que veníamos... pero ¿por qué?{pp}Ese Caballero Oscuro que escapó seguramente debería haberles avisado, ¿no?",,,
@@ -10894,3 +10893,236 @@ Como hermana, como amiga, como... familia.{pp}Eso era todo lo que quería.
 Estaba... sola.",,,
 event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,4,,637,255,{np}Sister! {w}No... {w}No!,27,{np} | {w} | {w},{np}¡Hermana! ¡No... no!,,,
 event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,5,,638,51,"{np}An {w}ill-favored {w}day, {w}this {w}is.",44,{np} | {w} | {w} | {w} | {w},{np}Qué día tan funesto.,,,
+Archivo,tipo,fila,columna,id_entrada,nid,texto_ingles,caracteres,marcadores,texto_espanol,,,
+event/scene/chapter_4/C4_ST_046/scene_4_82.emes,EMES,0,,524,208,{np}What {w}business {w}have {w}the {w}Almoricans {w}here!?,59,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Qué hacen aquí los almoricanos?,,,
+event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,6,,639,51,{np}This {w}is {w}what {w}comes {w}of {w}looking {w}down {w}at {w}your {w}own {w}feet {w}and {w}ignoring {w}the {w}horizon.,123,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Esto es lo que pasa cuando miras solo lo que tienes a tus pies e ignoras el horizonte.,,,
+event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,7,,640,255,{np}No... {w}You {w}did {w}this {w}to {w}her. {w}You {w}did {w}this {w}to {w}all {w}of {w}us!,93,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No... ¡Tú le hiciste esto! ¡Nos lo hiciste a todos!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,8,,641,51,"{np}It {w}was {w}{pal 16}you{palreset} {w}who {w}killed {w}Catiua!
+You {w}called {w}her {w}sister, {w}and {w}you {w}murdered {w}her!{pp}She {w}was {w}our {w}last {w}hope {w}for {w}lasting {w}peace {w}on {w}these {w}islands. {w}That {w}hope {w}died {w}with {w}her.",263,{np} | {pal 16} | {palreset} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Fuiste {pal 16}tú{palreset} quien mató a Catiua!
+La llamabas hermana y la asesinaste.{pp}Ella era nuestra última esperanza de lograr una paz duradera en estas islas. Esa esperanza murió con ella.",,,
+event/scene/chapter_4/C4_ST_050/scene_4_108.emes,EMES,9,,642,255,{np}Sister...,13,{np},{np}¡Hermana...!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_109.emes,EMES,0,,643,51,{np}We {w}cannot {w}hold {w}against {w}such {w}a {w}force. {w}We {w}must {w}withdraw!,85,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No podemos resistir a una fuerza así. ¡Debemos retirarnos!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_109.emes,EMES,1,,644,3,"{np}What!?
+And {w}leave {w}me {w}here?",38,{np} | {w} | {w} | {w},"{np}¡¿Qué?!
+¿Y dejarme aquí?",,,
+event/scene/chapter_4/C4_ST_050/scene_4_109.emes,EMES,2,,645,51,"{np}Perhaps {w}I {w}should {w}kill {w}her {w}now. {w}The {w}turmoil {w}would {w}only {w}make {w}it {w}easier {w}to {w}assail {w}these {w}wretched {w}islands...{pp}And {w}make {w}ruling {w}them {w}a {w}far {w}more {w}difficult {w}proposition. {w}No, {w}we {w}trust {w}to {w}Catiua...for {w}now.",293,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quizá debería matarla ahora. El caos solo facilitaría el asalto a estas miserables islas...{pp}Y haría mucho más difícil gobernarlas. No, por ahora confiaremos en Catiua...",,,
+event/scene/chapter_4/C4_ST_050/scene_4_109.emes,EMES,3,,646,51,"{np}Forgive {w}me, {w}Catiua.
+May {w}the {w}Empress {w}watch {w}over {w}you.",76,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Perdóname, Catiua.
+Que la Emperatriz te proteja.",,,
+event/scene/chapter_4/C4_ST_050/scene_4_109.emes,EMES,4,,647,3,{np}Coward!,11,{np},{np}¡Cobarde!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_110.emes,EMES,0,,648,51,{np}We {w}cannot {w}hold {w}against {w}such {w}a {w}force. {w}We {w}must {w}withdraw!,85,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No podemos resistir a una fuerza así. ¡Debemos retirarnos!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_110.emes,EMES,1,,649,255,"{np}Lanselot, {w}wait!",22,{np} | {w},"{np}¡Lanselot, espera!",,,
+event/scene/chapter_4/C4_ST_050/scene_4_96.emes,EMES,0,,595,51,"{np}I {w}do {w}not {w}leave {w}the {w}field {w}eagerly...but {w}I {w}admit {w}we {w}are {w}outmatched.{pp}Catiua, {w}we {w}return {w}to {w}Heim! {w}This {w}decrepit {w}castle {w}crumbles {w}around {w}us.",203,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No abandono el campo de batalla de buen grado... pero admito que nos superan en número y fuerza.{pp}¡Catiua, volvamos a Heim! Este castillo ruinoso se desmorona a nuestro alrededor.",,,
+event/scene/chapter_4/C4_ST_050/scene_4_96.emes,EMES,1,,596,3,{np}No! {w}I've {w}had {w}my {w}fill {w}of {w}flight!,53,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡No! ¡Estoy harto de huir!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_96.emes,EMES,2,,597,51,"{np}Catiua, {w}no!",18,{np} | {w},"{np}¡Catiua, no!",,,
+event/scene/chapter_4/C4_ST_050/scene_4_96.emes,EMES,3,,598,255,{np}Sister!,11,{np},{np}¡Hermana!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_97.emes,EMES,0,,599,51,"{np}I {w}do {w}not {w}leave {w}the {w}field {w}eagerly...but {w}I {w}admit {w}we {w}are {w}outmatched.{pp}Catiua, {w}we {w}return {w}to {w}Heim! {w}This {w}decrepit {w}castle {w}crumbles {w}around {w}us.",203,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No abandono el campo de batalla de buen grado... pero admito que nos superan en número y fuerza.{pp}¡Catiua, volvamos a Heim! Este castillo ruinoso se desmorona a nuestro alrededor.",,,
+event/scene/chapter_4/C4_ST_050/scene_4_97.emes,EMES,1,,600,3,{np}No! {w}I've {w}had {w}my {w}fill {w}of {w}flight!,53,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡No! ¡Estoy harto de huir!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_97.emes,EMES,2,,601,51,{np}You {w}must {w}heed {w}me! {w}To {w}the {w}back {w}chambers {w}at {w}once!,78,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Debes escucharme! ¡Ve de inmediato a las cámaras interiores!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_97.emes,EMES,3,,602,255,{np}Sister!,11,{np},{np}¡Hermana!,,,
+event/scene/chapter_4/C4_ST_050/scene_4_97.emes,EMES,4,,603,51,"{np}{hero} {w}of {w}Golyat!
+May {w}the {w}Chariot {w}favor {w}the {w}better {w}man!",83,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{hero} de Golyat!
+¡Que el Carro favorezca al mejor hombre!",,,
+event/scene/chapter_4/C4_ST_050/scene_4_98.emes,EMES,0,,604,255,"{np}Sister, {w}hear {w}me! {w}You {w}are {w}deceived!{pp}They {w}care {w}nothing {w}about {w}restoring {w}your {w}throne. {w}They {w}seek {w}a {w}relic {w}left {w}by {w}the {w}Dynast-King.{pp}Only {w}one {w}of {w}Dorgalua's {w}blood {w}can {w}help {w}them {w}grasp {w}it... {w}They're {w}using {w}you!",301,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Hermana, escúchame! ¡Te están engañando!{pp}No les importa devolverte el trono. Buscan una reliquia que dejó el Rey Dinasta.{pp}Solo alguien de la sangre de Dorgalua puede ayudarlos a conseguirla... ¡Te están utilizando!",,,
+event/scene/chapter_4/C4_ST_050/scene_4_98.emes,EMES,1,,605,51,"{np}Do {w}not {w}lend {w}him {w}your {w}ear, {w}Catiua!{pp}Think {w}on {w}how {w}you've {w}been {w}betrayed. {w}By {w}King {w}Dorgalua, {w}Abuna {w}Prancet, {w}even {w}your {w}brother!{pp}That's {w}right. {w}Your {w}dear {w}brother {w}betrayed {w}you. {w}Have {w}you {w}forgotten {w}your {w}pain {w}so {w}soon!",310,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No lo escuches, Catiua!{pp}Piensa en cómo te han traicionado: el rey Dorgalua, el abuna Prancet e incluso tu propio hermano.{pp}Así es. Tu querido hermano te traicionó. ¡¿Ya has olvidado tu sufrimiento?!",,,
+event/scene/chapter_4/C4_ST_050/scene_4_98.emes,EMES,2,,606,3,{np}So {w}they {w}serve {w}their {w}own {w}ends. {w}What {w}of {w}it?{pp}It {w}is {w}a {w}fact {w}of {w}life {w}and {w}war {w}that {w}men {w}use {w}others...even {w}as {w}I {w}will {w}use {w}them {w}to {w}defeat {w}you.{pp}At {w}least {w}{pal 16}here{palreset} {w}I {w}know {w}I {w}am {w}needed.,295,{np} | {pal 16} | {palreset} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Así que persiguen sus propios intereses. ¿Y qué?{pp}Es un hecho de la vida y de la guerra que los hombres utilizan a otros... incluso yo los utilizaré para derrotarte.{pp}Al menos {pal 16}aquí{palreset} sé que me necesitan.,,,
+event/scene/chapter_4/C4_ST_050/scene_4_99.emes,EMES,0,,607,255,"{np}Your {w}machinations {w}end {w}here, {w}Lanselot. {w}Accept {w}defeat, {w}and {w}release {w}my {w}sister!",109,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tus intrigas terminan aquí, Lanselot. Acepta la derrota y libera a mi hermana.",,,
+event/scene/chapter_4/C4_ST_050/scene_4_99.emes,EMES,1,,608,51,{np}Release {w}her? {w}She {w}is {w}with {w}us {w}of {w}her {w}own {w}accord.{pp}And {w}who {w}are {w}you {w}to {w}demand {w}anything {w}of {w}the {w}monarch {w}of {w}Valeria?,175,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Liberarla? Está con nosotros por voluntad propia.{pp}¿Y quién eres tú para exigirle algo al monarca de Valeria?,,,
+event/scene/chapter_4/C4_ST_050/scene_4_99.emes,EMES,2,,609,255,"{np}You {w}brought {w}war {w}with {w}you {w}when {w}you {w}came {w}to {w}these {w}islands!{pp}Valeria {w}needs {w}you {w}not {w}at {w}all, {w}and {w}my {w}sister {w}needs {w}you {w}even {w}less.",194,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Trajiste la guerra contigo cuando llegaste a estas islas!{pp}Valeria no te necesita en absoluto, y mi hermana mucho menos.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,0,,650,255,{np}You {w}shouldn't {w}lurk {w}in {w}doorways.,47,{np} | {w} | {w} | {w} | {w},{np}No deberías quedarte merodeando en las entradas.,,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,1,,651,255,{np}Are {w}you {w}all {w}right?,31,{np} | {w} | {w} | {w},{np}¿Estás bien?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,2,,652,3,{np}What {w}do {w}you {w}mean {w}to {w}do {w}with {w}me?,56,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Qué piensas hacer conmigo?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,3,,653,255,"{np}Do {w}with {w}you?
+I'm {w}here {w}to {w}help {w}you, {w}Sister.",67,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Hacer contigo?
+Estoy aquí para ayudarte, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,4,,654,3,"{np}I {w}am {w}not {w}your {w}sister.
+I {w}am {w}Versalia, {w}rightful {w}ruler {w}of {w}Valeria.",97,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No soy tu hermana.
+Soy Versalia, la legítima gobernante de Valeria.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,5,,655,255,"{np}No, {w}you {w}will {w}always {w}be {w}my {w}sister.",55,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, siempre serás mi hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,6,,656,3,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,7,,657,255,"{np}We {w}lived {w}our {w}whole {w}lives {w}together.{pp}One {w}day {w}you {w}may {w}be {w}queen {w}of {w}Valeria, {w}but {w}you {w}will {w}always {w}be {w}a {w}sister {w}to {w}me, {w}blood {w}be {w}damned!",206,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Vivimos juntos toda nuestra vida.{pp}Puede que algún día seas la reina de Valeria, pero siempre serás mi hermana, ¡sin importar lo que diga la sangre!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,8,,658,3,{np}A {w}lie.{pp}What {w}brother {w}would {w}abandon {w}his {w}sister {w}as {w}you {w}did?,90,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Mentira.{pp}¿Qué hermano abandonaría a su hermana como tú lo hiciste?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_111.emes,EMES,9,,659,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}I {w}never {w}abandoned {w}you.
+2. {w}I {w}did {w}only {w}what {w}I {w}had {w}to {w}do.",137,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Nunca te abandoné.
+2. Solo hice lo que tenía que hacer.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,0,,660,255,"{np}I {w}had {w}obligations―duties {w}to {w}fulfill. {w}But {w}in {w}spirit, {w}I {w}was {w}ever {w}at {w}your {w}side.",119,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tenía obligaciones, deberes que cumplir. Pero, en espíritu, siempre estuve a tu lado.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,1,,661,3,{np}Is {w}this {w}war {w}so {w}important {w}to {w}you?,54,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Es esta guerra tan importante para ti?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,2,,662,255,"{np}Ending {w}it {w}is.
+But {w}I {w}need {w}your {w}help {w}to {w}do {w}it, {w}Sister!",86,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo importante es ponerle fin.
+¡Pero necesito tu ayuda para lograrlo, hermana!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,3,,663,3,{np}You {w}beast!{pp}You {w}would {w}use {w}me {w}as {w}the {w}Dark {w}Knights {w}have! {w}{pal 16}You{palreset} {w}of {w}all {w}people!,136,{np} | {pal 16} | {palreset} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Bestia!{pp}¡Me utilizarías igual que los Caballeros Oscuros! ¡{pal 16}Tú{palreset}, precisamente tú!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,4,,664,255,"{np}No, {w}you {w}have {w}it {w}wrong!{pp}The {w}Dark {w}Knights {w}would {w}have {w}kept {w}you {w}a {w}vassal {w}in {w}your {w}own {w}kingdom. {w}A {w}puppet, {w}no {w}more.{pp}Come {w}with {w}us, {w}Sister, {w}and {w}together {w}we {w}will {w}see {w}you {w}crowned {w}a {w}true {w}queen.",290,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, ¡lo has entendido mal!{pp}Los Caballeros Oscuros te habrían mantenido como vasalla en tu propio reino. No habrías sido más que una marioneta.{pp}Ven con nosotros, hermana, y juntos lograremos que te coronen como una verdadera reina.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,5,,665,3,"{np}I {w}want {w}no {w}crown!{pp}It's {w}you {w}and {w}Lodis {w}and {w}all {w}the {w}rest {w}who {w}clamor {w}for {w}my {w}throne!{pp}No {w}more...
+I {w}can {w}take {w}no {w}more!",179,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No quiero ninguna corona!{pp}¡Tú, Lodis y todos los demás son quienes ansían mi trono!{pp}¡Ya no puedo más...
+No lo soporto más!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,6,,666,255,"{np}Calm, {w}Sister.
+It {w}will {w}be {w}all {w}right.",54,{np} | {w} | {w} | {w} | {w} | {w},"{np}Tranquila, hermana.
+Todo estará bien.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,7,,667,3,"{np}I'm {w}past {w}all {w}that {w}now.{pp}Forgive {w}me, {w}{hero}.",67,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w},"{np}Ya he superado todo eso.{pp}Perdóname, {hero}.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,8,,668,255,"{np}Sister, {w}no!",18,{np} | {w},"{np}¡Hermana, no!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,9,,669,255,"{np}Someone!
+Help {w}us!",24,{np} | {w},"{np}¡Alguien!
+¡Ayúdennos!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,10,,670,3,{np}I {w}am {w}a {w}burden...no {w}more...,42,{np} | {w} | {w} | {w} | {w},{np}Ya no seré una carga...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_112.emes,EMES,11,,671,255,{np}No!,7,{np},{np}¡No!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_113.emes,EMES,0,,672,255,"{np}I {w}did {w}leave {w}you.
+I'll {w}not {w}deny {w}it.{pp}But {w}only {w}because {w}I {w}did {w}not {w}want {w}to {w}see {w}you {w}caught {w}up {w}in {w}this {w}war, {w}Sister.",178,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Sí, te abandoné.
+No lo negaré.{pp}Pero solo porque no quería verte envuelta en esta guerra, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_113.emes,EMES,1,,673,3,"{np}Another {w}lie!
+You {w}were {w}glad {w}to {w}be {w}rid {w}of {w}me!",71,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Otra mentira!
+¡Te alegraste de librarte de mí!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_113.emes,EMES,2,,674,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}You {w}are {w}my {w}sister, {w}and {w}I {w}love {w}you.
+2. {w}I {w}took {w}no {w}joy {w}in {w}our {w}parting.",159,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Eres mi hermana y te quiero.
+2. No me alegré de que nos separáramos.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,0,,675,255,"{np}I {w}love {w}you, {w}Sister. {w}How {w}could {w}I {w}want {w}to {w}see {w}you {w}taken {w}from {w}me?",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Te quiero, hermana. ¿Cómo iba a querer que te apartaran de mí?",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,1,,676,3,{np}{hero}...,13,{hero} | {np},{np}{hero}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,2,,677,255,"{np}Father {w}is {w}dead.
+As {w}he {w}lay {w}dying, {w}he {w}told {w}me {w}something.{pp}Had {w}he {w}returned {w}you {w}to {w}the {w}king {w}when {w}the {w}prince {w}died, {w}this {w}war {w}might {w}never {w}have {w}happened.{pp}But {w}he {w}could {w}not {w}bring {w}himself {w}to {w}hand {w}over {w}the {w}child {w}who {w}called {w}him {w}""father.""{pp}He {w}loved {w}you {w}too {w}much!",388,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nuestro padre ha muerto.
+Mientras agonizaba, me contó algo.{pp}Si te hubiera devuelto al rey cuando murió el príncipe, quizá esta guerra nunca habría ocurrido.{pp}Pero no fue capaz de entregar al niño que lo llamaba «padre».{pp}¡Te quería demasiado!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,3,,678,255,"{np}You {w}were {w}not {w}of {w}his {w}blood, {w}but {w}he {w}loved {w}you {w}no {w}less.{pp}As {w}I {w}love {w}you.
+You're {w}the {w}only {w}family {w}I've {w}ever {w}known.",174,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No eras de su sangre, pero te quería igual.{pp}Como yo te quiero.
+Eres la única familia que he conocido.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,4,,679,3,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,5,,680,255,"{np}I {w}don't {w}want {w}to {w}lose {w}you, {w}Sister.",55,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No quiero perderte, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,6,,681,3,"{np}I'm {w}sorry, {w}{hero}.
+How {w}could {w}I {w}have {w}been {w}so {w}selfish?{pp}Can {w}you {w}forgive {w}me?",112,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, {hero}.
+¿Cómo pude ser tan egoísta?{pp}¿Puedes perdonarme?",,,
+event/scene/chapter_4/C4_ST_052/scene_4_114.emes,EMES,7,,682,255,"{np}That's {w}behind {w}us {w}now.
+The {w}important {w}thing {w}is {w}that {w}we'll {w}never {w}be {w}apart {w}again.",117,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Eso ya quedó atrás.
+Lo importante es que nunca volveremos a separarnos.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,0,,683,255,{np}How {w}could {w}you {w}think {w}I {w}would {w}want {w}to {w}be {w}parted {w}from {w}you?{pp}You're {w}the {w}only {w}family {w}I {w}have {w}left!,149,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Cómo pudiste pensar que querría separarme de ti?{pp}¡Eres la única familia que me queda!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,1,,684,3,"{np}But {w}we're {w}not {w}family, {w}{hero}. {w}Not {w}really.",63,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Pero no somos familia, {hero}. Al menos, no de verdad.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,2,,685,255,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,3,,686,3,"{np}I {w}wanted {w}to {w}be {w}your {w}sister.
+No, {w}more {w}simple {w}than {w}that.{pp}I {w}wanted {w}to {w}be {w}near {w}someone {w}who {w}needed {w}me...for {w}me.",167,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quería ser tu hermana.
+No, algo aún más sencillo.{pp}Quería estar cerca de alguien que me necesitara... por quien soy.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,4,,687,255,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,5,,688,3,"{np}Why {w}could {w}we {w}not {w}be {w}together?
+Why {w}was {w}I {w}born {w}a {w}princess?",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Por qué no podíamos estar juntos?
+¿Por qué nací princesa?",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,6,,689,255,"{np}Sister, {w}no!",18,{np} | {w},"{np}¡Hermana, no!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,7,,690,255,"{np}Someone!
+Help {w}us!",24,{np} | {w},"{np}¡Alguien!
+¡Ayúdennos!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,8,,691,3,{np}I {w}am {w}a {w}burden...no {w}more...,42,{np} | {w} | {w} | {w} | {w},{np}Ya no seré una carga...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_115.emes,EMES,9,,692,255,{np}No!,7,{np},{np}¡No!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,0,,693,193,{np}Still {w}nothing.,21,{np} | {w},{np}Todavía nada.,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,1,,694,192,"{np}Keep {w}looking.
+She {w}must {w}be {w}here {w}somewhere.",60,{np} | {w} | {w} | {w} | {w} | {w},"{np}Sigue buscando.
+Debe de estar por aquí, en alguna parte.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,2,,695,223,{np}...this {w}room {w}been {w}searched?,40,{np} | {w} | {w} | {w},{np}¿Ya registraron esta habitación?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,3,,696,255,{np}Catiua...,13,{np},{np}Catiua...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,4,,697,220,"{np}We've {w}looked {w}everywhere, {w}sir.
+There's {w}no {w}sign {w}of―",71,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Hemos buscado por todas partes, señor.
+No hay rastro de―",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,5,,698,255,{np}You {w}may {w}go.,21,{np} | {w} | {w},{np}Puedes retirarte.,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,6,,699,220,{np}Sir.,8,{np},{np}Señor.,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,7,,700,255,{np}Are {w}you {w}all {w}right?,31,{np} | {w} | {w} | {w},{np}¿Está bien?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,8,,701,3,{np}What {w}do {w}you {w}mean {w}to {w}do {w}with {w}me?,56,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Qué piensas hacer conmigo?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,9,,702,255,"{np}Do {w}with {w}you?
+I'm {w}here {w}to {w}help {w}you, {w}Sister.",67,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Hacer contigo?
+Estoy aquí para ayudarte, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,10,,703,3,{np}Come {w}no {w}closer!,25,{np} | {w} | {w},{np}¡No te acerques más!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,11,,704,255,"{np}Please, {w}Sister.",22,{np} | {w},"{np}Por favor, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,12,,705,3,"{np}I {w}am {w}not {w}your {w}sister.
+I {w}am {w}Versalia, {w}rightful {w}ruler {w}of {w}Valeria.",97,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No soy tu hermana.
+Soy Versalia, la legítima gobernante de Valeria.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,13,,706,255,"{np}No, {w}you {w}will {w}always {w}be {w}my {w}sister.",55,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, siempre serás mi hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,14,,707,3,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,15,,708,255,"{np}We {w}lived {w}our {w}whole {w}lives {w}together.{pp}One {w}day {w}you {w}may {w}be {w}queen {w}of {w}Valeria, {w}but {w}you {w}will {w}always {w}be {w}a {w}sister {w}to {w}me, {w}blood {w}be {w}damned!",206,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Vivimos juntos toda nuestra vida.{pp}Puede que algún día seas la reina de Valeria, pero siempre serás mi hermana, ¡sin importar lo que diga la sangre!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,16,,709,3,{np}A {w}lie.{pp}What {w}brother {w}would {w}abandon {w}his {w}sister {w}as {w}you {w}did?,90,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Mentira.{pp}¿Qué hermano abandonaría a su hermana como tú lo hiciste?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_116.emes,EMES,17,,710,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}I {w}never {w}abandoned {w}you.
+2. {w}I {w}did {w}only {w}what {w}I {w}had {w}to {w}do.",137,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Nunca te abandoné.
+2. Solo hice lo que tenía que hacer.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_117.emes,EMES,0,,711,255,"{np}I {w}had {w}obligations―duties {w}to {w}fulfill. {w}But {w}in {w}spirit, {w}I {w}was {w}ever {w}at {w}your {w}side.",119,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tenía obligaciones, deberes que cumplir. Pero, en espíritu, siempre estuve a tu lado.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_117.emes,EMES,1,,712,3,"{np}Another {w}lie!
+You {w}were {w}glad {w}to {w}be {w}rid {w}of {w}me!",71,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Otra mentira!
+¡Te alegraste de librarte de mí!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_117.emes,EMES,2,,713,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}You {w}are {w}my {w}sister, {w}and {w}I {w}love {w}you.
+2. {w}I {w}took {w}no {w}joy {w}in {w}our {w}parting.",159,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Eres mi hermana y te quiero.
+2. No me alegré de que nos separáramos.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,0,,714,255,"{np}I {w}love {w}you, {w}Sister. {w}How {w}could {w}I {w}want {w}to {w}see {w}you {w}taken {w}from {w}me?",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Te quiero, hermana. ¿Cómo iba a querer que te apartaran de mí?",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,1,,715,3,"{np}Your {w}love {w}is {w}inconstant {w}as {w}the {w}wind. {w}It {w}is {w}my {w}crown {w}you {w}love, {w}not {w}me!",115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tu amor es tan voluble como el viento. ¡Amas mi corona, no a mí!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,2,,716,255,"{np}You're {w}wrong, {w}Sister!",31,{np} | {w} | {w},"{np}¡Te equivocas, hermana!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,3,,717,3,"{np}More {w}lies!
+Everywhere {w}I {w}turn, {w}more {w}lies...",61,{np} | {w} | {w} | {w} | {w} | {w},"{np}¡Más mentiras!
+Adondequiera que miro, solo encuentro más mentiras...",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,4,,718,255,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,5,,719,3,"{np}I {w}wanted {w}to {w}be {w}your {w}sister.
+No, {w}more {w}simple {w}than {w}that.{pp}I {w}wanted {w}to {w}be {w}near {w}someone {w}who {w}needed {w}me...for {w}me.",167,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quería ser tu hermana.
+No, algo aún más sencillo.{pp}Quería estar cerca de alguien que me necesitara... por quien soy.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,6,,720,255,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,7,,721,3,"{np}Why {w}can't {w}you {w}see {w}me {w}for {w}the {w}person {w}I {w}am?{pp}{hero}, {w}look {w}on {w}me {w}with {w}your {w}heart, {w}as {w}well {w}as {w}your {w}eyes.",166,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Por qué no puedes verme como la persona que soy?{pp}{hero}, mírame con el corazón, además de con los ojos.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,8,,722,255,"{np}Sister, {w}no!",18,{np} | {w},"{np}¡Hermana, no!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,9,,723,255,"{np}Someone!
+Help {w}us!",24,{np} | {w},"{np}¡Alguien!
+¡Ayúdennos!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,10,,724,3,{np}I {w}am {w}a {w}burden...no {w}more...,42,{np} | {w} | {w} | {w} | {w},{np}Ya no seré una carga...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_118.emes,EMES,11,,725,255,{np}No!,7,{np},{np}¡No!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,0,,726,255,{np}How {w}could {w}you {w}think {w}I {w}would {w}want {w}to {w}be {w}parted {w}from {w}you?{pp}You're {w}the {w}only {w}family {w}I {w}have {w}left!,149,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Cómo pudiste pensar que querría separarme de ti?{pp}¡Eres la única familia que me queda!,,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,1,,727,3,{np}{hero}...,13,{hero} | {np},{np}{hero}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,2,,728,255,"{np}Father {w}is {w}dead.
+As {w}he {w}lay {w}dying, {w}he {w}told {w}me {w}something.{pp}Had {w}he {w}returned {w}you {w}to {w}the {w}king {w}when {w}the {w}prince {w}died, {w}this {w}war {w}might {w}never {w}have {w}happened.{pp}But {w}he {w}could {w}not {w}bring {w}himself {w}to {w}hand {w}over {w}the {w}child {w}who {w}called {w}him {w}""father.""{pp}He {w}loved {w}you {w}too {w}much!",388,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nuestro padre ha muerto.
+Mientras agonizaba, me contó algo.{pp}Si te hubiera devuelto al rey cuando murió el príncipe, quizá esta guerra nunca habría ocurrido.{pp}Pero no fue capaz de entregar al niño que lo llamaba «padre».{pp}¡Te quería demasiado!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,3,,729,255,"{np}You {w}were {w}not {w}of {w}his {w}blood, {w}but {w}he {w}loved {w}you {w}no {w}less.{pp}As {w}I {w}love {w}you.
+You're {w}the {w}only {w}family {w}I've {w}ever {w}known.",174,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No eras de su sangre, pero te quería igual.{pp}Como yo te quiero.
+Eres la única familia que he conocido.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,4,,730,3,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,5,,731,255,"{np}I {w}don't {w}want {w}to {w}lose {w}you, {w}Sister.",55,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No quiero perderte, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,6,,732,3,"{np}I'm {w}sorry, {w}{hero}.
+How {w}could {w}I {w}have {w}been {w}so {w}selfish?{pp}Can {w}you {w}forgive {w}me?",112,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, {hero}.
+¿Cómo pude ser tan egoísta?{pp}¿Puedes perdonarme?",,,
+event/scene/chapter_4/C4_ST_052/scene_4_119.emes,EMES,7,,733,255,"{np}It {w}is {w}I {w}who {w}should {w}ask {w}forgiveness.
+I {w}will {w}not {w}part {w}with {w}you {w}again.",107,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Soy yo quien debería pedir perdón.
+No volveré a separarme de ti.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,0,,734,255,"{np}I {w}did {w}leave {w}you.
+I'll {w}not {w}deny {w}it.{pp}But {w}only {w}because {w}I {w}did {w}not {w}want {w}to {w}see {w}you {w}caught {w}up {w}in {w}this {w}war, {w}Sister.",178,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Sí, te abandoné.
+No lo negaré.{pp}Pero solo porque no quería verte envuelta en esta guerra, hermana.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,1,,735,3,{np}Is {w}this {w}war {w}so {w}important {w}to {w}you?,54,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Es esta guerra tan importante para ti?,,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,2,,736,255,"{np}Ending {w}it {w}is.
+But {w}I {w}need {w}your {w}help {w}to {w}do {w}it, {w}Sister!",86,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo importante es ponerle fin.
+¡Pero necesito tu ayuda para lograrlo, hermana!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,3,,737,3,{np}You {w}beast!{pp}You {w}would {w}use {w}me {w}as {w}the {w}Dark {w}Knights {w}have! {w}{pal 16}You{palreset} {w}of {w}all {w}people!,136,{np} | {pal 16} | {palreset} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Bestia!{pp}¡Me utilizarías igual que los Caballeros Oscuros! ¡{pal 16}Tú{palreset}, precisamente tú!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,4,,738,255,"{np}No, {w}you {w}have {w}it {w}wrong!{pp}The {w}Dark {w}Knights {w}would {w}have {w}kept {w}you {w}a {w}vassal {w}in {w}your {w}own {w}kingdom. {w}A {w}puppet, {w}no {w}more.{pp}Come {w}with {w}us, {w}Sister, {w}and {w}together {w}we {w}will {w}see {w}you {w}crowned {w}a {w}true {w}queen.",290,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, ¡lo has entendido mal!{pp}Los Caballeros Oscuros te habrían mantenido como vasalla en tu propio reino. No habrías sido más que una marioneta.{pp}Ven con nosotros, hermana, y juntos lograremos que te coronen como una verdadera reina.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,5,,739,3,"{np}I {w}want {w}no {w}crown!{pp}It's {w}you {w}and {w}Lodis {w}and {w}all {w}the {w}rest {w}who {w}clamor {w}for {w}my {w}throne!{pp}No {w}more...
+I {w}can {w}take {w}no {w}more!",179,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No quiero ninguna corona!{pp}¡Tú, Lodis y todos los demás son quienes ansían mi trono!{pp}¡Ya no puedo más...
+No lo soporto más!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,6,,740,255,"{np}Calm, {w}Sister.
+It {w}will {w}be {w}all {w}right.",54,{np} | {w} | {w} | {w} | {w} | {w},"{np}Tranquila, hermana.
+Todo estará bien.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,7,,741,3,"{np}I'm {w}past {w}all {w}that {w}now.{pp}Forgive {w}me, {w}{hero}.",67,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w},"{np}Ya he superado todo eso.{pp}Perdóname, {hero}.",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,8,,742,255,"{np}Sister, {w}no!",18,{np} | {w},"{np}¡Hermana, no!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,9,,743,255,"{np}Someone!
+Help {w}us!",24,{np} | {w},"{np}¡Alguien!
+¡Ayúdennos!",,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,10,,744,3,{np}I {w}am {w}a {w}burden...no {w}more...,42,{np} | {w} | {w} | {w} | {w},{np}Ya no seré una carga...,,,
+event/scene/chapter_4/C4_ST_052/scene_4_120.emes,EMES,11,,745,255,{np}No!,7,{np},{np}¡No!,,,
+event/scene/chapter_4/C4_ST_054/scene_4_121.emes,EMES,0,,746,51,"{np}Barbas!
+I {w}cannot {w}say {w}I'm {w}pleased {w}to {w}see {w}you {w}live.",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Barbas!
+No puedo decir que me alegre verte con vida.",,,
+event/scene/chapter_4/C4_ST_054/scene_4_121.emes,EMES,1,,747,54,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_054/scene_4_121.emes,EMES,2,,748,51,{np}Back {w}to {w}Heim!,23,{np} | {w} | {w},{np}¡Regresemos a Heim!,,,
+event/scene/chapter_4/C4_ST_054/scene_4_121.emes,EMES,3,,749,51,{np}I've {w}had {w}enough {w}of {w}knights {w}not {w}worth {w}their {w}armor.,77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Estoy harto de caballeros que no valen ni la armadura que llevan.,,,
+event/scene/chapter_4/C4_ST_054/scene_4_121.emes,EMES,4,,750,54,{np}...,7,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,0,,751,3,{np}Thank {w}you {w}for {w}freeing {w}me {w}from {w}the {w}Bakram.{pp}I {w}will {w}not {w}forget {w}your {w}loyalty {w}and {w}service.,134,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Gracias por liberarme de los Bakram.{pp}No olvidaré tu lealtad ni tus servicios.,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,1,,752,68,"{np}You {w}are {w}most {w}gracious, {w}Your {w}Highness.",56,{np} | {w} | {w} | {w} | {w} | {w},"{np}Es usted muy generosa, alteza.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,2,,753,3,{np}I {w}wish {w}only {w}for {w}this {w}warring {w}to {w}be {w}over. {w}Peace {w}cannot {w}come {w}a {w}day {w}too {w}soon.{pp}Nor {w}will {w}it {w}come {w}without {w}the {w}help {w}of {w}the {w}Order {w}of {w}{order}.{pp}I {w}expect {w}great {w}deeds {w}of {w}you.,265,{np} | {order} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Solo deseo que esta guerra termine. La paz no puede llegar demasiado pronto.{pp}Y no llegará sin la ayuda de la Orden de {order}.{pp}Espero grandes hazañas de ustedes.,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,3,,754,68,"{np}And {w}you {w}shall {w}have {w}them, {w}even {w}if {w}it {w}mean {w}our {w}lives.{pp}Your {w}Highness, {w}you {w}are {w}welcome {w}to {w}remain {w}here {w}in {w}Phidoch―",173,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Y las tendrán, aunque nos cueste la vida.{pp}Alteza, puede quedarse aquí en Phidoch si así lo desea―",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,4,,755,3,"{np}Abuna {w}Mreuva!{pp}If {w}I {w}am {w}to {w}lead {w}my {w}people, {w}I {w}cannot {w}afford {w}to {w}remain {w}holed {w}away, {w}far {w}from {w}where {w}the {w}arrows {w}fly.{pp}I {w}will {w}join {w}the {w}ranks, {w}in {w}the {w}front. {w}I {w}will {w}show {w}my {w}people {w}and {w}my {w}soldiers {w}who {w}fights {w}for {w}them.",332,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Abuna Mreuva!{pp}Si voy a dirigir a mi pueblo, no puedo permanecer escondida, lejos de donde vuelan las flechas.{pp}Me uniré a las filas, en primera línea. Les demostraré a mi pueblo y a mis soldados quién lucha por ellos.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,5,,756,68,"{np}But, {w}Your {w}Highness!",29,{np} | {w} | {w},"{np}¡Pero, alteza!",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,6,,757,3,"{np}Do {w}not {w}worry {w}on {w}my {w}behalf. {w}That...is {w}an {w}order, {w}Abuna.",84,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No se preocupe por mí. Eso... es una orden, abuna.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,7,,758,68,{np}As {w}Your {w}Highness {w}wishes.,37,{np} | {w} | {w} | {w},"{np}Como ordene, alteza.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,8,,759,3,{np}About {w}the {w}front {w}lines...,37,{np} | {w} | {w} | {w},{np}Sobre la primera línea...,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,9,,760,255,{np}The {w}Bakram {w}move {w}independently {w}now. {w}The {w}Dark {w}Knights {w}have {w}lost {w}the {w}regent's {w}trust.,121,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Los Bakram ahora actúan por su cuenta. Los Caballeros Oscuros han perdido la confianza del regente.,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,10,,761,3,{np}Then {w}a {w}resolution {w}is {w}at {w}hand.{pp}Let {w}us {w}return {w}to {w}the {w}city {w}my {w}father {w}built. {w}Back {w}to {w}Heim {w}to {w}end {w}this {w}for {w}all {w}time!,184,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Entonces, la solución está a nuestro alcance.{pp}Volvamos a la ciudad que construyó mi padre. ¡Regresemos a Heim para poner fin a todo esto de una vez por todas!",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,11,,762,255,{np}Ready {w}the {w}troops!,27,{np} | {w} | {w},{np}¡Preparen a las tropas!,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,12,,763,3,{np}Well. {w}How {w}did {w}I {w}do?,35,{np} | {w} | {w} | {w} | {w},"{np}Bueno, ¿qué tal lo hice?",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,13,,764,255,"{np}You've {w}really {w}come {w}into {w}your {w}own, {w}Sister. {w}Father {w}would {w}be {w}proud.",98,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Has demostrado de lo que eres capaz, hermana. Padre estaría orgulloso.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,14,,765,3,"{np}Come {w}into {w}my {w}own? {w}Odd, {w}when {w}I {w}felt {w}like {w}someone {w}else {w}entirely.",99,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿He demostrado de lo que soy capaz? Qué extraño, porque sentí que era una persona completamente distinta.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,15,,766,68,"{np}Not {w}to {w}worry, {w}Catiua. {w}You {w}will {w}do {w}splendidly.",70,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te preocupes, Catiua. Lo harás de maravilla.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,16,,767,3,{np}I {w}hope {w}you're {w}right.,33,{np} | {w} | {w} | {w},{np}Espero que tengas razón.,,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,17,,768,255,"{np}Still, {w}you {w}should {w}stay {w}here {w}in {w}the {w}castle. {w}For {w}your {w}safety, {w}and {w}that {w}of―",115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Aun así, deberías quedarte aquí, en el castillo. Por tu seguridad y la de―",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,18,,769,3,"{np}I {w}said {w}I {w}wouldn't, {w}and {w}I {w}meant {w}it. {w}I {w}won't {w}be {w}some {w}figurehead {w}for {w}my {w}people {w}to {w}hoist {w}and {w}carry {w}about.{pp}You'll {w}come {w}to {w}my {w}rescue {w}should {w}I {w}get {w}in {w}any {w}real {w}trouble, {w}won't {w}you?",277,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Dije que no lo haría, y hablaba en serio. No seré una simple figura decorativa que mi pueblo pueda exhibir y pasear.{pp}Vendrás a rescatarme si me encuentro en verdaderos problemas, ¿verdad?",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,19,,770,255,"{np}Well, {w}of {w}course, {w}but...",36,{np} | {w} | {w} | {w},"{np}Bueno, claro que sí, pero...",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,20,,771,3,{np}It's {w}settled {w}then.,28,{np} | {w} | {w},"{np}Entonces, así queda decidido.",,,
+event/scene/chapter_4/C4_ST_056/scene_4_122.emes,EMES,21,,772,68,{np}The {w}late {w}king {w}loved {w}the {w}front {w}no {w}less. {w}Must {w}be {w}in {w}the {w}blood.,100,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Al difunto rey también le gustaba estar en primera línea. Debe de ser algo de familia.,,,
