@@ -11559,8 +11559,6 @@ event/scene/chapter_4/C4_ST_144/scene_4_308.emes,EMES,6,,1106,55,"{np}I'll {w}da
 event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,0,,1107,2,{np}It's {w}time {w}you {w}paid {w}for {w}what {w}you {w}did {w}in {w}Golyat!,77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Es hora de que pagues por lo que hiciste en Golyat!,,,
 event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,1,,1108,55,{np}And {w}{pal 16}you're{palreset} {w}going {w}to {w}collect? {w}You're {w}welcome {w}to {w}try!,97,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Y {pal 16}tú{palreset} vas a cobrar la deuda? ¡Adelante, inténtalo!",,,
 event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,2,,1109,54,"{np}Don't {w}waste {w}your {w}words {w}on {w}this {w}one, {w}Martym. {w}{pp}He's {w}only {w}{hero}'s {w}lapdog.",,,,,,
-Hear {w}how {w}he {w}barks {w}for {w}his {w}master?,163,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No malgastes tus palabras con este, Martym. {pp}No es más que el perro faldero de {hero}.
-¿Oyes cómo ladra para complacer a su amo?",,,,,,,,,
 event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,3,,1110,2,"{np}Maybe {w}I {w}am {w}just {w}a {w}dog. {w}But {w}I'm {w}here, {w}standing {w}before {w}you! {w}Are {w}you {w}man {w}enough {w}to {w}face {w}me?{pp}I'll {w}tear {w}out {w}your {w}throat {w}with {w}my {w}bare {w}teeth!",219,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quizá solo sea un perro. ¡Pero aquí estoy, frente a ti! ¿Tienes el valor de enfrentarte a mí?{pp}¡Te arrancaré la garganta con mis propios dientes!",,,
 event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,4,,1111,54,"{np}A {w}rabid {w}cur, {w}at {w}that... {w}All {w}the {w}better.
 We {w}fight!",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Y encima un perro rabioso... Mejor todavía.
@@ -13173,8 +13171,6 @@ event/scene/chapter_dlc/DLC_ST_010/scene_DLC_11.emes,EMES,0,,36,255,"{np}I {w}ca
 They'll {w}have {w}to {w}fend {w}for {w}themselves!",83,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo quedarme aquí.
 ¡Tendrán que arreglárselas solos!",,,
 event/scene/chapter_dlc/DLC_ST_010/scene_DLC_12.emes,EMES,0,,37,255,{np}I {w}can't {w}stay {w}here.{pp}This {w}is {w}their {w}fight.,,,,,,
-"They {w}can {w}handle {w}it.{pp}I {w}always {w}run {w}afoul {w}of {w}trouble {w}in {w}this {w}city.{pp}Still, {w}I'll {w}never {w}live {w}it {w}down {w}if {w}I {w}leave... {w}Dammit!",247,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No puedo quedarme aquí.{pp}Esta es su pelea.,,,,,,,,,
-"Pueden arreglárselas solos.{pp}Siempre termino metido en problemas en esta ciudad.{pp}Aun así, nunca me lo perdonaré si me voy... ¡Maldita sea!",,,,,,,,,,,,
 event/scene/chapter_dlc/DLC_ST_010/scene_DLC_13.emes,EMES,0,,38,255,"{np}Canopus! {w}Gildas!
 We {w}should {w}withdraw!",49,{np} | {w} | {w} | {w},"{np}¡Canopus! ¡Gildas!
 ¡Debemos retirarnos!",,,
