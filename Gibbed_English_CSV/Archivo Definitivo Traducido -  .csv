@@ -13015,3 +13015,315 @@ event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,49,,1040,13,"{np}Never!
 But {w}I {w}do {w}need {w}your {w}help, {w}dear.",59,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Nunca!
 Pero sí necesito tu ayuda, querido.",,,
 event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,50,,1041,255,"{np}Stay {w}out {w}of {w}my {w}thoughts, {w}if {w}you {w}don't {w}mind.{pp}{FF 92}So, {w}wait. {w}All {w}this {w}was {w}to {w}ask {w}me {w}to {w}help {w}you {w}exterminate {w}some {w}pumpkins?",192,{np} | {pp} | {FF 92} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te metas en mis pensamientos, si no te importa.{pp}{FF 92}A ver, espera. ¿Todo esto era para pedirme que te ayudara a exterminar unas cuantas calabazas?",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,8,,999,255,{np}...{pp}{FF 92}Say {w}what {w}you {w}have {w}to {w}say.,58,{FF 92} | {np} | {pp} | {w} | {w} | {w} | {w} | {w},{np}...{pp}{FF 92}Di lo que tengas que decir.,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,51,,1042,13,"{np}Yes, {w}I {w}suppose {w}it {w}was.
+I'd {w}be {w}ever {w}so {w}grateful.",75,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Sí, supongo que sí.
+Te estaría muy agradecida.",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,52,,1043,255,{np}Are {w}you {w}going {w}to {w}tell {w}me {w}where {w}they {w}are?,68,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Vas a decirme dónde están?,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,53,,1044,13,"{np}Their {w}leader {w}called {w}herself {w}Punkin. {w}A {w}thick-rinded, {w}particularly {w}insolent {w}creature. {w}She {w}said {w}she {w}wanted {w}to {w}become {w}human.",172,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Su líder se hacía llamar Punkin. Una criatura de corteza muy gruesa y bastante insolente. Dijo que quería convertirse en humana.,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,54,,1045,255,{np}Why {w}would {w}she {w}want {w}to {w}do {w}that?,52,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Por qué querría hacer eso?,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,55,,1046,13,"{np}Oh, {w}I {w}said {w}something {w}to {w}the {w}effect {w}that {w}only {w}humans {w}were {w}paid {w}for {w}their {w}labor.{pp}Punkin {w}must {w}have {w}taken {w}that {w}to {w}heart. {w}Or {w}to {w}seed. {w}Seeds. {w}Whatever.",227,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Oh, dije algo así como que solo se pagaba a los humanos por su trabajo.{pp}Punkin debió de tomárselo a pecho. O a semilla. Semillas. Como sea.",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,56,,1047,255,{np}I'm {w}starting {w}to {w}feel {w}sorry {w}for {w}the {w}pumpkins...,71,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Empiezo a sentir pena por las calabazas...,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,57,,1048,13,{np}Come {w}again?,18,{np} | {w},{np}¿Cómo dices?,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,58,,1049,255,{np}I {w}said {w}I {w}feel {w}sorry {w}for {w}the {w}pumpkins!,62,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Dije que siento pena por las calabazas!,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,59,,1050,13,"{np}No {w}sympathy {w}for {w}poor {w}Deneb?
+I {w}feel {w}a {w}tear {w}running {w}down {w}my {w}cheek.",101,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Nada de compasión por la pobre Deneb?
+Siento que una lágrima me recorre la mejilla.",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,60,,1051,255,{np}This {w}is {w}getting {w}old.,33,{np} | {w} | {w} | {w},{np}Esto ya está cansando.,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,61,,1052,13,"{np}When {w}Punkin {w}asked {w}me {w}how {w}she {w}could {w}become {w}human, {w}I {w}told {w}her {w}some {w}relic {w}of {w}the {w}dragon {w}lords {w}might {w}make {w}it {w}possible.",181,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Cuando Punkin me preguntó cómo podía convertirse en humana, le dije que alguna reliquia de los señores dragón podría hacerlo posible.",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,62,,1053,255,{np}I {w}don't {w}believe {w}this.,34,{np} | {w} | {w} | {w},{np}No puedo creerlo.,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,63,,1054,13,{np}Come {w}again?,18,{np} | {w},{np}¿Cómo dices?,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,64,,1055,255,{np}Then {w}they're {w}headed {w}for {w}the {w}Palace {w}of {w}the {w}Dead.,75,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Entonces se dirigen al Palacio de los Muertos.,,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,65,,1056,13,"{np}Precisely! {w}I'll {w}accompany {w}you, {w}of {w}course. {w}I {w}wouldn't {w}think {w}of {w}asking {w}you {w}to {w}go {w}alone.{pp}I {w}will {w}have {w}to {w}close {w}the {w}shop, {w}but...it {w}should {w}be {w}worth {w}it {w}for {w}our {w}romantic {w}getaway!",264,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Exactamente! Por supuesto, te acompañaré. Jamás te pediría que fueras a solas.{pp}Tendré que cerrar la tienda, pero... ¡valdrá la pena por nuestra escapada romántica!",,,
+event/scene/chapter_4/C4_ST_345/scene_4_812.emes,EMES,66,,1057,255,{np}As {w}if {w}pumpkin {w}golems {w}weren't {w}enough...,57,{np} | {w} | {w} | {w} | {w} | {w},{np}Como si no bastara con los gólems de calabaza...,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,0,,1058,255,{np}They're {w}everywhere.,26,{np} | {w},{np}¡Están por todas partes!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,1,,1059,13,"{np}Don't {w}look {w}so {w}grim.
+Take {w}down {w}Punkin, {w}and {w}the {w}rest {w}should {w}go {w}quietly.",106,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No pongas esa cara.
+Derrota a Punkin y los demás se rendirán sin oponer resistencia.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,2,,1060,255,"{np}Which {w}one's {w}Punkin?
+They {w}all {w}look {w}the {w}same.",65,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Cuál de ellas es Punkin?
+Todas se ven iguales.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,3,,1061,13,{np}Punkin? {w}Punkin! {w}You {w}can {w}come {w}out {w}now. {w}Mummy's {w}not {w}upset {w}with {w}you {w}anymore.,113,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Punkin? ¡Punkin! Ya puedes salir. Mamá ya no está enojada contigo.,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,4,,1062,255,"{np}Hmm.
+Nothing.",17,{np},"{np}Mmm.
+Nada.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,5,,1063,13,"{np}That's {w}strange.
+I {w}wonder {w}where {w}she's {w}gone.",61,{np} | {w} | {w} | {w} | {w} | {w},"{np}Qué extraño.
+Me pregunto adónde habrá ido.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,6,,1064,255,{np}They {w}seem {w}docile {w}enough {w}now. {w}Maybe {w}we {w}can {w}simply {w}ask {w}them {w}to {w}come {w}back.,114,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Ahora parecen bastante dóciles. Quizá baste con pedirles que regresen.,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,7,,1065,13,{np}It's {w}worth {w}a {w}try.{pp}{FF 92}Punkin! {w}Punkin! {w}Mummy {w}brought {w}you {w}your {w}allowance!,108,{FF 92} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Vale la pena intentarlo.{pp}{FF 92}¡Punkin! ¡Punkin! ¡Mamá te trajo tu mesada!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,8,,1066,255,{np}Still {w}not {w}biting...,29,{np} | {w} | {w},{np}Sigue sin funcionar...,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,9,,1067,228,"{np}Punkin {w}doesn't {w}want {w}allowance!
+Punkin {w}wants {w}real {w}moneys!",78,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Punkin no quiere mesada!
+¡Punkin quiere dinero de verdad!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,10,,1068,255,{np}She's {w}here!,18,{np} | {w},{np}¡Ahí está!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,11,,1069,13,"{np}I {w}told {w}you, {w}Punkin.
+Only {w}people {w}get {w}paid {w}to {w}work.{pp}That's {w}my {w}position, {w}and {w}I'm {w}sticking {w}to {w}it!",145,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Te lo dije, Punkin.
+Solo a las personas se les paga por trabajar.{pp}Esa es mi postura y no pienso cambiarla.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,12,,1070,255,{np}She's {w}nothing {w}if {w}not {w}stubborn.,46,{np} | {w} | {w} | {w} | {w},{np}No se puede negar que es terca.,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,13,,1071,151,{np}But {w}Punkin {w}{pal 16}is{palreset} {w}a {w}people!,57,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w},{np}¡Pero Punkin {pal 16}es{palreset} una persona!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,14,,1072,255,{np}How...how {w}is {w}this {w}possible!?,41,{np} | {w} | {w} | {w},{np}¿Có... cómo es posible?,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,15,,1073,13,"{np}This {w}isn't {w}funny, {w}Punkin.{pp}If {w}you {w}mean {w}to {w}challenge {w}me, {w}you're {w}in {w}for {w}a {w}rude {w}awakening.{pp}I {w}don't {w}know {w}what {w}sort {w}of {w}glamour {w}this {w}is, {w}but {w}you {w}get {w}rid {w}of {w}it {w}this {w}instant!",265,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esto no tiene gracia, Punkin.{pp}Si pretendes desafiarme, te llevarás una desagradable sorpresa.{pp}No sé qué clase de encantamiento es este, pero ¡deshazlo ahora mismo!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,16,,1074,151,{np}Punkin {w}{pal 16}could{palreset} {w}do {w}that...{pp}{FF 92}But {w}Punkin {w}thinks {w}you'll {w}be {w}sorry!,114,{FF 92} | {np} | {pal 16} | {palreset} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Punkin {pal 16}podría{palreset} hacerlo...{pp}{FF 92}¡Pero Punkin cree que te arrepentirás!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,17,,1075,13,"{np}I've {w}been {w}patient, {w}but {w}enough {w}is {w}enough!{pp}We'll {w}see {w}how {w}insolent {w}you {w}are {w}when {w}you're {w}baking {w}in {w}a {w}pie {w}dish!{pp}Come, {w}{hero}.
+Let's {w}show {w}her {w}who {w}she's {w}up {w}against!",241,{hero} | {np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡He tenido paciencia, pero todo tiene un límite!{pp}¡Veremos si sigues siendo tan insolente cuando estés dentro de un molde para pastel!{pp}Vamos, {hero}.
+¡Mostrémosle con quién se está metiendo!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_813.emes,EMES,18,,1076,255,{np}How {w}did {w}I {w}get {w}myself {w}into {w}this?,53,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Cómo me metí en esto?,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,0,,1077,151,"{np}Aww...
+Just {w}when {w}Punkin {w}was {w}finally {w}a {w}people.{pp}Punkin {w}only {w}wanted {w}to {w}be {w}treated {w}like {w}everybody {w}else.",148,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ay...
+Justo cuando Punkin por fin era una persona.{pp}Punkin solo quería que la trataran como a los demás.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,1,,1078,255,"{np}Why {w}not {w}give {w}her {w}a {w}second {w}chance, {w}Deneb?{pp}The {w}village {w}isn't {w}too {w}badly {w}damaged, {w}really.",131,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Por qué no le das otra oportunidad, Deneb?{pp}En realidad, la aldea no sufrió tantos daños.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,2,,1079,13,"{np}Spare {w}the {w}rod, {w}spoil {w}the {w}pumpkin, {w}{hero}.",63,{hero} | {np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quien no corrige, malcría a la calabaza, {hero}.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,3,,1080,255,"{np}You {w}said {w}yourself {w}that {w}you {w}needed {w}someone {w}to {w}help {w}out.{pp}If {w}you {w}leave {w}Punkin {w}to {w}tend {w}the {w}shop, {w}you {w}could {w}even...well, {w}you {w}could {w}even {w}come {w}with {w}us.",226,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tú mismo dijiste que necesitabas a alguien que te ayudara.{pp}Si dejas que Punkin se encargue de la tienda, incluso podrías... bueno, podrías venir con nosotros.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,4,,1081,13,{np}That {w}sounds {w}like {w}a {w}proposal!,44,{np} | {w} | {w} | {w} | {w},{np}¡Eso suena a una propuesta!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,5,,1082,255,"{np}What {w}do {w}you {w}say, {w}Punkin?",40,{np} | {w} | {w} | {w} | {w},"{np}¿Qué dices, Punkin?",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,6,,1083,13,{np}How {w}rude!,16,{np} | {w},{np}¡Qué grosería!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,7,,1084,151,"{np}Punkin {w}will {w}get {w}paid?
+And {w}the {w}others {w}too?",63,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿A Punkin le pagarán?
+¿Y a los demás también?",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,8,,1085,13,"{np}I {w}am {w}the {w}shop's {w}proprietress, {w}so {w}I'll {w}need {w}a {w}fair {w}split {w}of {w}the {w}profits. {w}Say, {w}seventy {w}percent!",145,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Soy la dueña de la tienda, así que me corresponde una parte justa de las ganancias. ¡Digamos que el setenta por ciento!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,9,,1086,255,"{np}Splitting {w}hairs, {w}more {w}like.",40,{np} | {w} | {w} | {w},"{np}Más bien, estás repartiendo demasiado a tu favor.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,10,,1087,151,"{np}True, {w}a {w}proprietress {w}deserves {w}her {w}share.
+Still...{pp}{FF 92}Twenty {w}percent!",97,{FF 92} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Es cierto, la dueña merece su parte.
+Aun así...{pp}{FF 92}¡El veinte por ciento!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,11,,1088,255,"{np}Not {w}shy, {w}is {w}she?",29,{np} | {w} | {w} | {w},"{np}No es nada tímida, ¿eh?",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,12,,1089,13,{np}Fifty {w}percent!,21,{np} | {w},{np}¡El cincuenta por ciento!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,13,,1090,151,{np}Thirty!,11,{np},{np}¡El treinta por ciento!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,14,,1091,13,"{np}Forty, {w}and {w}that's {w}my {w}final {w}offer!",52,{np} | {w} | {w} | {w} | {w} | {w},"{np}¡Cuarenta, y no pienso ofrecer más!",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,15,,1092,151,{np}Thirty-five!,16,{np},{np}¡Treinta y cinco!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,16,,1093,255,{np}What {w}have {w}I {w}started...,35,{np} | {w} | {w} | {w},{np}¿En qué me he metido...?,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,17,,1094,13,"{np}Have {w}to {w}have {w}the {w}last {w}word, {w}eh?{pp}{FF 92}Fine, {w}thirty-five.
+But {w}you'll {w}pay {w}the {w}others {w}out {w}of {w}your {w}end.",152,{FF 92} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Siempre tienes que decir la última palabra, ¿eh?{pp}{FF 92}De acuerdo, treinta y cinco.
+Pero les pagarás a los demás de tu parte.",,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,18,,1095,151,{np}Deal!,9,{np},{np}¡Trato hecho!,,,
+event/scene/chapter_4/C4_ST_346/scene_4_819.emes,EMES,19,,1096,13,{np}And {w}don't {w}go {w}forgetting {w}who {w}your {w}master {w}is!,68,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Y no olvides quién es tu jefa!,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,0,,1097,68,"{np}To {w}lose {w}Catiua {w}just {w}before {w}our {w}assault {w}on {w}Heim {w}is {w}a {w}grievous {w}blow.{pp}Had {w}I {w}known, {w}I {w}would {w}have {w}implored {w}her {w}to {w}stay {w}within {w}these {w}walls {w}more {w}firmly.",230,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Perder a Catiua justo antes de nuestro asalto a Heim es un golpe terrible.{pp}De haberlo sabido, habría insistido con más firmeza en que se quedara dentro de estos muros.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,1,,1098,255,"{np}It's {w}my {w}fault...
+I {w}promised {w}to {w}protect {w}her.",65,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Es mi culpa...
+Prometí protegerla.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,2,,1099,220,"{np}Report, {w}sir.",19,{np} | {w},"{np}Informe, señor.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,3,,1100,68,{np}Yes?,8,{np},{np}¿Sí?,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,4,,1101,220,"{np}Our {w}division {w}in {w}Oeram {w}met {w}with {w}an {w}enemy {w}attack {w}and {w}was {w}destroyed, {w}sir.",110,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nuestra división en Oeram sufrió un ataque enemigo y fue aniquilada, señor.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,5,,1102,68,{np}Destroyed!? {w}How {w}did {w}it {w}happen? {w}Was {w}there {w}no {w}warning?,80,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡¿Aniquilada?! ¿Cómo ocurrió? ¿No hubo ninguna advertencia?,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,6,,1103,220,"{np}Our {w}report {w}was {w}not {w}clear {w}on {w}the {w}matter, {w}but {w}sorcery {w}of {w}a {w}most {w}dire {w}sort {w}was {w}involved.{pp}According {w}to {w}one {w}survivor, {w}the {w}mage {w}possessed {w}a {w}staff {w}that {w}made {w}a {w}sound {w}like {w}a {w}crack {w}of {w}thunder―{pp}No {w}sooner {w}had {w}he {w}heard {w}the {w}sound {w}than {w}one {w}of {w}his {w}companions {w}fell {w}to {w}the {w}ground, {w}dead.",425,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nuestro informe no aclara lo ocurrido, pero se empleó una hechicería de lo más terrible.{pp}Según uno de los supervivientes, el mago tenía un bastón que producía un sonido semejante a un trueno―{pp}Apenas oyó el sonido, uno de sus compañeros cayó muerto al suelo.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,7,,1104,255,"{np}A {w}fusil! {w}
+So {w}the {w}Bakram {w}still {w}possess {w}some {w}of {w}the {w}Balboede {w}weaponry.",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Un fusil!
+Así que los Bakram aún conservan parte del armamento de Balboede.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,8,,1105,68,"{np}What {w}sorcery {w}is {w}this {w}""fusil"" {w}you {w}speak {w}of?",67,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Qué clase de hechicería es ese «fusil» del que hablas?,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,9,,1106,255,"{np}Not {w}sorcery, {w}Abuna. {w}A {w}device. {w}They {w}are {w}fashioned {w}upon {w}the {w}continent {w}to {w}the {w}south.",124,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No es hechicería, Abuna. Es un artefacto. Se fabrican en el continente del sur.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,10,,1107,68,{np}...?,8,{np},{np}...,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,11,,1108,255,"{np}I {w}must {w}go {w}there, {w}now. {w}Ready {w}the {w}men!",61,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Debo ir allí ahora mismo. ¡Preparen a los hombres!,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,12,,1109,220,"{np}Immediately, {w}Commander.",30,{np} | {w},"{np}Enseguida, comandante.",,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,13,,1110,255,{np}Damn {w}the {w}Bakram!,26,{np} | {w} | {w},{np}¡Malditos sean los Bakram!,,,
+event/scene/chapter_4/C4_ST_348/scene_4_830.emes,EMES,14,,1111,0,{np}{FF 9A 03}You {w}received {w}a {w}Sovereign's {w}Mark.,58,{FF 9A 03} | {np} | {w} | {w} | {w} | {w},{np}{FF 9A 03}Has obtenido una Marca del Soberano.,,,
+event/scene/chapter_4/C4_ST_349/scene_4_831.emes,EMES,0,,1112,108,{np}You {w}who {w}cling {w}to {w}your {w}powerless {w}gods! {w}Prepare {w}to {w}witness {w}a {w}strength {w}beyond {w}any {w}sorcery!,133,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Ustedes, que se aferran a sus dioses impotentes! ¡Prepárense para presenciar un poder que supera cualquier hechicería!",,,
+event/scene/chapter_4/C4_ST_349/scene_4_835.emes,EMES,0,,1113,108,{np}Feh... {w}How {w}could {w}we {w}lose...to {w}such {w}primitives!?,69,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Bah...! ¿Cómo pudimos perder... contra unos primitivos?,,,
+event/scene/chapter_4/C4_ST_462/scene_4_916.emes,EMES,0,,1114,0,"{np}{FF 9A 03}You {w}can {w}use {w}the {w}Palace {w}Guide, {w}1st {w}Ed. {w}here {w}to {w}proceed {w}directly {w}to {w}Level {w}25.",131,{FF 9A 03} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{FF 9A 03}Puedes usar aquí la Guía del Palacio, 1.ª ed., para avanzar directamente al nivel 25.",,,
+event/scene/chapter_4/C4_ST_462/scene_4_916.emes,EMES,1,,1115,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Continue {w}exploring.
+2. {w}Use {w}the {w}Palace {w}Guide, {w}1st {w}Ed. {w}to {w}go {w}to {w}Level {w}25.",157,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Seguir explorando.
+2. Usar la Guía del Palacio, 1.ª ed., para ir al nivel 25.",,,
+event/scene/chapter_4/C4_ST_487/scene_4_918.emes,EMES,0,,1116,0,"{np}{FF 9A 03}You {w}can {w}use {w}the {w}Palace {w}Guide, {w}2nd {w}Ed. {w}here {w}to {w}proceed {w}directly {w}to {w}Level {w}50.",131,{FF 9A 03} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{FF 9A 03}Puedes usar aquí la Guía del Palacio, 2.ª ed., para avanzar directamente al nivel 50.",,,
+event/scene/chapter_4/C4_ST_487/scene_4_918.emes,EMES,1,,1117,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Continue {w}exploring.
+2. {w}Use {w}the {w}Palace {w}Guide, {w}2nd {w}Ed. {w}to {w}go {w}to {w}Level {w}50.",157,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Seguir explorando.
+2. Usar la Guía del Palacio, 2.ª ed., para ir al nivel 50.",,,
+event/scene/chapter_4/C4_ST_512/scene_4_920.emes,EMES,0,,1118,0,"{np}{FF 9A 03}You {w}can {w}use {w}the {w}Palace {w}Guide, {w}3rd {w}Ed. {w}here {w}to {w}proceed {w}directly {w}to {w}Level {w}75.",131,{FF 9A 03} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{FF 9A 03}Puedes usar aquí la Guía del Palacio, 3.ª ed., para avanzar directamente al nivel 75.",,,
+event/scene/chapter_4/C4_ST_512/scene_4_920.emes,EMES,1,,1119,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Continue {w}exploring.
+2. {w}Use {w}the {w}Palace {w}Guide, {w}3rd {w}Ed. {w}to {w}go {w}to {w}Level {w}75.",157,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Seguir explorando.
+2. Usar la Guía del Palacio, 3.ª ed., para ir al nivel 75.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,0,,1,255,{np}What {w}a {w}lovely {w}voice {w}she {w}has.{pp}I've {w}not {w}seen {w}a {w}female {w}winged {w}before.,106,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Qué voz tan hermosa tiene!{pp}Nunca había visto a una alada.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,1,,2,8,"{np}A {w}rare {w}sight, {w}even {w}in {w}Xenobia.{pp}Though {w}I {w}am {w}acquainted {w}with {w}one.",100,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Es algo poco común, incluso en Xenobia.{pp}Aunque conozco a una.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,2,,3,255,{np}Is {w}there {w}anything {w}you {w}Xenobian {w}knights {w}haven't {w}seen?,77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Hay algo que ustedes, caballeros xenobianos, no hayan visto?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,3,,4,8,"{np}My {w}acquaintance {w}is {w}Canopus's {w}sister, {w}as {w}it {w}happens.",76,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Resulta que la conozco: es la hermana de Canopus.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,4,,5,255,{np}I {w}never {w}knew {w}he {w}had {w}a {w}sister.,51,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}No sabía que tenía una hermana.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,5,,6,8,"{np}I {w}only {w}met {w}her {w}the {w}once {w}myself.
+She {w}was {w}charming. {w}Beautiful.{pp}And {w}quite {w}a {w}singer. {w}Famed {w}throughout {w}all {w}of {w}Xenobia, {w}she {w}was.{pp}One {w}note, {w}and {w}the {w}men {w}would {w}follow {w}her {w}around {w}like {w}cats {w}after {w}a {w}fishmonger.{pp}You'd {w}never {w}know {w}she {w}had {w}such {w}a {w}vulgar {w}brother.",379,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Solo la conocí una vez.
+Era encantadora. Hermosa.{pp}Y cantaba muy bien. Era famosa en toda Xenobia.{pp}Con una sola nota, los hombres la seguían a todas partes como gatos al pescadero.{pp}Jamás imaginarías que tuviera un hermano tan vulgar.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,6,,7,6,"{np}A {w}vulgar {w}brother {w}with {w}ears, {w}you {w}bearded {w}bastard!",73,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡El hermano vulgar tiene oídos, bastardo barbudo!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,7,,8,255,"{np}Gildas {w}speaks {w}highly {w}of {w}your {w}sister, {w}Canopus.{pp}She's {w}not {w}unlike {w}this {w}songstress, {w}I'm {w}told.",132,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Gildas habla muy bien de tu hermana, Canopus.{pp}Por lo que me han dicho, se parece a esta cantante.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,8,,9,6,"{np}Iuria?
+What {w}in {w}the {w}eight {w}winds {w}is {w}she {w}doing {w}here?",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Iuria?
+¡Por los ocho vientos! ¿Qué hace aquí?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,9,,10,255,{np}Iuria?,10,{np},{np}¿Iuria?,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,10,,11,8,{np}Here?,9,{np},{np}¿Aquí?,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,11,,12,6,{np}Iuria!,10,{np},{np}¡Iuria!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,12,,13,28,{np}...,7,{np},{np}...,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,13,,14,6,"{np}Is {w}that {w}you?
+Explain {w}yourself.",43,{np} | {w} | {w} | {w},"{np}¿Eres tú?
+¡Explícate!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,14,,15,170,"{np}What's {w}all {w}the {w}fuss?
+Don't {w}like {w}her {w}singing, {w}is {w}it?",79,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿A qué viene tanto alboroto?
+¿No les gusta cómo canta?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,15,,16,6,"{np}Stand {w}aside, {w}scale {w}skin!",37,{np} | {w} | {w} | {w},"{np}¡Apártate, escamoso!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,16,,17,170,"{np}Who's {w}going {w}to {w}make {w}me?
+You, {w}bird-man?",57,{np} | {w} | {w} | {w} | {w} | {w},"{np}¿Y quién me obligará?
+¿Tú, hombre pájaro?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,17,,18,6,{np}What {w}did {w}you {w}call {w}me?,37,{np} | {w} | {w} | {w} | {w},{np}¿Qué me llamaste?,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,18,,19,8,"{np}Easy, {w}there's {w}no {w}call {w}for {w}that.",50,{np} | {w} | {w} | {w} | {w} | {w},"{np}Tranquilo, no hace falta insultar.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,19,,20,8,{np}You {w}picked {w}the {w}wrong {w}fight!,43,{np} | {w} | {w} | {w} | {w},{np}¡Elegiste la pelea equivocada!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,20,,21,189,{np}Aieeep!,11,{np},{np}¡Aaaah!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,21,,22,255,"{np}Canopus! {w}Gildas!
+Control {w}yourselves!",46,{np} | {w} | {w} | {w},"{np}¡Canopus! ¡Gildas!
+¡Contrólense!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,22,,23,170,"{np}The {w}boy's {w}with {w}them, {w}eh?",40,{np} | {w} | {w} | {w} | {w},"{np}El muchacho está con ellos, ¿eh?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,23,,24,255,{np}What?,9,{np},{np}¿Qué?,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,24,,25,28,{np}This {w}is {w}no {w}time {w}for {w}song.,44,{np} | {w} | {w} | {w} | {w} | {w},{np}No es momento para cantar.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_1.emes,EMES,25,,26,6,"{np}Iuria, {w}wait!",19,{np} | {w},"{np}¡Iuria, espera!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_10.emes,EMES,0,,35,255,{np}I {w}don't {w}like {w}the {w}idea {w}of {w}running. {w}Maybe {w}there's {w}something {w}else {w}I {w}can {w}try.,116,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No me gusta la idea de huir. Quizá pueda intentar otra cosa.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_11.emes,EMES,0,,36,255,"{np}I {w}can't {w}stay {w}here.
+They'll {w}have {w}to {w}fend {w}for {w}themselves!",83,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo quedarme aquí.
+¡Tendrán que arreglárselas solos!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_12.emes,EMES,0,,37,255,{np}I {w}can't {w}stay {w}here.{pp}This {w}is {w}their {w}fight.,,,,,,
+"They {w}can {w}handle {w}it.{pp}I {w}always {w}run {w}afoul {w}of {w}trouble {w}in {w}this {w}city.{pp}Still, {w}I'll {w}never {w}live {w}it {w}down {w}if {w}I {w}leave... {w}Dammit!",247,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No puedo quedarme aquí.{pp}Esta es su pelea.,,,,,,,,,
+"Pueden arreglárselas solos.{pp}Siempre termino metido en problemas en esta ciudad.{pp}Aun así, nunca me lo perdonaré si me voy... ¡Maldita sea!",,,,,,,,,,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_13.emes,EMES,0,,38,255,"{np}Canopus! {w}Gildas!
+We {w}should {w}withdraw!",49,{np} | {w} | {w} | {w},"{np}¡Canopus! ¡Gildas!
+¡Debemos retirarnos!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_13.emes,EMES,1,,39,8,"{np}They {w}do {w}outnumber {w}us...
+What {w}do {w}you {w}say, {w}Brother?",74,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nos superan en número...
+¿Qué dices, hermano?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_13.emes,EMES,2,,40,6,{np}You're {w}no {w}brother {w}of {w}mine {w}and {w}never {w}were!,66,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No eres mi hermano, ni lo has sido nunca!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_13.emes,EMES,3,,41,255,{np}Later!,10,{np},{np}¡Nos vemos!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_14.emes,EMES,0,,42,255,"{np}Let's {w}get {w}out {w}of {w}here, {w}Canopus!",50,{np} | {w} | {w} | {w} | {w} | {w},"{np}¡Salgamos de aquí, Canopus!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_14.emes,EMES,1,,43,6,"{np}All {w}right, {w}but {w}I {w}don't {w}like {w}it!",53,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡De acuerdo, pero no me gusta nada!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_15.emes,EMES,0,,44,255,"{np}Let's {w}get {w}out {w}of {w}here, {w}Gildas!",49,{np} | {w} | {w} | {w} | {w} | {w},"{np}¡Salgamos de aquí, Gildas!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_15.emes,EMES,1,,45,8,{np}My {w}thoughts {w}exact!{pp}It's {w}not {w}worth {w}risking {w}our {w}lives {w}with {w}these {w}dregs!,106,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Opino lo mismo!{pp}¡No vale la pena arriesgar la vida con esta escoria!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_17.emes,EMES,0,,46,6,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Sorry {w}for {w}getting {w}us {w}into {w}this.
+2. {w}They {w}started {w}it!",125,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Lamento habernos metido en esto.
+2. ¡Ellos empezaron!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,0,,47,6,"{np}This {w}is {w}my {w}mess.
+I'll {w}get {w}us {w}out {w}of {w}it.",67,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esto es culpa mía.
+Yo nos sacaré de aquí.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,1,,48,8,"{np}Admitting {w}your {w}mistake?
+Now {w}there's {w}a {w}rare {w}treat.{pp}Remind {w}me {w}to {w}mock {w}you {w}properly {w}if {w}you {w}actually {w}get {w}us {w}out {w}of {w}this.",180,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Admitiendo tu error?
+Eso sí que es una novedad.{pp}Recuérdame que me burle de ti como es debido si de verdad logras sacarnos de esta.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,2,,49,6,"{np}Don't {w}know {w}when {w}to {w}quit, {w}do {w}you?{pp}If {w}you {w}hadn't {w}been {w}spoiling {w}for {w}a {w}fight, {w}this {w}would {w}be {w}over {w}by {w}now!",164,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No sabes cuándo detenerte, ¿verdad?{pp}¡Si no hubieras estado buscando pelea, esto ya habría terminado!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,3,,50,8,"{np}He {w}punched {w}me!
+Honor {w}demanded {w}it!",49,{np} | {w} | {w} | {w} | {w},"{np}¡Me golpeó!
+¡El honor me obligaba a hacerlo!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,4,,51,6,"{np}That's {w}your {w}problem.
+You {w}think {w}with {w}your {w}heart, {w}not {w}your {w}head.{pp}No {w}wonder {w}you're {w}a {w}second-rate {w}knight!",150,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ese es tu problema.
+Piensas con el corazón, no con la cabeza.{pp}¡No me extraña que seas un caballero de segunda!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,5,,52,8,"{np}That's {w}enough {w}squawking {w}out {w}of {w}you, {w}{pal 16}bird{palreset}!",81,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w},"{np}¡Ya basta de graznar, {pal 16}pájaro{palreset}!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_18.emes,EMES,6,,53,255,"{np}Stop {w}this!
+As {w}if {w}having {w}pirates {w}trying {w}to {w}kill {w}us {w}wasn't {w}enough...{pp}We {w}should {w}leave {w}while {w}we {w}still {w}can!",157,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Basta ya!
+Como si no bastara con que los piratas intentaran matarnos...{pp}¡Deberíamos irnos mientras aún podemos!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_19.emes,EMES,0,,54,6,{np}It {w}was {w}that {w}lizard {w}who {w}started {w}this!{pp}I {w}had {w}to {w}defend {w}myself!,97,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Ese lagarto empezó todo!{pp}¡Tuve que defenderme!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_19.emes,EMES,1,,55,8,"{np}He's {w}right, {w}{hero}.
+Honor {w}demanded {w}it!",54,{hero} | {np} | {w} | {w} | {w} | {w},"{np}Tiene razón, {hero}.
+¡El honor lo exigía!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_19.emes,EMES,2,,56,255,"{np}They're {w}not {w}going {w}to {w}be {w}any {w}help.
+I {w}guess {w}it's {w}up {w}to {w}me.",93,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No van a ser de ninguna ayuda.
+Supongo que tendré que encargarme yo.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_2.emes,EMES,0,,27,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}How {w}did {w}we {w}get {w}into {w}this?
+2. {w}I {w}can't {w}let {w}this {w}get {w}out {w}of {w}control.",154,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} ¿Cómo terminamos metidos en esto?
+2. No puedo dejar que esto se salga de control.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_20.emes,EMES,0,,57,6,"{np}This {w}is {w}my {w}mess.
+I'll {w}get {w}us {w}out {w}of {w}it.",67,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esto es culpa mía.
+Yo nos sacaré de aquí.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_20.emes,EMES,1,,58,255,"{np}Spare {w}me {w}the {w}false {w}guilt.
+We {w}should {w}get {w}out {w}of {w}here {w}while {w}we {w}can.",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ahórrate la falsa culpa.
+Deberíamos salir de aquí mientras podamos.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_21.emes,EMES,0,,59,6,{np}It {w}was {w}that {w}lizard {w}who {w}started {w}this!{pp}I {w}had {w}to {w}defend {w}myself!,97,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Ese lagarto empezó todo!{pp}¡Tuve que defenderme!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_21.emes,EMES,1,,60,255,"{np}He's {w}not {w}going {w}to {w}be {w}any {w}help.
+I {w}guess {w}it's {w}up {w}to {w}me.",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Él no va a ser de ninguna ayuda.
+Supongo que tendré que encargarme yo.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_22.emes,EMES,0,,61,8,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}This {w}is {w}a {w}fine {w}mess.
+2. {w}No {w}turning {w}back {w}now!",118,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Menudo lío.
+2. ¡Ya no hay vuelta atrás!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_23.emes,EMES,0,,62,8,{np}A {w}fine {w}mess {w}you've {w}gotten {w}me {w}into.,56,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡En qué lío me has metido!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_23.emes,EMES,1,,63,6,{np}Me? {w}You're {w}the {w}one {w}who {w}couldn't {w}mind {w}his {w}own {w}blasted {w}business!{pp}Bah! {w}Quit {w}flapping {w}your {w}lips {w}at {w}me {w}and {w}{pal 16}fight{palreset}!,187,{np} | {pal 16} | {palreset} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Yo? ¡Tú eres quien no pudo ocuparse de sus propios asuntos!{pp}¡Bah! ¡Deja de parlotear y {pal 16}pelea{palreset}!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_23.emes,EMES,2,,64,255,"{np}They're {w}not {w}going {w}to {w}be {w}any {w}help.
+I {w}guess {w}it's {w}up {w}to {w}me.",93,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No van a ser de ninguna ayuda.
+Supongo que tendré que encargarme yo.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,0,,65,8,"{np}We've {w}come {w}this {w}far.
+No {w}backing {w}down {w}now!",63,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Hemos llegado demasiado lejos.
+¡No podemos echarnos atrás ahora!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,1,,66,6,"{np}Are {w}you {w}daft?
+Don't {w}encourage {w}them!",51,{np} | {w} | {w} | {w} | {w},"{np}¿Estás loco?
+¡No los provoques!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,2,,67,8,{np}They {w}keep {w}pouring {w}in!,34,{np} | {w} | {w} | {w},{np}¡Siguen llegando en masa!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,3,,68,6,"{np}Let's {w}be {w}done {w}with {w}this {w}so {w}I {w}can {w}find {w}Iuria!{pp}Are {w}you {w}going {w}to {w}help {w}or {w}not, {w}you {w}sorry {w}excuse {w}for {w}a {w}knight?",175,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Acabemos con esto para que pueda encontrar a Iuria!{pp}¿Vas a ayudar o no, desgraciado remedo de caballero?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,4,,69,8,"{np}One {w}step {w}forward, {w}two {w}back...{pp}I {w}pluck {w}a {w}feather {w}for {w}your {w}sister!",101,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Un paso adelante y dos atrás...{pp}¡Le arrancaré una pluma a tu hermana!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,5,,70,6,{np}A {w}feather {w}jape {w}{pal 16}and{palreset} {w}you {w}mock {w}my {w}sister? {w}You're {w}asking {w}for {w}it!,115,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Haces una broma sobre plumas {pal 16}y{palreset} te burlas de mi hermana? ¡Te lo estás buscando!,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_24.emes,EMES,6,,71,255,"{np}Stop {w}this!
+As {w}if {w}having {w}pirates {w}trying {w}to {w}kill {w}us {w}wasn't {w}enough...{pp}We {w}should {w}leave {w}while {w}we {w}still {w}can!",157,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Basta ya!
+Como si no bastara con que los piratas intentaran matarnos...{pp}¡Deberíamos irnos mientras aún podemos!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_25.emes,EMES,0,,72,8,"{np}A {w}fine {w}mess {w}this {w}is...
+Well, {w}there's {w}nothing {w}for {w}it {w}now.",87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Menudo lío...!
+Bueno, ya no hay nada que hacer.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_25.emes,EMES,1,,73,255,"{np}He's {w}not {w}going {w}to {w}be {w}any {w}help.
+I {w}guess {w}it's {w}up {w}to {w}me.",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Él no va a ser de ninguna ayuda.
+Supongo que tendré que encargarme yo.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_26.emes,EMES,0,,74,8,"{np}We've {w}come {w}this {w}far.
+No {w}backing {w}down {w}now!",63,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Hemos llegado demasiado lejos.
+¡No podemos echarnos atrás ahora!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_26.emes,EMES,1,,75,255,"{np}This {w}is {w}no {w}time {w}to {w}stir {w}the {w}pot!{pp}We {w}face {w}too {w}many!
+We {w}should {w}flee {w}while {w}we {w}still {w}can!",140,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No es momento de echar más leña al fuego!{pp}¡Son demasiados!
+¡Debemos huir mientras podamos!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_27.emes,EMES,0,,76,8,{np}I {w}think {w}that's {w}the {w}last {w}of {w}them.,54,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}Creo que ya acabamos con todos.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_27.emes,EMES,1,,77,6,"{np}Well {w}and {w}good, {w}but {w}where's {w}Iuria?",52,{np} | {w} | {w} | {w} | {w} | {w},"{np}Muy bien, pero ¿dónde está Iuria?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_27.emes,EMES,2,,78,255,"{np}She {w}flew {w}off {w}before {w}the {w}fight.{pp}For {w}now, {w}I'd {w}feel {w}better {w}if {w}we {w}put {w}some {w}distance {w}between {w}ourselves {w}and {w}Port {w}Omish.",177,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Se fue volando antes de que empezara la pelea.{pp}Por ahora, me quedaría más tranquilo si nos alejáramos un poco de Puerto Omish.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_28.emes,EMES,0,,79,255,"{np}The {w}sooner {w}we're {w}out {w}of {w}Omish, {w}the {w}better. {w}I {w}don't {w}care {w}for {w}any {w}more {w}entanglements {w}with {w}the {w}locals.",154,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Cuanto antes salgamos de Omish, mejor. No quiero más problemas con los lugareños.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_3.emes,EMES,0,,28,255,"{np}I {w}don't {w}know {w}how {w}we {w}got {w}into {w}this, {w}but {w}here {w}we {w}are.{pp}Now {w}what?",104,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No sé cómo terminamos en esto, pero aquí estamos.{pp}¿Y ahora qué?",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_4.emes,EMES,0,,29,255,{np}I {w}can't {w}let {w}this {w}go {w}from {w}bad {w}to {w}worse. {w}But {w}what {w}can {w}I {w}do?,100,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No puedo permitir que esto empeore aún más. Pero ¿qué puedo hacer?,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_5.emes,EMES,0,,30,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Maybe {w}I {w}can {w}talk {w}to {w}them.
+2. {w}When {w}in {w}doubt: {w}run.",125,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Quizá pueda hablar con ellos.
+2. Ante la duda, ¡corre!",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_6.emes,EMES,0,,31,255,{np}I {w}have {w}to {w}convince {w}them {w}this {w}is {w}all {w}a {w}misunderstanding.{pp}Easier {w}said {w}than {w}done {w}in {w}the {w}middle {w}of {w}a {w}battle.,165,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Tengo que convencerlos de que todo esto es un malentendido.{pp}Más fácil decirlo que hacerlo en medio de una batalla.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_7.emes,EMES,0,,32,255,{np}Discretion {w}is {w}the {w}better {w}part {w}of {w}valor. {w}They'll {w}never {w}listen {w}to {w}reason {w}now.,115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Más vale ser prudente que valiente. Ahora no escucharán razones.,,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_8.emes,EMES,0,,33,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}Is {w}this {w}the {w}time {w}to {w}run?
+2. {w}I {w}can't {w}stay {w}here.",123,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} ¿Acaso es momento de huir?
+2. No puedo quedarme aquí.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_9.emes,EMES,0,,34,255,"{np}I {w}don't {w}like {w}the {w}idea {w}of {w}running, {w}but {w}there's {w}no {w}talking {w}to {w}them {w}now.{pp}Maybe {w}it's {w}better {w}if {w}I {w}left {w}and {w}gave {w}them {w}time {w}to {w}cool {w}their {w}heads.",222,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No me gusta la idea de huir, pero ahora no hay forma de razonar con ellos.{pp}Quizá sea mejor que me marche y les dé tiempo para calmarse.",,,
+event/scene/chapter_dlc/DLC_ST_025/scene_DLC_36.emes,EMES,0,,80,255,{np}Let's {w}hope {w}we {w}can {w}catch {w}up {w}to {w}Iuria.,61,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Esperemos que podamos alcanzar a Iuria.,,,
+event/scene/chapter_dlc/DLC_ST_025/scene_DLC_36.emes,EMES,1,,81,255,{np}Hrm. {w}Looks {w}like {w}some {w}old {w}pirates {w}don't {w}know {w}when {w}to {w}die!,90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Mmm. ¡Parece que algunos piratas viejos no saben cuándo morir!,,,
+event/scene/chapter_dlc/DLC_ST_025/scene_DLC_37.emes,EMES,0,,82,6,"{np}Feh! {w}We {w}shouldn't {w}be {w}wasting {w}our {w}time {w}with {w}this!{pp}What's {w}that {w}Iuria {w}doing {w}here, {w}anyway...{pp}She {w}was {w}supposed {w}to {w}be {w}in {w}Peshaval {w}waiting {w}on {w}Gilbald's {w}return.{pp}No {w}end {w}of {w}trouble, {w}that {w}girl!",279,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Bah! ¡No deberíamos perder el tiempo con esto!{pp}¿Qué hace Iuria aquí, de todos modos...?{pp}Se suponía que debía estar en Peshaval esperando el regreso de Gilbald.{pp}¡Esa chica no deja de meterse en problemas!",,,
+event/scene/chapter_dlc/DLC_ST_025/scene_DLC_39.emes,EMES,0,,83,255,{np}On {w}to {w}the {w}cavern! {w}Iuria's {w}in {w}there {w}somewhere.,70,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡A la caverna! Iuria debe de estar ahí dentro, en alguna parte.",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,0,,84,6,{np}Iuria!,10,{np},{np}¡Iuria!,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,1,,85,164,{np}You {w}should {w}not {w}have {w}come {w}here.,49,{np} | {w} | {w} | {w} | {w} | {w},{np}No debiste venir aquí.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,2,,86,6,"{np}Who {w}are {w}you, {w}and {w}what {w}have {w}you {w}done {w}to {w}my {w}sister!?",84,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Quién eres y qué le has hecho a mi hermana?,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,3,,87,164,{np}Hardly {w}the {w}way {w}to {w}ask {w}a {w}lady's {w}name... {w}I {w}am {w}Sirene. {w}Does {w}my {w}song {w}not {w}stir {w}you?{pp}Hmm. {w}Perhaps {w}this {w}body {w}resists {w}me.,183,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No es manera de preguntarle su nombre a una dama... Soy Sirene. ¿Acaso mi canto no te conmueve?{pp}Mmm. Quizá este cuerpo se resiste a mí.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,4,,88,6,"{np}Hold, {w}fiend!",19,{np} | {w},"{np}¡Detente, demonio!",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_40.emes,EMES,5,,89,255,"{np}Let's {w}deal {w}with {w}these {w}wraiths {w}first, {w}Canopus.",67,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Primero encarguémonos de estos espectros, Canopus.",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,0,,90,255,{np}Iuria!,10,{np},{np}¡Iuria!,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,1,,91,164,{np}You {w}should {w}not {w}have {w}come {w}here.,49,{np} | {w} | {w} | {w} | {w} | {w},{np}No debiste venir aquí.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,2,,92,255,"{np}Who {w}are {w}you, {w}and {w}what {w}have {w}you {w}done {w}to {w}Iuria!?",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Quién eres y qué le has hecho a Iuria?,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,3,,93,164,{np}Hardly {w}the {w}way {w}to {w}ask {w}a {w}lady's {w}name... {w}I {w}am {w}Sirene. {w}Does {w}my {w}song {w}not {w}stir {w}you?{pp}Hmm. {w}Perhaps {w}this {w}body {w}resists {w}me.,183,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No es manera de preguntarle su nombre a una dama... Soy Sirene. ¿Acaso mi canto no te conmueve?{pp}Mmm. Quizá este cuerpo se resiste a mí.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,4,,94,255,{np}Wait!,9,{np},{np}¡Espera!,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_41.emes,EMES,5,,95,255,{np}Better {w}deal {w}with {w}these {w}wraiths {w}first.,56,{np} | {w} | {w} | {w} | {w} | {w},{np}Será mejor que primero nos ocupemos de estos espectros.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_45.emes,EMES,0,,96,34,{np}So {w}that {w}was {w}Sirene? {w}No {w}wonder {w}people {w}are {w}turning {w}up {w}dead.,91,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Así que esa era Sirene? No me extraña que la gente aparezca muerta.,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_45.emes,EMES,1,,97,255,{np}You {w}know {w}her?,23,{np} | {w} | {w},{np}¿La conoces?,,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_45.emes,EMES,2,,98,34,"{np}Aye, {w}she's {w}a {w}sea {w}witch, {w}to {w}put {w}it {w}plain. {w}A {w}wicce {w}with {w}a {w}voice {w}that {w}sings {w}your {w}doom.{pp}People {w}hear {w}her {w}once, {w}and {w}they'll {w}happily {w}swallow {w}their {w}weight {w}in {w}brine.{pp}Whole {w}crews, {w}even {w}ships {w}have {w}been {w}lost {w}at {w}sea. {w}Even {w}those {w}rescued {w}wither {w}away {w}till {w}they're {w}naught {w}more {w}than {w}foam.{pp}Sirene {w}calls {w}their {w}souls {w}to {w}her {w}and {w}eats {w}'em.",494,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Sí, es una bruja marina, para decirlo claramente. Una wicce con una voz que canta tu perdición.{pp}Quienes la oyen una vez están dispuestos a tragarse su peso en agua salada.{pp}Tripulaciones enteras, incluso barcos, se han perdido en el mar. Hasta los rescatados se consumen hasta no ser más que espuma.{pp}Sirene llama a sus almas y se las come.",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_45.emes,EMES,3,,99,255,"{np}She {w}eats...souls?
+Iuria's {w}in {w}graver {w}danger {w}than {w}I {w}thought.",83,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Se come... almas?
+Iuria corre más peligro de lo que pensaba.",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_46.emes,EMES,0,,100,6,"{np}You {w}wait {w}for {w}me, {w}Iuria!
+I'm {w}coming {w}to {w}save {w}you!",75,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Espérame, Iuria!
+¡Voy a salvarte!",,,
+event/scene/chapter_dlc/DLC_ST_030/scene_DLC_47.emes,EMES,0,,101,255,"{np}We {w}have {w}to {w}get {w}to {w}Iuria, {w}now!",51,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Tenemos que llegar hasta Iuria ahora mismo!,,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_48.emes,EMES,0,,102,163,"{np}My {w}song {w}may {w}not {w}work, {w}but {w}my {w}voice {w}has {w}other {w}uses...{pp}Denizens {w}of {w}the {w}abyss! {w}From {w}ink {w}of {w}blackest {w}night, {w}I {w}summon {w}you! {w}Darkness {w}to {w}me!",212,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Puede que mi canto no funcione, pero mi voz tiene otros usos...{pp}¡Habitantes del abismo! ¡Desde la tinta de la noche más negra, los invoco! ¡Que la oscuridad venga a mí!",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_48.emes,EMES,1,,103,255,{np}Wicce {w}Sirene! {w}Release {w}Iuria {w}at {w}once!,55,{np} | {w} | {w} | {w} | {w} | {w},{np}¡Wicce Sirene! ¡Libera a Iuria ahora mismo!,,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_48.emes,EMES,2,,104,163,{np}No... {w}She's {w}mine. {w}Eternally {w}mine... {w}I {w}will {w}give {w}her {w}to {w}no {w}one!,99,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No... Es mía. Mía para siempre... ¡No se la entregaré a nadie!,,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_49.emes,EMES,0,,105,6,"{np}Where {w}have {w}you {w}hidden {w}Iuria {w}away, {w}wicce!?",63,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Dónde has escondido a Iuria, wicce?",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_49.emes,EMES,1,,106,163,"{np}Why, {w}Iuria's {w}right {w}here, {w}with {w}me. {w}We {w}fit {w}perfectly {w}together, {w}you {w}know.{pp}I've {w}not {w}felt {w}such {w}a {w}fit {w}ever {w}before. {w}And {w}my {w}voice...enchanting!",205,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Pero si Iuria está aquí mismo, conmigo. Encajamos a la perfección, ¿sabes?{pp}Nunca había sentido una conexión así. Y mi voz... ¡es encantadora!",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_49.emes,EMES,2,,107,6,"{np}Of {w}course {w}her {w}voice {w}is {w}enchanting! {w}She's {w}a {w}singer, {w}you {w}salty {w}harlot!{pp}You're {w}not {w}good {w}enough {w}for {w}her, {w}fact {w}is.{pp}You {w}sing {w}of {w}death, {w}but {w}she {w}sings {w}of {w}life, {w}and {w}joy, {w}and {w}warmth!{pp}Everything {w}you're {w}not. {w}Let {w}her {w}go!",325,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Por supuesto que su voz es encantadora! ¡Es cantante, arpía salada!{pp}La verdad es que no estás a su altura.{pp}Tú cantas a la muerte, pero ella canta a la vida, a la alegría y al calor.{pp}¡Todo lo que tú no eres! ¡Déjala ir!",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_50.emes,EMES,0,,108,255,{np}If {w}Iuria {w}is {w}lost...,32,{np} | {w} | {w} | {w},{np}Si pierdo a Iuria...,,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_50.emes,EMES,1,,109,163,"{np}Don't {w}fret, {w}little {w}boy. {w}The {w}girl {w}is {w}safe {w}inside {w}me.{pp}Or {w}was {w}it {w}me {w}inside {w}her? {w}It {w}matters {w}not.{pp}If {w}she {w}died, {w}this {w}body {w}would {w}decay, {w}and {w}I {w}can't {w}have {w}that, {w}can {w}I?{pp}I'll {w}take {w}very, {w}very {w}good {w}care {w}of {w}her.",321,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te preocupes, pequeño. La chica está a salvo dentro de mí.{pp}¿O era yo quien estaba dentro de ella? No importa.{pp}Si muriera, este cuerpo se descompondría, y eso no puede ser, ¿verdad?{pp}Cuidaré muy, muy bien de ella.",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_50.emes,EMES,2,,110,255,{np}That's {w}a {w}relief {w}of {w}a {w}sort...{pp}We {w}need {w}to {w}put {w}this {w}wicce {w}down {w}and {w}get {w}Iuria {w}out {w}of {w}there!,145,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Eso es un alivio, en cierto modo...{pp}¡Tenemos que acabar con esta wicce y sacar a Iuria de ahí!",,,
+event/scene/chapter_dlc/DLC_ST_035/scene_DLC_52.emes,EMES,0,,111,163,"{np}I-Impossible!
+How {w}could...I {w}be {w}defeat...ed...",58,{np} | {w} | {w} | {w},"{np}¡I-Imposible!
+¿Cómo pude... ser derrot...ada...?",,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,0,,112,6,{np}Iuria!,10,{np},{np}¡Iuria!,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,1,,113,28,{np}Brother...?,15,{np},{np}¿Hermano...?,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,2,,114,6,"{np}Great {w}Father, {w}the {w}bewitchment's {w}lifted!",55,{np} | {w} | {w} | {w} | {w},"{np}¡Gran Padre, el encantamiento se ha desvanecido!",,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,3,,115,28,"{np}Bewitchment?
+Sirene!",24,{np},"{np}¿Encantamiento?
+¡Sirene!",,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,4,,116,6,{np}Gone. {w}You {w}don't {w}have {w}to {w}worry {w}about {w}that {w}wicce {w}any {w}more.,90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Se ha ido. Ya no tienes que preocuparte por esa wicce.,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,5,,117,28,"{np}Gone? {w}You {w}killed {w}her?
+Sirene's...dead?",51,{np} | {w} | {w} | {w},"{np}¿Se ha ido? ¿La mataste?
+¿Sirene está... muerta?",,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,6,,118,6,{np}Are {w}you {w}in {w}pain?,29,{np} | {w} | {w} | {w},{np}¿Te duele algo?,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,7,,119,28,{np}Sirene {w}saved {w}me!,26,{np} | {w} | {w},{np}¡Sirene me salvó!,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,8,,120,6,{np}What's {w}that {w}now? {w}You're {w}not {w}making {w}a {w}lot {w}of {w}sense. {w}{pal 16}We{palreset} {w}saved {w}you.,122,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Qué dices? No se te entiende muy bien. {pal 16}Nosotros{palreset} te salvamos.,,,
+event/scene/chapter_dlc/DLC_ST_036/scene_DLC_53.emes,EMES,9,,121,28,"{np}No, {w}I {w}was {w}on {w}my {w}way {w}to {w}Valeria, {w}after {w}you, {w}when {w}pirates {w}attacked {w}our {w}ship.{pp}They {w}were {w}about {w}to {w}take {w}me {w}for {w}booty {w}when {w}Sirene {w}came.{pp}She {w}destroyed {w}them {w}all, {w}Brother!{pp}Sirene {w}saved {w}my {w}life!",290,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, iba rumbo a Valeria para reunirme contigo cuando unos piratas atacaron nuestro barco.{pp}Estaban a punto de llevarme como botín cuando apareció Sirene.{pp}¡Los destruyó a todos, hermano!{pp}¡Sirene me salvó la vida!",,,
