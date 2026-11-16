@@ -16776,3 +16776,156 @@ para salir a subasta.",,,
 menu/menu_data/3.xlc,XLC,59,4,,,"{np}I'm {w}afraid {w}your {w}stock {w}is {w}a {w}little
 young {w}for {w}auction {w}yet.",87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me temo que tus monstruos aún son demasiado
 jóvenes para salir a subasta.",,,
+menu/menu_data/3.xlc,XLC,60,4,,,"{np}Those {w}beasties {w}look {w}a {w}little
+young {w}for {w}auction.",69,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esas bestias parecen
+demasiado jóvenes para subastarlas.",,,
+menu/menu_data/3.xlc,XLC,61,4,,,"{np}You {w}can {w}only {w}put {w}monsters {w}up {w}for
+auction...and {w}I {w}don't {w}see {w}any {w}in
+the {w}young {w}master's {w}party.",137,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Solo puedes subastar monstruos...
+y no veo ninguno en el grupo del joven Amo.",,,
+menu/menu_data/3.xlc,XLC,62,4,,,"{np}Only {w}monsters {w}at {w}auction, {w}and {w}I'm
+afraid {w}I {w}don't {w}see {w}any {w}in {w}your {w}party.",111,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Solo se pueden subastar monstruos, y me temo
+que no tienes ninguno en tu grupo.",,,
+menu/menu_data/3.xlc,XLC,63,4,,,"{np}Only {w}monsters {w}at {w}auction,
+and {w}I {w}don't {w}see {w}any {w}monsters.",83,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Solo se pueden subastar monstruos,
+y no veo ninguno.",,,
+menu/menu_data/3.xlc,XLC,64,4,,,"{np}Have {w}a {w}monster {w}you {w}want {w}to
+put {w}up {w}for {w}auction?",74,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Tienes algún monstruo que quieras
+poner en subasta?",,,
+menu/menu_data/3.xlc,XLC,65,4,,,"{np}Interested {w}in {w}putting {w}a {w}monster
+up {w}for {w}auction, {w}then?",78,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Te interesa poner algún monstruo
+en subasta?",,,
+menu/menu_data/3.xlc,XLC,66,4,,,"{np}There {w}a {w}monster {w}you {w}want {w}to
+put {w}up {w}for {w}auction?",75,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} |,"{np}¿Tienes algún monstruo que quieras
+poner en subasta?",,,
+menu/menu_data/3.xlc,XLC,67,4,,,"{np}No {w}easy {w}way {w}of {w}saying {w}this, {w}but {w}this {w}one's
+not {w}ready {w}for {w}auction.",102,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No es fácil decirlo, pero este monstruo
+todavía no está listo para subastarse.",,,
+menu/menu_data/3.xlc,XLC,68,4,,,"{np}I'm {w}afraid {w}this {w}one {w}is {w}a {w}little
+young {w}for {w}auction {w}yet.",85,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me temo que este monstruo todavía es
+demasiado joven para subastarlo.",,,
+menu/menu_data/3.xlc,XLC,69,4,,,"{np}This {w}beastie {w}looks {w}a {w}little
+young {w}for {w}auction.",68,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Este monstruo parece demasiado
+joven para subastarlo.",,,
+menu/menu_data/3.xlc,XLC,70,4,,,{np}That {w}will {w}be {w}{FF 84 01ff01} {w}goth. {w}Agreed?,60,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w},{np}El precio será de {FF 84 01ff01} goth. ¿De acuerdo?,,,
+menu/menu_data/3.xlc,XLC,71,4,,,{np}{FF 84 01ff01} {w}goth. {w}Do {w}we {w}have {w}a {w}deal?,61,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w},{np}{FF 84 01ff01} goth. ¿Tenemos un trato?,,,
+menu/menu_data/3.xlc,XLC,72,4,,,{np}{FF 84 01ff01} {w}goth {w}up {w}front. {w}Deal?,51,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w},{np}{FF 84 01ff01} goth por adelantado. ¿Trato hecho?,,,
+menu/menu_data/3.xlc,XLC,73,4,,,"{np}The {w}winning {w}bid {w}was {w}{FF 84 01ff01} {w}goth.
+Spend {w}it {w}wisely.",82,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}La oferta ganadora fue de {FF 84 01ff01} goth.
+Gástalos sabiamente.",,,
+menu/menu_data/3.xlc,XLC,74,4,,,"{np}{FF 84 01ff01} {w}goth {w}from {w}the {w}winning {w}bid.
+The {w}Star {w}positively {w}{pal 16}shines{palreset} {w}on {w}you.",128,{FF 84 01ff01} | {np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{FF 84 01ff01} goth de la oferta ganadora.
+¡La Estrella definitivamente {pal 16}brilla{palreset} sobre ti!",,,
+menu/menu_data/3.xlc,XLC,75,4,,,"{np}A {w}winning {w}bid {w}of {w}{FF 84 01ff01} {w}goth.
+Give {w}a {w}word {w}of {w}thanks {w}to {w}the {w}Star.",112,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Una oferta ganadora de {FF 84 01ff01} goth.
+Da las gracias a la Estrella.",,,
+menu/menu_data/3.xlc,XLC,76,4,,,"{np}Can't {w}bear {w}to {w}part {w}with {w}the {w}poor {w}creature?
+I {w}understand. {w}Here's {w}the {w}fee {w}back, {w}of {w}course.",134,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿No puedes separarte de esa pobre criatura?
+Lo entiendo. Por supuesto, aquí tienes el reembolso de la comisión.",,,
+menu/menu_data/3.xlc,XLC,77,4,,,"{np}Change {w}of {w}heart? {w}As {w}you {w}like.
+I {w}suppose {w}you'll {w}be {w}wanting {w}the {w}fee...",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Cambiaste de opinión? Como quieras.
+Supongo que querrás que te devuelva la comisión...",,,
+menu/menu_data/3.xlc,XLC,78,4,,,"{np}Change {w}your {w}mind? {w}Oh {w}well.
+Guess {w}I {w}should {w}return {w}your {w}fee, {w}too.",97,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Cambiaste de opinión? Bueno, está bien.
+Supongo que también debo devolverte la comisión.",,,
+menu/menu_data/3.xlc,XLC,103,4,,,"{np}You {w}have {w}one {w}of {w}these, {w}yes?
+What {w}good {w}would {w}another {w}do {w}you,
+young {w}master?",110,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ya tienes uno de estos, ¿verdad?
+¿De qué te serviría tener otro,
+joven señor?",,,
+menu/menu_data/3.xlc,XLC,104,4,,,"{np}I {w}believe {w}you {w}have {w}one {w}already.
+Surely {w}you {w}don't {w}need {w}{pal 16}two{palreset}.",107,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Creo que ya tienes uno.
+Seguro que no necesitas {pal 16}dos{palreset}.",,,
+menu/menu_data/3.xlc,XLC,105,4,,,"{np}One {w}of {w}those {w}is {w}enough,
+don't {w}you {w}think?",62,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Con uno de esos es suficiente,
+¿no crees?",,,
+menu/menu_data/3.xlc,XLC,106,4,,,{np}Have {w}a {w}recipe {w}needs {w}crafting?,45,{np} | {w} | {w} | {w} | {w},{np}¿Tienes alguna receta que quieras fabricar?,,,
+menu/menu_data/3.xlc,XLC,107,4,,,{np}Recipes {w}are {w}simply {w}{pal 16}delicious{palreset}.,60,{np} | {pal 16} | {palreset} | {w} | {w} | {w},{np}¡Las recetas son simplemente {pal 16}deliciosas{palreset}!,,,
+menu/menu_data/3.xlc,XLC,108,4,,,{np}You {w}have {w}a {w}recipe {w}to {w}make?,45,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Tienes alguna receta que quieras preparar?,,,
+menu/menu_data/3.xlc,XLC,109,4,,,"{np}You {w}won't {w}be {w}crafting {w}anything
+without {w}a {w}recipe, {w}young {w}master.",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No podrás fabricar nada
+sin una receta, joven señor.",,,
+menu/menu_data/3.xlc,XLC,110,4,,,"{np}You {w}don't {w}seem {w}to {w}have {w}any {w}recipes.
+That {w}will {w}make {w}it {w}difficult, {w}I {w}should {w}think.",123,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Parece que no tienes ninguna receta.
+Eso dificultará bastante las cosas.",,,
+menu/menu_data/3.xlc,XLC,111,4,,,"{np}No {w}recipe, {w}no {w}crafting.",36,{np} | {w} | {w} | {w},"{np}Sin receta, no hay fabricación.",,,
+menu/menu_data/3.xlc,XLC,112,4,,,"{np}Shall {w}we {w}go {w}ahead {w}and {w}craft {w}this {w}item, {w}then?",72,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Procedemos a fabricar este objeto, entonces?",,,
+menu/menu_data/3.xlc,XLC,113,4,,,"{np}This {w}is {w}the {w}item {w}you {w}want {w}to {w}craft, {w}yes?",68,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} |,{np}¿Este es el objeto que quieres fabricar?,,,
+menu/menu_data/3.xlc,XLC,114,4,,,"{np}I'll {w}craft {w}this {w}now, {w}all {w}right?",50,{np} | {w} | {w} | {w} | {w} | {w},"{np}Voy a fabricar esto ahora, ¿de acuerdo?",,,
+menu/menu_data/3.xlc,XLC,115,4,,,"{np}Here {w}you {w}are, {w}young {w}master.",43,{np} | {w} | {w} | {w} | {w},"{np}Aquí tienes, joven señor.",,,
+menu/menu_data/3.xlc,XLC,116,4,,,{np}All {w}done. {w}Here {w}you {w}go.,38,{np} | {w} | {w} | {w} | {w},{np}Listo. Aquí tienes.,,,
+menu/menu_data/3.xlc,XLC,117,4,,,"{np}Not {w}bad, {w}if {w}I {w}do {w}say {w}so {w}myself.",56,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No está nada mal, si se me permite decirlo.",,,
+menu/menu_data/3.xlc,XLC,118,4,,,"{np}Ill {w}luck, {w}this.
+Perhaps {w}the {w}next {w}crafting
+will {w}fare {w}better.",84,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Qué mala suerte!
+Quizá la próxima fabricación
+salga mejor.",,,
+menu/menu_data/3.xlc,XLC,119,4,,,"{np}Hmm, {w}I {w}don't {w}know {w}what {w}went {w}wrong.
+Oh {w}well, {w}there's {w}always {w}next {w}time.",106,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Mmm, no sé qué salió mal.
+Bueno, siempre habrá otra oportunidad.",,,
+menu/menu_data/3.xlc,XLC,120,4,,,"{np}Uh {w}oh...
+Better {w}luck {w}next {w}time.",47,{np} | {w} | {w} | {w} | {w},"{np}Vaya...
+Más suerte la próxima vez.",,,
+menu/menu_data/4.xlc,XLC,1,4,,,{span 04 fa01 2c 08}View unit information and change equipment.,63,{span 04 fa01 2c 08},{span 04 fa01 2c 08}Consultar la información de la unidad y cambiar su equipo.,,,
+menu/menu_data/4.xlc,XLC,2,4,,,"{span 0c 3a02 3d 08}Examine all units in your party, even those not in the current battle. Displays stats and condition at the start of battle.",143,{span 0c 3a02 3d 08},"{span 0c 3a02 3d 08}Consultar todas las unidades de tu grupo, incluso las que no participan en el combate actual. Muestra sus atributos y estado al inicio del combate.",,,
+menu/menu_data/4.xlc,XLC,3,4,,,{span 04 b801 29 08}Examine all units in the current battle.,60,{span 04 b801 29 08},{span 04 b801 29 08}Consultar todas las unidades del combate actual.,,,
+menu/menu_data/4.xlc,XLC,6,4,,,{span 04 2401 18 08}No abnormal conditions.,43,{span 04 2401 18 08},{span 04 2401 18 08}No hay estados alterados.,,,
+menu/menu_data/4.xlc,XLC,7,4,,,{span 0c 3042 38 08}Set battle cry message and display criteria. Press the {icon 4} button to enable a battle cry so it will appear during battle.,146,{icon 4} | {span 0c 3042 38 08},{span 0c 3042 38 08}Configurar el mensaje y las condiciones de visualización del grito de guerra. Pulsa el botón {icon 4} para activarlo y hacer que aparezca durante el combate.,,,
+menu/menu_data/4.xlc,XLC,8,4,,,{span 04 be01 2a 08}Set criteria for displaying battle cries.,61,{span 04 be01 2a 08},{span 04 be01 2a 08}Configurar las condiciones para mostrar los gritos de guerra.,,,
+menu/menu_data/4.xlc,XLC,9,4,,,{span 04 2001 18 08}Set battle cry message.,43,{span 04 2001 18 08},{span 04 2001 18 08}Configurar el mensaje del grito de guerra.,,,
+menu/menu_data/4.xlc,XLC,10,4,,,{span 04 0a01 18 08}Assign a learned skill.,43,{span 04 0a01 18 08},{span 04 0a01 18 08}Asignar una habilidad aprendida.,,,
+menu/menu_data/4.xlc,XLC,11,4,,,{span 04 3401 1a 08}Remove an assigned skill.,45,{span 04 3401 1a 08},{span 04 3401 1a 08}Quitar una habilidad asignada.,,,
+menu/menu_data/4.xlc,XLC,23,4,,,{span 04 5401 1d 08}This slot can hold a weapon.,48,{span 04 5401 1d 08},{span 04 5401 1d 08}Este espacio puede contener un arma.,,,
+menu/menu_data/4.xlc,XLC,24,4,,,{span 04 ba01 27 08}This slot can hold a weapon or shield.,58,{span 04 ba01 27 08},{span 04 ba01 27 08}Este espacio puede contener un arma o un escudo.,,,
+menu/menu_data/4.xlc,XLC,25,4,,,{span 04 a401 25 08}This slot can hold a piece of armor.,56,{span 04 a401 25 08},{span 04 a401 25 08}Este espacio puede contener una pieza de armadura.,,,
+menu/menu_data/4.xlc,XLC,26,4,,,{span 04 b001 27 08}This slot can hold a piece of jewelry.,58,{span 04 b001 27 08},{span 04 b001 27 08}Este espacio puede contener un accesorio.,,,
+menu/menu_data/4.xlc,XLC,45,4,,,{span 04 c801 28 08}Select the monster to place on auction.,59,{span 04 c801 28 08},{span 04 c801 28 08}Selecciona el monstruo que quieres subastar.,,,
+menu/menu_data/4.xlc,XLC,46,4,,,{span 02 d401 11 08}Choose a recipe.,36,{span 02 d401 11 08},{span 02 d401 11 08}Selecciona una receta.,,,
+menu/menu_data/4.xlc,XLC,57,4,,,{span 06 3401 32 08}Assign the battle party from the previous battle.,69,{span 06 3401 32 08},{span 06 3401 32 08}Asignar el grupo de batalla del combate anterior.,,,
+menu/menu_data/4.xlc,XLC,58,4,,,{span 04 7c01 22 08}Assign units to the battle party.,53,{span 04 7c01 22 08},{span 04 7c01 22 08}Asignar unidades al grupo de batalla.,,,
+menu/menu_data/4.xlc,XLC,59,4,,,{span 06 1401 2f 08}Select a unit to remove from the battle party.,66,{span 06 1401 2f 08},{span 06 1401 2f 08}Selecciona una unidad para quitarla del grupo de batalla.,,,
+menu/menu_data/4.xlc,XLC,60,4,,,{span 04 f001 2b 08}Some of your units are growing discontent.,62,{span 04 f001 2b 08},{span 04 f001 2b 08}Algunas de tus unidades están descontentas.,,,
+menu/menu_data/4.xlc,XLC,61,4,,,{span 06 b801 3d 08}Some of your units have grown discontent and left the party.,80,{span 06 b801 3d 08},{span 06 b801 3d 08}Algunas de tus unidades se han descontentado y han abandonado el grupo.,,,
+menu/menu_data/4.xlc,XLC,63,4,,,{span 04 9c01 25 08}Assign units to the challenge party.,56,{span 04 9c01 25 08},{span 04 9c01 25 08}Asignar unidades al grupo de desafío.,,,
+menu/menu_data/5.xlc,XLC,52,0,,,{span 02 c401 0f 08}(None Learned),34,{span 02 c401 0f 08},{span 02 c401 0f 08}(Ninguna aprendida),,,
+menu/menu_data/5.xlc,XLC,53,0,,,{span 02 c401 0f 08}(None Learned),34,{span 02 c401 0f 08},{span 02 c401 0f 08}(Ninguna aprendida),,,
+menu/menu_data/5.xlc,XLC,54,0,,,{span 02 c401 0f 08}(None Learned),34,{span 02 c401 0f 08},{span 02 c401 0f 08}(Ninguna aprendida),,,
+menu/menu_data/5.xlc,XLC,55,0,,,{span 02 d001 10 08}(None Assigned),35,{span 02 d001 10 08},{span 02 d001 10 08}(Ninguna asignada),,,
+menu/menu_data/5.xlc,XLC,84,0,,,{span 02 c201 0f 08}(No Equipment),34,{span 02 c201 0f 08},{span 02 c201 0f 08}(Sin equipo),,,
+menu/menu_data/5.xlc,XLC,85,0,,,{span 02 9801 0c 08}(No Spells),31,{span 02 9801 0c 08},{span 02 9801 0c 08}(Sin hechizos),,,
+menu/menu_data/5.xlc,XLC,86,0,,,{span 02 9001 0c 08}(No Skills),31,{span 02 9001 0c 08},{span 02 9001 0c 08}(Sin habilidades),,,
+menu/menu_data/5.xlc,XLC,95,0,,,{span 02 9001 0b 08}(No Items),30,{span 02 9001 0b 08},{span 02 9001 0b 08}(Sin objetos),,,
+menu/menu_data/5.xlc,XLC,1,4,,,{span 04 3c01 1b 08}Level requirement not met.,46,{span 04 3c01 1b 08},{span 04 3c01 1b 08}No se cumple el requisito de nivel.,,,
+menu/menu_data/5.xlc,XLC,2,4,,,{span 04 b601 27 08}Only female units can equip this item.,58,{span 04 b601 27 08},{span 04 b601 27 08}Solo las unidades femeninas pueden equipar este objeto.,,,
+menu/menu_data/5.xlc,XLC,3,4,,,{span 04 a001 25 08}Only male units can equip this item.,56,{span 04 a001 25 08},{span 04 a001 25 08}Solo las unidades masculinas pueden equipar este objeto.,,,
+menu/menu_data/5.xlc,XLC,4,4,,,{span 04 8801 23 08}This class cannot equip this item.,54,{span 04 8801 23 08},{span 04 8801 23 08}Esta clase no puede equipar este objeto.,,,
+menu/menu_data/5.xlc,XLC,5,4,,,{span 04 b201 26 08}Cannot sell currently equipped items.,57,{span 04 b201 26 08},{span 04 b201 26 08}No puedes vender objetos que estén equipados.,,,
+menu/menu_data/5.xlc,XLC,6,4,,,{span 02 b401 0e 08}No equipment.,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Sin equipo.,,,
+menu/menu_data/5.xlc,XLC,7,4,,,{span 04 8401 22 08}No units equipped with this item.,53,{span 04 8401 22 08},{span 04 8401 22 08}Ninguna unidad tiene equipado este objeto.,,,
+menu/menu_data/5.xlc,XLC,8,4,,,{span 02 7e01 0b 08}No skills.,30,{span 02 7e01 0b 08},{span 02 7e01 0b 08}Sin habilidades.,,,
+menu/menu_data/5.xlc,XLC,9,4,,,{span 02 9001 0b 08}No arcana.,30,{span 02 9001 0b 08},{span 02 9001 0b 08}Sin arcanos.,,,
+menu/menu_data/5.xlc,XLC,11,4,,,{span 04 d801 2a 08}The unit has already learned this arcana.,61,{span 04 d801 2a 08},{span 04 d801 2a 08}La unidad ya ha aprendido este arcano.,,,
+menu/menu_data/5.xlc,XLC,12,4,,,{span 04 f201 2c 08}You do not have a classmark for this class.,63,{span 04 f201 2c 08},{span 04 f201 2c 08}No tienes una marca de clase para esta clase.,,,
+menu/menu_data/5.xlc,XLC,13,4,,,{span 06 5601 37 08}The unit has not met the prerequisites for this class.,74,{span 06 5601 37 08},{span 06 5601 37 08}La unidad no cumple los requisitos previos para esta clase.,,,
+menu/menu_data/5.xlc,XLC,14,4,,,{span 04 1001 1b 08}Insufficient skill points.,46,{span 04 1001 1b 08},{span 04 1001 1b 08}No tienes suficientes puntos de habilidad.,,,
+menu/menu_data/5.xlc,XLC,15,4,,,{span 02 b401 0e 08}No equipment.,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Sin equipo.,,,
+menu/menu_data/5.xlc,XLC,16,4,,,{span 02 ea01 12 08}No melee weapons.,37,{span 02 ea01 12 08},{span 02 ea01 12 08}Sin armas cuerpo a cuerpo.,,,
+menu/menu_data/5.xlc,XLC,17,4,,,{span 02 f401 13 08}No ranged weapons.,38,{span 02 f401 13 08},{span 02 f401 13 08}Sin armas a distancia.,,,
+menu/menu_data/5.xlc,XLC,18,4,,,{span 02 9201 0c 08}No shields.,31,{span 02 9201 0c 08},{span 02 9201 0c 08}Sin escudos.,,,
+menu/menu_data/5.xlc,XLC,19,4,,,{span 02 8a01 0a 08}No armor.,29,{span 02 8a01 0a 08},{span 02 8a01 0a 08}Sin armaduras.,,,
+menu/menu_data/5.xlc,XLC,20,4,,,{span 02 9601 0c 08}No jewelry.,31,{span 02 9601 0c 08},{span 02 9601 0c 08}Sin accesorios.,,,
+menu/menu_data/5.xlc,XLC,21,4,,,{span 02 9001 0b 08}No arcana.,30,{span 02 9001 0b 08},{span 02 9001 0b 08}Sin arcanos.,,,
+menu/menu_data/5.xlc,XLC,22,4,,,{span 02 a201 0d 08}No sundries.,32,{span 02 a201 0d 08},{span 02 a201 0d 08}Sin objetos varios.,,,
+menu/menu_data/5.xlc,XLC,23,4,,,{span 02 e401 15 08}No learnable skills.,40,{span 02 e401 15 08},{span 02 e401 15 08}No hay habilidades que aprender.,,,
+menu/menu_data/5.xlc,XLC,24,4,,,{span 04 4401 1c 08}No finishing moves learned.,47,{span 04 4401 1c 08},{span 04 4401 1c 08}No se han aprendido movimientos finales.,,,
+menu/menu_data/5.xlc,XLC,25,4,,,{span 06 c801 3e 08}Finishing moves require an appropriate weapon to be equipped.,81,{span 06 c801 3e 08},{span 06 c801 3e 08}Debes equipar un arma adecuada para utilizar movimientos finales.,,,
+menu/menu_data/5.xlc,XLC,26,4,,,{span 04 3c01 1b 08}Level requirement not met.,46,{span 04 3c01 1b 08},{span 04 3c01 1b 08}No se cumple el requisito de nivel.,,,
+menu/menu_data/5.xlc,XLC,27,4,,,{span 04 ba01 29 08}The unit has already learned this skill.,60,{span 04 ba01 29 08},{span 04 ba01 29 08}La unidad ya ha aprendido esta habilidad.,,,
+menu/menu_data/5.xlc,XLC,28,4,,,{span 04 b001 27 08}Units with 0 life cannot change class.,58,{span 04 b001 27 08},{span 04 b001 27 08}Las unidades con 0 HP no pueden cambiar de clase.,,,
+menu/menu_data/5.xlc,XLC,29,4,,,{span 04 8a01 22 08}Zombie units cannot change class.,53,{span 04 8a01 22 08},{span 04 8a01 22 08}Las unidades zombi no pueden cambiar de clase.,,,
+menu/menu_data/5.xlc,XLC,30,4,,,{span 04 3c01 1c 08}No other classes available.,47,{span 04 3c01 1c 08},{span 04 3c01 1c 08}No hay otras clases disponibles.,,,
+menu/menu_data/5.xlc,XLC,31,4,,,{span 02 b401 0e 08}No equipment.,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Sin equipo.,,,
+menu/menu_data/5.xlc,XLC,36,4,,,{span 04 b201 26 08}Cannot sell currently equipped items.,57,{span 04 b201 26 08},{span 04 b201 26 08}No puedes vender objetos que estén equipados.,,,
+menu/menu_data/5.xlc,XLC,37,4,,,{span 04 3001 1a 08}This item cannot be sold.,45,{span 04 3001 1a 08},{span 04 3001 1a 08}Este objeto no se puede vender.,,,
+menu/menu_data/5.xlc,XLC,43,4,,,{span 04 a001 25 08}You cannot retreat from this battle.,56,{span 04 a001 25 08},{span 04 a001 25 08}No puedes retirarte de este combate.,,,
+menu/menu_data/5.xlc,XLC,44,4,,,{span 06 8201 36 08}The battle party exceeds the maximum number of units.,73,{span 06 8201 36 08},{span 06 8201 36 08}El grupo de batalla supera el número máximo de unidades.,,,
