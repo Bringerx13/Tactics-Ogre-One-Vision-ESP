@@ -16289,3 +16289,222 @@ menu/menu_data/15.xlc,XLC,11,4,,,"{np}(Another {w}of {w}life's {w}lessons, {w}th
 menu/menu_data/15.xlc,XLC,12,4,,,"{np}(No {w}conscience {w}at {w}all, {w}you. {w}Who's {w}the {w}real {w}beast {w}here, {w}eh?)",93,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}(No tienes conciencia alguna. ¿Quién es la verdadera bestia aquí, eh?)",,,
 menu/menu_data/15.xlc,XLC,13,4,,,"{np}(I {w}was {w}rather {w}fond {w}of {w}you, {w}you {w}know...)",64,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}(Te tenía bastante cariño, ¿sabes...?)",,,
 menu/menu_data/16.xlc,XLC,1,4,,,"{np}You {w}wouldn't {w}turn {w}away {w}your {w}oldest {w}friend, {w}would {w}you?",81,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No rechazarías a tu amigo de toda la vida, ¿verdad?",,,
+menu/menu_data/16.xlc,XLC,2,4,,,"{np}You're {w}my {w}only {w}family {w}in {w}all {w}the {w}world.
+You {w}promised {w}we'd {w}always {w}be {w}together.",117,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Eres mi única familia en todo el mundo.
+Prometiste que siempre estaríamos juntos.",,,
+menu/menu_data/16.xlc,XLC,3,4,,,"{np}My {w}only {w}wish {w}is {w}to {w}help {w}you.
+Have {w}I {w}not {w}done {w}so?",82,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Mi único deseo es ayudarte.
+¿Acaso no lo he hecho?",,,
+menu/menu_data/16.xlc,XLC,4,4,,,"{np}These {w}old {w}bones {w}aren't {w}ready {w}to {w}rest {w}yet.
+I {w}still {w}have {w}some {w}fight {w}in {w}me.",115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Estos viejos huesos aún no están listos para descansar.
+Todavía me quedan fuerzas para luchar.",,,
+menu/menu_data/16.xlc,XLC,5,4,,,"{np}You {w}shouldn't {w}joke {w}like {w}that.
+Besides, {w}where {w}would {w}you {w}be {w}without {w}me?",103,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No deberías bromear con eso.
+Además, ¿qué harías sin mí?",,,
+menu/menu_data/16.xlc,XLC,6,4,,,"{np}Don't {w}worry {w}over {w}me.
+I'm {w}happy {w}right {w}where {w}I {w}am.",76,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te preocupes por mí.
+Estoy bien donde estoy.",,,
+menu/menu_data/16.xlc,XLC,7,4,,,"{np}Me? {w}Unreliable?
+Perish {w}the {w}thought!",48,{np} | {w} | {w} | {w},"{np}¿Yo? ¿Poco confiable?
+¡Ni lo pienses!",,,
+menu/menu_data/16.xlc,XLC,8,4,,,"{np}I {w}don't {w}care {w}what {w}you {w}have {w}to {w}say, {w}I'll {w}not {w}leave.",84,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No me importa lo que digas, no me iré.",,,
+menu/menu_data/16.xlc,XLC,10,4,,,"{np}Have {w}patience. {w}When {w}my {w}task {w}is {w}done, {w}you'll {w}be {w}rid {w}of {w}me.",94,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ten paciencia. Cuando termine mi tarea, te librarás de mí.",,,
+menu/menu_data/16.xlc,XLC,12,4,,,{np}No {w}need {w}to {w}be {w}cruel. {w}You {w}haven't {w}tired {w}of {w}me {w}already...have {w}you?,101,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No tienes por qué ser cruel. No te habrás cansado de mí todavía... ¿verdad?,,,
+menu/menu_data/16.xlc,XLC,15,4,,,"{np}Foolishness.
+I'll {w}do {w}no {w}such {w}thing.",51,{np} | {w} | {w} | {w} | {w},"{np}Qué tontería.
+No haré semejante cosa.",,,
+menu/menu_data/16.xlc,XLC,16,4,,,"{np}I {w}don't {w}think {w}you've {w}thought {w}this {w}through.
+I {w}can {w}hardly {w}leave {w}you {w}now.",107,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No creo que hayas pensado bien las cosas.
+No puedo dejarte ahora.",,,
+menu/menu_data/16.xlc,XLC,17,4,,,{np}A {w}leader {w}of {w}men {w}should {w}not {w}be {w}so {w}quick {w}to {w}break {w}his {w}promises.,101,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Un líder no debería apresurarse a romper sus promesas.,,,
+menu/menu_data/16.xlc,XLC,18,4,,,"{np}One {w}moment {w}you {w}save {w}me, {w}the {w}next {w}you {w}want {w}to {w}cast {w}me {w}aside. {w}You're {w}as {w}fickle {w}as {w}the {w}wind.",147,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Un momento me salvas y al siguiente quieres deshacerte de mí. Eres tan voluble como el viento.,,,
+menu/menu_data/16.xlc,XLC,19,4,,,"{np}There {w}will {w}be {w}time {w}for {w}talk {w}later.
+We {w}must {w}focus {w}on {w}the {w}battle {w}at {w}hand.",114,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ya habrá tiempo para hablar.
+Ahora debemos concentrarnos en la batalla que tenemos delante.",,,
+menu/menu_data/16.xlc,XLC,23,4,,,{np}Ill {w}timing {w}for {w}a {w}joke.,38,{np} | {w} | {w} | {w} | {w},{np}No es momento para bromas.,,,
+menu/menu_data/16.xlc,XLC,24,4,,,"{np}Not {w}now, {w}please.
+We {w}will {w}talk {w}of {w}this {w}later.",69,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ahora no, por favor.
+Hablaremos de esto más tarde.",,,
+menu/menu_data/16.xlc,XLC,25,4,,,"{np}In {w}truth, {w}I'd {w}like {w}nothing {w}better.
+But {w}this {w}isn't {w}the {w}time.",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}La verdad, no hay nada que desee más.
+Pero este no es el momento.",,,
+menu/menu_data/16.xlc,XLC,28,4,,,"{np}Until {w}the {w}battle's {w}won, {w}I {w}will {w}pretend {w}I {w}didn't {w}hear {w}that.",92,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Hasta que ganemos la batalla, fingiré que no he oído eso.",,,
+menu/menu_data/16.xlc,XLC,30,4,,,"{np}Give {w}me {w}one {w}more {w}battle {w}to {w}prove {w}myself.
+You {w}won't {w}be {w}sorry.",94,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Dame una batalla más para demostrar mi valía.
+No te arrepentirás.",,,
+menu/menu_data/16.xlc,XLC,31,4,,,{np}We {w}fight {w}for {w}Walister. {w}You {w}must {w}put {w}aside {w}your {w}own {w}wishes {w}if {w}you're {w}to {w}be {w}a {w}leader.,135,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Luchamos por los Walister. Si quieres ser un líder, debes dejar de lado tus propios deseos.",,,
+menu/menu_data/16.xlc,XLC,32,4,,,{np}Impossible. {w}I {w}am {w}not {w}here {w}at {w}your {w}pleasure―or {w}even {w}my {w}own.,92,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Imposible. No estoy aquí para complacerte, ni siquiera por voluntad propia.",,,
+menu/menu_data/16.xlc,XLC,33,4,,,"{np}Leave?
+You {w}been {w}drinking {w}the {w}bilge, {w}boy?",59,{np} | {w} | {w} | {w} | {w} | {w},"{np}¿Irme? ¿Qué tonterías dices, muchacho?",,,
+menu/menu_data/16.xlc,XLC,34,4,,,"{np}Later, {w}eh?
+This {w}is {w}hardly {w}the {w}time.",54,{np} | {w} | {w} | {w} | {w} | {w},"{np}¿Más tarde, eh?
+Este no es precisamente el momento.",,,
+menu/menu_data/16.xlc,XLC,35,4,,,"{np}Don't {w}be {w}absurd.
+You {w}can't {w}afford {w}to {w}lose {w}me {w}now.",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No digas tonterías.
+No puedes darte el lujo de perderme ahora.",,,
+menu/menu_data/16.xlc,XLC,36,4,,,"{np}Must {w}be {w}a {w}lot {w}on {w}your {w}mind {w}before {w}a {w}battle.
+Best {w}focus {w}on {w}leading.",106,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Debes tener muchas cosas en la cabeza antes de una batalla.
+Será mejor que te concentres en dirigir.",,,
+menu/menu_data/16.xlc,XLC,81,4,,,{np}I {w}can {w}take {w}care {w}of {w}myself.,45,{np} | {w} | {w} | {w} | {w} | {w},{np}Puedo valerme por mi cuenta.,,,
+menu/menu_data/16.xlc,XLC,82,4,,,"{np}Is {w}that {w}really {w}necessary?
+I'm {w}quite {w}happy {w}as {w}I {w}am.",78,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿De verdad hace falta?
+Estoy muy bien tal como estoy.",,,
+menu/menu_data/16.xlc,XLC,83,4,,,"{np}Ask {w}anything {w}but {w}this.
+I {w}am {w}a {w}knight {w}through {w}and {w}through.",88,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Pídeme cualquier cosa, menos eso.
+Soy un caballero de pies a cabeza.",,,
+menu/menu_data/16.xlc,XLC,84,4,,,"{np}A {w}new {w}trade? {w}At {w}my {w}age?
+No, {w}I {w}think {w}not.",68,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Un nuevo oficio? ¿A mi edad?
+No, creo que no.",,,
+menu/menu_data/16.xlc,XLC,85,4,,,"{np}I {w}appreciate {w}your {w}enthusiasm, {w}but {w}don't {w}trouble {w}yourself {w}over {w}me.",96,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Aprecio tu entusiasmo, pero no te preocupes por mí.",,,
+menu/menu_data/16.xlc,XLC,86,4,,,"{np}Your {w}heart's {w}in {w}the {w}right {w}place, {w}but {w}I'm {w}right {w}where {w}I {w}need {w}to {w}be.",109,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tienes buenas intenciones, pero estoy justo donde debo estar.",,,
+menu/menu_data/16.xlc,XLC,87,4,,,"{np}I'm {w}already {w}a {w}one-man {w}killing {w}machine {w}as {w}is, {w}neh?",77,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ya soy una máquina de matar por mi cuenta, ¿eh?",,,
+menu/menu_data/16.xlc,XLC,88,4,,,"{np}Don't {w}worry, {w}I {w}can {w}hold {w}my {w}own.",53,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te preocupes, puedo defenderme solo.",,,
+menu/menu_data/16.xlc,XLC,90,4,,,"{np}A {w}nice {w}thought, {w}but {w}I'm {w}fine.
+Truly.",55,{np} | {w} | {w} | {w} | {w} | {w},"{np}Es un buen gesto, pero estoy bien.
+De verdad.",,,
+menu/menu_data/16.xlc,XLC,92,4,,,{np}How {w}could {w}you {w}possibly {w}want {w}to {w}change {w}anything {w}about {w}me?,87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿Cómo se te ocurre querer cambiar algo de mí?,,,
+menu/menu_data/16.xlc,XLC,95,4,,,"{np}I {w}can {w}tend {w}to {w}myself.
+Look {w}after {w}the {w}rest {w}of {w}your {w}flock.",90,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Puedo cuidar de mí mismo.
+Ocúpate del resto de tu gente.",,,
+menu/menu_data/16.xlc,XLC,96,4,,,"{np}Thanks {w}for {w}thinking {w}of {w}me, {w}but {w}I'm {w}good.",65,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Gracias por pensar en mí, pero estoy bien.",,,
+menu/menu_data/16.xlc,XLC,97,4,,,"{np}You've {w}an {w}opinion {w}on {w}everything, {w}haven't {w}you?
+As {w}it {w}happens {w}I'm {w}quite {w}happy {w}as {w}a {w}wizard.",134,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tienes una opinión para todo, ¿verdad?
+En realidad, estoy muy a gusto como mago.",,,
+menu/menu_data/16.xlc,XLC,98,4,,,"{np}I {w}think...not.
+I'll {w}keep {w}my {w}own {w}counsel {w}on {w}this.",73,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Creo que no.
+Prefiero reservarme mi opinión.",,,
+menu/menu_data/16.xlc,XLC,99,4,,,"{np}This {w}I {w}must {w}refuse.
+Perhaps {w}if {w}I {w}had {w}more {w}time {w}to {w}consider {w}it.",99,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Eso debo rechazarlo.
+Quizá si tuviera más tiempo para pensarlo.",,,
+menu/menu_data/16.xlc,XLC,103,4,,,"{np}Save {w}your {w}classmark.
+I'm {w}happy {w}as {w}I {w}am.",61,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Guarda tu marca de clase.
+Estoy bien tal como estoy.",,,
+menu/menu_data/16.xlc,XLC,104,4,,,"{np}Your {w}concern {w}is {w}welcome, {w}but {w}unwarranted.",60,{np} | {w} | {w} | {w} | {w} | {w},"{np}Aprecio tu preocupación, pero no es necesaria.",,,
+menu/menu_data/16.xlc,XLC,105,4,,,"{np}Another {w}time, {w}perhaps.
+After {w}this {w}battle {w}might {w}be {w}a {w}good {w}start.",94,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quizá en otro momento.
+Podríamos empezar después de esta batalla.",,,
+menu/menu_data/16.xlc,XLC,108,4,,,"{np}Look {w}about {w}you.
+Does {w}this {w}seem {w}like {w}the {w}time?",70,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Mira a tu alrededor.
+¿Te parece que este es el momento?",,,
+menu/menu_data/16.xlc,XLC,110,4,,,"{np}I'm {w}wasted {w}in {w}any {w}other {w}role.
+You {w}know {w}that.",69,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No sirvo para ningún otro papel.
+Lo sabes.",,,
+menu/menu_data/16.xlc,XLC,111,4,,,"{np}A {w}good {w}thought, {w}but {w}let's {w}leave {w}it {w}at {w}that.",71,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Es una buena idea, pero dejémoslo así.",,,
+menu/menu_data/16.xlc,XLC,112,4,,,"{np}I'm {w}afraid {w}I {w}must {w}refuse.
+There {w}are {w}some {w}things {w}I {w}cannot {w}trust {w}to {w}others.",113,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me temo que debo negarme.
+Hay cosas que no puedo dejar en manos de otros.",,,
+menu/menu_data/16.xlc,XLC,113,4,,,"{np}Not {w}shy, {w}are {w}you {w}boy?
+Some {w}ideas {w}are {w}best {w}kept {w}to {w}yourself.",93,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No eres tímido, ¿verdad, muchacho?
+Hay ideas que es mejor guardarse.",,,
+menu/menu_data/16.xlc,XLC,114,4,,,"{np}Maybe {w}if {w}I {w}were {w}younger, {w}but {w}the {w}sun {w}has {w}set {w}on {w}those {w}days.",99,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Quizá si fuera más joven, pero esos días ya quedaron atrás.",,,
+menu/menu_data/16.xlc,XLC,115,4,,,"{np}Battle {w}looms {w}before {w}us, {w}and {w}now {w}you {w}ask?
+No. {w}Send {w}me {w}out {w}as {w}I {w}am.",108,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Se avecina una batalla y ¿ahora me lo preguntas?
+No. Déjame salir al campo tal como estoy.",,,
+menu/menu_data/16.xlc,XLC,116,4,,,"{np}I'm {w}not {w}as {w}skilled {w}as {w}all {w}that.
+I {w}need {w}time {w}for {w}a {w}change {w}that {w}big.",109,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No soy tan hábil como eso.
+Necesitaría tiempo para un cambio tan grande.",,,
+menu/menu_data/16.xlc,XLC,120,4,,,"{np}These {w}are {w}my {w}troops.
+I {w}must {w}lead.",52,{np} | {w} | {w} | {w} | {w} | {w},"{np}Estas son mis tropas.
+Debo estar al mando.",,,
+menu/menu_data/16.xlc,XLC,121,4,,,"{np}Is {w}this {w}a {w}joke?
+You're {w}not {w}leaving {w}me {w}out {w}of {w}this!",81,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Es una broma?
+¡No vas a dejarme fuera de esto!",,,
+menu/menu_data/16.xlc,XLC,122,4,,,"{np}I {w}have {w}a {w}duty {w}to {w}fulfill.
+I {w}won't {w}turn {w}from {w}it {w}now.",85,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tengo un deber que cumplir.
+No pienso apartarme de él ahora.",,,
+menu/menu_data/16.xlc,XLC,130,4,,,"{np}This {w}is {w}my {w}fight!
+I'll {w}not {w}stand {w}by {w}and {w}watch!",74,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Esta es mi lucha!
+¡No me quedaré de brazos cruzados mirando!",,,
+menu/menu_data/16.xlc,XLC,132,4,,,"{np}I {w}can't {w}help {w}but {w}feel {w}a {w}sense {w}of {w}obligation.
+I {w}had {w}better {w}see {w}this {w}through {w}to {w}the {w}end.",138,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo evitar sentir que tengo una obligación.
+Será mejor que llegue hasta el final.",,,
+menu/menu_data/16.xlc,XLC,136,4,,,"{np}A {w}knight's {w}place {w}is {w}on {w}the {w}field.
+I'll {w}not {w}run {w}from {w}this {w}battle.",101,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}El lugar de un caballero está en el campo de batalla.
+No huiré de este combate.",,,
+menu/menu_data/16.xlc,XLC,137,4,,,"{np}I {w}may {w}be {w}old, {w}but {w}I {w}can {w}still {w}fight!",64,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Puede que sea viejo, ¡pero todavía puedo luchar!",,,
+menu/menu_data/16.xlc,XLC,138,4,,,"{np}I'm {w}not {w}your {w}creature {w}to {w}command.
+I {w}have {w}every {w}right {w}to {w}be {w}here!",101,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No soy una criatura a tus órdenes.
+¡Tengo todo el derecho a estar aquí!",,,
+menu/menu_data/16.xlc,XLC,151,4,,,"{np}I {w}have {w}every {w}reason {w}to {w}fight, {w}and {w}none {w}to {w}flee.",78,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Tengo motivos de sobra para luchar y ninguno para huir.,,,
+menu/menu_data/16.xlc,XLC,152,4,,,{np}I {w}did {w}not {w}join {w}you {w}only {w}to {w}be {w}told {w}to {w}stand {w}aside.,87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No me uní a ti para que ahora me ordenes quedarme al margen.,,,
+menu/menu_data/16.xlc,XLC,161,4,,,"{np}Nothing {w}could {w}keep {w}me {w}from {w}this {w}battle.
+Nothing.",70,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nada podría impedirme participar en esta batalla.
+Nada.",,,
+menu/menu_data/16.xlc,XLC,162,4,,,"{np}If {w}I {w}walked {w}away {w}now, {w}I {w}could {w}never {w}forgive {w}myself.",82,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si me marchara ahora, nunca podría perdonármelo.",,,
+menu/menu_data/16.xlc,XLC,163,4,,,"{np}If {w}you {w}are {w}a {w}friend {w}for {w}true, {w}you'll {w}not {w}ask {w}me {w}to {w}leave {w}the {w}battlefield.",119,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si de verdad eres mi amigo, no me pedirás que abandone el campo de batalla.",,,
+menu/menu_data/16.xlc,XLC,164,4,,,"{np}I {w}cannot {w}turn {w}from {w}this {w}battle.
+By {w}all {w}I {w}am {w}and {w}have {w}been, {w}I {w}will {w}not.",116,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo abandonar esta batalla.
+Por todo lo que soy y he sido, no lo haré.",,,
+menu/menu_data/16.xlc,XLC,165,4,,,"{np}Whatever {w}tomorrow {w}brings, {w}today {w}I {w}fight.",59,{np} | {w} | {w} | {w} | {w} | {w},"{np}Pase lo que pase mañana, hoy lucharé.",,,
+menu/menu_data/16.xlc,XLC,168,4,,,"{np}This {w}time, {w}this {w}place...
+I {w}belong {w}in {w}this {w}battle. {w}I {w}feel {w}it!",94,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Este momento, este lugar...
+Siento que pertenezco a esta batalla. ¡Lo sé!",,,
+menu/menu_data/16.xlc,XLC,170,4,,,"{np}You {w}must {w}let {w}me {w}fight!
+I {w}beg {w}you!",55,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Tienes que dejarme luchar!
+¡Te lo ruego!",,,
+menu/menu_data/16.xlc,XLC,172,4,,,"{np}No, {w}no, {w}no! {w}If {w}I'm {w}not {w}in {w}this {w}battle, {w}there's {w}no {w}telling {w}what {w}might {w}go {w}wrong.",127,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡No, no, no! Si no participo en esta batalla, no hay forma de saber qué podría salir mal.",,,
+menu/menu_data/16.xlc,XLC,175,4,,,"{np}I {w}belong {w}on {w}the {w}battlefield {w}this {w}day.
+The {w}Great {w}Father {w}wills {w}it.",98,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Hoy debo estar en el campo de batalla.
+Es la voluntad del Gran Padre.",,,
+menu/menu_data/16.xlc,XLC,176,4,,,"{np}If {w}I {w}stepped {w}aside, {w}who {w}would {w}take {w}my {w}place?",72,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si me hiciera a un lado, ¿quién ocuparía mi lugar?",,,
+menu/menu_data/16.xlc,XLC,177,4,,,"{np}If {w}I {w}don't {w}fight, {w}who {w}will?",46,{np} | {w} | {w} | {w} | {w} | {w},"{np}Si no lucho yo, ¿quién lo hará?",,,
+menu/menu_data/16.xlc,XLC,178,4,,,"{np}You {w}don't {w}really {w}expect {w}me {w}to {w}withdraw {w}on {w}no {w}more {w}than {w}a {w}word {w}from {w}you, {w}do {w}you?",131,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No esperarás que me retire solo porque me lo pides, ¿verdad?",,,
+menu/menu_data/16.xlc,XLC,179,4,,,{np}Something {w}inside {w}me {w}tells {w}me {w}that {w}I {w}must {w}fight {w}here {w}today.,92,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Algo dentro de mí me dice que hoy debo luchar aquí.,,,
+menu/menu_data/16.xlc,XLC,182,4,,,"{np}A {w}fine {w}mercenary {w}I'd {w}be, {w}sitting {w}on {w}my {w}hands {w}while {w}there's {w}knifework {w}to {w}be {w}done.",126,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Sería un gran mercenario si me quedara de brazos cruzados mientras hay trabajo que hacer con los cuchillos.,,,
+menu/menu_data/16.xlc,XLC,183,4,,,"{np}I {w}belong {w}in {w}this {w}battle.
+I {w}know {w}it.",57,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Pertenezco a esta batalla.
+Lo sé.",,,
+menu/menu_data/16.xlc,XLC,184,4,,,"{np}The {w}Wheel {w}has {w}brought {w}me {w}here.
+Do {w}not {w}ask {w}me {w}to {w}walk {w}away.",95,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}La Rueda me ha traído hasta aquí.
+No me pidas que me marche.",,,
+menu/menu_data/16.xlc,XLC,185,4,,,"{np}I {w}can't {w}turn {w}away, {w}not {w}now.
+I {w}want {w}to {w}fight.",72,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo dar la espalda, no ahora.
+Quiero luchar.",,,
+menu/menu_data/16.xlc,XLC,188,4,,,"{np}I {w}don't {w}ask {w}much, {w}but {w}I {w}do {w}ask {w}this:
+Let {w}me {w}fight {w}at {w}your {w}side {w}today.",115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No pido mucho, pero sí esto:
+Déjame luchar a tu lado hoy.",,,
+menu/menu_data/16.xlc,XLC,189,4,,,"{np}My {w}place {w}is {w}here, {w}on {w}the {w}battlefield.
+I {w}feel {w}it {w}in {w}my {w}bones.",97,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Mi lugar está aquí, en el campo de batalla.
+Lo siento en los huesos.",,,
+menu/menu_data/16.xlc,XLC,190,4,,,"{np}Please, {w}let {w}me {w}join {w}this {w}fight.",50,{np} | {w} | {w} | {w} | {w} | {w},"{np}Por favor, déjame unirme a esta lucha.",,,
+menu/menu_data/16.xlc,XLC,192,4,,,"{np}I {w}will {w}not {w}show {w}my {w}back {w}to {w}the {w}enemy.
+Not {w}now, {w}of {w}all {w}times.",100,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No le daré la espalda al enemigo.
+Y menos ahora.",,,
+menu/menu_data/16.xlc,XLC,193,4,,,"{np}I'm {w}taking {w}the {w}field, {w}and {w}I {w}don't {w}give {w}a {w}farthing {w}what {w}you {w}have {w}to {w}say {w}about {w}it.",132,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Voy a salir al campo y me importa un bledo lo que tengas que decir al respecto.,,,
+menu/menu_data/16.xlc,XLC,194,4,,,"{np}Grant {w}an {w}old {w}man {w}a {w}simple {w}wish.
+Let {w}me {w}take {w}the {w}field.",88,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Concédeme un último deseo.
+Déjame salir al campo de batalla.",,,
+menu/menu_data/16.xlc,XLC,195,4,,,{np}There's {w}nothing {w}you {w}can {w}say {w}will {w}make {w}me {w}leave {w}the {w}field {w}today.,100,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}No hay nada que puedas decir para hacerme abandonar el campo de batalla hoy.,,,
+menu/menu_data/16.xlc,XLC,196,4,,,"{np}Trust {w}me, {w}you {w}want {w}me {w}out {w}there {w}at {w}your {w}side {w}today.",85,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Créeme, hoy me necesitas a tu lado en el campo de batalla.",,,
+menu/menu_data/16.xlc,XLC,201,4,,,"{np}There's {w}something {w}I {w}have {w}to {w}take {w}care {w}of.
+You {w}can {w}handle {w}this {w}lot.",103,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tengo algo que atender.
+Puedes encargarte del resto del grupo.",,,
+menu/menu_data/16.xlc,XLC,202,4,,,"{np}I'm {w}so {w}tired.
+Let {w}me {w}sit {w}this {w}one {w}out, {w}would {w}you?",80,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Estoy muy cansado.
+¿Me permites descansar esta vez?",,,
+menu/menu_data/16.xlc,XLC,203,4,,,"{np}I {w}cannot {w}join {w}you.
+But {w}not {w}to {w}worry; {w}you'll {w}be {w}fine.",83,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo acompañarte.
+Pero no te preocupes; estarás bien.",,,
+menu/menu_data/16.xlc,XLC,204,4,,,"{np}If {w}it's {w}all {w}the {w}same {w}to {w}you, {w}I {w}think {w}I {w}shall {w}play {w}the {w}role {w}of {w}spectator {w}today.",130,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si te parece bien, hoy prefiero limitarme a observar.",,,
+menu/menu_data/16.xlc,XLC,205,4,,,"{np}I'm {w}flattered, {w}really.
+But {w}maybe {w}I'm {w}not {w}the {w}man {w}for {w}this {w}battle, {w}eh?",106,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me halagas, de verdad.
+Pero quizá no sea la persona indicada para esta batalla, ¿eh?",,,
+menu/menu_data/16.xlc,XLC,206,4,,,"{np}Not {w}today, {w}eh?
+I'm {w}making {w}ready {w}for {w}the {w}next {w}battle.",80,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Hoy no?
+Me prepararé para la próxima batalla.",,,
+menu/menu_data/16.xlc,XLC,207,4,,,"{np}Can't {w}have {w}you {w}counting {w}on {w}me {w}to {w}pull {w}you {w}through {w}every {w}time {w}now, {w}can {w}we?",119,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedes depender de mí para que te saque de apuros siempre, ¿verdad?",,,
+menu/menu_data/16.xlc,XLC,210,4,,,"{np}Sorry, {w}but {w}I'm {w}not {w}feeling {w}up {w}to {w}it.",61,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, pero no me siento con fuerzas para hacerlo.",,,
+menu/menu_data/16.xlc,XLC,212,4,,,"{np}You've {w}been {w}working {w}me {w}much {w}too {w}hard {w}lately.
+Consider {w}this {w}a {w}protest!",103,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Últimamente me has exigido demasiado.
+¡Tómate esto como una protesta!",,,
+menu/menu_data/16.xlc,XLC,216,4,,,{np}You {w}need {w}to {w}put {w}your {w}own {w}steel {w}to {w}the {w}test {w}every {w}now {w}and {w}again.,106,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}De vez en cuando tienes que poner a prueba tu propio temple.,,,
+menu/menu_data/16.xlc,XLC,217,4,,,"{np}An {w}old {w}man {w}needs {w}his {w}rest.
+Whatever {w}happened {w}to {w}respect {w}for {w}one's {w}elders?",110,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Un anciano necesita descansar.
+¿Dónde quedó el respeto por los mayores?",,,
+menu/menu_data/16.xlc,XLC,218,4,,,"{np}Is {w}there {w}someone {w}else {w}you {w}can {w}ask?
+I {w}think {w}I'm {w}taking {w}ill.",92,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿No puedes pedírselo a alguien más?
+Creo que me estoy enfermando.",,,
+menu/menu_data/16.xlc,XLC,231,4,,,"{np}You {w}don't {w}need {w}me {w}to {w}handle {w}every {w}two-bit {w}rogue {w}and {w}rabid {w}wolf {w}that {w}crosses {w}our {w}path, {w}do {w}you?",148,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No necesitas que me ocupe de cada maleante de poca monta y cada lobo rabioso que se cruce en nuestro camino, ¿verdad?",,,
+menu/menu_data/16.xlc,XLC,232,4,,,"{np}I {w}must {w}refuse.
+My {w}reasons {w}are {w}my {w}own.",59,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Debo negarme.
+Mis motivos son personales.",,,
