@@ -16616,3 +16616,163 @@ menu/menu_data/18.xlc,XLC,15,4,,,{span 04 1401 11 08}PROCESS_TYPE_015,36,{span 0
 menu/menu_data/18.xlc,XLC,16,4,,,{span 04 1401 11 08}PROCESS_TYPE_016,36,{span 04 1401 11 08},,,,
 menu/menu_data/18.xlc,XLC,17,4,,,{span 04 1401 11 08}PROCESS_TYPE_017,36,{span 04 1401 11 08},,,,
 menu/menu_data/18.xlc,XLC,18,4,,,{span 04 1401 11 08}PROCESS_TYPE_018,36,{span 04 1401 11 08},,,,
+menu/menu_data/18.xlc,XLC,27,4,,,{span 08 e202 1d 08}Moves target back 1 tile. Has no effect if the tile is obstructed or at a higher elevation.,111,{span 08 e202 1d 08},{span 08 e202 1d 08}Mueve al objetivo una casilla hacia atrás. No tiene efecto si la casilla está obstruida o se encuentra a una elevación superior.,,,
+menu/menu_data/19.xlc,XLC,0,4,,,{span 02 5601 06 08}Denam,25,{span 02 5601 06 08},{span 02 5601 06 08}Denam,,,
+menu/menu_data/19.xlc,XLC,1,4,,,{span 02 7a01 09 08}Godscale,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Deidraco,,,
+menu/menu_data/19.xlc,XLC,2,4,,,{span 04 3c01 1b 08}Let's see what you've got!,46,{span 04 3c01 1b 08},{span 04 3c01 1b 08}¡Veamos qué tienes!,,,
+menu/menu_data/19.xlc,XLC,3,4,,,{span 04 2c01 19 08}Don't go too hard on me!,44,{span 04 2c01 19 08},{span 04 2c01 19 08}¡No seas demasiado duro conmigo!,,,
+menu/menu_data/19.xlc,XLC,4,4,,,{span 04 0201 14 08}Show me your worst.,39,{span 04 0201 14 08},{span 04 0201 14 08}¡Muéstrame lo peor que tengas!,,,
+menu/menu_data/19.xlc,XLC,5,4,,,{span 02 7801 09 08}Not bad!,28,{span 02 7801 09 08},{span 02 7801 09 08}¡Nada mal!,,,
+menu/menu_data/19.xlc,XLC,6,4,,,{span 04 6e01 20 08}Can't take much more of this...,51,{span 04 6e01 20 08},{span 04 6e01 20 08}No puedo soportar mucho más...,,,
+menu/menu_data/19.xlc,XLC,7,4,,,{span 04 1c01 18 08}Tougher than I thought.,43,{span 04 1c01 18 08},{span 04 1c01 18 08}Eres más duro de lo que pensaba.,,,
+menu/menu_data/19.xlc,XLC,8,4,,,{span 02 7001 08 08}Enough!,27,{span 02 7001 08 08},{span 02 7001 08 08}¡Basta!,,,
+menu/menu_data/19.xlc,XLC,9,4,,,{span 02 ce01 11 08}Can't be helped.,36,{span 02 ce01 11 08},{span 02 ce01 11 08}No hay más remedio.,,,
+menu/menu_data/19.xlc,XLC,10,4,,,{span 02 d201 12 08}No hard feelings!,37,{span 02 d201 12 08},{span 02 d201 12 08}¡Sin rencores!,,,
+menu/menu_data/19.xlc,XLC,11,4,,,{span 04 6601 1f 08}Must've let down my...guard...,50,{span 04 6601 1f 08},{span 04 6601 1f 08}Debí bajar la... guardia...,,,
+menu/menu_data/19.xlc,XLC,12,4,,,{span 04 5c01 1d 08}My wounds open like flowers.,48,{span 04 5c01 1d 08},{span 04 5c01 1d 08}Mis heridas se abren como flores.,,,
+menu/menu_data/19.xlc,XLC,13,4,,,{span 02 5001 06 08}No...,25,{span 02 5001 06 08},{span 02 5001 06 08}No...,,,
+menu/menu_data/19.xlc,XLC,14,4,,,{span 02 cc01 13 08}I'll not stop now!,38,{span 02 cc01 13 08},{span 02 cc01 13 08}¡No me detendré ahora!,,,
+menu/menu_data/19.xlc,XLC,15,4,,,{span 04 2001 16 08}Where'd everybody go?,41,{span 04 2001 16 08},{span 04 2001 16 08}¿Adónde se fueron todos?,,,
+menu/menu_data/19.xlc,XLC,16,4,,,{span 04 3401 1c 08}I'll pay them back tenfold!,47,{span 04 3401 1c 08},{span 04 3401 1c 08}¡Les devolveré el golpe con creces!,,,
+menu/menu_data/19.xlc,XLC,17,4,,,{span 02 b201 0e 08}A worthy foe.,33,{span 02 b201 0e 08},{span 02 b201 0e 08}Un rival digno.,,,
+menu/menu_data/19.xlc,XLC,18,4,,,{span 02 7001 09 08}Victory!,28,{span 02 7001 09 08},{span 02 7001 09 08}¡Victoria!,,,
+menu/menu_data/19.xlc,XLC,19,4,,,{span 04 4201 1c 08}That was no real challenge.,47,{span 04 4201 1c 08},{span 04 4201 1c 08}Eso no fue un verdadero desafío.,,,
+menu/menu_data/19.xlc,XLC,20,4,,,{span 04 6e01 1e 08}Go on! Kick me when I'm down!,49,{span 04 6e01 1e 08},{span 04 6e01 1e 08}¡Vamos! ¡Pégame ahora que estoy en el suelo!,,,
+menu/menu_data/19.xlc,XLC,21,4,,,"{span 04 1601 18 08}Quick on your feet, eh?",43,{span 04 1601 18 08},"{span 04 1601 18 08}¡Qué rápido eres, eh?",,,
+menu/menu_data/19.xlc,XLC,22,4,,,"{span 04 4a01 1d 08}Picked the wrong fight, neh?",48,{span 04 4a01 1d 08},"{span 04 4a01 1d 08}Te metiste con quien no debías, ¿eh?",,,
+menu/menu_data/19.xlc,XLC,23,4,,,"{span 04 1401 17 08}Gods, what strength...",42,{span 04 1401 17 08},"{span 04 1401 17 08}Dioses, qué fuerza...",,,
+menu/menu_data/19.xlc,XLC,24,4,,,{span 02 c601 10 08}Ow! That hurts!,35,{span 02 c601 10 08},{span 02 c601 10 08}¡Ay! ¡Eso duele!,,,
+menu/menu_data/19.xlc,XLC,25,4,,,{span 02 d401 12 08}Now it's my turn!,37,{span 02 d401 12 08},{span 02 d401 12 08}¡Ahora me toca a mí!,,,
+menu/menu_data/19.xlc,XLC,26,4,,,{span 02 f601 16 08}Let's go in swinging!,41,{span 02 f601 16 08},{span 02 f601 16 08}¡Vamos con todo!,,,
+menu/menu_data/19.xlc,XLC,27,4,,,{span 02 be01 10 08}Just a scratch!,35,{span 02 be01 10 08},{span 02 be01 10 08}¡Solo es un rasguño!,,,
+menu/menu_data/19.xlc,XLC,28,4,,,{span 04 4e01 1e 08}Must be getting...careless...,49,{span 04 4e01 1e 08},{span 04 4e01 1e 08}Debo estar volviéndome... descuidado...,,,
+menu/menu_data/19.xlc,XLC,29,4,,,{span 02 f601 15 08}Ready or not...I am!,40,{span 02 f601 15 08},{span 02 f601 15 08}Estés listo o no... ¡yo sí lo estoy!,,,
+menu/menu_data/19.xlc,XLC,30,4,,,"{span 02 dc01 13 08}A close one, that.",38,{span 02 dc01 13 08},{span 02 dc01 13 08}¡Por poco!,,,
+menu/menu_data/19.xlc,XLC,31,4,,,{span 04 3601 1b 08}That hit the spot. Cheers!,46,{span 04 3601 1b 08},{span 04 3601 1b 08}¡Justo lo que necesitaba! ¡Salud!,,,
+menu/menu_data/19.xlc,XLC,39,4,,,{span 04 bc01 27 08}Incapacitated units cannot be revived!,58,{span 04 bc01 27 08},{span 04 bc01 27 08}¡Las unidades incapacitadas no pueden revivir!,,,
+menu/menu_data/19.xlc,XLC,48,4,,,{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together,55,{span 04 a201 24 08},{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together,,,
+menu/menu_data/19.xlc,XLC,51,4,,,{span 02 7a01 09 08}Godscale,28,{span 02 7a01 09 08},{span 02 7a01 09 08}Deidraco,,,
+menu/menu_data/19.xlc,XLC,52,4,,,{span 02 8601 0b 08}Earthscale,30,{span 02 8601 0b 08},{span 02 8601 0b 08}Terradraco,,,
+menu/menu_data/19.xlc,XLC,53,4,,,{span 02 8c01 0b 08}Waterscale,30,{span 02 8c01 0b 08},{span 02 8c01 0b 08}Hidrodraco,,,
+menu/menu_data/19.xlc,XLC,54,4,,,{span 02 a001 0c 08}Shadowscale,31,{span 02 a001 0c 08},{span 02 a001 0c 08}Umbrodraco,,,
+menu/menu_data/19.xlc,XLC,55,4,,,{span 02 8a01 0b 08}Whitescale,30,{span 02 8a01 0b 08},{span 02 8a01 0b 08}Albodraco,,,
+menu/menu_data/19.xlc,XLC,56,4,,,{span 02 8a01 0b 08}Flamescale,30,{span 02 8a01 0b 08},{span 02 8a01 0b 08}Ignidraco,,,
+menu/menu_data/19.xlc,XLC,57,4,,,{span 02 8201 0a 08}Windscale,29,{span 02 8201 0a 08},{span 02 8201 0a 08}Aerodraco,,,
+menu/menu_data/19.xlc,XLC,58,4,,,{span 02 8001 0a 08}Goldscale,29,{span 02 8001 0a 08},{span 02 8001 0a 08}Aurodraco,,,
+menu/menu_data/19.xlc,XLC,59,4,,,{span 02 8e01 0b 08}Stormscale,30,{span 02 8e01 0b 08},{span 02 8e01 0b 08}Tempestadraco,,,
+menu/menu_data/19.xlc,XLC,60,4,,,{span 02 7c01 0a 08}Darkscale,29,{span 02 7c01 0a 08},{span 02 7c01 0a 08}Tenebrodraco,,,
+menu/menu_data/19.xlc,XLC,61,4,,,{span 02 7401 09 08}Seascale,28,{span 02 7401 09 08},{span 02 7401 09 08}Mardraco,,,
+menu/menu_data/19.xlc,XLC,62,4,,,{span 02 8201 0b 08}Blackscale,30,{span 02 8201 0b 08},{span 02 8201 0b 08}Nigridraco,,,
+menu/menu_data/19.xlc,XLC,63,4,,,{span 02 8001 0a 08}Twinscale,29,{span 02 8001 0a 08},{span 02 8001 0a 08}Gemidraco,,,
+menu/menu_data/19.xlc,XLC,64,4,,,{span 02 7601 0a 08}Firescale,29,{span 02 7601 0a 08},{span 02 7601 0a 08}Pirodraco,,,
+menu/menu_data/19.xlc,XLC,65,4,,,{span 02 8201 0b 08}Lightscale,30,{span 02 8201 0b 08},{span 02 8201 0b 08}Lucidraco,,,
+menu/menu_data/3.xlc,XLC,1,4,,,"{np}Hello, {w}young {w}master.",30,{np} | {w} | {w},"{np}Hola, joven señor.",,,
+menu/menu_data/3.xlc,XLC,2,4,,,"{np}Why, {w}hello.
+What {w}can {w}I {w}do {w}for {w}you?",56,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Vaya, hola.
+¿Qué puedo hacer por ti?",,,
+menu/menu_data/3.xlc,XLC,3,4,,,{np}What {w}brings {w}you {w}in {w}today?,41,{np} | {w} | {w} | {w} | {w},{np}¿Qué te trae por aquí hoy?,,,
+menu/menu_data/3.xlc,XLC,4,4,,,{np}Anything {w}else?,21,{np} | {w},{np}¿Algo más?,,,
+menu/menu_data/3.xlc,XLC,5,4,,,{np}Will {w}that {w}be {w}all {w}then?,38,{np} | {w} | {w} | {w} | {w},"{np}¿Eso sería todo, entonces?",,,
+menu/menu_data/3.xlc,XLC,6,4,,,{np}That {w}all?,16,{np} | {w},{np}¿Eso es todo?,,,
+menu/menu_data/3.xlc,XLC,7,4,,,"{np}My {w}thanks.
+Do {w}come {w}again.",38,{np} | {w} | {w} | {w},"{np}Muchas gracias.
+Vuelve pronto.",,,
+menu/menu_data/3.xlc,XLC,8,4,,,"{np}Thank {w}you, {w}dear.
+Don't {w}be {w}a {w}stranger.",56,{np} | {w} | {w} | {w} | {w} | {w},"{np}Gracias, cariño.
+No dejes de visitarme.",,,
+menu/menu_data/3.xlc,XLC,9,4,,,"{np}Thank {w}you, {w}thank {w}you.
+Come {w}back {w}soon!",56,{np} | {w} | {w} | {w} | {w} | {w},"{np}¡Gracias, muchas gracias!
+¡Vuelve pronto!",,,
+menu/menu_data/3.xlc,XLC,10,4,,,"{np}See {w}anything {w}you {w}want,
+just {w}let {w}me {w}know.",62,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si ves algo que te interese,
+avísame.",,,
+menu/menu_data/3.xlc,XLC,11,4,,,"{np}I'm {w}sure {w}I {w}must {w}have {w}{pal 16}something{palreset}
+you {w}want.",80,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Seguro que tengo {pal 16}algo{palreset}
+que te interese.",,,
+menu/menu_data/3.xlc,XLC,12,4,,,{np}You {w}buying?,18,{np} | {w},{np}¿Vas a comprar algo?,,,
+menu/menu_data/3.xlc,XLC,16,4,,,{np}Seems {w}you're {w}a {w}bit {w}short {w}on {w}coin.,55,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}Parece que te falta un poco de dinero.,,,
+menu/menu_data/3.xlc,XLC,17,4,,,"{np}A {w}bit {w}light {w}in {w}the {w}purse {w}for {w}that, {w}eh?",66,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Te falta dinero para eso, ¿eh?",,,
+menu/menu_data/3.xlc,XLC,18,4,,,"{np}No {w}coin, {w}no {w}sale.",30,{np} | {w} | {w} | {w},"{np}Sin dinero, no hay venta.",,,
+menu/menu_data/3.xlc,XLC,19,4,,,"{np}I {w}don't {w}think {w}you {w}can {w}hold {w}any {w}more,
+if {w}you {w}don't {w}mind {w}me {w}saying.",105,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Creo que ya no puedes cargar con más,
+si me permites decirlo.",,,
+menu/menu_data/3.xlc,XLC,20,4,,,"{np}I'd {w}say {w}you {w}already {w}have {w}quite {w}enough
+of {w}that.",71,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Diría que ya tienes suficiente
+de eso.",,,
+menu/menu_data/3.xlc,XLC,21,4,,,{np}Your {w}hands {w}look {w}full {w}to {w}me.,46,{np} | {w} | {w} | {w} | {w} | {w},{np}Parece que ya tienes las manos llenas.,,,
+menu/menu_data/3.xlc,XLC,22,4,,,"{np}Have {w}something {w}you're {w}looking
+to {w}sell?",54,{np} | {w} | {w} | {w} | {w},"{np}¿Tienes algo que quieras
+vender?",,,
+menu/menu_data/3.xlc,XLC,23,4,,,{np}Something {w}you'd {w}like {w}to {w}sell {w}me?,51,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Hay algo que quieras venderme?,,,
+menu/menu_data/3.xlc,XLC,24,4,,,{np}You {w}selling?,19,{np} | {w},{np}¿Vas a vender algo?,,,
+menu/menu_data/3.xlc,XLC,25,4,,,"{np}Begging {w}your {w}pardons, {w}but {w}the {w}oath-wage {w}is
+{FF 84 01ff01} {w}goth, {w}young {w}master.",108,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Disculpa, pero la paga del juramento es de
+{FF 84 01ff01} goth, joven señor.",,,
+menu/menu_data/3.xlc,XLC,26,4,,,"{np}The {w}oath-wage {w}is {w}{FF 84 01ff01} {w}goth,
+and {w}I'm {w}afraid {w}it's {w}not {w}negotiable.",104,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}La paga del juramento es de {FF 84 01ff01} goth,
+y me temo que no es negociable.",,,
+menu/menu_data/3.xlc,XLC,27,4,,,"{np}{FF 84 01ff01} {w}goth {w}for {w}the {w}oath-wage.
+No {w}more, {w}no {w}less.",81,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{FF 84 01ff01} goth por la paga del juramento.
+Ni más ni menos.",,,
+menu/menu_data/3.xlc,XLC,28,4,,,"{np}Your {w}ranks {w}are {w}full.
+Best {w}dismiss {w}someone {w}first.",70,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ya tienes el grupo completo.
+Será mejor que despidas a alguien primero.",,,
+menu/menu_data/3.xlc,XLC,29,4,,,"{np}More, {w}always {w}more. {w}I'm {w}sorry,
+but {w}you'll {w}need {w}to {w}dismiss {w}someone
+before {w}you {w}hire {w}anyone {w}else.",136,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Más, siempre más. Lo siento,
+pero tendrás que despedir a alguien
+antes de contratar a otra persona.",,,
+menu/menu_data/3.xlc,XLC,30,4,,,"{np}How {w}many {w}friends {w}you {w}need?
+You'd {w}better {w}dimiss {w}somebody {w}if
+you {w}want {w}to {w}hire {w}someone {w}new.",131,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Cuántos compañeros necesitas?
+Será mejor que despidas a alguien si
+quieres reclutar a alguien más.",,,
+menu/menu_data/3.xlc,XLC,31,4,,,{np}Looking {w}for {w}a {w}new {w}recruit?,42,{np} | {w} | {w} | {w} | {w},{np}¿Buscas un nuevo recluta?,,,
+menu/menu_data/3.xlc,XLC,32,4,,,"{np}Recruiting, {w}hmm?",23,{np} | {w},"{np}¿Andas reclutando, eh?",,,
+menu/menu_data/3.xlc,XLC,33,4,,,{np}Need {w}a {w}bigger {w}army?,32,{np} | {w} | {w} | {w},{np}¿Necesitas un ejército más grande?,,,
+menu/menu_data/3.xlc,XLC,34,4,,,{np}That {w}will {w}be {w}{FF 84 01ff01} {w}goth. {w}Agreed?,60,{FF 84 01ff01} | {np} | {w} | {w} | {w} | {w},{np}Serán {FF 84 01ff01} goth. ¿De acuerdo?,,,
+menu/menu_data/3.xlc,XLC,35,4,,,{np}{FF 84 01ff01} {w}goth. {w}Agreed?,38,{FF 84 01ff01} | {np} | {w} | {w},{np}{FF 84 01ff01} goth. ¿De acuerdo?,,,
+menu/menu_data/3.xlc,XLC,36,4,,,{np}{FF 84 01ff01} {w}goth. {w}Deal?,36,{FF 84 01ff01} | {np} | {w} | {w},{np}{FF 84 01ff01} goth. ¿Trato hecho?,,,
+menu/menu_data/3.xlc,XLC,37,4,,,"{np}I'm {w}sure {w}they'll {w}serve {w}you
+well, {w}young {w}master.",68,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Estoy seguro de que te servirán
+bien, joven señor.",,,
+menu/menu_data/3.xlc,XLC,38,4,,,{np}Treat {w}them {w}well. {w}Promise!,38,{np} | {w} | {w} | {w},{np}¡Trátalos bien! ¡Prométemelo!,,,
+menu/menu_data/3.xlc,XLC,39,4,,,{np}Take {w}good {w}care {w}of {w}them!,39,{np} | {w} | {w} | {w} | {w},{np}¡Cuídalos bien!,,,
+menu/menu_data/3.xlc,XLC,40,4,,,"{np}Perhaps {w}another {w}time, {w}then.",40,{np} | {w} | {w} | {w},"{np}Quizá en otra ocasión, entonces.",,,
+menu/menu_data/3.xlc,XLC,41,4,,,{np}Oh? {w}Change {w}your {w}mind? {w}Very {w}well.,51,{np} | {w} | {w} | {w} | {w} | {w},{np}¿Ah? ¿Cambiaste de opinión? Muy bien.,,,
+menu/menu_data/3.xlc,XLC,42,4,,,{np}Maybe {w}next {w}time.,26,{np} | {w} | {w},{np}Quizá la próxima vez.,,,
+menu/menu_data/3.xlc,XLC,43,4,,,"{np}Sorry, {w}but {w}you {w}don't {w}have
+all {w}the {w}ingredients.",68,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, pero no tienes
+todos los ingredientes.",,,
+menu/menu_data/3.xlc,XLC,44,4,,,"{np}You {w}seem {w}to {w}be {w}missing {w}some {w}of
+the {w}ingredients.",72,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Parece que te faltan algunos
+ingredientes.",,,
+menu/menu_data/3.xlc,XLC,45,4,,,{np}You're {w}missing {w}ingredients!,37,{np} | {w} | {w},{np}¡Te faltan ingredientes!,,,
+menu/menu_data/3.xlc,XLC,46,4,,,"{np}I {w}won't {w}buy {w}the {w}armor {w}off {w}your {w}back
+or {w}the {w}sword {w}out {w}of {w}your {w}hand.
+Remove {w}it {w}first, {w}then {w}we'll {w}talk.",158,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No te compraré la armadura que llevas puesta
+ni la espada que tienes en la mano.
+Quítatelas primero y luego hablamos.",,,
+menu/menu_data/3.xlc,XLC,47,4,,,"{np}I'm {w}afraid {w}you'll {w}have {w}to {w}remove {w}that
+before {w}I {w}can {w}buy {w}it {w}from {w}you.",107,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me temo que tendrás que quitarte eso
+antes de que pueda comprártelo.",,,
+menu/menu_data/3.xlc,XLC,48,4,,,"{np}I {w}can't {w}buy {w}something {w}you're {w}{pal 16}wearing{palreset}.
+Take {w}it {w}off {w}first!",102,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo comprarte algo que llevas puesto.
+¡Quítatelo primero!",,,
+menu/menu_data/3.xlc,XLC,55,4,,,"{np}There's {w}a {w}fee {w}for {w}the {w}auction,
+and {w}I'm {w}afraid {w}you {w}can't {w}afford {w}it.",103,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}La subasta tiene una comisión,
+y me temo que no puedes pagarla.",,,
+menu/menu_data/3.xlc,XLC,56,4,,,"{np}You {w}don't {w}seem {w}to {w}have {w}enough
+to {w}cover {w}the {w}auction {w}fee.",86,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Parece que no tienes suficiente dinero
+para cubrir la comisión de la subasta.",,,
+menu/menu_data/3.xlc,XLC,57,4,,,"{np}Sorry, {w}but {w}you {w}can't {w}afford
+the {w}auction {w}fee.",66,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lo siento, pero no puedes pagar
+la comisión de la subasta.",,,
+menu/menu_data/3.xlc,XLC,58,4,,,"{np}No {w}easy {w}way {w}of {w}saying {w}this,
+but {w}none {w}of {w}your {w}stock {w}is {w}ready
+for {w}auction.",112,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No es fácil decirlo,
+pero ninguno de tus monstruos está listo
+para salir a subasta.",,,
+menu/menu_data/3.xlc,XLC,59,4,,,"{np}I'm {w}afraid {w}your {w}stock {w}is {w}a {w}little
+young {w}for {w}auction {w}yet.",87,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Me temo que tus monstruos aún son demasiado
+jóvenes para salir a subasta.",,,
