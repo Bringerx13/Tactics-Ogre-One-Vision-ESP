@@ -13593,7 +13593,6 @@ event/scene/chapter_dlc/DLC_ST_095/scene_DLC_135.emes,EMES,2,,492,2,{np}Battle? 
 event/scene/chapter_dlc/DLC_ST_095/scene_DLC_137.emes,EMES,3,,501,56,"{np}Such {w}prophecies {w}sound {w}far {w}less {w}dire {w}when {w}it's {w}you {w}saying {w}them, {w}Sister. {w}Me, {w}die {w}in {w}a {w}year?",141,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Esas profecías suenan mucho menos terribles cuando las dices tú, hermana. ¿Yo, morir dentro de un año?",,,
 event/scene/chapter_dlc/DLC_ST_095/scene_DLC_143.emes,EMES,1,,510,56,"{np}Forced {w}to {w}retreat {w}by {w}children!? {w}Bah! {w}Shed {w}a {w}tear {w}for {w}Oz, {w}ladies. {w}He's {w}fallen {w}on {w}hard {w}times.",143,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿¡Obligados a retirarnos ante unos niños!? ¡Bah! Derramen una lágrima por Oz, damas. Está pasando por un mal momento.",,,
 event/scene/chapter_dlc/DLC_ST_095/scene_DLC_144.emes,EMES,1,,513,56,"{np}Forced {w}to {w}retreat {w}by {w}children!? {w}Bah! {w}Shed {w}a {w}tear {w}for {w}Oz, {w}ladies. {w}He's {w}fallen {w}on {w}hard {w}times.",143,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿¡Obligados a retirarnos ante unos niños!? ¡Bah! Derramen una lágrima por Oz, damas. Está pasando por un mal momento.",,,
-Archivo,tipo,fila,columna,id_entrada,nid,texto_ingles,caracteres,marcadores,texto_espanol,,,
 event/scene/chapter_dlc/DLC_ST_100/scene_DLC_145.emes,EMES,2,,517,55,{np}This {w}man {w}smells {w}of {w}swill. {w}If {w}you {w}can {w}call {w}it {w}a {w}man!,88,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Este hombre apesta a alcohol barato. ¡Si es que se le puede llamar hombre!,,,
 event/scene/chapter_dlc/DLC_ST_100/scene_DLC_145.emes,EMES,3,,518,54,{np}He's {w}so {w}deep {w}in {w}his {w}cups {w}he {w}can't {w}even {w}see {w}the {w}black {w}of {w}our {w}steel.,112,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Está tan borracho que ni siquiera distingue el acero de nuestras espadas.,,,
 event/scene/chapter_dlc/DLC_ST_100/scene_DLC_145.emes,EMES,4,,519,160,{np}I'll {w}take {w}a-a-all {w}of {w}you {w}on! {w}Send {w}ya {w}runnin' {w}with {w}a {w}shiv {w}in {w}yer {w}arse!,115,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Puedo con t-t-todos ustedes! ¡Los haré correr con una daga clavada en el trasero!,,,
@@ -13663,6 +13662,7 @@ event/scene/chapter_dlc/DLC_ST_105/scene_DLC_160.emes,EMES,0,,576,3,"{np}The {w}
 event/scene/chapter_dlc/DLC_ST_105/scene_DLC_161.emes,EMES,0,,577,52,"{np}{pal 16}Two{palreset} {w}Ozmas?
 What {w}vile {w}sorcery {w}is {w}this?",74,{np} | {pal 16} | {palreset} | {w} | {w} | {w} | {w},"{np}¿{pal 16}Dos{palreset} Ozmas?
 ¿Qué clase de brujería vil es esta?",,,
+,,,,,,,,,,,,
 ,,,,,,,,,,,,
 event/scene/chapter_dlc/DLC_ST_105/scene_DLC_161.emes,EMES,1,,578,57,"{np}I {w}am {w}Ozma {w}of {w}House {w}Gladius {w}in {w}truth, {w}but {w}I {w}am {w}not {w}the {w}Ozma {w}you {w}know.{pp}I {w}know {w}everything, {w}Balxephon. {w}I {w}know {w}why {w}you {w}are {w}here―and {w}who {w}you {w}and {w}the {w}high {w}commander {w}truly {w}are.",271,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"Soy, en efecto, Ozma de la Casa Gladius, pero no soy la Ozma que conoces.{pp}Lo sé todo, Balxephon. Sé por qué estás aquí y quiénes son realmente tú y el alto comandante.",,,
 event/scene/chapter_dlc/DLC_ST_105/scene_DLC_161.emes,EMES,2,,579,52,{np}What {w}are {w}you {w}talking {w}about?,43,{np} | {w} | {w} | {w} | {w},{np}¿De qué estás hablando?,,,
@@ -13835,3 +13835,97 @@ event/scene/chapter_dlc/DLC_ST_164/scene_4_358.emes,EMES,7,,80,27,{np}Well {w}th
 event/scene/chapter_dlc/DLC_ST_164/scene_4_359.emes,EMES,0,,81,27,"{np}Pus {w}'n' {w}porridge, {w}the {w}boy's {w}got {w}me...!",60,{np} | {w} | {w} | {w} | {w} | {w} | {w},{np}¡Por las gachas! ¡Este muchacho me ha conquistado...!,,,
 event/scene/chapter_dlc/DLC_ST_164/scene_4_359.emes,EMES,1,,82,255,"{np}What {w}did {w}you {w}do {w}with {w}the {w}fusils {w}you {w}took {w}from {w}Grimsby, {w}Ganpp!?",99,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡¿Qué hiciste con los fusiles que robaste en Grimsby, Ganpp?!",,,
 event/scene/chapter_dlc/DLC_ST_164/scene_4_359.emes,EMES,2,,83,27,"{np}The {w}hell {w}you {w}talkin' {w}about, {w}boy?{pp}Obda...Berda...you {w}go {w}unavenged.",93,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿De qué demonios hablas, muchacho?{pp}Obda... Berda... ¡no quedarán sin venganza!",,,
+event/scene/chapter_4/C4_ST_144/scene_4_309.emes,EMES,2,,1109,54,"{np}Don't {w}waste {w}your {w}words {w}on {w}this {w}one, {w}Martym. {w}{pp}He's {w}only {w}{hero}'s {w}lapdog.
+Hear {w}how {w}he {w}barks {w}for {w}his {w}master?",163,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No malgastes palabras con este, Martym. {pp}Es solo el perrito faldero de {hero}.
+¿Oyes cómo ladra por su amo?",,,
+event/scene/chapter_4/C4_ST_146/scene_4_319.emes,EMES,2,,1148,255,"{np}Be {w}gone!{pp}This {w}is {w}the {w}world {w}of {w}men.
+You {w}have {w}no {w}place {w}here!",95,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Lárgate!{pp}Este es el mundo de los hombres.
+¡Aquí no tienes lugar!",,,
+event/scene/chapter_4/C4_ST_345/scene_4_810.emes,EMES,2,,987,13,"{np}No, {w}no, {w}no.
+I'm {w}not {w}in {w}the {w}habit {w}of {w}imposing {w}on {w}others.{pp}{FF 92}The {w}one {w}who {w}spilt {w}the {w}brew {w}should {w}mop {w}it {w}up. {w}Forget {w}I {w}said {w}anything. {w}Off {w}with {w}you {w}now. {w}Ta {w}ta.",250,{FF 92} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, no, no.
+No suelo imponerme a los demás.{pp}{FF 92}Quien derramó la bebida debe limpiarla. Olvida lo que he dicho. Ahora, fuera. Hasta luego.",,,
+event/scene/chapter_4/C4_ST_345/scene_4_810.emes,EMES,3,,988,255,"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} {w}If {w}that's {w}what {w}you {w}want.
+2. {w}No. {w}Let's {w}have {w}it.",120,{FF 88 01} | {FF 88 02} | {FF 88 02} | {np} | {select 1} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}{select 1}{FF 88 02}1{FF 88 02}.{FF 88 01} Si eso es lo que quieres.
+2. No. Hagámoslo.",,,
+event/scene/chapter_dlc/DLC_ST_010/scene_DLC_12.emes,EMES,0,,37,255,"{np}I {w}can't {w}stay {w}here.{pp}This {w}is {w}their {w}fight.
+They {w}can {w}handle {w}it.{pp}I {w}always {w}run {w}afoul {w}of {w}trouble {w}in {w}this {w}city.{pp}Still, {w}I'll {w}never {w}live {w}it {w}down {w}if {w}I {w}leave... {w}Dammit!",247,{np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No puedo quedarme aquí.{pp}Esta es su lucha.
+Pueden arreglárselas solos.{pp}Siempre acabo metiéndome en problemas en esta ciudad.{pp}Aun así, nunca me lo perdonaré si me marcho... ¡Maldita sea!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_102.emes,EMES,5,,322,54,{np}Reinforcements {w}from {w}Almorica?,39,{np} | {w} | {w},{np}¿Refuerzos de Almorica?,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_102.emes,EMES,6,,323,4,"{np}{hero}?
+What {w}are {w}you {w}doing {w}here?",48,{hero} | {np} | {w} | {w} | {w} | {w},"{np}{hero}?
+¿Qué haces aquí?",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_102.emes,EMES,7,,324,54,"{np}Deal {w}with {w}this {w}rabble...
+The {w}Holy {w}Knight {w}is {w}mine!",74,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Ocúpense de esta chusma...
+¡El Caballero Sagrado es mío!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_102.emes,EMES,8,,325,4,{np}You'll {w}find {w}me {w}no {w}easy {w}quarry.,49,{np} | {w} | {w} | {w} | {w} | {w},{np}No será fácil dar conmigo.,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_103.emes,EMES,0,,326,54,"{np}Routed {w}by {w}a {w}handful {w}of {w}Valerian {w}dogs?
+You {w}should {w}be {w}ashamed {w}to {w}call {w}yourselves {w}Lodissian!",132,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Derrotados por un puñado de perros valerienses?
+¡Debería darles vergüenza llamarse lodisianos!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_104.emes,EMES,0,,328,54,"{np}Interlopers!
+You'll {w}pay {w}for {w}this {w}intrusion {w}with {w}your {w}lives!{pp}I'll {w}deal {w}with {w}you {w}later, {w}Holy {w}Knight.",144,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Intrusos!
+¡Pagarán esta intromisión con sus vidas!{pp}Más tarde me ocuparé de ustedes, Caballero Sagrado.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_105.emes,EMES,0,,329,54,"{np}Interlopers!
+You'll {w}pay {w}for {w}this {w}intrusion {w}with {w}your {w}lives!{pp}I'll {w}deal {w}with {w}you {w}later, {w}Holy {w}Knight.",144,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Intrusos!
+¡Pagarán esta intromisión con sus vidas!{pp}Más tarde me ocuparé de ustedes, Caballero Sagrado.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_106.emes,EMES,0,,330,255,"{np}We're {w}coming, {w}Lanselot!",33,{np} | {w} | {w},"{np}¡Ya vamos, Lanselot!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_106.emes,EMES,1,,331,4,"{np}No, {w}{hero}.
+I {w}can {w}handle {w}Barbas.{pp}It's {w}these {w}other {w}Dark {w}Knights {w}who {w}need {w}meet {w}their {w}mortality. {w}See {w}what {w}you {w}can {w}do {w}about {w}them.",192,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No, {hero}.
+Puedo encargarme de Barbas.{pp}Son los demás Caballeros Oscuros quienes deben encontrar la muerte. Haz lo que puedas con ellos.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_106.emes,EMES,2,,332,255,{np}Leave {w}them {w}to {w}me!,30,{np} | {w} | {w} | {w},{np}¡Déjenmelos a mí!,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_106.emes,EMES,3,,333,4,{np}Be {w}careful.,18,{np} | {w},{np}Ten cuidado.,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_106.emes,EMES,4,,334,255,{np}Good {w}advice {w}for {w}us {w}both!,40,{np} | {w} | {w} | {w} | {w},{np}¡Un buen consejo para los dos!,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_107.emes,EMES,0,,335,54,{np}Perhaps {w}I {w}am {w}too {w}long {w}away {w}from {w}the {w}front {w}lines {w}after {w}all.{pp}No...there's {w}something {w}different {w}about {w}these {w}warriors. {w}I {w}feel {w}it {w}in {w}my {w}bones.{pp}This {w}is {w}not {w}the {w}rank {w}and {w}file {w}of {w}Almorica {w}that {w}stands {w}before {w}me.,313,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Quizá haya pasado demasiado tiempo lejos del frente.{pp}No... hay algo distinto en estos guerreros. Lo siento en los huesos.{pp}Las tropas que tengo delante no son la soldadesca habitual de Almorica.,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_107.emes,EMES,1,,336,2,{np}It's {w}not {w}like {w}you {w}Dark {w}Knights {w}to {w}show {w}weakness.,76,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No es propio de ustedes, Caballeros Oscuros, mostrar debilidad.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_107.emes,EMES,2,,337,54,"{np}Ha {w}ha {w}ha!
+Weakness? {w}No...{pp}It's {w}all {w}too {w}seldom {w}that {w}I {w}find {w}a {w}worthy {w}foe {w}on {w}these {w}cursed {w}shores. {w}I {w}welcome {w}a {w}challenge!",184,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Ja, ja, ja!
+¿Debilidad? No...{pp}Rara vez encuentro un rival digno en estas costas malditas. ¡Me encantan los desafíos!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_107.emes,EMES,3,,338,2,{np}Careful {w}what {w}you {w}wish {w}for!,42,{np} | {w} | {w} | {w} | {w},{np}¡Ten cuidado con lo que deseas!,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_108.emes,EMES,0,,339,3,{np}Are {w}you {w}unharmed?,27,{np} | {w} | {w},{np}¿Estás ileso?,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_108.emes,EMES,1,,340,4,"{np}A {w}few {w}scratches, {w}Catiua, {w}but {w}the {w}corpse {w}collectors {w}will {w}have {w}to {w}wait {w}another {w}day.",124,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Solo unos rasguños, Catiua, pero los carroñeros tendrán que esperar un día más.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_108.emes,EMES,2,,341,3,"{np}You {w}came {w}to {w}our {w}aid, {w}once.
+I {w}am {w}glad {w}we {w}were {w}able {w}to {w}repay {w}the {w}debt.",114,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Una vez vinieron en nuestra ayuda.
+Me alegra que hayamos podido saldar la deuda.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_108.emes,EMES,3,,342,4,{np}You {w}owed {w}me {w}no {w}debt―but {w}we {w}can {w}quibble {w}over {w}that {w}later.{pp}Our {w}enemy {w}waits!,115,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}No me debían nada, pero podemos discutirlo más tarde.{pp}¡Nuestro enemigo nos espera!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_109.emes,EMES,0,,343,54,"{np}Ozma?
+I {w}thought {w}you {w}leagues {w}from {w}here.",57,{np} | {w} | {w} | {w} | {w} | {w},"{np}¿Ozma?
+Creí que estabas muy lejos de aquí.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_109.emes,EMES,1,,344,57,"{np}Lanselot {w}was {w}a {w}fool {w}to {w}entrust {w}command {w}to {w}you: {w}a {w}simple {w}beast, {w}consumed {w}with {w}insatiable {w}bloodlust.{pp}There {w}is {w}no {w}leash {w}can {w}chain {w}a {w}dog {w}gone {w}rabid.",223,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Lanselot fue un necio al confiarte el mando: no eres más que una bestia, consumida por una sed de sangre insaciable.{pp}No hay cadena capaz de sujetar a un perro rabioso.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_109.emes,EMES,2,,345,54,"{np}What {w}are {w}you {w}on {w}about?{pp}Stay {w}out {w}of {w}my {w}way, {w}woman.",83,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿De qué estás hablando?{pp}No te metas en mi camino, mujer.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_109.emes,EMES,3,,346,57,"{np}No, {w}Barbas.
+Your {w}madness {w}must {w}end {w}here!",58,{np} | {w} | {w} | {w} | {w} | {w},"{np}No, Barbas.
+¡Tu locura termina aquí!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_109.emes,EMES,4,,347,54,"{np}You {w}have {w}more {w}fire {w}than {w}I {w}would {w}have {w}credited {w}you, {w}Ozma! {w}When {w}the {w}Holy {w}Knight {w}falls, {w}I'll {w}carve {w}you {w}next!",166,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Tienes más fuego del que te habría atribuido, Ozma! Cuando caiga el Caballero Sagrado, iré por ti.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_110.emes,EMES,0,,348,5,"{np}Are {w}you {w}all {w}right, {w}Lanselot?",44,{np} | {w} | {w} | {w} | {w},"{np}¿Estás bien, Lanselot?",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_110.emes,EMES,1,,349,4,"{np}A {w}few {w}scratches, {w}but {w}nothing {w}grave.",54,{np} | {w} | {w} | {w} | {w} | {w},"{np}Solo unos rasguños, nada grave.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_110.emes,EMES,2,,350,5,{np}Your {w}friends {w}have {w}rallied {w}to {w}you.{pp}Together {w}there's {w}naught {w}we {w}can't {w}do.,107,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Tus amigos se han reunido contigo.{pp}Juntos no hay nada que no podamos hacer.,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_111.emes,EMES,0,,351,6,"{np}You {w}didn't {w}think {w}we'd {w}forgotten {w}you, {w}did {w}you?",70,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}¿De verdad creías que nos habíamos olvidado de ti?,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_111.emes,EMES,1,,352,4,"{np}You're {w}a {w}sight {w}for {w}sore {w}eyes, {w}Canopus.",60,{np} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Qué gusto verte, Canopus!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_111.emes,EMES,2,,353,6,"{np}Always {w}am.
+But {w}that's {w}all {w}right, {w}I'm {w}used {w}to {w}it.{pp}What's {w}the {w}single {w}combat {w}foolishness, {w}eh?{pp}If {w}you {w}must {w}choose {w}between {w}life {w}and {w}honor, {w}choose {w}life.",222,{np} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Siempre lo he sido.
+Pero no importa, ya estoy acostumbrado.{pp}¿Qué es esa tontería de los combates individuales, eh?{pp}Si tienes que elegir entre la vida y el honor, elige la vida.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_111.emes,EMES,3,,354,54,"{np}This {w}one's {w}feathers {w}are {w}yet {w}in {w}blood.
+What {w}does {w}he {w}know {w}of {w}honor?",102,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Aún tiene sangre en las plumas.
+¿Qué sabe él del honor?",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_111.emes,EMES,4,,355,6,{np}Never {w}mind {w}my {w}feathers!,36,{np} | {w} | {w} | {w},{np}¡Olvídate de mis plumas!,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_112.emes,EMES,0,,356,7,"{np}Are {w}you {w}unharmed, {w}Captain?{pp}Pray {w}withdraw.
+Leave {w}this {w}rabble {w}to {w}us!",97,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¿Está ileso, capitán? Por favor, retírese.
+¡Deje esta chusma en nuestras manos!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_112.emes,EMES,1,,357,4,"{np}I {w}still {w}have {w}some {w}fight {w}in {w}me, {w}Mirdyn.",63,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Todavía me queda pelea, Mirdyn.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_112.emes,EMES,3,,359,4,"{np}If {w}I {w}sense {w}the {w}danger {w}is {w}grown {w}too {w}great, {w}I {w}will {w}sheathe {w}my {w}sword.",109,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Si percibo que el peligro se vuelve demasiado grande, envainaré mi espada.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_112.emes,EMES,4,,360,7,"{np}Thank {w}you, {w}sir.
+We {w}can {w}ill {w}afford {w}to {w}lose {w}you.",74,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Gracias, señor.
+No podemos darnos el lujo de perderlo.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_113.emes,EMES,0,,368,4,{np}So {w}this {w}is {w}to {w}be...my {w}final {w}place {w}of {w}rest. {w}Forgive {w}me...my {w}lord...,103,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},{np}Así que este será... mi último lugar de descanso. Perdóneme... mi señor...,,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_113.emes,EMES,2,,370,255,"{np}Lanselot!
+Why {w}did {w}I {w}come {w}here {w}if {w}not {w}to {w}help―{pp}Lanselot!!!",88,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Lanselot!
+¿Para qué vine aquí, si no era para ayudar...―{pp}¡Lanselot!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_114.emes,EMES,1,,372,255,"{np}Lanselot, {w}are {w}you {w}all {w}right?",44,{np} | {w} | {w} | {w} | {w},"{np}¿Estás bien, Lanselot?",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_114.emes,EMES,2,,373,4,"{np}I {w}am {w}as {w}I {w}appear, {w}and {w}no {w}more. {w}Thank {w}you, {w}{hero}. {w}I {w}would {w}not {w}have {w}survived {w}without {w}your {w}help.{pp}Perhaps {w}I {w}have {w}overestimated {w}my {w}skill.",209,{hero} | {np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Estoy tal como me ves, ni más ni menos. Gracias, {hero}. No habría sobrevivido sin tu ayuda.{pp}Quizá sobrestimé mi habilidad.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_114.emes,EMES,3,,374,255,"{np}We {w}should {w}leave {w}as {w}swiftly {w}as {w}we {w}can.
+They'll {w}be {w}back, {w}driving {w}the {w}Bakram {w}army {w}before {w}them.",140,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Deberíamos marcharnos cuanto antes.
+Volverán, con el ejército bakram siguiéndolos.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_114.emes,EMES,4,,375,4,"{np}You {w}have {w}the {w}right {w}of {w}it.{pp}I {w}thought {w}it {w}took {w}long {w}years {w}to {w}make {w}a {w}true {w}leader {w}of {w}men, {w}but {w}by {w}the {w}look {w}of {w}your {w}eyes, {w}I {w}see {w}that {w}I {w}was {w}wrong.",235,{np} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Tienes razón.{pp}Creía que hacían falta muchos años para convertir a un hombre en un verdadero líder, pero al ver tus ojos, comprendo que me equivocaba.",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_198.emes,EMES,0,,366,255,"{np}Sister, {w}you {w}cannot {w}die {w}here!
+You {w}must {w}get {w}to {w}safety!",80,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}¡Hermana, no puedes morir aquí!
+¡Tienes que ponerte a salvo!",,,
+event/scene/chapter_dlc/DLC_ST_070/scene_DLC_198.emes,EMES,1,,367,3,"{np}All {w}right, {w}{hero}. {w}All {w}right.",45,{hero} | {np} | {w} | {w} | {w} | {w},"{np}Está bien, {hero}. Está bien.",,,
