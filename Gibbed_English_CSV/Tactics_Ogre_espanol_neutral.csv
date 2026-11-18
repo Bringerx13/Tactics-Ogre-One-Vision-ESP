@@ -15804,8 +15804,8 @@ menu/menu_data/7.xlc,XLC,209,0,,,{span 02 5001 07 08}Skills,26,{span 02 5001 07 
 menu/menu_data/7.xlc,XLC,210,0,,,{span 02 8001 0a 08}Condition,29,{span 02 8001 0a 08},Condición
 menu/menu_data/7.xlc,XLC,212,0,,,{span 02 7801 09 08}End Turn,28,{span 02 7801 09 08},Finalizar Turno
 menu/menu_data/7.xlc,XLC,213,0,,,{span 02 c201 11 08}Return to Battle,36,{span 02 c201 11 08},Volver al Combate
-menu/menu_data/7.xlc,XLC,214,0,,,{span 02 a401 0d 08}Melee Attack,32,{span 02 a401 0d 08},Ataque Cuerpo a Cuerpo
-menu/menu_data/7.xlc,XLC,215,0,,,{span 02 b401 0e 08}Ranged Attack,33,{span 02 b401 0e 08},Ataque a Distancia
+menu/menu_data/7.xlc,XLC,214,0,,,{span 02 a401 0d 08}Melee Attack,32,{span 02 a401 0d 08},Cuerpo a Cuerpo
+menu/menu_data/7.xlc,XLC,215,0,,,{span 02 b401 0e 08}Ranged Attack,33,{span 02 b401 0e 08},A Distancia
 menu/menu_data/7.xlc,XLC,216,0,,,{span 02 7a01 0a 08}Air Magic,29,{span 02 7a01 0a 08},Magia de Aire
 menu/menu_data/7.xlc,XLC,217,0,,,{span 02 9401 0c 08}Earth Magic,31,{span 02 9401 0c 08},Magia de Tierra
 menu/menu_data/7.xlc,XLC,218,0,,,{span 02 ba01 10 08}Lightning Magic,35,{span 02 ba01 10 08},Magia de Rayo
@@ -15843,9 +15843,9 @@ menu/menu_data/7.xlc,XLC,250,0,,,{span 02 8a01 09 08}{c010A}{c010B}Caster,40,{c0
 menu/menu_data/7.xlc,XLC,251,0,,,{span 02 8201 09 08}{c010A}{c010B}Healer,40,{c010A} | {c010B} | {span 02 8201 09 08},{c010A}{c010B}Sanador
 menu/menu_data/7.xlc,XLC,252,0,,,{span 02 5e01 07 08}Arcana,26,{span 02 5e01 07 08},Arcanos
 menu/menu_data/7.xlc,XLC,253,0,,,{span 02 ce01 11 08}Wheel of Fortune,36,{span 02 ce01 11 08},La Rueda de la Fortuna
-menu/menu_data/7.xlc,XLC,254,0,,,{span 02 6401 08 08}Tidings,27,{span 02 6401 08 08},Noticias
-menu/menu_data/7.xlc,XLC,255,0,,,{span 02 4401 05 08}Talk,24,{span 02 4401 05 08},Hablar
-menu/menu_data/7.xlc,XLC,256,0,,,{span 02 5a01 07 08}People,26,{span 02 5a01 07 08},Personajes
+menu/menu_data/7.xlc,XLC,254,0,,,{span 02 6401 08 08}Tidings,27,{span 02 6401 08 08},Sucesos
+menu/menu_data/7.xlc,XLC,255,0,,,{span 02 4401 05 08}Talk,24,{span 02 4401 05 08},Noticias
+menu/menu_data/7.xlc,XLC,256,0,,,{span 02 5a01 07 08}People,26,{span 02 5a01 07 08},Personas
 menu/menu_data/7.xlc,XLC,257,0,,,{span 02 a201 0c 08}Chaos Frame,31,{span 02 a201 0c 08},Marco del Caos
 menu/menu_data/7.xlc,XLC,258,0,,,{span 02 5401 07 08}Titles,26,{span 02 5401 07 08},Títulos
 menu/menu_data/7.xlc,XLC,259,0,,,{span 02 5001 06 08}Music,25,{span 02 5001 06 08},Música
@@ -16161,14 +16161,14 @@ menu/menu_data/8.xlc,XLC,74,0,,,{span 02 5801 06 08}PRICE,25,{span 02 5801 06 08
 menu/menu_data/8.xlc,XLC,75,0,,,{span 02 4c01 05 08}Qty.,24,{span 02 4c01 05 08},Cant.
 menu/menu_data/8.xlc,XLC,76,0,,,{span 02 4c01 05 08}Qty.,24,{span 02 4c01 05 08},Cant.
 menu/menu_data/8.xlc,XLC,77,0,,,{span 02 4c01 05 08}Qty.,24,{span 02 4c01 05 08},Cant.
-menu/menu_data/8.xlc,XLC,78,0,,,{span 02 ca01 0e 08}NEW ID NUMBER,33,{span 02 ca01 0e 08},NUEVO NÚMERO DE IDENTIFICACIÓN
+menu/menu_data/8.xlc,XLC,78,0,,,{span 02 ca01 0e 08}NEW ID NUMBER,33,{span 02 ca01 0e 08},NUEVO NÚMERO DE ID
 menu/menu_data/8.xlc,XLC,90,0,,,{span 02 6601 07 08}RECIPE,26,{span 02 6601 07 08},RECETA
 menu/menu_data/8.xlc,XLC,91,0,,,{span 02 aa01 0c 08}INGREDIENTS,31,{span 02 aa01 0c 08},INGREDIENTES
-menu/menu_data/8.xlc,XLC,92,0,,,{span 02 e801 13 08}   Current/Maximum,38,{span 02 e801 13 08},Actual/Máximo
+menu/menu_data/8.xlc,XLC,92,0,,,{span 02 e801 13 08}   Current/Maximum,38,{span 02 e801 13 08},   Actual/Máximo
 menu/menu_data/8.xlc,XLC,93,0,,,{span 02 4601 05 08}ITEM,24,{span 02 4601 05 08},OBJETO
 menu/menu_data/8.xlc,XLC,94,0,,,{span 02 7601 07 08}AMOUNT,26,{span 02 7601 07 08},CANTIDAD
 menu/menu_data/8.xlc,XLC,95,0,,,{span 02 4c01 05 08}Day,24,{span 02 4c01 05 08},Día
-menu/menu_data/8.xlc,XLC,96,0,,,{span 02 4001 05 08} of,24,{span 02 4001 05 08},de
+menu/menu_data/8.xlc,XLC,96,0,,,{span 02 4001 05 08} of,24,{span 02 4001 05 08}, de
 menu/menu_data/8.xlc,XLC,97,0,,,{span 02 7a01 09 08}Godscale,28,{span 02 7a01 09 08},Deidraco
 menu/menu_data/8.xlc,XLC,98,0,,,{span 02 8601 0b 08}Earthscale,30,{span 02 8601 0b 08},Terradraco
 menu/menu_data/8.xlc,XLC,99,0,,,{span 02 8c01 0b 08}Waterscale,30,{span 02 8c01 0b 08},Hidrodraco
@@ -19125,7 +19125,7 @@ WarrenReport/WarrenReport/menu_text.xlc,XLC,107,0,,,{span 02 3201 03 08}No,22,{s
 WarrenReport/WarrenReport/menu_text.xlc,XLC,108,0,,,{span 04 fe01 2a 08}The Chaos Frame command is now available.,61,{span 04 fe01 2a 08},La opción «Chaos Frame» ya está disponible.
 WarrenReport/WarrenReport/menu_text.xlc,XLC,109,0,,,{span 04 ae01 25 08}The Titles command is now available.,56,{span 04 ae01 25 08},La opción «Títulos» ya está disponible.
 WarrenReport/WarrenReport/menu_text.xlc,XLC,110,0,,,{span 04 aa01 24 08}The Music command is now available.,55,{span 04 aa01 24 08},La opción «Música» ya está disponible.
-WarrenReport/WarrenReport/menu_text.xlc,XLC,111,0,,,{span 03 0241 01 08 020230303031}{FF 84 01ff01},47,{FF 84 01ff01} | {span 03 0241 01 08 020230303031},
+WarrenReport/WarrenReport/menu_text.xlc,XLC,111,0,,,{span 03 0241 01 08 020230303031}{FF 84 01ff01},47,{FF 84 01ff01} | {span 03 0241 01 08 020230303031},{FF 84 01ff01}
 WarrenReport/WarrenReport/menu_text.xlc,XLC,112,0,,,{span 02 3e01 04 08}???,23,{span 02 3e01 04 08},
 WarrenReport/WarrenReport/menu_text.xlc,XLC,113,0,,,{span 02 5401 06 08}TITLE,25,{span 02 5401 06 08},TÍTULO
 WarrenReport/WarrenReport/menu_text.xlc,XLC,114,0,,,{span 02 5401 05 08}NAME,24,{span 02 5401 05 08},NOMBRE
@@ -19148,7 +19148,7 @@ WarrenReport/WarrenReport/music_text.xlc,XLC,14,4,,,{span 02 a401 0d 08}On the M
 WarrenReport/WarrenReport/music_text.xlc,XLC,15,4,,,{span 02 9801 0d 08}Avilla Hanya,32,{span 02 9801 0d 08},Avilla Hanya
 WarrenReport/WarrenReport/music_text.xlc,XLC,16,4,,,{span 02 c201 11 08}Fortune Teller 2,36,{span 02 c201 11 08},Adivino 2
 WarrenReport/WarrenReport/music_text.xlc,XLC,17,4,,,{span 02 c401 0f 08}Blessed Memory,34,{span 02 c401 0f 08},Recuerdo bendito
-WarrenReport/WarrenReport/music_text.xlc,XLC,18,4,,,{span 02 8201 0a 08}Vendetta!,29,{span 02 8201 0a 08},!¡Venganza
+WarrenReport/WarrenReport/music_text.xlc,XLC,18,4,,,{span 02 8201 0a 08}Vendetta!,29,{span 02 8201 0a 08},¡Venganza!
 WarrenReport/WarrenReport/music_text.xlc,XLC,19,4,,,{span 02 9801 0c 08}Three Kings,31,{span 02 9801 0c 08},Los tres reyes
 WarrenReport/WarrenReport/music_text.xlc,XLC,20,4,,,{span 02 8001 0b 08}Limitation,30,{span 02 8001 0b 08},Límite
 WarrenReport/WarrenReport/music_text.xlc,XLC,21,4,,,{span 02 d201 11 08}The Dark Knights,36,{span 02 d201 11 08},Los Caballeros Oscuros
@@ -19263,16 +19263,16 @@ WarrenReport/WarrenReport/music_text.xlc,XLC,64,12,,,"{span 20 a406 2b 08}Compos
 WarrenReport/WarrenReport/music_text.xlc,XLC,66,12,,,"{span 14 3e04 18 08}Composer: Masaharu Iwata / Arranger: Masaharu Iwata  Iuria's Song (0:33)  ""For Iuria's song we wanted to create a song that a person free of all constraints would sing. This is how I see the winged folk."" (Iwata)",232,{span 14 3e04 18 08},Compositor: Masaharu Iwata / Arreglista: Masaharu Iwata Canción de Iuria (0:33) «Para la canción de Iuria queríamos crear una melodía que pudiera cantar alguien libre de toda atadura. Así es como concibo al pueblo alado». (Iwata)
 WarrenReport/WarrenReport/music_text.xlc,XLC,67,12,,,"{span 16 e204 36 08}Composer: Masaharu Iwata / Arranger: Yoshimi Kudo  New Music Box 4 (1:34)  ""Using the melody of the music box that appears during the story, we switched over the harmony to create a piece that conveys hopelessness and a sense of loss."" (Kudo)",262,{span 16 e204 36 08},Compositor: Masaharu Iwata / Arreglista: Yoshimi Kudo Nueva caja de música 4 (1:34) «Tomamos la melodía de la caja de música que aparece durante la historia y cambiamos la armonía para crear una pieza que transmite desesperanza y una profunda sensación de pérdida». (Kudo)
 WarrenReport/WarrenReport/people.xlc,XLC,0,12,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-WarrenReport/WarrenReport/people.xlc,XLC,1,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,2,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,3,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,4,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,5,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,6,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,7,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,8,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,9,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
-WarrenReport/WarrenReport/people.xlc,XLC,10,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},{hero}
+WarrenReport/WarrenReport/people.xlc,XLC,1,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,2,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,3,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,4,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,5,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,6,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,7,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,8,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,9,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
+WarrenReport/WarrenReport/people.xlc,XLC,10,12,,,{span 03 0241 01 08 020230313030}{hero},39,{hero} | {span 03 0241 01 08 020230313030},
 WarrenReport/WarrenReport/people.xlc,XLC,16,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},Vyce
 WarrenReport/WarrenReport/people.xlc,XLC,17,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},Vyce
 WarrenReport/WarrenReport/people.xlc,XLC,18,12,,,{span 02 4a01 05 08}Vyce,24,{span 02 4a01 05 08},Vyce
@@ -22694,8 +22694,8 @@ WarrenReport/WarrenReportText/1.xlc,XLC,26,12,,,"{span 0d 6c43 32 28 0c6c3031303
 {bF7}{bF8}{bF9}{bFA}  Arycelle
 
 At Tynemouth {hero} finds not Lanselot but Vyce lying in wait. Vyce seeks to eliminate those who know the truth of the massacre.",266,{bEF} | {bF0} | {bF1} | {bF2} | {bF3} | {bF4} | {bF5} | {bF6} | {bF7} | {bF8} | {bF9} | {bFA} | {hero} | {span 0d 6c43 32 28 0c6c30313030},"{bEF}{bF0}{bF1}{bF2} La Resistencia walister
-{bF3}{bF4}{bF5}{bF6} Vyce
-{bF7}{bF8}{bF9}{bFA} Arycelle
+{bF3}{bF4}{bF5}{bF6}  Vyce
+{bF7}{bF8}{bF9}{bFA}  Arycelle
 
 En Tynemouth, {hero} encuentra a Vyce esperándolo, en lugar de Lanselot. Vyce pretende eliminar a quienes conocen la verdad sobre la masacre."
 WarrenReport/WarrenReportText/1.xlc,XLC,27,12,,,"{span 0d 6c43 24 20 0c6c30313030}{bEF}{bF0}{bF1}{bF2}  The Walister Resistance
