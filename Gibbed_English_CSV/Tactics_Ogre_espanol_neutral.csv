@@ -5951,7 +5951,7 @@ event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_67.emes,EMES,0,,331,255,"{np}If 
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_68.emes,EMES,0,,332,255,"{np}We {w}will {w}decide {w}this, {w}but {w}not {w}alone. {w}This {w}war {w}is {w}much {w}bigger {w}than {w}us.",111,{np} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Nosotros decidiremos esto, pero no solos. Esta guerra es mucho más grande que nosotros."
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_68.emes,EMES,1,,333,32,{np}So {w}it {w}is.,19,{np} | {w} | {w},{np}Así es.
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_69.emes,EMES,0,,334,32,{np}En {w}garde!,16,{np} | {w},{np}¡En guardia!
-event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_70.emes,EMES,0,,335,32,"{np}Judgment's {w}hour {w}is {w}at {w}hand, {w}{hero}!",54,{hero} | {np} | {w} | {w} | {w} | {w} | {w},"{np}}¡Ha llegado la hora del juicio, {hero}!"
+event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_70.emes,EMES,0,,335,32,"{np}Judgment's {w}hour {w}is {w}at {w}hand, {w}{hero}!",54,{hero} | {np} | {w} | {w} | {w} | {w} | {w},"{np}¡Ha llegado la hora del juicio, {hero}!"
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_71.emes,EMES,0,,336,255,"{np}I {w}never {w}wanted {w}this, {w}Leonar.",44,{np} | {w} | {w} | {w} | {w},"{np}Nunca quise que esto pasara, Leonar."
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_71.emes,EMES,1,,337,32,"{np}Nor {w}did {w}I, {w}{hero}. {w}But {w}it {w}is {w}a {w}fitting {w}end {w}all {w}the {w}same.{pp}However {w}close, {w}however {w}alike, {w}we {w}were {w}never {w}meant {w}to {w}tread {w}the {w}same {w}path.{pp}It {w}is {w}not {w}our {w}cause {w}that {w}separates {w}us, {w}but {w}our {w}means.{pp}Only {w}one {w}of {w}us {w}can {w}see {w}this {w}through {w}to {w}the {w}end. {w}Only {w}one!",393,{hero} | {np} | {pp} | {pp} | {pp} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w} | {w},"{np}Yo tampoco, {hero}. Pero, aun así, es un final apropiado.{pp}Por muy unidos o parecidos que hayamos sido, nunca estuvimos destinados a seguir el mismo camino.{pp}No es nuestra causa lo que nos separa, sino los medios que elegimos.{pp}Solo uno de nosotros puede llevar esto hasta el final. ¡Solo uno!"
 event/scene/chapter_3/chaos/C3b_ST_250/scene_3b_71.emes,EMES,2,,338,255,"{np}Then {w}I {w}have {w}no {w}choice...
@@ -14655,7 +14655,7 @@ menu/menu_data/18.xlc,XLC,26,0,,,{span 02 a001 0c 08}Face Caster,31,{span 02 a00
 menu/menu_data/18.xlc,XLC,27,0,,,{span 02 8a01 0a 08}Knockback,29,{span 02 8a01 0a 08},{span 02 8a01 0a 08}Empujar
 menu/menu_data/18.xlc,XLC,28,0,,,{span 02 7201 09 08}Meditate,28,{span 02 7201 09 08},{span 02 7201 09 08}Meditar
 menu/menu_data/18.xlc,XLC,29,0,,,{span 02 6601 08 08}Recruit,27,{span 02 6601 08 08},{span 02 6601 08 08}Reclutar
-menu/menu_data/18.xlc,XLC,30,0,,,{span 02 d601 11 08}Convert TP to HP,36,{span 02 d601 11 08},{span 02 d601 11 08}Convertir TP en HP
+menu/menu_data/18.xlc,XLC,30,0,,,{span 02 d601 11 08}Convert TP to HP,36,{span 02 d601 11 08},{span 02 d601 11 08}Convertir TP en PS
 menu/menu_data/18.xlc,XLC,31,0,,,{span 02 d801 11 08}Convert TP to MP,36,{span 02 d801 11 08},{span 02 d801 11 08}Convertir TP en PM
 menu/menu_data/18.xlc,XLC,32,0,,,{span 02 9601 0c 08}Spendthrift,31,{span 02 9601 0c 08},{span 02 9601 0c 08}Derrochador
 menu/menu_data/18.xlc,XLC,33,0,,,{span 02 c801 0f 08}Rampart Shadow,34,{span 02 c801 0f 08},{span 02 c801 0f 08}Sombra de Baluarte
@@ -15362,7 +15362,7 @@ menu/menu_data/5.xlc,XLC,24,4,,,{span 04 4401 1c 08}No finishing moves learned.,
 menu/menu_data/5.xlc,XLC,25,4,,,{span 06 c801 3e 08}Finishing moves require an appropriate weapon to be equipped.,81,{span 06 c801 3e 08},{span 06 c801 3e 08}Debes equipar un arma adecuada para utilizar Artes Supremas.
 menu/menu_data/5.xlc,XLC,26,4,,,{span 04 3c01 1b 08}Level requirement not met.,46,{span 04 3c01 1b 08},{span 04 3c01 1b 08}No se cumple el requisito de nivel.
 menu/menu_data/5.xlc,XLC,27,4,,,{span 04 ba01 29 08}The unit has already learned this skill.,60,{span 04 ba01 29 08},{span 04 ba01 29 08}La unidad ya ha aprendido esta habilidad.
-menu/menu_data/5.xlc,XLC,28,4,,,{span 04 b001 27 08}Units with 0 life cannot change class.,58,{span 04 b001 27 08},{span 04 b001 27 08}Las unidades con 0 HP no pueden cambiar de clase.
+menu/menu_data/5.xlc,XLC,28,4,,,{span 04 b001 27 08}Units with 0 life cannot change class.,58,{span 04 b001 27 08},{span 04 b001 27 08}Las unidades con 0 PS no pueden cambiar de clase.
 menu/menu_data/5.xlc,XLC,29,4,,,{span 04 8a01 22 08}Zombie units cannot change class.,53,{span 04 8a01 22 08},{span 04 8a01 22 08}Las unidades zombi no pueden cambiar de clase.
 menu/menu_data/5.xlc,XLC,30,4,,,{span 04 3c01 1c 08}No other classes available.,47,{span 04 3c01 1c 08},{span 04 3c01 1c 08}No hay otras clases disponibles.
 menu/menu_data/5.xlc,XLC,31,4,,,{span 02 b401 0e 08}No equipment.,33,{span 02 b401 0e 08},{span 02 b401 0e 08}Sin equipo.
@@ -15718,7 +15718,7 @@ menu/menu_data/7.xlc,XLC,59,0,,,{span 02 5401 07 08}Fusils,26,{span 02 5401 07 0
 menu/menu_data/7.xlc,XLC,60,0,,,{span 02 6401 07 08}Thrown,26,{span 02 6401 07 08},{span 02 6401 07 08}Arrojadizas
 menu/menu_data/7.xlc,XLC,61,0,,,{span 02 6401 08 08}Shields,27,{span 02 6401 08 08},{span 02 6401 08 08}Escudos
 menu/menu_data/7.xlc,XLC,62,0,,,{span 02 5601 06 08}Helms,25,{span 02 5601 06 08},{span 02 5601 06 08}Cascos
-menu/menu_data/7.xlc,XLC,63,0,,,{span 02 9c01 0b 08}Body Armor,30,{span 02 9c01 0b 08},{span 02 9c01 0b 08}Armadura de torso
+menu/menu_data/7.xlc,XLC,63,0,,,{span 02 9c01 0b 08}Body Armor,30,{span 02 9c01 0b 08},{span 02 9c01 0b 08}Torso
 menu/menu_data/7.xlc,XLC,64,0,,,{span 02 8801 0a 08}Armguards,29,{span 02 8801 0a 08},{span 02 8801 0a 08}Brazales
 menu/menu_data/7.xlc,XLC,65,0,,,{span 02 6001 07 08}Gloves,26,{span 02 6001 07 08},{span 02 6001 07 08}Guantes
 menu/menu_data/7.xlc,XLC,66,0,,,{span 02 8601 0a 08}Legguards,29,{span 02 8601 0a 08},{span 02 8601 0a 08}Grebas
@@ -16136,7 +16136,7 @@ menu/menu_data/8.xlc,XLC,29,0,,,{span 02 5001 06 08}Float,25,{span 02 5001 06 08
 menu/menu_data/8.xlc,XLC,30,0,,,{span 02 6201 06 08}RANGE,25,{span 02 6201 06 08},{span 02 6201 06 08}ALCANCE
 menu/menu_data/8.xlc,XLC,31,0,,,{span 02 6801 07 08}RADIUS,26,{span 02 6801 07 08},{span 02 6801 07 08}RADIO
 menu/menu_data/8.xlc,XLC,32,0,,,{span 02 3001 03 08}RT,22,{span 02 3001 03 08},{span 02 3001 03 08}TE
-menu/menu_data/8.xlc,XLC,33,0,,,{span 02 a801 0c 08}SKILL BONUS,31,{span 02 a801 0c 08},{span 02 a801 0c 08}BONIFICACIÓN DE HABILIDAD
+menu/menu_data/8.xlc,XLC,33,0,,,{span 02 a801 0c 08}SKILL BONUS,31,{span 02 a801 0c 08},{span 02 a801 0c 08}BONIFICACIÓN
 menu/menu_data/8.xlc,XLC,34,0,,,{span 02 6201 07 08}ON HIT,26,{span 02 6201 07 08},{span 02 6201 07 08}AL IPMACTAR
 menu/menu_data/8.xlc,XLC,35,0,,,{span 02 c401 0e 08}DEBUFF RESIST,33,{span 02 c401 0e 08},{span 02 c401 0e 08}RESISTE MERMA
 menu/menu_data/8.xlc,XLC,36,0,,,{span 02 6c01 07 08}EFFECT,26,{span 02 6c01 07 08},{span 02 6c01 07 08}EFECTO
@@ -16279,7 +16279,7 @@ menu/menu_data/8.xlc,XLC,213,0,,,{span 04 1001 13 08}BATTLE INFORMATION,38,{span
 menu/menu_data/8.xlc,XLC,214,0,,,{span 02 a601 0c 08}BATTLEFIELD,31,{span 02 a601 0c 08},{span 02 a601 0c 08}CAPMO DE BATALLA
 menu/menu_data/8.xlc,XLC,215,0,,,{span 02 9401 0b 08}RANK LIMIT,30,{span 02 9401 0b 08},{span 02 9401 0b 08}LÍMITE DE RANGO
 menu/menu_data/8.xlc,XLC,216,0,,,{span 02 7401 08 08}Unknown,27,{span 02 7401 08 08},{span 02 7401 08 08}Desconocido
-menu/menu_data/8.xlc,XLC,217,0,,,{span 02 da01 10 08}FIELD CONDITION,35,{span 02 da01 10 08},{span 02 da01 10 08}CONDICIÓN DEL CAPMO
+menu/menu_data/8.xlc,XLC,217,0,,,{span 02 da01 10 08}FIELD CONDITION,35,{span 02 da01 10 08},{span 02 da01 10 08}CONDICIÓN CAMPO
 menu/menu_data/8.xlc,XLC,222,0,,,{span 03 6a41 09 08 026a30303031}Max HP +{FF 84 01ff01},55,{FF 84 01ff01} | {span 03 6a41 09 08 026a30303031},{span 03 6a41 09 08 026a30303031}PS MÁX. +{FF 84 01ff01}
 menu/menu_data/8.xlc,XLC,223,0,,,{span 03 6c41 09 08 026c30303031}Max MP +{FF 84 01ff01},55,{FF 84 01ff01} | {span 03 6c41 09 08 026c30303031},{span 03 6c41 09 08 026c30303031}PM MÁX. +{FF 84 01ff01}
 menu/menu_data/8.xlc,XLC,224,0,,,{span 02 4e01 05 08}+STR,24,{span 02 4e01 05 08},{span 02 4e01 05 08}+FUE
@@ -16305,7 +16305,7 @@ menu/menu_data/8.xlc,XLC,243,0,,,{span 02 4c01 05 08}-RES,24,{span 02 4c01 05 08
 menu/menu_data/8.xlc,XLC,244,0,,,{span 03 6441 07 08 026430303031}-{FF 84 01ff01} LUCK,53,{FF 84 01ff01} | {span 03 6441 07 08 026430303031},{span 03 6441 07 08 026430303031}-{FF 84 01ff01} SUERTE
 menu/menu_data/8.xlc,XLC,245,0,,,{span 03 8a41 0a 08 028a30303031}-{FF 84 01ff01} LOYALTY,56,{FF 84 01ff01} | {span 03 8a41 0a 08 028a30303031},{span 03 8a41 0a 08 028a30303031}-{FF 84 01ff01} LEALTAD
 menu/menu_data/8.xlc,XLC,246,0,,,{span 02 aa01 0b 08}TAROT CARD,30,{span 02 aa01 0b 08},{span 02 aa01 0b 08}CARTA DEL TAROT
-menu/menu_data/8.xlc,XLC,247,0,,,{span 02 a001 0b 08}BASE STATS,30,{span 02 a001 0b 08},{span 02 a001 0b 08}ESTADÍSTICASBASE
+menu/menu_data/8.xlc,XLC,247,0,,,{span 02 a001 0b 08}BASE STATS,30,{span 02 a001 0b 08},{span 02 a001 0b 08}ESTA. BASE
 menu/menu_data/8.xlc,XLC,248,0,,,{span 02 9201 0a 08}DLC PARTY,29,{span 02 9201 0a 08},{span 02 9201 0a 08}GRUPO DLC
 menu/menu_data/8.xlc,XLC,249,0,,,{span 02 c201 0d 08}PARTY MEMBER,32,{span 02 c201 0d 08},{span 02 c201 0d 08}MIEMBRO DEL GRUPO
 menu/menu_data/8.xlc,XLC,250,0,,,{span 03 9841 0d 08 029830303031}PARTY SIZE: {FF 84 01ff01},59,{FF 84 01ff01} | {span 03 9841 0d 08 029830303031},{span 03 9841 0d 08 029830303031}TAMAÑO DEL GRUPO: {FF 84 01ff01}
@@ -17233,7 +17233,7 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,12,4,,,"{span 08 5042 22 10}Weap
 Two-handed katana are melee weapons used primarily for slashing attacks.",117,{span 08 5042 22 10},"{span 08 5042 22 10}Tipo de arma: Katana (2 manos)
 Las katanas de dos manos son armas cuerpo a cuerpo que se usan principalmente para realizar ataques cortantes."
 menu/menu_data/unit_condition_help_text.xlc,XLC,13,4,,,"{span 06 b642 11 10}Weapon Type: Cudgels
-Cudgels are melee weapons used to deliver crushing attacks.",100,{span 06 b642 11 10},"{span 06 b642 11 10}Tipo de arma: Garrotes
+Cudgels are melee weapons used to deliver crushing attacks.",100,{span 06 b642 11 10},"{span 06 b642 11 10}Tipo de arma: Bastones
 Los garrotes son armas cuerpo a cuerpo que se usan para asestar golpes contundentes."
 menu/menu_data/unit_condition_help_text.xlc,XLC,15,4,,,"{span 0a 3a42 33 10}Weapon Type: Whips
 Whips are melee weapons capable of delivering crushing attacks to targets up to two tiles away.",134,{span 0a 3a42 33 10},"{span 0a 3a42 33 10}Tipo de arma: Látigos
@@ -17266,7 +17266,7 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,24,4,,,"{span 08 8842 22 10}Armo
 Helms protect the head. Units can equip up to two pieces of armor and a shield.",117,{span 08 8842 22 10},"{span 08 8842 22 10}Tipo de armadura: Cascos
 Los cascos protegen la cabeza. Las unidades pueden equiparse con hasta dos piezas de armadura y un escudo."
 menu/menu_data/unit_condition_help_text.xlc,XLC,25,4,,,"{span 08 dc42 2e 10}Armor Type: Body Armor
-Body armor protects the torso. Units can equip up to two pieces of armor and a shield.",129,{span 08 dc42 2e 10},"{span 08 dc42 2e 10}Tipo de armadura: Armadura corporal
+Body armor protects the torso. Units can equip up to two pieces of armor and a shield.",129,{span 08 dc42 2e 10},"{span 08 dc42 2e 10}Tipo de armadura: Torso
 La armadura corporal protege el torso. Las unidades pueden equiparse con hasta dos piezas de armadura y un escudo."
 menu/menu_data/unit_condition_help_text.xlc,XLC,26,4,,,"{span 0a 6042 38 10}Armor Type: Armguards
 Armguards protect the hands and forearms. Units can equip up to two pieces of armor and a shield.",139,{span 0a 6042 38 10},"{span 0a 6042 38 10}Tipo de armadura: Brazales
@@ -17302,8 +17302,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,59,4,,,{span 06 0401 2a 08}Deals
 menu/menu_data/unit_condition_help_text.xlc,XLC,60,4,,,{span 04 e001 28 08}Deals additional damage to GOLEM units.,59,{span 04 e001 28 08},{span 04 e001 28 08}Inflige daño adicional a las unidades GOLEM.
 menu/menu_data/unit_condition_help_text.xlc,XLC,61,4,,,{span 04 4601 1c 08}Requires a reagent to cast.,47,{span 04 4601 1c 08},{span 04 4601 1c 08}Requiere un reactivo para lanzarlo.
 menu/menu_data/unit_condition_help_text.xlc,XLC,62,4,,,"{span 06 3841 36 10}HP Cost
-Consumes the indicated amount of HP when cast.",74,{span 06 3841 36 10},"{span 06 3841 36 10}Costo de HP
-Consume la cantidad de HP indicada al lanzarlo."
+Consumes the indicated amount of HP when cast.",74,{span 06 3841 36 10},"{span 06 3841 36 10}Costo de PS
+Consume la cantidad de PS indicada al lanzarlo."
 menu/menu_data/unit_condition_help_text.xlc,XLC,63,4,,,"{span 06 3a41 36 10}MP Cost
 Consumes the indicated amount of MP when cast.",74,{span 06 3a41 36 10},"{span 06 3a41 36 10}Costo de PM
 Consume la cantidad de PM indicada al lanzarlo."
@@ -17478,8 +17478,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,126,4,,,"{span 08 2042 0f 10}Lv.
 Unit class level. All units in your party of the same class share a level.",98,{span 08 2042 0f 10},"{span 08 2042 0f 10}Nv.
 Nivel de clase de la unidad. Todas las unidades de tu grupo que pertenezcan a la misma clase comparten el mismo nivel."
 menu/menu_data/unit_condition_help_text.xlc,XLC,127,4,,,"{span 04 8c41 25 10}HP
-Unit's current HP (Health Points).",57,{span 04 8c41 25 10},"{span 04 8c41 25 10}HP
-HP actual de la unidad (puntos de salud)."
+Unit's current HP (Health Points).",57,{span 04 8c41 25 10},"{span 04 8c41 25 10}PS
+PS actual de la unidad (puntos de salud)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,128,4,,,"{span 04 8641 24 10}MP
 Unit's current MP (Magic Points).",56,{span 04 8641 24 10},"{span 04 8641 24 10}PM
 PM actual de la unidad (puntos mágicos)."
@@ -17490,8 +17490,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,130,4,,,"{span 04 a241 25 10}RT
 Unit's current RT (Recovery Time).",57,{span 04 a241 25 10},"{span 04 a241 25 10}RT
 RT actual de la unidad (tiempo de recuperación)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,131,4,,,"{span 04 a241 25 10}HP
-Unit's maximum HP (Health Points).",57,{span 04 a241 25 10},"{span 04 a241 25 10}HP
-HP máximo de la unidad."
+Unit's maximum HP (Health Points).",57,{span 04 a241 25 10},"{span 04 a241 25 10}PS
+PS máximo de la unidad."
 menu/menu_data/unit_condition_help_text.xlc,XLC,132,4,,,"{span 04 9c41 24 10}MP
 Unit's maximum MP (Magic Points).",56,{span 04 9c41 24 10},"{span 04 9c41 24 10}PM
 PM máximo de la unidad."
@@ -17596,15 +17596,15 @@ Cantidad de RT que añade una pieza de equipo. Un número rojo indica que el RT 
 menu/menu_data/unit_condition_help_text.xlc,XLC,191,4,,,"{span 08 4842 12 10}RT Delay
 The amount by which an action will increase a unit's RT (Recovery Time).",101,{span 08 4842 12 10},"{span 08 4842 12 10}Retraso de RT
 Cantidad de RT que añadirá una acción al RT de una unidad (tiempo de recuperación)."
-menu/menu_data/unit_condition_help_text.xlc,XLC,192,4,,,"{span 08 b842 1f 10}ATK (Attack)
+menu/menu_data/unit_condition_help_text.xlc,XLC,192,4,,,"{span 08 b842 1f 10}ATQ (Ataque)
 The equipment's base attack power. The higher the number, the greater the damage.",114,{span 08 b842 1f 10},"{span 08 b842 1f 10}ATQ (Ataque)
 Poder de ataque base del equipo. Cuanto mayor sea el número, mayor será el daño."
-menu/menu_data/unit_condition_help_text.xlc,XLC,193,4,,,"{span 08 ec42 25 10}DEF (Defense)
+menu/menu_data/unit_condition_help_text.xlc,XLC,193,4,,,"{span 08 ec42 25 10}DEF (Defensa)
 The equipment's base defense. The higher the number, the greater the damage reduction.",120,{span 08 ec42 25 10},"{span 08 ec42 25 10}DEF (Defensa)
 Defensa base del equipo. Cuanto mayor sea el número, mayor será la reducción de daño."
 menu/menu_data/unit_condition_help_text.xlc,XLC,194,4,,,"{span 0a 7242 30 10}HP Modifier
-Amount by which a piece of equipment will raise or lower max HP. A red number indicates a decrease.",131,{span 0a 7242 30 10},"{span 0a 7242 30 10}Modificador de HP
-Cantidad en la que una pieza de equipo aumentará o reducirá el HP máximo. Un número rojo indica una disminución."
+Amount by which a piece of equipment will raise or lower max HP. A red number indicates a decrease.",131,{span 0a 7242 30 10},"{span 0a 7242 30 10}Modificador de PS
+Cantidad en la que una pieza de equipo aumentará o reducirá el PS máximo. Un número rojo indica una disminución."
 menu/menu_data/unit_condition_help_text.xlc,XLC,195,4,,,"{span 0a 7442 30 10}MP Modifier
 Amount by which a piece of equipment will raise or lower max MP. A red number indicates a decrease.",131,{span 0a 7442 30 10},"{span 0a 7442 30 10}Modificador de PM
 Cantidad en la que una pieza de equipo aumentará o reducirá el PM máximo. Un número rojo indica una disminución."
@@ -17710,8 +17710,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,238,4,,,"{span 0a b442 3b 10}RT 
 A unit's ATTACK TURN begins when its RT reaches 0. A unit can take actions and move on its attack turn.",142,{span 0a b442 3b 10},"{span 0a b442 3b 10}RT (Tiempo de recuperación)
 El TURNO DE ATAQUE de una unidad comienza cuando su RT llega a 0. Durante su turno de ataque, la unidad puede realizar acciones y moverse."
 menu/menu_data/unit_condition_help_text.xlc,XLC,239,4,,,"{span 08 4042 17 10}HP (Current/Max)
-The unit's HEALTH POINTS. If HP reaches 0, the unit is INCAPACITATED.",106,{span 08 4042 17 10},"{span 08 4042 17 10}HP (Actual/Máximo)
-PUNTOS DE SALUD de la unidad. Si el HP llega a 0, queda INCAPACITADA."
+The unit's HEALTH POINTS. If HP reaches 0, the unit is INCAPACITATED.",106,{span 08 4042 17 10},"{span 08 4042 17 10}PS (Actual/Máximo)
+PUNTOS DE SALUD de la unidad. Si el PS llega a 0, queda INCAPACITADA."
 menu/menu_data/unit_condition_help_text.xlc,XLC,240,4,,,"{span 08 aa42 22 10}MP (Current/Max)
 The unit's MAGIC POINTS. Units accumulate MP slowly over the course of a battle.",117,{span 08 aa42 22 10},"{span 08 aa42 22 10}PM (Actual/Máximo)
 PUNTOS MÁGICOS de la unidad. Las unidades acumulan PM lentamente durante la batalla."
@@ -17793,8 +17793,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,302,4,,,{span 06 8e01 3b 08}Cond
 menu/menu_data/unit_condition_help_text.xlc,XLC,303,4,,,{span 06 7601 3a 08}Displays any conditions affecting the entire battlefield.,77,{span 06 7601 3a 08},{span 06 7601 3a 08}Muestra las condiciones que afectan a todo el campo de batalla.
 menu/menu_data/unit_condition_help_text.xlc,XLC,304,4,,,"{span 12 4204 01 08}The battle can be rewound to any turn listed here using the Chariot Tarot. Note that making the same choices will result in the same outcome. To change the future, you must change the past.",209,{span 12 4204 01 08},"{span 12 4204 01 08}El Tarot del Carro permite rebobinar la batalla hasta cualquiera de los turnos que aparecen aquí. Si repites las mismas decisiones, obtendrás el mismo resultado. Para cambiar el futuro, debes cambiar el pasado."
 menu/menu_data/unit_condition_help_text.xlc,XLC,305,4,,,"{span 04 f441 3c 10}HP (Current/Max)
-Reduce an obstacle's HP to 0 to destroy it.",80,{span 04 f441 3c 10},"{span 04 f441 3c 10}HP (Actual/Máximo)
-Reduce el HP de un obstáculo a 0 para destruirlo."
+Reduce an obstacle's HP to 0 to destroy it.",80,{span 04 f441 3c 10},"{span 04 f441 3c 10}PS (Actual/Máximo)
+Reduce el PS de un obstáculo a 0 para destruirlo."
 menu/menu_data/unit_condition_help_text.xlc,XLC,309,4,,,"{span 04 d841 30 10}MP Cost
 Number of MP needed to use this ability.",68,{span 04 d841 30 10},"{span 04 d841 30 10}Costo de PM
 Cantidad de PM necesaria para usar esta habilidad."
@@ -17802,8 +17802,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,310,4,,,"{span 04 d641 30 10}TP 
 Number of TP needed to use this ability.",68,{span 04 d641 30 10},"{span 04 d641 30 10}Costo de TP
 Cantidad de TP necesaria para usar esta habilidad."
 menu/menu_data/unit_condition_help_text.xlc,XLC,311,4,,,"{span 04 d641 30 10}HP Cost
-Number of HP needed to use this ability.",68,{span 04 d641 30 10},"{span 04 d641 30 10}Costo de HP
-Cantidad de HP necesaria para usar esta habilidad."
+Number of HP needed to use this ability.",68,{span 04 d641 30 10},"{span 04 d641 30 10}Costo de PS
+Cantidad de PS necesaria para usar esta habilidad."
 menu/menu_data/unit_condition_help_text.xlc,XLC,312,4,,,"{span 04 be41 30 10}Inventory
 Number of this item held by the party.",68,{span 04 be41 30 10},"{span 04 be41 30 10}Inventario
 Cantidad de este objeto que tiene el grupo."
@@ -19095,7 +19095,7 @@ WarrenReport/WarrenReport/menu_text.xlc,XLC,67,0,,,{span 02 6601 07 08}Day(s),26
 WarrenReport/WarrenReport/menu_text.xlc,XLC,68,0,,,{span 02 2201 02 08}%,21,{span 02 2201 02 08},{span 02 2201 02 08}%
 WarrenReport/WarrenReport/menu_text.xlc,XLC,69,0,,,{span 02 5401 05 08}GOTH,24,{span 02 5401 05 08},{span 02 5401 05 08}GOTH
 WarrenReport/WarrenReport/menu_text.xlc,XLC,70,0,,,{span 02 6e01 08 08}PLAYING,27,{span 02 6e01 08 08},{span 02 6e01 08 08}EN REPRODUCCIÓN
-WarrenReport/WarrenReport/menu_text.xlc,XLC,71,0,,,{span 02 5601 04 08}―――,23,{span 02 5601 04 08},{span 02 5601 04 08}―――
+WarrenReport/WarrenReport/menu_text.xlc,XLC,71,0,,,{span 02 5601 04 08}―――,23,{span 02 5601 04 08},
 WarrenReport/WarrenReport/menu_text.xlc,XLC,83,0,,,{span 02 9401 0c 08}    Unknown,31,{span 02 9401 0c 08},{span 02 9401 0c 08}Desconocido
 WarrenReport/WarrenReport/menu_text.xlc,XLC,84,0,,,{span 02 9201 0d 08}    Walister,32,{span 02 9201 0d 08},{span 02 9201 0d 08}Walister
 WarrenReport/WarrenReport/menu_text.xlc,XLC,85,0,,,{span 02 a401 0e 08}    Galgastan,33,{span 02 a401 0e 08},{span 02 a401 0e 08}Galgastan
@@ -21851,10 +21851,10 @@ WarrenReport/WarrenReport/play_guide_basics_text.xlc,XLC,14,12,,,"{span 16 404f 
   Units withdrawn from the battlefield cannot take further actions during the current battle. However, they can take part in later battles as long as they have at least one point of life remaining.
 
 - Death -
-  Units that have no remaining life are deceased. Death is not reversible, so they will no longer be able to fight at your side. You can either Dismiss a deceased unit or Scavenge Skills to remove it from your party.",944,{span 16 404f 22 50},"Cada unidad tiene puntos de vida (HP) que representan su resistencia física{span 16 404f 22 50}. Las unidades cuyos HP llegan a 0 durante la batalla quedan incapacitadas y perderán un punto de vida si nadie las auxilia. Cuando una unidad agota todos sus puntos de vida, muere y ya no puede ser resucitada.
+  Units that have no remaining life are deceased. Death is not reversible, so they will no longer be able to fight at your side. You can either Dismiss a deceased unit or Scavenge Skills to remove it from your party.",944,{span 16 404f 22 50},"Cada unidad tiene puntos de vida (PS) que representan su resistencia física{span 16 404f 22 50}. Las unidades cuyos PS llegan a 0 durante la batalla quedan incapacitadas y perderán un punto de vida si nadie las auxilia. Cuando una unidad agota todos sus puntos de vida, muere y ya no puede ser resucitada.
 
 - Incapacitación -
- Cuando los HP de una unidad llegan a 0, aparece un contador sobre su cabeza. El contador disminuye en 1 con cada turno de ataque. Si llega a 0, la unidad pierde una vida y es retirada del campo de batalla.
+ Cuando los PS de una unidad llegan a 0, aparece un contador sobre su cabeza. El contador disminuye en 1 con cada turno de ataque. Si llega a 0, la unidad pierde una vida y es retirada del campo de batalla.
 
 - Unidades retiradas -
  Las unidades retiradas del campo de batalla no pueden realizar más acciones durante esa batalla. Sin embargo, podrán participar en batallas posteriores siempre que les quede al menos un punto de vida.
@@ -22308,8 +22308,8 @@ WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,18,12,,,"{span 10 5a4d
 - Lealtad -
  Comprueba la lealtad de la unidad enemiga. Las unidades con menor lealtad son más fáciles de reclutar. Puedes evaluar su lealtad mediante el mensaje de ayuda que aparece al seleccionar su nombre.
 
-- HP -
- Intenta reducir los HP de la unidad enemiga todo lo posible para aumentar tus posibilidades de éxito. Un buen objetivo es dejarla con una décima parte de sus HP máximos.
+- PS -
+ Intenta reducir los PS de la unidad enemiga todo lo posible para aumentar tus posibilidades de éxito. Un buen objetivo es dejarla con una décima parte de sus PS máximos.
 
 - Reclutamiento fallido -
  Cada vez que fallas al intentar reclutar una unidad, aumenta su lealtad y el siguiente intento se vuelve más difícil. Procura que el primer intento cuente."
@@ -22347,9 +22347,9 @@ WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,22,12,,,"{span 14 d247
  Cuando quieras recuperar el control manual, selecciona Manual en el menú de IA. Si los turnos de ataque de las unidades controladas por la IA se suceden, puedes interrumpir sus acciones y darles órdenes pulsando el botón {icon 4}."
 WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,23,12,,,{span 16 2204 2f 08}  Your units can step on other monster units in your party during battle. All monster units have an elevation of 3. You can use this to your advantage by bridging a gap 3 steps high and 2 tiles wide by positioning a monster unit below.,255,{span 16 2204 2f 08},"Durante la batalla{span 16 2204 2f 08}, tus unidades pueden subirse encima de otras unidades monstruosas de tu grupo. Todas las unidades monstruosas tienen una altura de 3. Puedes aprovechar esta característica para salvar un desnivel de 3 niveles y cruzar un hueco de 2 casillas de ancho colocando una unidad monstruosa debajo."
 WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,24,12,,,"{span 14 2446 09 10}  Skeletons, ghosts, and zombie units are stilled when their HP reaches 0. Stilled units appear identical to incapacitated units, but when the number above their head reaches 0, they reanimate and rejoin the battle.
-  Undead can be hard to defeat, but certain spells and skills can destroy them while in this weakened state.",344,{span 14 2446 09 10},"Los esqueletos{span 14 2446 09 10}, fantasmas y zombis quedan inmovilizados cuando sus HP llegan a 0. Las unidades inmovilizadas parecen estar incapacitadas, pero cuando el contador sobre sus cabezas llega a 0, se reaniman y regresan al combate.
+  Undead can be hard to defeat, but certain spells and skills can destroy them while in this weakened state.",344,{span 14 2446 09 10},"Los esqueletos{span 14 2446 09 10}, fantasmas y zombis quedan inmovilizados cuando sus PS llegan a 0. Las unidades inmovilizadas parecen estar incapacitadas, pero cuando el contador sobre sus cabezas llega a 0, se reaniman y regresan al combate.
  Los no muertos pueden ser difíciles de derrotar, pero ciertos hechizos y habilidades permiten destruirlos mientras se encuentran en este estado debilitado."
-WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,25,12,,,"{span 16 4404 2f 08}  Some obstacles on the battlefield can be destroyed. When these obstacles are selected, they display an HP value like enemy units. There is not always a need to destroy them, but it can serve to give you a tactical advantage at times.",255,{span 16 4404 2f 08},"Algunos obstáculos del campo de batalla pueden destruirse{span 16 4404 2f 08}. Al seleccionarlos, muestran un valor de HP, igual que las unidades enemigas. No siempre es necesario destruirlos, pero hacerlo puede darte una ventaja táctica en determinadas situaciones."
+WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,25,12,,,"{span 16 4404 2f 08}  Some obstacles on the battlefield can be destroyed. When these obstacles are selected, they display an HP value like enemy units. There is not always a need to destroy them, but it can serve to give you a tactical advantage at times.",255,{span 16 4404 2f 08},"Algunos obstáculos del campo de batalla pueden destruirse{span 16 4404 2f 08}. Al seleccionarlos, muestran un valor de PS, igual que las unidades enemigas. No siempre es necesario destruirlos, pero hacerlo puede darte una ventaja táctica en determinadas situaciones."
 WarrenReport/WarrenReport/play_guide_tactics_text.xlc,XLC,26,12,,,"{span 10 e24e 31 00}  Each Xytegenian year consists of 15 months. Valeria also has dry and rainy seasons, with fair weather more common during the dry. The solar calendar equivalents are shown below.
 
 Godscale (The Dry)
@@ -25188,7 +25188,7 @@ battle/battle_data_release/battle_text.xlc,XLC,74,4,,,{span 02 7a01 09 08}Fandan
 battle/battle_data_release/battle_text.xlc,XLC,75,4,,,{span 02 9801 0d 08}Nephrite,32,{span 02 9801 0d 08},{span 02 9801 0d 08}Nefrita
 battle/battle_data_release/battle_text.xlc,XLC,76,4,,,{span 02 8201 0a 08}Lombardia,29,{span 02 8201 0a 08},{span 02 8201 0a 08}Lombardia
 battle/battle_data_release/battle_text.xlc,XLC,77,4,,,{span 02 7601 09 08}Kumbhira,28,{span 02 7601 09 08},{span 02 7601 09 08}Kumbhira
-battle/battle_data_release/battle_text.xlc,XLC,78,4,,,{span 02 d801 11 08}Legion Waster,36,{span 02 d801 11 08},{span 02 d801 11 08}Espada de Entrenamiento de la Legión
+battle/battle_data_release/battle_text.xlc,XLC,78,4,,,{span 02 d801 11 08}Legion Waster,36,{span 02 d801 11 08},{span 02 d801 11 08}Espada Legión
 battle/battle_data_release/battle_text.xlc,XLC,79,4,,,{span 02 8c01 0b 08}Ogre Blade,30,{span 02 8c01 0b 08},{span 02 8c01 0b 08}Hoja de Ogro
 battle/battle_data_release/battle_text.xlc,XLC,80,4,,,{span 02 7401 09 08}Ambicion,28,{span 02 7401 09 08},{span 02 7401 09 08}Ambicion
 battle/battle_data_release/battle_text.xlc,XLC,81,4,,,{span 02 7a01 0a 08}Brynhildr,29,{span 02 7a01 0a 08},{span 02 7a01 0a 08}Brynhildr
@@ -25768,7 +25768,7 @@ battle/battle_data_release/battle_text.xlc,XLC,658,4,,,{span 02 be01 0e 08}Curse
 battle/battle_data_release/battle_text.xlc,XLC,659,4,,,{span 02 be01 0e 08}Cursed Weapon,33,{span 02 be01 0e 08},
 battle/battle_data_release/battle_text.xlc,XLC,660,4,,,{span 02 be01 0e 08}Cursed Weapon,33,{span 02 be01 0e 08},
 battle/battle_data_release/battle_text.xlc,XLC,661,4,,,{span 02 6a01 08 08}Not Use,27,{span 02 6a01 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,662,4,,,{span 02 7c01 09 08}Deadshot,28,{span 02 7c01 09 08},
+battle/battle_data_release/battle_text.xlc,XLC,662,4,,,{span 02 7c01 09 08}Deadshot,28,{span 02 7c01 09 08},{span 02 7c01 09 08}Deadshot
 battle/battle_data_release/battle_text.xlc,XLC,663,4,,,{span 02 9401 0c 08}Deadshot II,31,{span 02 9401 0c 08},
 battle/battle_data_release/battle_text.xlc,XLC,664,4,,,{span 02 9a01 0d 08}Deadshot III,32,{span 02 9a01 0d 08},
 battle/battle_data_release/battle_text.xlc,XLC,665,4,,,{span 02 9401 0c 08}Deadshot IV,31,{span 02 9401 0c 08},
