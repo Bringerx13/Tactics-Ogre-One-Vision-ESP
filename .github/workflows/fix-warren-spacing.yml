@@ -1,0 +1,126 @@
+name: One-time Warren Report spacing correction
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/fix-warren-spacing.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fix-warren-spacing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Correct only Spanish Warren Report fields
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          path = Path("Tactics_Ogre_espanol_neutral_espacios.csv")
+          with path.open("r", encoding="utf-8", newline="") as f:
+              original = f.read()
+
+          def parse_csv_with_offsets(source):
+              records = []
+              row = []
+              i = 0
+              while i < len(source):
+                  start = i
+                  value = []
+                  quoted = False
+                  if source[i] == '"':
+                      quoted = True
+                      i += 1
+                      while i < len(source):
+                          if source[i] == '"':
+                              if i + 1 < len(source) and source[i + 1] == '"':
+                                  value.append('"')
+                                  i += 2
+                                  continue
+                              i += 1
+                              break
+                          value.append(source[i])
+                          i += 1
+                  else:
+                      while i < len(source) and source[i] not in ',\\r\\n':
+                          value.append(source[i])
+                          i += 1
+
+                  row.append(("".join(value), start, i, quoted))
+                  if i < len(source) and source[i] == ",":
+                      i += 1
+                      continue
+
+                  records.append(row)
+                  row = []
+                  if i < len(source) and source[i:i + 2] == "\\r\\n":
+                      i += 2
+                  elif i < len(source) and source[i] in "\\r\\n":
+                      i += 1
+
+              return records
+
+          records = parse_csv_with_offsets(original)
+          header = [cell[0] for cell in records[0]]
+          if "texto_espanol" not in header:
+              raise SystemExit("No se encontró la columna texto_espanol.")
+          spanish_index = header.index("texto_espanol")
+
+          marker_spaces = re.compile(r"((?:\\{b[0-9a-f]{2}\\})+) {2,}", re.IGNORECASE)
+          edits = []
+          found = 0
+
+          for row in records[1:]:
+              if not row or "warren" not in row[0][0].lower():
+                  continue
+              cell = row[spanish_index]
+              value = cell[0]
+              matches = list(marker_spaces.finditer(value))
+              if not matches:
+                  continue
+              found += len(matches)
+              fixed = marker_spaces.sub(r"\\1 ", value)
+              raw_cell = '"' + fixed.replace('"', '""') + '"' if cell[3] else fixed
+              edits.append((cell[1], cell[2], raw_cell))
+
+          if found != 2 or len(edits) != 1:
+              raise SystemExit(f"Verificación preventiva: se esperaban 2 casos en 1 fila; encontrados {found} en {len(edits)} filas. No se modificó el CSV.")
+
+          corrected = original
+          for start, end, raw_cell in sorted(edits, reverse=True):
+              corrected = corrected[:start] + raw_cell + corrected[end:]
+
+          verified = parse_csv_with_offsets(corrected)
+          remaining = sum(
+              len(list(marker_spaces.finditer(row[spanish_index][0])))
+              for row in verified[1:]
+              if row and "warren" in row[0][0].lower()
+          )
+          if remaining != 0 or len(verified) != len(records):
+              raise SystemExit("Falló la verificación posterior; no se guardó el CSV.")
+
+          with path.open("w", encoding="utf-8", newline="") as f:
+              f.write(corrected)
+
+          print(f"Corrección verificada: {found} espacios duplicados; filas CSV conservadas: {len(verified)}.")
+          PY
+
+      - name: Commit correction and remove this temporary workflow
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- Tactics_Ogre_espanol_neutral_espacios.csv
+          git rm -- .github/workflows/fix-warren-spacing.yml
+          git commit -m "Corregir espacios duplicados en Warren Report"
+          git push
