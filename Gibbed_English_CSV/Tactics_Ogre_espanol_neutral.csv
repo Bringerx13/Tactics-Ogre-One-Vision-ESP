@@ -17487,8 +17487,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,129,4,,,"{span 04 9e41 27 10}TP
 Unit's current TP (Tactical Points).",59,{span 04 9e41 27 10},"PT
 PT actual de la unidad (puntos tácticos)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,130,4,,,"{span 04 a241 25 10}RT
-Unit's current RT (Recovery Time).",57,{span 04 a241 25 10},"RT
-RT actual de la unidad (tiempo de recuperación)."
+Unit's current RT (Recovery Time).",57,{span 04 a241 25 10},"TE
+TE actual de la unidad (tiempo de espera)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,131,4,,,"{span 04 a241 25 10}HP
 Unit's maximum HP (Health Points).",57,{span 04 a241 25 10},"PS
 PS máximo de la unidad."
@@ -17499,8 +17499,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,133,4,,,"{span 04 b441 27 10}TP
 Unit's maximum TP (Tactical Points).",59,{span 04 b441 27 10},"PT
 PT máximo de la unidad."
 menu/menu_data/unit_condition_help_text.xlc,XLC,134,4,,,"{span 04 8841 22 10}RT
-Unit's base RT (Recovery Time).",54,{span 04 8841 22 10},"RT
-RT base de la unidad (tiempo de recuperación)."
+Unit's base RT (Recovery Time).",54,{span 04 8841 22 10},"TE
+TE base de la unidad (tiempo de espera)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,135,4,,,"{span 02 f641 1b 10}Life
 Unit's remaining life.",47,{span 02 f641 1b 10},"Vida
 Vidas restantes de la unidad."
@@ -17592,10 +17592,10 @@ The number of tiles from the target that the skill will affect.",88,{span 06 aa4
 Número de casillas alrededor del objetivo que se verán afectadas por la habilidad."
 menu/menu_data/unit_condition_help_text.xlc,XLC,190,4,,,"{span 0a 4c42 27 10}Weight
 The amount by which a piece of equipment increases RT. A red number indicates RT will decrease.",122,{span 0a 4c42 27 10},"Peso
-Cantidad de RT que añade una pieza de equipo. Un número rojo indica que el RT disminuirá."
+Cantidad de TE que añade una pieza de equipo. Un número rojo indica que el TE disminuirá."
 menu/menu_data/unit_condition_help_text.xlc,XLC,191,4,,,"{span 08 4842 12 10}RT Delay
-The amount by which an action will increase a unit's RT (Recovery Time).",101,{span 08 4842 12 10},"Retraso de RT
-Cantidad de RT que añadirá una acción al RT de una unidad (tiempo de recuperación)."
+The amount by which an action will increase a unit's RT (Recovery Time).",101,{span 08 4842 12 10},"Retraso de TE
+Cantidad de TE que añadirá una acción al TE de una unidad (tiempo de espera)."
 menu/menu_data/unit_condition_help_text.xlc,XLC,192,4,,,"{span 08 b842 1f 10}ATQ (Ataque)
 The equipment's base attack power. The higher the number, the greater the damage.",114,{span 08 b842 1f 10},"ATQ (Ataque)
 Poder de ataque base del equipo. Cuanto mayor sea el número, mayor será el daño."
@@ -17707,8 +17707,8 @@ menu/menu_data/unit_condition_help_text.xlc,XLC,237,4,,,"{span 06 fe42 06 10}Jum
 The maximum difference in elevation a unit can move up and down.",89,{span 06 fe42 06 10},"Salto
 Diferencia máxima de altura que una unidad puede subir o bajar al moverse."
 menu/menu_data/unit_condition_help_text.xlc,XLC,238,4,,,"{span 0a b442 3b 10}RT (Recovery Time)
-A unit's ATTACK TURN begins when its RT reaches 0. A unit can take actions and move on its attack turn.",142,{span 0a b442 3b 10},"RT (Tiempo de recuperación)
-El TURNO DE ATAQUE de una unidad comienza cuando su RT llega a 0. Durante su turno de ataque, la unidad puede realizar acciones y moverse."
+A unit's ATTACK TURN begins when its RT reaches 0. A unit can take actions and move on its attack turn.",142,{span 0a b442 3b 10},"TE (Tiempo de espera)
+El TURNO DE ATAQUE de una unidad comienza cuando su TE llega a 0. Durante su turno de ataque, la unidad puede realizar acciones y moverse."
 menu/menu_data/unit_condition_help_text.xlc,XLC,239,4,,,"{span 08 4042 17 10}HP (Current/Max)
 The unit's HEALTH POINTS. If HP reaches 0, the unit is INCAPACITATED.",106,{span 08 4042 17 10},"PS (Actual/Máximo)
 PUNTOS DE SALUD de la unidad. Si el PS llega a 0, queda INCAPACITADA."
@@ -21888,10 +21888,10 @@ WarrenReport/WarrenReport/play_guide_basics_text.xlc,XLC,17,12,,,"{span 16 a649 
   More powerful actions consume large amounts of MP and TP, so their use must be timed carefully.",546,{span 16 a649 0f 48},"Los puntos mágicos (PM) se necesitan para lanzar hechizos, mientras que los puntos tácticos (PT) se usan para ejecutar habilidades y movimientos finales. El PM y el PT se reinician a 0 al comienzo de cada batalla, por lo que una unidad debe esperar antes de usar habilidades que consuman PM o PT.
 
 - Cómo se obtiene PM -
-El PM se acumula gradualmente con el paso del RT.
+El PM se acumula gradualmente con el paso del TE.
 
 - Cómo se obtiene PT -
-El PT se acumula con el paso del RT y cuando una unidad ataca o recibe un ataque.
+El PT se acumula con el paso del TE y cuando una unidad ataca o recibe un ataque.
 
 Las acciones más poderosas consumen grandes cantidades de PM y PT, por lo que es importante elegir bien cuándo usarlas."
 WarrenReport/WarrenReport/play_guide_basics_text.xlc,XLC,18,12,,,"{span 18 5651 0d 80}  Magic-using classes such as Wizards must first make the following preparations to use spells:
@@ -24331,7 +24331,7 @@ WarrenReport/WarrenReportText/2.xlc,XLC,46,12,,,"{span 13 e644 0c 08 12e63031303
 WarrenReport/WarrenReportText/2.xlc,XLC,47,12,,,"{span 17 7844 32 08 167830323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. Cistina challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after Cistina offered to join {hero}.",283,{hero} | {hero} | {span 17 7844 32 08 167830323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. Cistina cuestionó la sensatez de tal decisión y la reunión terminó ahí. Poco después, Cistina se ofreció a unirse a {hero}."
 WarrenReport/WarrenReportText/2.xlc,XLC,48,12,,,"{span 19 8845 0b 08 188830323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. Cistina challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after {hero} bid farewell to Cistina and resumed his journey.",307,{hero} | {hero} | {span 19 8845 0b 08 188830323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. Cistina cuestionó la sensatez de tal decisión y la reunión terminó ahí. Poco después, {hero} se despidió de Cistina y reanudó su viaje."
 WarrenReport/WarrenReportText/2.xlc,XLC,49,12,,,"{span 19 b045 0f 08 18b030323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. Sir Folcurt challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after {hero} bid farewell to Folcurt and resumed his journey.",311,{hero} | {hero} | {span 19 b045 0f 08 18b030323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. Sir Folcurt cuestionó la sensatez de tal decisión y la reunión terminó ahí. Poco después, {hero} se despidió de Folcurt y reanudó su viaje."
-WarrenReport/WarrenReportText/2.xlc,XLC,50,12,,,"{span 17 a044 36 08 16a030323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. Sir Folcurt challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after Folcurt offered to join {hero}.",287,{hero} | {hero} | {span 17 a044 36 08 16a030323030},
+WarrenReport/WarrenReportText/2.xlc,XLC,50,12,,,"{span 17 a044 36 08 16a030323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. Sir Folcurt challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after Folcurt offered to join {hero}.",287,{hero} | {hero} | {span 17 a044 36 08 16a030323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. Sir Folcurt cuestionó la conveniencia de semejante acción, y así terminó la reunión. Poco después, Folcurt se ofreció a unirse a {hero}."
 WarrenReport/WarrenReportText/2.xlc,XLC,51,12,,,"{span 19 e445 11 08 18e430323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. The Magus Bayin challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after {hero} bid farewell to Bayin and resumed his journey.",313,{hero} | {hero} | {span 19 e445 11 08 18e430323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. El Mago Bayin cuestionó la sensatez de tal decisión y la reunión terminó ahí. Poco después, {hero} se despidió de Bayin y reanudó su viaje."
 WarrenReport/WarrenReportText/2.xlc,XLC,52,12,,,"{span 17 d444 38 08 16d430323030}While meeting with Liberation Front leader Cerya at Boed Fortress, {hero} learned she planned to have Duke Ronwey killed. The Magus Bayin challenged Cerya over the wisdom of such a move, and there the meeting ended. Soon after Bayin offered to join {hero}.",289,{hero} | {hero} | {span 17 d444 38 08 16d430323030},"Durante su encuentro con Cerya, líder del Frente de Liberación, en la Fortaleza de Boed, {hero} descubrió que planeaba asesinar al Duque Ronwey. El Mago Bayin cuestionó la sensatez de tal decisión y la reunión terminó ahí. Poco después, Bayin se ofreció a unirse a {hero}."
 WarrenReport/WarrenReportText/2.xlc,XLC,53,12,,,"{span 1a c005 25 08}Hearing of the Hierophant's death and the downfall of the Kingdom of Galgastan, the Bakram launched a new offensive. In the south they marched on Rhime, hoping to capture it while Resistance forces tarried at Coritanae Keep. However, Rhime was yet defended by the Holy Knights of Xenobia.",308,{span 1a c005 25 08},"Al enterarse de la muerte del Hierofante y la caída del Reino de Galgastan, los bakram lanzaron una nueva ofensiva. En el sur avanzaron hacia Rhime con la intención de conquistarla mientras las fuerzas de la Resistencia permanecían en la Fortaleza de Coritanae. Sin embargo, Rhime aún estaba defendida por los Caballeros Sagrados de Xenobia."
