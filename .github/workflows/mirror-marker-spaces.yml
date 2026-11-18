@@ -1,0 +1,186 @@
+name: Mirror English marker spacing into Spanish CSV
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/mirror-marker-spaces.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  mirror-marker-spaces:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Mirror spaces after b-format markers
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          path = Path("Tactics_Ogre_espanol_neutral_espacios.csv")
+          source = path.read_text(encoding="utf-8", newline="") if False else path.open("r", encoding="utf-8", newline="").read()
+
+          def parse_csv_offsets(text):
+              records = []
+              row = []
+              i = 0
+              while i < len(text):
+                  start = i
+                  value = []
+                  quoted = False
+                  if text[i] == '"':
+                      quoted = True
+                      i += 1
+                      while i < len(text):
+                          if text[i] == '"':
+                              if i + 1 < len(text) and text[i + 1] == '"':
+                                  value.append('"')
+                                  i += 2
+                                  continue
+                              i += 1
+                              break
+                          value.append(text[i])
+                          i += 1
+                  else:
+                      while i < len(text) and text[i] not in ',\r\n':
+                          value.append(text[i])
+                          i += 1
+
+                  row.append(("".join(value), start, i, quoted))
+                  if i < len(text) and text[i] == ",":
+                      i += 1
+                      continue
+
+                  records.append(row)
+                  row = []
+                  if i < len(text) and text[i:i + 2] == "\r\n":
+                      i += 2
+                  elif i < len(text) and text[i] in "\r\n":
+                      i += 1
+
+              return records
+
+          records = parse_csv_offsets(source)
+          if not records:
+              raise SystemExit("El CSV está vacío.")
+
+          header = [cell[0] for cell in records[0]]
+          required = ["texto_ingles", "texto_espanol"]
+          if any(name not in header for name in required):
+              raise SystemExit("Faltan columnas de texto_ingles o texto_espanol.")
+
+          en_index = header.index("texto_ingles")
+          es_index = header.index("texto_espanol")
+          marker_re = re.compile(r"(\{b[0-9a-f]{2}\})+", re.IGNORECASE)
+          edits = []
+          mismatch_rows = 0
+          aligned_rows = 0
+          changed_groups = 0
+          double_space_source_groups = 0
+          examples = []
+
+          for row in records[1:]:
+              if len(row) != len(header):
+                  raise SystemExit(f"Fila CSV con {len(row)} columnas; se esperaban {len(header)}.")
+
+              english = row[en_index][0]
+              spanish_cell = row[es_index]
+              spanish = spanish_cell[0]
+
+              en_markers = list(marker_re.finditer(english))
+              es_markers = list(marker_re.finditer(spanish))
+              if not en_markers and not es_markers:
+                  continue
+
+              if [m.group(0).lower() for m in en_markers] != [m.group(0).lower() for m in es_markers]:
+                  mismatch_rows += 1
+                  continue
+
+              aligned_rows += 1
+              replacements = []
+              for en_match, es_match in zip(en_markers, es_markers):
+                  en_gap = re.match(r" *", english[en_match.end():]).group(0)
+                  es_gap = re.match(r" *", spanish[es_match.end():]).group(0)
+                  wanted = len(en_gap)
+                  double_space_source_groups += int(wanted >= 2)
+
+                  if len(es_gap) != wanted:
+                      replacements.append((es_match.end(), es_match.end() + len(es_gap), " " * wanted))
+                      changed_groups += 1
+                      if len(examples) < 15:
+                          examples.append({
+                              "marker": es_match.group(0),
+                              "english_spaces": wanted,
+                              "spanish_spaces_before": len(es_gap),
+                              "spanish_spaces_after": wanted
+                          })
+
+              if replacements:
+                  new_spanish = spanish
+                  for start, end, replacement in sorted(replacements, reverse=True):
+                      new_spanish = new_spanish[:start] + replacement + new_spanish[end:]
+                  raw_cell = '"' + new_spanish.replace('"', '""') + '"' if spanish_cell[3] else new_spanish
+                  edits.append((spanish_cell[1], spanish_cell[2], raw_cell))
+
+          if mismatch_rows:
+              print(f"Advertencia: {mismatch_rows} filas tienen secuencias de marcadores distintas; se omitieron para no alterar marcadores.")
+          if changed_groups == 0:
+              raise SystemExit("No se encontraron espacios que corregir; no se guardó ningún cambio.")
+
+          corrected = source
+          for start, end, raw_cell in sorted(edits, reverse=True):
+              corrected = corrected[:start] + raw_cell + corrected[end:]
+
+          verified = parse_csv_offsets(corrected)
+          if len(verified) != len(records) or any(len(r) != len(header) for r in verified):
+              raise SystemExit("La validación de estructura del CSV falló.")
+
+          remaining_mismatches = 0
+          for row in verified[1:]:
+              english = row[en_index][0]
+              spanish = row[es_index][0]
+              en_markers = list(marker_re.finditer(english))
+              es_markers = list(marker_re.finditer(spanish))
+              if [m.group(0).lower() for m in en_markers] != [m.group(0).lower() for m in es_markers]:
+                  continue
+              for en_match, es_match in zip(en_markers, es_markers):
+                  en_gap = re.match(r" *", english[en_match.end():]).group(0)
+                  es_gap = re.match(r" *", spanish[es_match.end():]).group(0)
+                  if len(en_gap) != len(es_gap):
+                      remaining_mismatches += 1
+
+          if remaining_mismatches:
+              raise SystemExit(f"Quedaron {remaining_mismatches} diferencias de espacios después de marcadores.")
+
+          path.write_text(corrected, encoding="utf-8", newline="")
+          print(f"CSV validado: {len(verified) - 1} registros; {aligned_rows} filas con marcadores alineados; {changed_groups} grupos de marcadores corregidos; {double_space_source_groups} grupos tenían dos o más espacios en inglés.")
+          print(f"Filas omitidas por diferencias de marcadores: {mismatch_rows}.")
+          for example in examples:
+              print(example)
+          PY
+
+      - name: Upload corrected CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: Tactics-Ogre-CSV-espacios-corregidos
+          path: Tactics_Ogre_espanol_neutral_espacios.csv
+          if-no-files-found: error
+
+      - name: Commit corrected CSV and remove this temporary workflow
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- Tactics_Ogre_espanol_neutral_espacios.csv
+          git rm -- .github/workflows/mirror-marker-spaces.yml
+          git commit -m "Igualar espacios de marcadores entre inglés y español"
+          git push
