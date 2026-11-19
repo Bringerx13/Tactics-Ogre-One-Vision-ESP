@@ -1,0 +1,13 @@
+CSV de origen: E:\Tactics ogre\Tactics_Ogre_espanol_neutral.csv
+Registros totales: 23435
+Identidades únicas (archivo/fila/columna/id_entrada/nid): 23435
+Registros con texto_espanol: 18249
+Hashes únicos generados: 13428
+Grupos con más de una traducción: 994
+Excepciones femeninas por ubicación: 53
+Variantes restantes para revisar: 1033
+
+Regla general: mayoría de traducciones; en class_text.xlc se prioriza la columna 4.
+Regla femenina: columna 8 de class_text.xlc se conserva como excepción cuando difiere de la traducción canónica.
+Normalización hash: elimina solo el encabezado inicial {span ...} y {w} del cuerpo.
+El CSV maestro no se modifica.
