@@ -56,12 +56,12 @@ class Builder:
                     newpos = placed[key]
                 else:
                     newpos = (len(bb) + unit - 1) // unit * unit
-                    bb += b'\\0' * (newpos - len(bb))
+                    bb += b'\0' * (newpos - len(bb))
                     bb += data
                     placed[key] = newpos
                 f['bo'] = (newpos - d['base']) // unit
                 f['size'] = len(data)
-            bb += b'\\0' * ((-len(bb)) % UNIT)
+            bb += b'\0' * ((-len(bb)) % UNIT)
             d['inst'] = 0
             out['%04X.BIN' % did] = bytes(bb)
         out['FILETABLE.BIN'] = ft.serialize(self.g._orig_ft)
