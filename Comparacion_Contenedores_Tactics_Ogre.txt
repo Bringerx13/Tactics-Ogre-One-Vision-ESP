@@ -1,0 +1,110 @@
+[INGLÉS] E:\Tactics ogre\One Vision.iso
+  FILETABLE.BIN: 61046 bytes, SHA256=194ce618030e996af8abf40514d0db89a54ab77fcc0b4205a3b8988a6e4d2b84
+  0000.BIN:      1098412 bytes, SHA256=813163437b60ce2646c5a693e20529f57ee74bf1cd1b810721b5b9f48f9a10b3
+  Índice preload: 10 pares (directorio, archivo)
+  BIN 01F4.BIN / archivo 10241: offset=4620288, tamaño=209728, SHA256=4749ef1d71c88b534cc41278482adb47f53e7d0a320a5b428f81209e5c780861
+    PRELOAD #2: 209728 bytes, coincide=NO, SHA256=c6ce167dad603e8bc10e1bce8599a1a91ba140249a5410107566b3271eeb06d3
+    PAKD: paquetes=1, hojas=36, errores=0
+  BIN 02BC.BIN / archivo 0: offset=0, tamaño=748208, SHA256=ceeedb3a388fa133591563b2d8db2ed9e131bf83d5cda7ce0c0f90ff9735c413
+    PRELOAD: sin copia registrada
+    PAKD: paquetes=1, hojas=47, errores=0
+  BIN 02BC.BIN / archivo 1: offset=753664, tamaño=157552, SHA256=05f75aad87a550036e6c011d452f49c47fdab0e5cff76fb5f71874af2ef43478
+    PRELOAD: sin copia registrada
+    PAKD: paquetes=1, hojas=8, errores=0
+  RECURSO menu/menu_data/title_text.xlc: ruta=(500, 10241, 12), firma=b'xlce', tamaño=10496, SHA256=be3fbc4c453fb9f3e9e25962d0906b5b0277cf2623d167f3efa25c272843705c
+  RECURSO warrenreport/warrenreport/1.xlc: ruta=(700, 0, 1), firma=b'xlce', tamaño=29200, SHA256=e0edfabe13c22b326b9731309252601d0892754cc1749cadfea369b77b79d5d9
+  RECURSO warrenreport/warrenreport/10.xlc: ruta=(700, 0, 10), firma=b'xlce', tamaño=4640, SHA256=2c3790fb75fc3cee329a0cccc5a140eb901c9e26eb463248a6ff2ee69d2e1895
+  RECURSO warrenreport/warrenreport/29.xlc: ruta=(700, 0, 29), firma=b'xlce', tamaño=96, SHA256=434c2811df5c51cb8760523407b21202d0e7166f1b7fc3126f0a49c20458cfef
+  RECURSO warrenreport/warrenreport/30.xlc: ruta=(700, 0, 30), firma=b'xlce', tamaño=592, SHA256=c4d0d84f96ca73c9f9137bfa056c73005d0f9a309924a99954bc6a49a9fbf177
+  RECURSO warrenreport/warrenreport/45.xlc: ruta=(700, 0, 45), firma=b'xlce', tamaño=1328, SHA256=44996c05d9d8da629ef13188a2ec75a8d7a2c030ec220f1711f1c62671e3dea8
+  RECURSO warrenreport/warrenreport/46.xlc: ruta=(700, 0, 46), firma=b'xlce', tamaño=1344, SHA256=b12ecd01b177d4303a529f3b67b40549b5fc34e133f11b55bddf41307c3423ca
+  RECURSO warrenreport/warrenreport/menu_text.xlc: ruta=(700, 0, 0), firma=b'xlce', tamaño=1632, SHA256=fcae6d583c22f7334288f147a772b54baab644191f46b634a7f83c37c7d9dd33
+  RECURSO warrenreport/warrenreport/music.xlc: ruta=(700, 0, 7), firma=b'xlce', tamaño=1248, SHA256=2c8cde638e8753e53bd359648e61911d7e9eaba645ea5cd7ea5bf614f17a9a99
+  RECURSO warrenreport/warrenreport/music_text.xlc: ruta=(700, 0, 4), firma=b'xlce', tamaño=19536, SHA256=d27574b903f0ae1990ce4698f8f9fcc91fcdd2d35ea4f85c1b7397e49306150e
+  RECURSO warrenreport/warrenreport/people.xlc: ruta=(700, 0, 3), firma=b'xlce', tamaño=264416, SHA256=ad332ff32163d7073bb6cdc58222f44623d19d016e49eed9d03a8b3561fa14b9
+  RECURSO warrenreport/warrenreport/play_guide_basics.xlc: ruta=(700, 0, 8), firma=b'xlce', tamaño=544, SHA256=2831d303d41fb6765b21d581fae87b10ec6a82b525ba0ab22f20ee3e3f19400c
+  RECURSO warrenreport/warrenreport/play_guide_basics_text.xlc: ruta=(700, 0, 5), firma=b'xlce', tamaño=20976, SHA256=d33bcf071e03b57fe0f3593c056a9d995affa51e65fcec59bac2e2687ec4c267
+  RECURSO warrenreport/warrenreport/play_guide_tactics.xlc: ruta=(700, 0, 9), firma=b'xlce', tamaño=576, SHA256=b1c246cd6237eade525e2446d305b53e0096cde85dfe24d71eb55ddb40bd02ac
+  RECURSO warrenreport/warrenreport/play_guide_tactics_text.xlc: ruta=(700, 0, 6), firma=b'xlce', tamaño=16368, SHA256=9e14fe67122bef3aa2b2c4ba2c33229b3eec409290fe4a43defc487245453734
+  RECURSO warrenreport/warrenreport/tidings_text.xlc: ruta=(700, 0, 2), firma=b'xlce', tamaño=4640, SHA256=694ae07ee451215f71d3433e28881c3b313135b619f031ee5b5d094b8e2cd19b
+  RECURSO warrenreport/warrenreporttext/0.xlc: ruta=(700, 1, 0), firma=b'xlce', tamaño=2384, SHA256=b3c06d6b3c8a9c6f36531af9d09a076d5bb57429611363525018c6dad3689035
+  RECURSO warrenreport/warrenreporttext/1.xlc: ruta=(700, 1, 1), firma=b'xlce', tamaño=41840, SHA256=a141562a6c14aa2b68debdbd94d20d937d613ab95dde3209f7cfae8e7f2ec3d6
+  RECURSO warrenreport/warrenreporttext/2.xlc: ruta=(700, 1, 2), firma=b'xlce', tamaño=53824, SHA256=ed3baf9a884f5797d8639c684cd2a747c4aedefb72af73386a6dfaae06c43e26
+  RECURSO warrenreport/warrenreporttext/3.xlc: ruta=(700, 1, 3), firma=b'xlce', tamaño=54848, SHA256=4633ecef3665255fd5f13a3131551f47c167d85cc693bc1713676de76e9f6d4b
+  RECURSO warrenreport/warrenreporttext/4.xlc: ruta=(700, 1, 4), firma=b'xlce', tamaño=336, SHA256=585d2a120dc730e46d6442f02e632f3f1a59c9d08027598c2db05b697b53eabc
+  RECURSO warrenreport/warrenreporttext/5.xlc: ruta=(700, 1, 5), firma=b'xlce', tamaño=208, SHA256=186d69c00aea6cb2db904dc03e92e6491677cab0bc46564043dfa0480ebffc62
+  RECURSO warrenreport/warrenreporttext/6.xlc: ruta=(700, 1, 6), firma=b'xlce', tamaño=3456, SHA256=398a4c7009c15e8426cd0bba57f226108739492c7c829e8832a48333988b2d07
+  RECURSO warrenreport/warrenreporttext/7.xlc: ruta=(700, 1, 7), firma=b'xlce', tamaño=608, SHA256=95538c89feff173f77e6e17a01de8abf2114e381b7e472d2e5421f1fd05cf6fa
+
+[ESPAÑOL] E:\Tactics ogre\One Vision - Español limpio.iso
+  FILETABLE.BIN: 61048 bytes, SHA256=b1e03010e79820e435895de01e165c3dd6487261917eddc0feb483702f8cc54b
+  0000.BIN:      1273856 bytes, SHA256=8d76b02d942470fdf4ae62d39013dfe61ddd5e0a9a2fde85e875595b1177952f
+  Índice preload: 10 pares (directorio, archivo)
+  BIN 01F4.BIN / archivo 10241: offset=4620288, tamaño=356480, SHA256=f8c20609ff9ba1beb709054ebb25812f9b390ae9354bd24ebb11895ed76f6088
+    PRELOAD #2: 356480 bytes, coincide=SÍ, SHA256=f8c20609ff9ba1beb709054ebb25812f9b390ae9354bd24ebb11895ed76f6088
+    PAKD: paquetes=1, hojas=36, errores=0
+  BIN 02BC.BIN / archivo 0: offset=0, tamaño=1019008, SHA256=7044596c76d34f708a9d939d7c106e03bcb7995219e23423a63f916b3df063fe
+    PRELOAD: sin copia registrada
+    PAKD: paquetes=1, hojas=47, errores=0
+  BIN 02BC.BIN / archivo 1: offset=1048576, tamaño=285200, SHA256=96fc23cd139647a1ce7791b5f5e0e13a708b158cbeb57871bf5a548f9142f6af
+    PRELOAD: sin copia registrada
+    PAKD: paquetes=1, hojas=8, errores=0
+  RECURSO menu/menu_data/title_text.xlc: ruta=(500, 10241, 12), firma=b'xlce', tamaño=21152, SHA256=a3f86abe3f66e9eb32c2cd4c5e90a200ffada0825a8066ca1de3576322512d9a
+  RECURSO warrenreport/warrenreport/1.xlc: ruta=(700, 0, 1), firma=b'xlce', tamaño=29200, SHA256=e0edfabe13c22b326b9731309252601d0892754cc1749cadfea369b77b79d5d9
+  RECURSO warrenreport/warrenreport/10.xlc: ruta=(700, 0, 10), firma=b'xlce', tamaño=4640, SHA256=2c3790fb75fc3cee329a0cccc5a140eb901c9e26eb463248a6ff2ee69d2e1895
+  RECURSO warrenreport/warrenreport/29.xlc: ruta=(700, 0, 29), firma=b'xlce', tamaño=96, SHA256=434c2811df5c51cb8760523407b21202d0e7166f1b7fc3126f0a49c20458cfef
+  RECURSO warrenreport/warrenreport/30.xlc: ruta=(700, 0, 30), firma=b'xlce', tamaño=592, SHA256=c4d0d84f96ca73c9f9137bfa056c73005d0f9a309924a99954bc6a49a9fbf177
+  RECURSO warrenreport/warrenreport/45.xlc: ruta=(700, 0, 45), firma=b'xlce', tamaño=1328, SHA256=44996c05d9d8da629ef13188a2ec75a8d7a2c030ec220f1711f1c62671e3dea8
+  RECURSO warrenreport/warrenreport/46.xlc: ruta=(700, 0, 46), firma=b'xlce', tamaño=1344, SHA256=b12ecd01b177d4303a529f3b67b40549b5fc34e133f11b55bddf41307c3423ca
+  RECURSO warrenreport/warrenreport/menu_text.xlc: ruta=(700, 0, 0), firma=b'xlce', tamaño=2768, SHA256=f074ffab0146f71f11f55dc7239d42d43b8c65fec4ec9c936df3fa546f549f90
+  RECURSO warrenreport/warrenreport/music.xlc: ruta=(700, 0, 7), firma=b'xlce', tamaño=1248, SHA256=2c8cde638e8753e53bd359648e61911d7e9eaba645ea5cd7ea5bf614f17a9a99
+  RECURSO warrenreport/warrenreport/music_text.xlc: ruta=(700, 0, 4), firma=b'xlce', tamaño=38672, SHA256=5dfb559d29e241893ce5fdef2aafdfee58a9e1d0480890ac551217250b6a1bd4
+  RECURSO warrenreport/warrenreport/people.xlc: ruta=(700, 0, 3), firma=b'xlce', tamaño=475216, SHA256=df0660c437db74b285e457819fef8869baea0251144e2a99df0dcd6d298c741f
+  RECURSO warrenreport/warrenreport/play_guide_basics.xlc: ruta=(700, 0, 8), firma=b'xlce', tamaño=544, SHA256=2831d303d41fb6765b21d581fae87b10ec6a82b525ba0ab22f20ee3e3f19400c
+  RECURSO warrenreport/warrenreport/play_guide_basics_text.xlc: ruta=(700, 0, 5), firma=b'xlce', tamaño=43376, SHA256=f221828bd56efd8092bce577a6c198a724b2f6f8823d8a1cf35e90e7719945b5
+  RECURSO warrenreport/warrenreport/play_guide_tactics.xlc: ruta=(700, 0, 9), firma=b'xlce', tamaño=576, SHA256=b1c246cd6237eade525e2446d305b53e0096cde85dfe24d71eb55ddb40bd02ac
+  RECURSO warrenreport/warrenreport/play_guide_tactics_text.xlc: ruta=(700, 0, 6), firma=b'xlce', tamaño=33696, SHA256=ccd864bb3c494a3847bd8dcb7bbb4c621d20b983c89faafe35f3587517428f4c
+  RECURSO warrenreport/warrenreport/tidings_text.xlc: ruta=(700, 0, 2), firma=b'xlce', tamaño=4640, SHA256=694ae07ee451215f71d3433e28881c3b313135b619f031ee5b5d094b8e2cd19b
+  RECURSO warrenreport/warrenreporttext/0.xlc: ruta=(700, 1, 0), firma=b'xlce', tamaño=4368, SHA256=ac9271495229ad76a9921a389a612cbe99e55225ff12c301612a85f5b3ffa717
+  RECURSO warrenreport/warrenreporttext/1.xlc: ruta=(700, 1, 1), firma=b'xlce', tamaño=72960, SHA256=b2742a9aaacdededb8aa98d5e993441ddf3d372b1eec0de7f221d2ba2d3e21e7
+  RECURSO warrenreport/warrenreporttext/2.xlc: ruta=(700, 1, 2), firma=b'xlce', tamaño=97648, SHA256=a7a30d3678ced9a197015ebb8b93c8a0c13b622dc68f22c306766d89c07bb791
+  RECURSO warrenreport/warrenreporttext/3.xlc: ruta=(700, 1, 3), firma=b'xlce', tamaño=105328, SHA256=3796e1daa2b07b908296cbe42492bd597e67cf368ba3fb70cff5efd3d7bf6f58
+  RECURSO warrenreport/warrenreporttext/4.xlc: ruta=(700, 1, 4), firma=b'xlce', tamaño=576, SHA256=5c74a99a14b7ead0f96823ea2ec5273a8ca952951e56ac8a60624911b617778b
+  RECURSO warrenreport/warrenreporttext/5.xlc: ruta=(700, 1, 5), firma=b'xlce', tamaño=208, SHA256=186d69c00aea6cb2db904dc03e92e6491677cab0bc46564043dfa0480ebffc62
+  RECURSO warrenreport/warrenreporttext/6.xlc: ruta=(700, 1, 6), firma=b'xlce', tamaño=3456, SHA256=398a4c7009c15e8426cd0bba57f226108739492c7c829e8832a48333988b2d07
+  RECURSO warrenreport/warrenreporttext/7.xlc: ruta=(700, 1, 7), firma=b'xlce', tamaño=608, SHA256=95538c89feff173f77e6e17a01de8abf2114e381b7e472d2e5421f1fd05cf6fa
+
+[COMPARACIÓN BINARIA DE ARCHIVOS GLOBALES]
+  FILETABLE.BIN: EN=61046 bytes, ES=61048 bytes; tamaños distintos; primer cambio común 0xc; diferencia de longitud +2 bytes
+  0000.BIN: EN=1098412 bytes, ES=1273856 bytes; tamaños distintos; primer cambio común 0x18; diferencia de longitud +175444 bytes
+
+[COMPARACIÓN DE CONTENEDORES DE PRIMER NIVEL]
+  01F4/10241: EN=209728 bytes, ES=356480 bytes; tamaños distintos; primer cambio común 0xc; diferencia de longitud +146752 bytes
+  02BC/0: EN=748208 bytes, ES=1019008 bytes; tamaños distintos; primer cambio común 0xc; diferencia de longitud +270800 bytes
+  02BC/1: EN=157552 bytes, ES=285200 bytes; tamaños distintos; primer cambio común 0xc; diferencia de longitud +127648 bytes
+
+[COMPARACIÓN DE RECURSOS XLC/EMES]
+  menu/menu_data/title_text.xlc: EN=10496 bytes, ES=21152 bytes; tamaños distintos; primer cambio común 0x10; diferencia de longitud +10656 bytes
+  warrenreport/warrenreport/1.xlc: EN=29200 bytes, ES=29200 bytes; idénticos
+  warrenreport/warrenreport/10.xlc: EN=4640 bytes, ES=4640 bytes; idénticos
+  warrenreport/warrenreport/29.xlc: EN=96 bytes, ES=96 bytes; idénticos
+  warrenreport/warrenreport/30.xlc: EN=592 bytes, ES=592 bytes; idénticos
+  warrenreport/warrenreport/45.xlc: EN=1328 bytes, ES=1328 bytes; idénticos
+  warrenreport/warrenreport/46.xlc: EN=1344 bytes, ES=1344 bytes; idénticos
+  warrenreport/warrenreport/menu_text.xlc: EN=1632 bytes, ES=2768 bytes; tamaños distintos; primer cambio común 0xe8; diferencia de longitud +1136 bytes
+  warrenreport/warrenreport/music.xlc: EN=1248 bytes, ES=1248 bytes; idénticos
+  warrenreport/warrenreport/music_text.xlc: EN=19536 bytes, ES=38672 bytes; tamaños distintos; primer cambio común 0x14; diferencia de longitud +19136 bytes
+  warrenreport/warrenreport/people.xlc: EN=264416 bytes, ES=475216 bytes; tamaños distintos; primer cambio común 0x1c; diferencia de longitud +210800 bytes
+  warrenreport/warrenreport/play_guide_basics.xlc: EN=544 bytes, ES=544 bytes; idénticos
+  warrenreport/warrenreport/play_guide_basics_text.xlc: EN=20976 bytes, ES=43376 bytes; tamaños distintos; primer cambio común 0x14; diferencia de longitud +22400 bytes
+  warrenreport/warrenreport/play_guide_tactics.xlc: EN=576 bytes, ES=576 bytes; idénticos
+  warrenreport/warrenreport/play_guide_tactics_text.xlc: EN=16368 bytes, ES=33696 bytes; tamaños distintos; primer cambio común 0x15; diferencia de longitud +17328 bytes
+  warrenreport/warrenreport/tidings_text.xlc: EN=4640 bytes, ES=4640 bytes; idénticos
+  warrenreport/warrenreporttext/0.xlc: EN=2384 bytes, ES=4368 bytes; tamaños distintos; primer cambio común 0x15; diferencia de longitud +1984 bytes
+  warrenreport/warrenreporttext/1.xlc: EN=41840 bytes, ES=72960 bytes; tamaños distintos; primer cambio común 0x3c; diferencia de longitud +31120 bytes
+  warrenreport/warrenreporttext/2.xlc: EN=53824 bytes, ES=97648 bytes; tamaños distintos; primer cambio común 0x14; diferencia de longitud +43824 bytes
+  warrenreport/warrenreporttext/3.xlc: EN=54848 bytes, ES=105328 bytes; tamaños distintos; primer cambio común 0x14; diferencia de longitud +50480 bytes
+  warrenreport/warrenreporttext/4.xlc: EN=336 bytes, ES=576 bytes; tamaños distintos; primer cambio común 0x15; diferencia de longitud +240 bytes
+  warrenreport/warrenreporttext/5.xlc: EN=208 bytes, ES=208 bytes; idénticos
+  warrenreport/warrenreporttext/6.xlc: EN=3456 bytes, ES=3456 bytes; idénticos
+  warrenreport/warrenreporttext/7.xlc: EN=608 bytes, ES=608 bytes; idénticos
