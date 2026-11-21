@@ -10,7 +10,7 @@ Grupos con traducción y apariciones pendientes: 204
 Grupos completamente traducidos: 10998
 Grupos con variantes españolas para revisar: 975
 
-Validación contra inglés original: coincidencias=18056, ubicaciones no encontradas/duplicadas=5158, textos ingleses distintos=221
+Validación contra inglés original: coincidencias=23435, ubicaciones no encontradas/duplicadas=0, textos ingleses distintos=0
 Normalización del hash: elimina solo el {span ...} inicial y todos los {w}; conserva mayúsculas, espacios, saltos de línea y demás marcadores.
 Las ubicaciones contienen copias completas de cada fila del CSV de trabajo.
 El CSV de trabajo original nunca se modifica.
