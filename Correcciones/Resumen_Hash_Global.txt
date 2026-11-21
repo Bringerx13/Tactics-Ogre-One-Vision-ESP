@@ -1,0 +1,16 @@
+CSV de trabajo: E:\Tactics ogre\Gibbed_English_CSV\Tactics_Ogre_espanol_neutral_espacios.csv
+CSV inglés original: E:\Tactics ogre\Gibbed_English_CSV\Tactics_Ogre_Textos_English_Original.csv
+Registros leídos: 23435
+Ubicaciones únicas verificadas: 23435
+Textos sin inglés omitidos: 3
+Hashes únicos generados: 17651
+Apariciones agrupadas: 23432
+Grupos sin traducción: 5474
+Grupos con traducción y apariciones pendientes: 204
+Grupos completamente traducidos: 10998
+Grupos con variantes españolas para revisar: 975
+
+Validación contra inglés original: coincidencias=18056, ubicaciones no encontradas/duplicadas=5158, textos ingleses distintos=221
+Normalización del hash: elimina solo el {span ...} inicial y todos los {w}; conserva mayúsculas, espacios, saltos de línea y demás marcadores.
+Las ubicaciones contienen copias completas de cada fila del CSV de trabajo.
+El CSV de trabajo original nunca se modifica.
