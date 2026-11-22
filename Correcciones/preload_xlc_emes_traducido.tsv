@@ -1,0 +1,258 @@
+﻿preload_index	dir_id	file_id	subpath_pakd	ruta_gibbed	tipo	fila	columna	id_entrada	nid	offset_preload	estado	coincide_csv_por_ubicacion	texto_preload	texto_bin_principal	texto_ingles_csv	bytes_preload	bytes_bin_principal	sha_preload	sha_bin_principal	texto_español_preload
+2	500	10241	7	menu/menu_data/7.xlc	XLC	56	0			0x1471	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 7a01 09 08}Sidearms	{span 02 7a01 09 08}Blowguns	{span 02 7a01 09 08}Blowguns	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Armas cortas
+2	500	10241	7	menu/menu_data/7.xlc	XLC	60	0			0x14AC	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 6401 07 08}Lobber	{span 02 6401 07 08}Thrown	{span 02 6401 07 08}Thrown	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Lanzador
+2	500	10241	7	menu/menu_data/7.xlc	XLC	70	0			0x1547	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 7801 09 08}Treasure	{span 02 7801 09 08}Reagents	{span 02 7801 09 08}Reagents	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Reactivos
+2	500	10241	7	menu/menu_data/7.xlc	XLC	91	0			0x17EA	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 9801 0b 08}Art of War	{span 02 9801 0b 08}War Dances	{span 02 9801 0b 08}War Dances	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Arte de la guerra
+2	500	10241	7	menu/menu_data/7.xlc	XLC	227	0			0x28F9	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 9801 0b 08}Art of War	{span 02 9801 0b 08}War Dances	{span 02 9801 0b 08}War Dances	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Arte de la guerra
+2	500	10241	7	menu/menu_data/7.xlc	XLC	227	4			0x290A	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 dc01 28 08}Perform a feat of skill or guile.      	{span 04 dc01 28 08}Perform a war dance. Requires reagents.	{span 04 dc01 28 08}Perform a war dance. Requires reagents.	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Realiza una hazaña de destreza o astucia.
+2	500	10241	7	menu/menu_data/7.xlc	XLC	325	0			0x442B	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 9801 0b 08}Art of War	{span 02 9801 0b 08}War Dances	{span 02 9801 0b 08}War Dances	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Arte de la guerra
+2	500	10241	7	menu/menu_data/7.xlc	XLC	325	4			0x443C	TEXTO_PRELOAD_DIFERENTE	NO	{span 08 f802 1b 08}Perform a feat of skill or guile with varied effects on nearby units. Requires TP.       	{span 08 f802 1b 08}Perform magical dances that have a variety of effects on nearby units. Requires reagents.	{span 08 f802 1b 08}Perform magical dances that have a variety of effects on nearby units. Requires reagents.	18160	18160	4c55e8268ce9d51c585e80213fecc3c107cc93b74bf50adb53cb264a5693b681	4124f84c2caca4cb43b22704de4c0a478796ec50311b187c0d82edd4b00e3ff9	Realiza una hazaña de destreza o astucia con diversos efectos sobre las unidades cercanas. Requiere PT.
+2	500	10241	8	menu/menu_data/8.xlc	XLC	35	0			0xAC6	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 c401 0e 08}PASSIVE BONUS	{span 02 c401 0e 08}DEBUFF RESIST	{span 02 c401 0e 08}DEBUFF RESIST	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	BONIFICACIÓN PASIVA
+2	500	10241	8	menu/menu_data/8.xlc	XLC	36	0			0xADB	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 6c01 07 08}ON USE	{span 02 6c01 07 08}EFFECT	{span 02 6c01 07 08}EFFECT	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	AL USAR
+2	500	10241	8	menu/menu_data/8.xlc	XLC	174	0			0x1484	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 a201 24 08}Tactics Ogre: One Vision v1.11d    	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	Tactics Ogre: One Vision v1.11d
+2	500	10241	8	menu/menu_data/8.xlc	XLC	177	0			0x152A	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 a201 24 08}Tactics Ogre: One Vision v1.11d    	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	Tactics Ogre: One Vision v1.11d
+2	500	10241	8	menu/menu_data/8.xlc	XLC	180	0			0x15B1	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 a201 24 08}Tactics Ogre: One Vision v1.11d    	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	Tactics Ogre: One Vision v1.11d
+2	500	10241	8	menu/menu_data/8.xlc	XLC	186	0			0x173A	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 a201 24 08}Tactics Ogre: One Vision v1.11d    	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	{span 04 a201 24 08}Tactics Ogre: Let Us Cling Together	7968	7968	82039996c6ab988cb1690a6c0772b65fa6ce72f0bcd7a434db07dddb9bc01323	5b5d43793792b1e643ecaa0ef8b8625ee3e362ee52122f607ae86dbec149a5fa	Tactics Ogre: One Vision v1.11d
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	2	4			0xC74	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 6842 1e 10}Weapon Type: Fists
+[LIGHT] Weapons for hand to hand combat, often laced with potent poison.  "	"{span 08 6842 1e 10}Weapon Type: Fists
+Fists are melee weapons worn on the hands to bolster hand-to-hand attacks."	"{span 08 6842 1e 10}Weapon Type: Fists
+Fists are melee weapons worn on the hands to bolster hand-to-hand attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Puños
+[LIGERO] Armas para el combate cuerpo a cuerpo, a menudo impregnadas de venenos potentes."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	3	4			0xCDA	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 5042 07 10}Weapon Type: Daggers
+[LIGHT] Short blades, used for fast assaults.    "	"{span 06 5042 07 10}Weapon Type: Daggers
+Daggers are melee weapons used to slash and stab."	"{span 06 5042 07 10}Weapon Type: Daggers
+Daggers are melee weapons used to slash and stab."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Dagas
+[LIGERO] Hojas cortas que se usan para ataques rápidos."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	4	4			0xD29	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 5242 22 10}Weapon Type: Swords (1H)
+[HEAVY] Medium length blades, light enough to be used with one hand.    "	"{span 08 5242 22 10}Weapon Type: Swords (1H)
+One-handed swords are melee weapons used primarily for slashing attacks."	"{span 08 5242 22 10}Weapon Type: Swords (1H)
+One-handed swords are melee weapons used primarily for slashing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Espadas de una mano
+[PESADO] Hojas de longitud media, lo bastante ligeras para usarse con una sola mano."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	5	4			0xD93	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 5842 22 10}Weapon Type: Swords (2H)
+[HEAVY] Long blades that require both hands to be used effectively.     "	"{span 08 5842 22 10}Weapon Type: Swords (2H)
+Two-handed swords are melee weapons used primarily for slashing attacks."	"{span 08 5842 22 10}Weapon Type: Swords (2H)
+Two-handed swords are melee weapons used primarily for slashing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Espadas de dos manos
+[PESADO] Hojas largas que requieren ambas manos para usarse con eficacia."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	6	4			0xDFD	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 ae42 0e 10}Weapon Type: Axes
+[HEAVY] Large cleaving blades, deadly in all situations.   "	"{span 06 ae42 0e 10}Weapon Type: Axes
+Axes are melee weapons used primarily for slashing attacks."	"{span 06 ae42 0e 10}Weapon Type: Axes
+Axes are melee weapons used primarily for slashing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Hachas
+[PESADO] Grandes hojas cortantes, letales en cualquier situación."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	8	4			0xE55	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 5442 1f 10}Weapon Type: Spears
+[HEAVY] Long melee weapons, capable of piercing multiple foes in a line.  "	"{span 08 5442 1f 10}Weapon Type: Spears
+Spears are melee weapons capable of piercing targets up to two tiles away."	"{span 08 5442 1f 10}Weapon Type: Spears
+Spears are melee weapons capable of piercing targets up to two tiles away."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Lanzas
+[PESADO] Armas largas de combate cuerpo a cuerpo, capaces de atravesar a varios enemigos en línea."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	9	4			0xEBC	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 be42 11 10}Weapon Type: Hammers
+[HEAVY] Massive blunt weapons, effective against armor.    "	"{span 06 be42 11 10}Weapon Type: Hammers
+Hammers are melee weapons used to deliver crushing attacks."	"{span 06 be42 11 10}Weapon Type: Hammers
+Hammers are melee weapons used to deliver crushing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Martillos
+[PESADO] Armas contundentes enormes, eficaces contra las armaduras."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	11	4			0xF17	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 4a42 22 10}Weapon Type: Katana (1H)
+[LIGHT] Short exotic blades, used to strike the target's vital points.  "	"{span 08 4a42 22 10}Weapon Type: Katana (1H)
+One-handed katana are melee weapons used primarily for slashing attacks."	"{span 08 4a42 22 10}Weapon Type: Katana (1H)
+One-handed katana are melee weapons used primarily for slashing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Katanas de una mano
+[LIGERO] Hojas exóticas cortas que se usan para atacar los puntos vitales del objetivo."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	12	4			0xF81	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 5042 22 10}Weapon Type: Katana (2H)
+[LIGHT] Long duelist blades, razor sharp and expertly balanced.         "	"{span 08 5042 22 10}Weapon Type: Katana (2H)
+Two-handed katana are melee weapons used primarily for slashing attacks."	"{span 08 5042 22 10}Weapon Type: Katana (2H)
+Two-handed katana are melee weapons used primarily for slashing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Katanas de dos manos
+[LIGERO] Hojas largas de duelo, muy afiladas y perfectamente equilibradas."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	13	4			0xFEB	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 b642 11 10}Weapon Type: Cudgels
+[FOCUS] Blunt pole weapons, used to augment magic ability. "	"{span 06 b642 11 10}Weapon Type: Cudgels
+Cudgels are melee weapons used to deliver crushing attacks."	"{span 06 b642 11 10}Weapon Type: Cudgels
+Cudgels are melee weapons used to deliver crushing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Garrotes
+[ENFOQUE] Armas de asta contundentes que se usan para potenciar la magia."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	15	4			0x1046	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0a 3a42 33 10}Weapon Type: Whips
+[LIGHT] Light, flexible weapons, capable of accurately hitting targets behind obstacles.       "	"{span 0a 3a42 33 10}Weapon Type: Whips
+Whips are melee weapons capable of delivering crushing attacks to targets up to two tiles away."	"{span 0a 3a42 33 10}Weapon Type: Whips
+Whips are melee weapons capable of delivering crushing attacks to targets up to two tiles away."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Látigos
+[LIGERO] Armas ligeras y flexibles, capaces de alcanzar con precisión a objetivos detrás de obstáculos."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	16	4			0x10C1	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 d242 17 10}Weapon Type: Spellbooks
+[FOCUS] Ancient manuscripts, able to send telekinetic blasts. "	"{span 06 d242 17 10}Weapon Type: Spellbooks
+Spellbooks are melee weapons used to deliver crushing attacks."	"{span 06 d242 17 10}Weapon Type: Spellbooks
+Spellbooks are melee weapons used to deliver crushing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Libros de hechizos
+[ENFOQUE] Manuscritos antiguos capaces de lanzar descargas telequinéticas."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	17	4			0x1120	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 3242 21 10}Weapon Type: Instruments
+[FOCUS] Reinforced implements of art, used to mesmerize the audience.  "	"{span 08 3242 21 10}Weapon Type: Instruments
+Musical instruments are melee weapons used to deliver crushing attacks."	"{span 08 3242 21 10}Weapon Type: Instruments
+Musical instruments are melee weapons used to deliver crushing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Instrumentos
+[ENFOQUE] Instrumentos musicales reforzados que se usan para hipnotizar al público."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	18	4			0x1189	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0a 1042 32 10}Weapon Type: Sidearms
+[LIGHT] Ranged weapons carried by skirmishers or as backup to a melee weapon of choice.    "	"{span 0a 1042 32 10}Weapon Type: Blowguns
+Blowguns are ranged weapons with a straight trajectory. Many blowguns also inflict debuffs."	"{span 0a 1042 32 10}Weapon Type: Blowguns
+Blowguns are ranged weapons with a straight trajectory. Many blowguns also inflict debuffs."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Armas cortas
+[LIGERO] Armas a distancia que llevan los hostigadores o que sirven de respaldo al arma cuerpo a cuerpo elegida."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	19	4			0x1203	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0a f843 04 10}Weapon Type: Bows
+[LIGHT] Ranged weapons with an arched trajectory that varies with the distance and elevation difference.        "	"{span 0a f843 04 10}Weapon Type: Bows
+Bows are ranged weapons with an arched trajectory that varies with the distance and terrain cover of the target."	"{span 0a f843 04 10}Weapon Type: Bows
+Bows are ranged weapons with an arched trajectory that varies with the distance and terrain cover of the target."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Arcos
+[LIGERO] Armas a distancia de trayectoria parabólica, que varía según la distancia y la diferencia de altura."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	20	4			0x128E	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 9c42 10 10}Weapon Type: Crossbows
+[LIGHT] Powerful, straight trajectory ranged weapons.   "	"{span 06 9c42 10 10}Weapon Type: Crossbows
+Crossbows are ranged weapons with a straight trajectory."	"{span 06 9c42 10 10}Weapon Type: Crossbows
+Crossbows are ranged weapons with a straight trajectory."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Ballestas
+[LIGERO] Potentes armas a distancia de trayectoria recta."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	21	4			0x12E6	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 6442 0a 10}Weapon Type: Fusils
+[LIGHT] Powerful ranged weapons that use blackpowder."	"{span 06 6442 0a 10}Weapon Type: Fusils
+Fusils are ranged weapons with a straight trajectory."	"{span 06 6442 0a 10}Weapon Type: Fusils
+Fusils are ranged weapons with a straight trajectory."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Fusiles
+[LIGERO] Potentes armas a distancia que utilizan pólvora negra."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	22	4			0x1338	TEXTO_PRELOAD_DIFERENTE	NO	"{span 10 1443 37 10}Weapon Type: Lobber
+Specialized gloves used to deliver curatives to distant targets. With higher alchemy skill they can also be used to dispense explosive charges.                  "	"{span 10 1443 37 10}Weapon Type: Thrown
+Thrown weapons travel in an arched trajectory that varies with the distance and terrain cover of the target. Thrown items are removed from the party's inventory."	"{span 10 1443 37 10}Weapon Type: Thrown
+Thrown weapons travel in an arched trajectory that varies with the distance and terrain cover of the target. Thrown items are removed from the party's inventory."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de arma: Lanzador
+Guantes especializados que permiten lanzar objetos curativos a objetivos distantes. Con un mayor nivel de alquimia, también pueden usarse para lanzar cargas explosivas."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	23	4			0x13F6	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0a c043 04 10}Armor Type: Shields
+[BASH] Shields are held in one hand. They can be used to defend or to deliver crushing attacks.               "	"{span 0a c043 04 10}Armor Type: Shields
+Shields are held in one hand. In addition to raising defense (DEF), shields can also deliver crushing attacks."	"{span 0a c043 04 10}Armor Type: Shields
+Shields are held in one hand. In addition to raising defense (DEF), shields can also deliver crushing attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Tipo de armadura: Escudos
+[CONTUNDENTE] Los escudos se sostienen con una mano. Se pueden usar para defenderse o para ejecutar ataques contundentes."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	37	4			0x1718	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 3a01 17 08}CRUSHING damage %bonus	{span 04 3a01 17 08}Deals CRUSHING damage.	{span 04 3a01 17 08}Deals CRUSHING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño CONTUNDENTE %bonus
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	38	4			0x1736	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 3401 17 08}SLASHING damage %bonus	{span 04 3401 17 08}Deals SLASHING damage.	{span 04 3401 17 08}Deals SLASHING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño CORTANTE %bonus
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	39	4			0x1754	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 2a01 17 08}PIERCING damage %bonus	{span 04 2a01 17 08}Deals PIERCING damage.	{span 04 2a01 17 08}Deals PIERCING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño PERFORANTE %bonus
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	52	4			0x18F0	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 e201 28 08}Base damage %bonus against HUMAN units.	{span 04 e201 28 08}Deals additional damage to HUMAN units.	{span 04 e201 28 08}Deals additional damage to HUMAN units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo HUMANO.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	53	4			0x191F	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 da01 28 08}Base damage %bonus against BEAST units.	{span 04 da01 28 08}Deals additional damage to BEAST units.	{span 04 da01 28 08}Deals additional damage to BEAST units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo BESTIA.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	54	4			0x194E	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 ec01 2a 08}Base damage %bonus against REPTILE units.	{span 04 ec01 2a 08}Deals additional damage to REPTILE units.	{span 04 ec01 2a 08}Deals additional damage to REPTILE units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo REPTIL.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	55	4			0x197F	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 f201 29 08}Base damage %bonus against DRAGON units.	{span 04 f201 29 08}Deals additional damage to DRAGON units.	{span 04 f201 29 08}Deals additional damage to DRAGON units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo DRAGÓN.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	56	4			0x19AF	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 da01 29 08}Base damage %bonus against DIVINE units.	{span 04 da01 29 08}Deals additional damage to DIVINE units.	{span 04 da01 29 08}Deals additional damage to DIVINE units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo DIVINO.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	57	4			0x19DF	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 e001 28 08}Base damage %bonus against UMBRA units.	{span 04 e001 28 08}Deals additional damage to UMBRA units.	{span 04 e001 28 08}Deals additional damage to UMBRA units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo UMBRA.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	58	4			0x1A0E	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 de01 29 08}Base damage %bonus against FAERIE units.	{span 04 de01 29 08}Deals additional damage to FAERIE units.	{span 04 de01 29 08}Deals additional damage to FAERIE units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo HADA.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	59	4			0x1A3E	TEXTO_PRELOAD_DIFERENTE	NO	{span 06 0401 2a 08}Base damage %bonus against PHANTOM units.	{span 06 0401 2a 08}Deals additional damage to PHANTOM units.	{span 06 0401 2a 08}Deals additional damage to PHANTOM units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo FANTASMA.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	60	4			0x1A6F	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 e001 28 08}Base damage %bonus against GOLEM units.	{span 04 e001 28 08}Deals additional damage to GOLEM units.	{span 04 e001 28 08}Deals additional damage to GOLEM units.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Daño base %bonus contra unidades de tipo GÓLEM.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	190	4			0x3C26	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0a 4c42 1f 10}Weight
+The unit's base RT is increased by this amount. A red number indicates negative weight."	"{span 0a 4c42 27 10}Weight
+The amount by which a piece of equipment increases RT. A red number indicates RT will decrease."	"{span 0a 4c42 27 10}Weight
+The amount by which a piece of equipment increases RT. A red number indicates RT will decrease."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Peso
+La TE base de la unidad aumenta en esta cantidad. Un número rojo indica un peso negativo."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	191	4			0x3C95	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 4842 11 10}RT Delay
+Using the weapon or skill/spell will add this amount to the RT counter."	"{span 08 4842 12 10}RT Delay
+The amount by which an action will increase a unit's RT (Recovery Time)."	"{span 08 4842 12 10}RT Delay
+The amount by which an action will increase a unit's RT (Recovery Time)."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Retraso de TE
+Al usar el arma o la habilidad/hechizo, se suma esta cantidad al contador de TE."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	192	4			0x3CEF	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 b842 15 10}ATK (Attack)
+The amount of extra damage added to the unit's melee or ranged attacks."	"{span 08 b842 1f 10}ATK (Attack)
+The equipment's base attack power. The higher the number, the greater the damage."	"{span 08 b842 1f 10}ATK (Attack)
+The equipment's base attack power. The higher the number, the greater the damage."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"ATK (Ataque)
+Cantidad de daño adicional que se suma a los ataques cuerpo a cuerpo o a distancia de la unidad."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	193	4			0x3D56	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 ec42 11 10}DEF (Defense)
+The amount of damage removed from all incoming attacks and spells."	"{span 08 ec42 25 10}DEF (Defense)
+The equipment's base defense. The higher the number, the greater the damage reduction."	"{span 08 ec42 25 10}DEF (Defense)
+The equipment's base defense. The higher the number, the greater the damage reduction."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"DEF (Defensa)
+Cantidad de daño que se reduce de todos los ataques y hechizos recibidos."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	197	4			0x3F9F	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 1e41 32 10}Strength
+++ HEAVY ATTACK
++ LIGHT ATTACK  + DEFENSE"	"{span 06 1e41 38 10}STR (Strength)
+Affects melee and ranged PHYSICAL ATTACK."	"{span 06 1e41 38 10}STR (Strength)
+Affects melee and ranged PHYSICAL ATTACK."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Fuerza
+++ ATAQUE PESADO
++ ATAQUE LIGERO  + DEFENSA"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	198	4			0x3FE0	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 9641 13 10}Vitality
+++ DEFENSE"	"{span 04 9641 2f 10}VIT (Vitality)
+Affects DEFENSE against attacks."	"{span 04 9641 2f 10}VIT (Vitality)
+Affects DEFENSE against attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Vitalidad
+++ DEFENSA"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	199	4			0x4018	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 6241 3d 10}Dexterity
+++ LIGHT ATTACK
++ HEAVY/FOCUS ATTACK  + ACC + EVADE"	"{span 06 6241 3d 10}DEX (Dexterity)
+Affects melee and ranged ACCURACY and ATTACK."	"{span 06 6241 3d 10}DEX (Dexterity)
+Affects melee and ranged ACCURACY and ATTACK."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Destreza
+++ ATAQUE LIGERO
++ ATAQUE PESADO/DE ENFOQUE  + PRECISIÓN + EVASIÓN"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	200	4			0x405E	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 a441 13 10}Agility
+++ ACCURACY"	"{span 04 a441 2f 10}AGIL (Agility)
+Affects the ACCURACY of attacks."	"{span 04 a441 2f 10}AGIL (Agility)
+Affects the ACCURACY of attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Agilidad
+++ PRECISIÓN"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	201	4			0x4096	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 8041 22 10}Avoidance
+++ EVADE  ++ SPELL EVADE"	"{span 06 8042 06 10}AVD (Avoidance)
+Affects the ability to AVOID ATTACKS while defending."	"{span 06 8042 06 10}AVD (Avoidance)
+Affects the ability to AVOID ATTACKS while defending."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Evasión
+++ EVASIÓN  ++ EVASIÓN DE HECHIZOS"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	202	4			0x40E4	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 fa41 2e 10}Intelligence
+++ SPELL DAMAGE
++ SPELL ACC  + FOCUS ATTACK"	"{span 04 fa41 3b 10}INT (Intelligence)
+Affects the strength of OFFENSIVE MAGIC."	"{span 04 fa41 3b 10}INT (Intelligence)
+Affects the strength of OFFENSIVE MAGIC."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Inteligencia
+++ DAÑO DE HECHIZOS
++ PRECISIÓN DE HECHIZOS  + ATAQUE DE ENFOQUE"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	203	4			0x4128	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 6842 07 10}Mind
+++ SPELL ACCURACY  + FOCUS ATTACK
++ SPELL DAMAGE  + SPELL EVADE  + SPELL DEF"	"{span 08 6842 15 10}MIND (Mind)
+Affects the success of SPECIAL SKILLS and offensive and defensive MAGIC."	"{span 08 6842 15 10}MIND (Mind)
+Affects the success of SPECIAL SKILLS and offensive and defensive MAGIC."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Mente
+++ PRECISIÓN DE HECHIZOS  + ATAQUE DE ENFOQUE
++ DAÑO DE HECHIZOS  + EVASIÓN DE HECHIZOS  + DEFENSA MÁGICA"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	204	4			0x4185	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 b641 1b 10}Resistance
+++ SPELL DEFENSE"	"{span 04 b641 35 10}RES (Resistance)
+Affects the ability to RESIST MAGIC."	"{span 04 b641 35 10}RES (Resistance)
+Affects the ability to RESIST MAGIC."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Resistencia
+++ DEFENSA MÁGICA"
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	207	4			0x4257	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 9241 31 10}Passive Bonus
+Effect gained by equipping the item"	"{span 04 9241 31 10}Debuff Resist
+Debuffs nullified by the equipment."	"{span 04 9241 31 10}Debuff Resist
+Debuffs nullified by the equipment."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Bonificación pasiva
+Efecto que se obtiene al equipar el objeto."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	239	4			0x4C8F	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 4041 3e 10}HP (Health Points)
+If HP reaches 0, the unit is INCAPACITATED."	"{span 08 4042 17 10}HP (Current/Max)
+The unit's HEALTH POINTS. If HP reaches 0, the unit is INCAPACITATED."	"{span 08 4042 17 10}HP (Current/Max)
+The unit's HEALTH POINTS. If HP reaches 0, the unit is INCAPACITATED."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"PS (Puntos de salud)
+Si los PS llegan a 0, la unidad queda INCAPACITADA."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	240	4			0x4CEE	TEXTO_PRELOAD_DIFERENTE	NO	"{span 08 aa42 16 10}MP (Magic Points)
+Units accumulate MP slowly over time or by use of items and skills."	"{span 08 aa42 22 10}MP (Current/Max)
+The unit's MAGIC POINTS. Units accumulate MP slowly over the course of a battle."	"{span 08 aa42 22 10}MP (Current/Max)
+The unit's MAGIC POINTS. Units accumulate MP slowly over the course of a battle."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"PM (Puntos mágicos)
+Las unidades acumulan PM lentamente con el tiempo o al usar objetos y habilidades."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	241	4			0x4D58	TEXTO_PRELOAD_DIFERENTE	NO	"{span 0c 7842 31 10}TP (Tactical Points)
+Units accumulate TP slowly over time and by dealing or receiving damage from basic attacks."	"{span 0c 7843 0a 10}TP (Current/Max)
+The unit's TACTICAL POINTS. Units accumulate TP slowly over the course of a battle and as they deal and receive damage."	"{span 0c 7843 0a 10}TP (Current/Max)
+The unit's TACTICAL POINTS. Units accumulate TP slowly over the course of a battle and as they deal and receive damage."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"PT (Puntos tácticos)
+Las unidades acumulan PT lentamente con el tiempo y al infligir o recibir daño de ataques básicos."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	244	4			0x4E86	TEXTO_PRELOAD_DIFERENTE	NO	{span 0a 9802 2d 08}Unit's base stats before modifying for class level. Pick up tarot and use monster food to raise base stats.	{span 0a 9802 2e 08}Unit's base stats before modifying for class level. Gain levels and use tarot cards to raise a unit's stats.	{span 0a 9802 2e 08}Unit's base stats before modifying for class level. Gain levels and use tarot cards to raise a unit's stats.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Estadísticas base de la unidad antes de aplicar los modificadores del nivel de clase. Recoge cartas del tarot y usa alimento para monstruos para aumentar las estadísticas base.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	246	4			0x4F3D	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 9a42 05 10}Melee Attack
+The sum of base DAMAGE from stats and weapon/class ATK."	"{span 06 9a42 05 10}Melee Attack
+Combined melee attack derived from equipment and class."	"{span 06 9a42 05 10}Melee Attack
+Combined melee attack derived from equipment and class."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Ataque cuerpo a cuerpo
+Suma del DAÑO base de los atributos y del ATK del arma/clase."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	247	4			0x4F8A	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 9642 06 10}Ranged Attack
+The sum of base DAMAGE from stats and weapon/class ATK."	"{span 06 9642 06 10}Ranged Attack
+Combined range attack derived from equipment and class."	"{span 06 9642 06 10}Ranged Attack
+Combined range attack derived from equipment and class."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Ataque a distancia
+Suma del DAÑO base de los atributos y del ATK del arma/clase."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	248	4			0x4FD8	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 4a41 35 10}Magic Power
+The unit's base DAMAGE when using spells."	"{span 06 4a41 36 10}Magic
+Combined magic derived from equipment and class."	"{span 06 4a41 36 10}Magic
+Combined magic derived from equipment and class."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Poder mágico
+DAÑO base de la unidad al usar hechizos."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	249	4			0x5017	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 0a41 30 10}Defense
+DEFENSE total from stats and gear/class."	"{span 06 0a41 32 10}Defense
+Combined defense from equipment and class."	"{span 06 0a41 32 10}Defense
+Combined defense from equipment and class."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Defensa
+DEFENSA total de los atributos y del equipo/clase."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	250	4			0x5052	TEXTO_PRELOAD_DIFERENTE	NO	"{span 06 3641 3c 10}Magic Defense
+MAGIC DEFENSE total from stats and gear/class."	"{span 06 3641 3c 10}Magic Resist
+Combined magic resist from equipment and class."	"{span 06 3641 3c 10}Magic Resist
+Combined magic resist from equipment and class."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Defensa mágica
+DEFENSA MÁGICA total de los atributos y del equipo/clase."
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	366	4			0x6972	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 d201 12 08}AIR %resistance. 	{span 02 d201 12 08}Resistant to AIR.	{span 02 d201 12 08}Resistant to AIR.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al AIRE: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	367	4			0x698B	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 f801 14 08}EARTH %resistance. 	{span 02 f801 14 08}Resistant to EARTH.	{span 02 f801 14 08}Resistant to EARTH.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia a la TIERRA: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	368	4			0x69A6	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 2601 18 08}LIGHTNING %resistance. 	{span 04 2601 18 08}Resistant to LIGHTNING.	{span 04 2601 18 08}Resistant to LIGHTNING.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al RAYO: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	369	4			0x69C5	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 fc01 14 08}WATER %resistance. 	{span 02 fc01 14 08}Resistant to WATER.	{span 02 fc01 14 08}Resistant to WATER.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al AGUA: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	370	4			0x69E0	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 de01 13 08}FIRE %resistance. 	{span 02 de01 13 08}Resistant to FIRE.	{span 02 de01 13 08}Resistant to FIRE.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al FUEGO: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	371	4			0x69FA	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 d201 12 08}ICE %resistance. 	{span 02 d201 12 08}Resistant to ICE.	{span 02 d201 12 08}Resistant to ICE.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al HIELO: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	372	4			0x6A13	TEXTO_PRELOAD_DIFERENTE	NO	{span 06 4601 33 08}LIGHT %resistance.                                	{span 06 4601 33 08}Strength in the Light provides resistance to DARK.	{span 06 4601 33 08}Strength in the Light provides resistance to DARK.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia a la LUZ: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	373	4			0x6A4D	TEXTO_PRELOAD_DIFERENTE	NO	{span 06 4401 33 08}DARK %resistance.                                 	{span 06 4401 33 08}Strength in the Dark provides resistance to LIGHT.	{span 06 4401 33 08}Strength in the Dark provides resistance to LIGHT.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia a la OSCURIDAD: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	376	4			0x6AE1	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 8201 1e 08}CRUSHING damage %resistance. 	{span 04 8201 1e 08}Resistant to CRUSHING damage.	{span 04 8201 1e 08}Resistant to CRUSHING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al daño CONTUNDENTE: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	377	4			0x6B06	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 7c01 1e 08}SLASHING damage %resistance. 	{span 04 7c01 1e 08}Resistant to SLASHING damage.	{span 04 7c01 1e 08}Resistant to SLASHING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al daño CORTANTE: %resistance.
+2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	378	4			0x6B2B	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 7201 1e 08}PIERCING damage %resistance. 	{span 04 7201 1e 08}Resistant to PIERCING damage.	{span 04 7201 1e 08}Resistant to PIERCING damage.	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	Resistencia al daño PERFORANTE: %resistance.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	1	4			0x53B	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}Additional hit. 	{span 04 1401 11 08}PROCESS_TYPE_001	{span 04 1401 11 08}PROCESS_TYPE_001	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Golpe adicional.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	2	4			0x569	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}HP Restore.     	{span 04 1401 11 08}PROCESS_TYPE_002	{span 04 1401 11 08}PROCESS_TYPE_002	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Restauración de PS.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	4	4			0x5AF	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}MP Damage.      	{span 04 1401 11 08}PROCESS_TYPE_004	{span 04 1401 11 08}PROCESS_TYPE_004	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Daño de PM.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	5	4			0x5DD	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}MP Restore.     	{span 04 1401 11 08}PROCESS_TYPE_005	{span 04 1401 11 08}PROCESS_TYPE_005	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Restauración de PM.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	6	4			0x5FF	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}MP Reset.       	{span 04 1401 11 08}PROCESS_TYPE_006	{span 04 1401 11 08}PROCESS_TYPE_006	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Reinicio de PM.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	8	4			0x645	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}TP damage.      	{span 04 1401 11 08}PROCESS_TYPE_008	{span 04 1401 11 08}PROCESS_TYPE_008	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Daño de PT.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	9	4			0x673	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}TP restore.     	{span 04 1401 11 08}PROCESS_TYPE_009	{span 04 1401 11 08}PROCESS_TYPE_009	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Restauración de PT.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	10	4			0x695	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}TP reset.       	{span 04 1401 11 08}PROCESS_TYPE_010	{span 04 1401 11 08}PROCESS_TYPE_010	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Reinicio de PT.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	12	0			0x6C4	TEXTO_PRELOAD_DIFERENTE	NO	{span 02 9e01 0d 08}RT Delay    	{span 02 9e01 0d 08}RT Increased	{span 02 9e01 0d 08}RT Increased	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Retraso de TE
+2	500	10241	18	menu/menu_data/18.xlc	XLC	12	4			0x6D7	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}Delays RT count.	{span 04 1401 11 08}PROCESS_TYPE_012	{span 04 1401 11 08}PROCESS_TYPE_012	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Retrasa el contador de TE.
+2	500	10241	18	menu/menu_data/18.xlc	XLC	14	4			0x72F	TEXTO_PRELOAD_DIFERENTE	NO	{span 04 1401 11 08}Resets RT count.	{span 04 1401 11 08}PROCESS_TYPE_014	{span 04 1401 11 08}PROCESS_TYPE_014	6432	6432	678cc8437ff1762161a1c4a9b8c47df3eacfaaa3c7c8d041d55788ede4309d4e	7d922dc5ebff773a18f01bf6f8f5a132e690f6dce2f02f8137ff717afcadade6	Restablece el contador de TE.
