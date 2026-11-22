@@ -420,7 +420,7 @@ battle/battle_data_release/class_text.xlc,XLC,3,4,,,{span 02 5c01 07 08}Wizard,2
 battle/battle_data_release/class_text.xlc,XLC,4,4,,,{span 02 5401 07 08}Cleric,26,{span 02 5401 07 08},Clérigo
 battle/battle_data_release/class_text.xlc,XLC,5,4,,,{span 02 9e01 0b 08}Spellblade,31,{span 02 9e01 0b 08},Espadachín Mágico
 battle/battle_data_release/class_text.xlc,XLC,6,4,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},Caballero
-battle/battle_data_release/class_text.xlc,XLC,7,4,,,{span 02 ac01 0e 08}Terror Knight,33,{span 02 ac01 0e 08},Caballero del Terror
+battle/battle_data_release/class_text.xlc,XLC,7,4,,,{span 02 ac01 0e 08}Terror Knight,33,{span 02 ac01 0e 08},Caballero Tétrico
 battle/battle_data_release/class_text.xlc,XLC,8,4,,,{span 02 8001 0a 08}Berserker,29,{span 02 8001 0a 08},Berserker
 battle/battle_data_release/class_text.xlc,XLC,9,4,,,{span 02 a601 0c 08}Swordmaster,31,{span 02 a601 0c 08},Maestro Espadachín
 battle/battle_data_release/class_text.xlc,XLC,10,4,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Caballero Dragón
@@ -471,12 +471,12 @@ battle/battle_data_release/class_text.xlc,XLC,66,4,,,{span 02 e601 11 08}Geomanc
 battle/battle_data_release/class_text.xlc,XLC,67,4,,,{span 02 e601 11 08}Sword Saint,36,{span 02 e601 11 08},Santo de la Espada
 battle/battle_data_release/class_text.xlc,XLC,68,4,,,{span 02 e601 11 08}Enchanter,36,{span 02 e601 11 08},Encantador
 battle/battle_data_release/class_text.xlc,XLC,69,4,,,{span 02 e601 11 08}Headhunter,36,{span 02 e601 11 08},Cazador
-battle/battle_data_release/class_text.xlc,XLC,70,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballero Comandante
-battle/battle_data_release/class_text.xlc,XLC,71,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballero Comandante
-battle/battle_data_release/class_text.xlc,XLC,72,4,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},Templario de la Muerte
+battle/battle_data_release/class_text.xlc,XLC,70,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Cab. Comandante
+battle/battle_data_release/class_text.xlc,XLC,71,4,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Cab. Comandante
+battle/battle_data_release/class_text.xlc,XLC,72,4,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},Templario Mortal
 battle/battle_data_release/class_text.xlc,XLC,73,4,,,{span 02 9601 0c 08}Harbinger,31,{span 02 9601 0c 08},Heraldo
 battle/battle_data_release/class_text.xlc,XLC,74,4,,,{span 02 7401 09 08}Commando,28,{span 02 7401 09 08},Comando
-battle/battle_data_release/class_text.xlc,XLC,75,4,,,{span 02 a401 0d 08}Death Knight,32,{span 02 a401 0d 08},Caballero de la Muerte
+battle/battle_data_release/class_text.xlc,XLC,75,4,,,{span 02 a401 0d 08}Death Knight,32,{span 02 a401 0d 08},Caballero Mortal
 battle/battle_data_release/class_text.xlc,XLC,76,4,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},Monarca Oscuro
 battle/battle_data_release/class_text.xlc,XLC,77,4,,,{span 02 7c01 0a 08}Dark Lord,29,{span 02 7c01 0a 08},Monarca Oscuro
 battle/battle_data_release/class_text.xlc,XLC,78,4,,,{span 02 7a01 09 08}Revenant,28,{span 02 7a01 09 08},Renacido
@@ -500,7 +500,7 @@ battle/battle_data_release/class_text.xlc,XLC,97,4,,,{span 02 7801 09 08}Summone
 battle/battle_data_release/class_text.xlc,XLC,98,4,,,{span 02 be01 11 08}Assassin,36,{span 02 be01 11 08},Asesino
 battle/battle_data_release/class_text.xlc,XLC,99,4,,,{span 02 be01 11 08}False Hierophant,36,{span 02 be01 11 08},Falso Hierofante
 battle/battle_data_release/class_text.xlc,XLC,100,4,,,{span 02 be01 11 08}Fleeing Villager,36,{span 02 be01 11 08},Aldeano en Fuga
-battle/battle_data_release/class_text.xlc,XLC,101,4,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},Superviviente de Vasque
+battle/battle_data_release/class_text.xlc,XLC,101,4,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},Exiliado de Vasque
 battle/battle_data_release/class_text.xlc,XLC,102,4,,,{span 02 9601 0b 08}Hanged Man,30,{span 02 9601 0b 08},Ahorcado
 battle/battle_data_release/class_text.xlc,XLC,103,4,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},Espectro
 battle/battle_data_release/class_text.xlc,XLC,111,4,,,{span 02 7c01 0a 08}Gladiator,29,{span 02 7c01 0a 08},Gladiador
@@ -532,10 +532,10 @@ battle/battle_data_release/class_text.xlc,XLC,138,4,,,{span 02 7401 09 08}Cherub
 battle/battle_data_release/class_text.xlc,XLC,139,4,,,{span 02 6401 08 08}Incubus,27,{span 02 6401 08 08},Íncubo
 battle/battle_data_release/class_text.xlc,XLC,140,4,,,{span 02 9201 0a 08}Scarecrow,29,{span 02 9201 0a 08},Espantapájaros
 battle/battle_data_release/class_text.xlc,XLC,151,4,,,{span 02 bc01 0f 08}Bjartskular,34,{span 02 bc01 0f 08},Bjartskular
-battle/battle_data_release/class_text.xlc,XLC,152,4,,,{span 02 a201 0c 08}Deathwyrm,31,{span 02 a201 0c 08},Dragón de la Muerte
+battle/battle_data_release/class_text.xlc,XLC,152,4,,,{span 02 a201 0c 08}Deathwyrm,31,{span 02 a201 0c 08},Dragón Mortífero
 battle/battle_data_release/class_text.xlc,XLC,153,4,,,{span 02 5601 07 08}Scylla,26,{span 02 5601 07 08},Escila
 battle/battle_data_release/class_text.xlc,XLC,154,4,,,{span 02 4a01 05 08}Naga,24,{span 02 4a01 05 08},Naga
-battle/battle_data_release/class_text.xlc,XLC,155,4,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},Gólem de Acero Damasco
+battle/battle_data_release/class_text.xlc,XLC,155,4,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},Gólem de Damasco
 battle/battle_data_release/class_text.xlc,XLC,156,4,,,{span 02 9401 0c 08}Flesh Golem,31,{span 02 9401 0c 08},Gólem de Carne
 battle/battle_data_release/class_text.xlc,XLC,157,4,,,{span 02 9001 0b 08}Hippogryph,30,{span 02 9001 0b 08},Hipogrifo
 battle/battle_data_release/class_text.xlc,XLC,158,4,,,{span 02 6601 08 08}Phoenix,27,{span 02 6601 08 08},Fénix
@@ -575,12 +575,12 @@ battle/battle_data_release/class_text.xlc,XLC,5,8,,,{span 02 6c01 09 08}Valkyrie
 battle/battle_data_release/class_text.xlc,XLC,6,8,,,{span 02 5e01 07 08}Knight,26,{span 02 5e01 07 08},Dama
 battle/battle_data_release/class_text.xlc,XLC,7,8,,,{span 02 ac01 0e 08}Terror Knight,33,{span 02 ac01 0e 08},Dama del Terror
 battle/battle_data_release/class_text.xlc,XLC,8,8,,,{span 02 8001 06 08}Maenad,29,{span 02 8001 06 08},Ménade
-battle/battle_data_release/class_text.xlc,XLC,9,8,,,{span 02 a601 0c 08}Blademaiden,31,{span 02 a601 0c 08},Doncella de la Espada
+battle/battle_data_release/class_text.xlc,XLC,9,8,,,{span 02 a601 0c 08}Blademaiden,31,{span 02 a601 0c 08},Doncella Espada
 battle/battle_data_release/class_text.xlc,XLC,10,8,,,{span 02 7201 08 08}Dragoon,27,{span 02 7201 08 08},Caballera Dragón
 battle/battle_data_release/class_text.xlc,XLC,11,8,,,{span 02 7401 09 08}Kunoichi,28,{span 02 7401 09 08},Kunoichi
 battle/battle_data_release/class_text.xlc,XLC,12,8,,,{span 02 5801 06 08}Rogue,25,{span 02 5801 06 08},Pícara
 battle/battle_data_release/class_text.xlc,XLC,13,8,,,{span 02 6601 09 08}Fusilier,28,{span 02 6601 09 08},Fusilera
-battle/battle_data_release/class_text.xlc,XLC,14,8,,,{span 02 a201 09 08}Dragoner,31,{span 02 a201 09 08},Domadora de Dragones
+battle/battle_data_release/class_text.xlc,XLC,14,8,,,{span 02 a201 09 08}Dragoner,31,{span 02 a201 09 08},Dragonaria
 battle/battle_data_release/class_text.xlc,XLC,15,8,,,{span 02 5401 06 08}Witch,25,{span 02 5401 06 08},Bruja
 battle/battle_data_release/class_text.xlc,XLC,16,8,,,{span 02 a401 0c 08}Necromancer,31,{span 02 a401 0c 08},Nigromante
 battle/battle_data_release/class_text.xlc,XLC,17,8,,,{span 02 3e01 05 08}Lich,24,{span 02 3e01 05 08},Liche
@@ -624,9 +624,9 @@ battle/battle_data_release/class_text.xlc,XLC,66,8,,,{span 02 e601 11 08}Geomanc
 battle/battle_data_release/class_text.xlc,XLC,67,8,,,{span 02 e601 11 08}Sword Saint,36,{span 02 e601 11 08},Santo de la Espada
 battle/battle_data_release/class_text.xlc,XLC,68,8,,,{span 02 e601 11 08}Enchantress,36,{span 02 e601 11 08},Encantadora
 battle/battle_data_release/class_text.xlc,XLC,69,8,,,{span 02 e601 11 08}Headhunter,36,{span 02 e601 11 08},Cazadora
-battle/battle_data_release/class_text.xlc,XLC,70,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballera Comandante
-battle/battle_data_release/class_text.xlc,XLC,71,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Caballera Comandante
-battle/battle_data_release/class_text.xlc,XLC,72,8,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},Templaria de la Muerte
+battle/battle_data_release/class_text.xlc,XLC,70,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Dama Comandante
+battle/battle_data_release/class_text.xlc,XLC,71,8,,,{span 02 e601 11 08}Knight Commander,36,{span 02 e601 11 08},Dama Comandante
+battle/battle_data_release/class_text.xlc,XLC,72,8,,,{span 02 b401 0e 08}Death Templar,33,{span 02 b401 0e 08},Templaria Mortal
 battle/battle_data_release/class_text.xlc,XLC,73,8,,,{span 02 9601 0c 08}Furia,31,{span 02 9601 0c 08},Furia
 battle/battle_data_release/class_text.xlc,XLC,74,8,,,{span 02 7401 09 08}Commando,28,{span 02 7401 09 08},Comando
 battle/battle_data_release/class_text.xlc,XLC,75,8,,,{span 02 a401 0d 08}Death Knight,32,{span 02 a401 0d 08},Dama de la Muerte
@@ -653,7 +653,7 @@ battle/battle_data_release/class_text.xlc,XLC,97,8,,,{span 02 8401 06 08}Strega,
 battle/battle_data_release/class_text.xlc,XLC,98,8,,,{span 02 be01 11 08}Assassin,36,{span 02 be01 11 08},Asesina
 battle/battle_data_release/class_text.xlc,XLC,99,8,,,{span 02 be01 11 08}False Hierophant,36,{span 02 be01 11 08},Falsa Hierofante
 battle/battle_data_release/class_text.xlc,XLC,100,8,,,{span 02 be01 11 08}Fleeing Villager,36,{span 02 be01 11 08},Aldeana en Fuga
-battle/battle_data_release/class_text.xlc,XLC,101,8,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},Superviviente de Vasque
+battle/battle_data_release/class_text.xlc,XLC,101,8,,,{span 02 c801 10 08}Vasque Survivor,35,{span 02 c801 10 08},Exiliada de Vasque
 battle/battle_data_release/class_text.xlc,XLC,102,8,,,{span 02 9601 0b 08}Hanged Man,30,{span 02 9601 0b 08},Ahorcada
 battle/battle_data_release/class_text.xlc,XLC,103,8,,,{span 02 6a01 08 08}Spectre,27,{span 02 6a01 08 08},Espectro
 battle/battle_data_release/class_text.xlc,XLC,111,8,,,{span 02 7c01 0a 08}Gladiator,29,{span 02 7c01 0a 08},Gladiadora
@@ -685,10 +685,10 @@ battle/battle_data_release/class_text.xlc,XLC,138,8,,,{span 02 6e01 08 08}Cherub
 battle/battle_data_release/class_text.xlc,XLC,139,8,,,{span 02 7601 09 08}Succubus,28,{span 02 7601 09 08},Súcubo
 battle/battle_data_release/class_text.xlc,XLC,140,8,,,{span 02 7001 08 08}Boggart,27,{span 02 7001 08 08},Boggart
 battle/battle_data_release/class_text.xlc,XLC,151,8,,,{span 02 bc01 0f 08}Bjartskular,34,{span 02 bc01 0f 08},Bjartskular
-battle/battle_data_release/class_text.xlc,XLC,152,8,,,{span 02 a201 0c 08}Deathwyrm,31,{span 02 a201 0c 08},Dragón de la Muerte
+battle/battle_data_release/class_text.xlc,XLC,152,8,,,{span 02 a201 0c 08}Deathwyrm,31,{span 02 a201 0c 08},Dragón Mortífero
 battle/battle_data_release/class_text.xlc,XLC,153,8,,,{span 02 5601 07 08}Scylla,26,{span 02 5601 07 08},Escila
 battle/battle_data_release/class_text.xlc,XLC,154,8,,,{span 02 4a01 05 08}Naga,24,{span 02 4a01 05 08},Naga
-battle/battle_data_release/class_text.xlc,XLC,155,8,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},Gólem de Acero Damasco
+battle/battle_data_release/class_text.xlc,XLC,155,8,,,{span 02 ae01 0d 08}Damasc Golem,32,{span 02 ae01 0d 08},Gólem de Damasco
 battle/battle_data_release/class_text.xlc,XLC,156,8,,,{span 02 9401 0c 08}Flesh Golem,31,{span 02 9401 0c 08},Gólem de Carne
 battle/battle_data_release/class_text.xlc,XLC,157,8,,,{span 02 9001 0b 08}Hippogryph,30,{span 02 9001 0b 08},Hipogrifo
 battle/battle_data_release/class_text.xlc,XLC,158,8,,,{span 02 6601 08 08}Phoenix,27,{span 02 6601 08 08},Fénix
@@ -24955,85 +24955,85 @@ battle/battle_data_release/battle_text.xlc,XLC,1275,4,,,{span 02 b001 0f 08}Time
 battle/battle_data_release/battle_text.xlc,XLC,1276,4,,,{span 02 b201 0e 08}Mighty Strike,33,{span 02 b201 0e 08},Golpe poderoso
 battle/battle_data_release/battle_text.xlc,XLC,1277,4,,,{span 02 7601 09 08}Apostate,28,{span 02 7601 09 08},Apóstata
 battle/battle_data_release/battle_text.xlc,XLC,1278,4,,,{span 02 8c01 0b 08}Conviction,30,{span 02 8c01 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1279,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1280,4,,,{span 02 d001 10 08}Blood Brothers,35,{span 02 d001 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1281,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1282,4,,,{span 02 a801 0d 08}Beastheart,32,{span 02 a801 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1283,4,,,{span 02 9a01 0c 08}Dragonheart,31,{span 02 9a01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1285,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1287,4,,,{span 02 5a01 07 08}Entomb,26,{span 02 5a01 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1288,4,,,n UNDEAD.,13,,
-battle/battle_data_release/battle_text.xlc,XLC,1289,4,,,{span 02 9601 0c 08}Aqua Bubble,31,{span 02 9601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1290,4,,,{span 02 b201 0e 08}Agonal Scream,33,{span 02 b201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1291,4,,,{span 02 9401 0c 08}Acid Breath,31,{span 02 9401 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1292,4,,,{span 02 ae01 0f 08}Hydro Press,34,{span 02 ae01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1293,4,,,{span 02 ac01 0d 08}Piledriver,32,{span 02 ac01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1294,4,,,{span 02 8801 0a 08}Hurricane,29,{span 02 8801 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1295,4,,,{span 02 ba01 0f 08}Virtuous Dance,34,{span 02 ba01 0f 08},
+battle/battle_data_release/battle_text.xlc,XLC,1279,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},Falange
+battle/battle_data_release/battle_text.xlc,XLC,1280,4,,,{span 02 d001 10 08}Blood Brothers,35,{span 02 d001 10 08},Hermanos de sangre
+battle/battle_data_release/battle_text.xlc,XLC,1281,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},Reflejo
+battle/battle_data_release/battle_text.xlc,XLC,1282,4,,,{span 02 a801 0d 08}Beastheart,32,{span 02 a801 0d 08},Corazon de bestia
+battle/battle_data_release/battle_text.xlc,XLC,1283,4,,,{span 02 9a01 0c 08}Dragonheart,31,{span 02 9a01 0c 08},Corazon de dragon
+battle/battle_data_release/battle_text.xlc,XLC,1285,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},Torre de marfil
+battle/battle_data_release/battle_text.xlc,XLC,1287,4,,,{span 02 5a01 07 08}Entomb,26,{span 02 5a01 07 08},Sepultar
+battle/battle_data_release/battle_text.xlc,XLC,1288,4,,,n UNDEAD.,13,,n NO MUERTOS.
+battle/battle_data_release/battle_text.xlc,XLC,1289,4,,,{span 02 9601 0c 08}Aqua Bubble,31,{span 02 9601 0c 08},Burbuja acuatica
+battle/battle_data_release/battle_text.xlc,XLC,1290,4,,,{span 02 b201 0e 08}Agonal Scream,33,{span 02 b201 0e 08},Grito agonal
+battle/battle_data_release/battle_text.xlc,XLC,1291,4,,,{span 02 9401 0c 08}Acid Breath,31,{span 02 9401 0c 08},Aliento acido
+battle/battle_data_release/battle_text.xlc,XLC,1292,4,,,{span 02 ae01 0f 08}Hydro Press,34,{span 02 ae01 0f 08},Presion acuatica
+battle/battle_data_release/battle_text.xlc,XLC,1293,4,,,{span 02 ac01 0d 08}Piledriver,32,{span 02 ac01 0d 08},Martinete
+battle/battle_data_release/battle_text.xlc,XLC,1294,4,,,{span 02 8801 0a 08}Hurricane,29,{span 02 8801 0a 08},Huracan
+battle/battle_data_release/battle_text.xlc,XLC,1295,4,,,{span 02 ba01 0f 08}Virtuous Dance,34,{span 02 ba01 0f 08},Danza virtuosa
 battle/battle_data_release/battle_text.xlc,XLC,1296,4,,,{span 02 a401 0d 08}REMOVED,32,{span 02 a401 0d 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1297,4,,,{span 02 9a01 0d 08}Haymaker,32,{span 02 9a01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1298,4,,,{span 02 c401 10 08}Crystal Pumpkin,35,{span 02 c401 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1299,4,,,{span 02 d801 12 08}Cross Chop,37,{span 02 d801 12 08},
-battle/battle_data_release/battle_text.xlc,XLC,1300,4,,,{span 02 c201 10 08}Coquettish Kiss,35,{span 02 c201 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1301,4,,,{span 02 c201 10 08}Tainted Kiss,35,{span 02 c201 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1302,4,,,{span 02 8e01 0c 08}Silent Song,31,{span 02 8e01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1303,4,,,{span 02 a401 0e 08}Bad Breath,33,{span 02 a401 0e 08},
+battle/battle_data_release/battle_text.xlc,XLC,1297,4,,,{span 02 9a01 0d 08}Haymaker,32,{span 02 9a01 0d 08},Gancho
+battle/battle_data_release/battle_text.xlc,XLC,1298,4,,,{span 02 c401 10 08}Crystal Pumpkin,35,{span 02 c401 10 08},Calabaza cristalina
+battle/battle_data_release/battle_text.xlc,XLC,1299,4,,,{span 02 d801 12 08}Cross Chop,37,{span 02 d801 12 08},Corte cruzado
+battle/battle_data_release/battle_text.xlc,XLC,1300,4,,,{span 02 c201 10 08}Coquettish Kiss,35,{span 02 c201 10 08},Beso coqueto
+battle/battle_data_release/battle_text.xlc,XLC,1301,4,,,{span 02 c201 10 08}Tainted Kiss,35,{span 02 c201 10 08},Beso corrupto
+battle/battle_data_release/battle_text.xlc,XLC,1302,4,,,{span 02 8e01 0c 08}Silent Song,31,{span 02 8e01 0c 08},Cancion silenciosa
+battle/battle_data_release/battle_text.xlc,XLC,1303,4,,,{span 02 a401 0e 08}Bad Breath,33,{span 02 a401 0e 08},Mal aliento
 battle/battle_data_release/battle_text.xlc,XLC,1304,4,,,{span 02 6a01 08 08}REMOVED,27,{span 02 6a01 08 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1305,4,,,{span 02 bc01 0f 08}Thunder Breath,34,{span 02 bc01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1306,4,,,{span 02 d601 12 08}Storm Front,37,{span 02 d601 12 08},
-battle/battle_data_release/battle_text.xlc,XLC,1307,4,,,{span 02 9601 0c 08}Vile Breath,31,{span 02 9601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1308,4,,,{span 02 b001 0f 08}Baleful Mist,34,{span 02 b001 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1309,4,,,{span 02 9001 0a 08}Sparagmos,29,{span 02 9001 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1310,4,,,{span 02 9a01 0c 08}Sand Breath,31,{span 02 9a01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1311,4,,,{span 02 b401 0f 08}Fault Line,34,{span 02 b401 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1312,4,,,{span 02 aa01 0f 08}Lingering Kiss,34,{span 02 aa01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1313,4,,,{span 02 aa01 0f 08}Infernal Kiss,34,{span 02 aa01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1314,4,,,{span 02 ce01 11 08}Day of Reckoning,36,{span 02 ce01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1315,4,,,{span 02 a401 0e 08}Sacred Breath,33,{span 02 a401 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1316,4,,,{span 02 be01 11 08}Holy War,36,{span 02 be01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1317,4,,,{span 02 7801 0a 08}Tail Lash,29,{span 02 7801 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1318,4,,,{span 02 9c01 0d 08}Toxic Breath,32,{span 02 9c01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1319,4,,,{span 02 b601 10 08}Delirium Haze,35,{span 02 b601 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1320,4,,,{span 02 ae01 0e 08}Vortex Breath,33,{span 02 ae01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1321,4,,,{span 02 c801 11 08}Radiant Gale,36,{span 02 c801 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1322,4,,,{span 02 ae01 0d 08}Talon Dive,32,{span 02 ae01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1323,4,,,{span 02 9601 0c 08}Holy Spirit,31,{span 02 9601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1324,4,,,{span 02 b401 0f 08}Pumpkin Strike,34,{span 02 b401 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1325,4,,,{span 02 9201 0c 08}Pumpkin Pie,31,{span 02 9201 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1326,4,,,{span 02 ae01 0d 08}Pumpkin Bomb,32,{span 02 ae01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1327,4,,,{span 02 a201 0d 08}Flame Breath,32,{span 02 a201 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1328,4,,,{span 02 bc01 10 08}Crimson Note,35,{span 02 bc01 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1329,4,,,{span 02 a401 0d 08}Bloodbath,32,{span 02 a401 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1330,4,,,{span 02 a201 0e 08}Selfless Kiss,33,{span 02 a201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1331,4,,,{span 02 a201 0e 08}Vampiric Kiss,33,{span 02 a201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1332,4,,,{span 02 8e01 0c 08}Blue Spiral,31,{span 02 8e01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1333,4,,,{span 02 9e01 0d 08}Frost Breath,32,{span 02 9e01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1334,4,,,{span 02 b801 10 08}Total Whiteout,35,{span 02 b801 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1335,4,,,{span 02 b001 0e 08}Heaven's Tear,33,{span 02 b001 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1336,4,,,{span 02 9c01 0d 08}Petro Breath,32,{span 02 9c01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1337,4,,,{span 02 b601 10 08}Stone Circle,35,{span 02 b601 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1338,4,,,{span 02 9201 0c 08}Poison Rain,31,{span 02 9201 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1339,4,,,{span 02 aa01 0e 08}Poison Breath,33,{span 02 aa01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1340,4,,,{span 02 c401 11 08}Cloud Kill,36,{span 02 c401 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1341,4,,,{span 02 c401 10 08}Poignant Melody,35,{span 02 c401 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1342,4,,,{span 02 7e01 0a 08}Maelstrom,29,{span 02 7e01 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1343,4,,,{span 02 9e01 0e 08}Jolly Roger,33,{span 02 9e01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1344,4,,,{span 02 9e01 0e 08}Forsaken Kiss,33,{span 02 9e01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1345,4,,,{span 02 8401 0a 08}Lariat,29,{span 02 8401 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1346,4,,,{span 02 b201 0e 08}Corpse Breath,33,{span 02 b201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1347,4,,,{span 02 cc01 11 08}Evil Dead,36,{span 02 cc01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1348,4,,,{span 02 6c01 09 08}Evil Eye,28,{span 02 6c01 09 08},
+battle/battle_data_release/battle_text.xlc,XLC,1305,4,,,{span 02 bc01 0f 08}Thunder Breath,34,{span 02 bc01 0f 08},Aliento de trueno
+battle/battle_data_release/battle_text.xlc,XLC,1306,4,,,{span 02 d601 12 08}Storm Front,37,{span 02 d601 12 08},Frente de tormenta
+battle/battle_data_release/battle_text.xlc,XLC,1307,4,,,{span 02 9601 0c 08}Vile Breath,31,{span 02 9601 0c 08},Aliento vil
+battle/battle_data_release/battle_text.xlc,XLC,1308,4,,,{span 02 b001 0f 08}Baleful Mist,34,{span 02 b001 0f 08},Niebla funesta
+battle/battle_data_release/battle_text.xlc,XLC,1309,4,,,{span 02 9001 0a 08}Sparagmos,29,{span 02 9001 0a 08},Sparagmos
+battle/battle_data_release/battle_text.xlc,XLC,1310,4,,,{span 02 9a01 0c 08}Sand Breath,31,{span 02 9a01 0c 08},Aliento de arena
+battle/battle_data_release/battle_text.xlc,XLC,1311,4,,,{span 02 b401 0f 08}Fault Line,34,{span 02 b401 0f 08},Falla geologica
+battle/battle_data_release/battle_text.xlc,XLC,1312,4,,,{span 02 aa01 0f 08}Lingering Kiss,34,{span 02 aa01 0f 08},Beso persistente
+battle/battle_data_release/battle_text.xlc,XLC,1313,4,,,{span 02 aa01 0f 08}Infernal Kiss,34,{span 02 aa01 0f 08},Beso infernal
+battle/battle_data_release/battle_text.xlc,XLC,1314,4,,,{span 02 ce01 11 08}Day of Reckoning,36,{span 02 ce01 11 08},Dia del juicio
+battle/battle_data_release/battle_text.xlc,XLC,1315,4,,,{span 02 a401 0e 08}Sacred Breath,33,{span 02 a401 0e 08},Aliento sagrado
+battle/battle_data_release/battle_text.xlc,XLC,1316,4,,,{span 02 be01 11 08}Holy War,36,{span 02 be01 11 08},Guerra santa
+battle/battle_data_release/battle_text.xlc,XLC,1317,4,,,{span 02 7801 0a 08}Tail Lash,29,{span 02 7801 0a 08},Latigazo de cola
+battle/battle_data_release/battle_text.xlc,XLC,1318,4,,,{span 02 9c01 0d 08}Toxic Breath,32,{span 02 9c01 0d 08},Aliento toxico
+battle/battle_data_release/battle_text.xlc,XLC,1319,4,,,{span 02 b601 10 08}Delirium Haze,35,{span 02 b601 10 08},Bruma delirante
+battle/battle_data_release/battle_text.xlc,XLC,1320,4,,,{span 02 ae01 0e 08}Vortex Breath,33,{span 02 ae01 0e 08},Aliento de vortice
+battle/battle_data_release/battle_text.xlc,XLC,1321,4,,,{span 02 c801 11 08}Radiant Gale,36,{span 02 c801 11 08},Vendaval radiante
+battle/battle_data_release/battle_text.xlc,XLC,1322,4,,,{span 02 ae01 0d 08}Talon Dive,32,{span 02 ae01 0d 08},Picado de garras
+battle/battle_data_release/battle_text.xlc,XLC,1323,4,,,{span 02 9601 0c 08}Holy Spirit,31,{span 02 9601 0c 08},Espiritu sagrado
+battle/battle_data_release/battle_text.xlc,XLC,1324,4,,,{span 02 b401 0f 08}Pumpkin Strike,34,{span 02 b401 0f 08},Golpe de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1325,4,,,{span 02 9201 0c 08}Pumpkin Pie,31,{span 02 9201 0c 08},Pastel de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1326,4,,,{span 02 ae01 0d 08}Pumpkin Bomb,32,{span 02 ae01 0d 08},Bomba de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1327,4,,,{span 02 a201 0d 08}Flame Breath,32,{span 02 a201 0d 08},Aliento de fuego
+battle/battle_data_release/battle_text.xlc,XLC,1328,4,,,{span 02 bc01 10 08}Crimson Note,35,{span 02 bc01 10 08},Nota carmesi
+battle/battle_data_release/battle_text.xlc,XLC,1329,4,,,{span 02 a401 0d 08}Bloodbath,32,{span 02 a401 0d 08},Bano de sangre
+battle/battle_data_release/battle_text.xlc,XLC,1330,4,,,{span 02 a201 0e 08}Selfless Kiss,33,{span 02 a201 0e 08},Beso desinteresado
+battle/battle_data_release/battle_text.xlc,XLC,1331,4,,,{span 02 a201 0e 08}Vampiric Kiss,33,{span 02 a201 0e 08},Beso vampirico
+battle/battle_data_release/battle_text.xlc,XLC,1332,4,,,{span 02 8e01 0c 08}Blue Spiral,31,{span 02 8e01 0c 08},Espiral azul
+battle/battle_data_release/battle_text.xlc,XLC,1333,4,,,{span 02 9e01 0d 08}Frost Breath,32,{span 02 9e01 0d 08},Aliento helado
+battle/battle_data_release/battle_text.xlc,XLC,1334,4,,,{span 02 b801 10 08}Total Whiteout,35,{span 02 b801 10 08},Ventisca total
+battle/battle_data_release/battle_text.xlc,XLC,1335,4,,,{span 02 b001 0e 08}Heaven's Tear,33,{span 02 b001 0e 08},Lagrima celestial
+battle/battle_data_release/battle_text.xlc,XLC,1336,4,,,{span 02 9c01 0d 08}Petro Breath,32,{span 02 9c01 0d 08},Aliento petrificante
+battle/battle_data_release/battle_text.xlc,XLC,1337,4,,,{span 02 b601 10 08}Stone Circle,35,{span 02 b601 10 08},Circulo de piedra
+battle/battle_data_release/battle_text.xlc,XLC,1338,4,,,{span 02 9201 0c 08}Poison Rain,31,{span 02 9201 0c 08},Lluvia venenosa
+battle/battle_data_release/battle_text.xlc,XLC,1339,4,,,{span 02 aa01 0e 08}Poison Breath,33,{span 02 aa01 0e 08},Aliento venenoso
+battle/battle_data_release/battle_text.xlc,XLC,1340,4,,,{span 02 c401 11 08}Cloud Kill,36,{span 02 c401 11 08},Nube mortal
+battle/battle_data_release/battle_text.xlc,XLC,1341,4,,,{span 02 c401 10 08}Poignant Melody,35,{span 02 c401 10 08},Melodia conmovedora
+battle/battle_data_release/battle_text.xlc,XLC,1342,4,,,{span 02 7e01 0a 08}Maelstrom,29,{span 02 7e01 0a 08},Remolino
+battle/battle_data_release/battle_text.xlc,XLC,1343,4,,,{span 02 9e01 0e 08}Jolly Roger,33,{span 02 9e01 0e 08},Bandera pirata
+battle/battle_data_release/battle_text.xlc,XLC,1344,4,,,{span 02 9e01 0e 08}Forsaken Kiss,33,{span 02 9e01 0e 08},Beso maldito
+battle/battle_data_release/battle_text.xlc,XLC,1345,4,,,{span 02 8401 0a 08}Lariat,29,{span 02 8401 0a 08},Lazo
+battle/battle_data_release/battle_text.xlc,XLC,1346,4,,,{span 02 b201 0e 08}Corpse Breath,33,{span 02 b201 0e 08},Aliento de cadaver
+battle/battle_data_release/battle_text.xlc,XLC,1347,4,,,{span 02 cc01 11 08}Evil Dead,36,{span 02 cc01 11 08},Muertos malignos
+battle/battle_data_release/battle_text.xlc,XLC,1348,4,,,{span 02 6c01 09 08}Evil Eye,28,{span 02 6c01 09 08},Mal de ojo
 battle/battle_data_release/battle_text.xlc,XLC,1349,4,,,{span 02 b201 0f 08}REMOVED,34,{span 02 b201 0f 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1351,4,,,{span 02 aa01 0d 08}Doppelganger,32,{span 02 aa01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1352,4,,,{span 02 7601 0a 08}Exhalatio,29,{span 02 7601 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1353,4,,,{span 02 6801 08 08}Procera,27,{span 02 6801 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,1354,4,,,{span 02 6201 07 08}Pondus,26,{span 02 6201 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1355,4,,,{span 02 7001 09 08}Tonitrus,28,{span 02 7001 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1356,4,,,{span 02 6c01 08 08}Coctura,27,{span 02 6c01 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,1357,4,,,{span 02 6a01 09 08}Diruptio,28,{span 02 6a01 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1358,4,,,{span 02 8801 0b 08}Congelatio,30,{span 02 8801 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1359,4,,,{span 02 5e01 07 08}Radius,26,{span 02 5e01 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1360,4,,,{span 02 5801 06 08}Umbra,25,{span 02 5801 06 08},
+battle/battle_data_release/battle_text.xlc,XLC,1351,4,,,{span 02 aa01 0d 08}Doppelganger,32,{span 02 aa01 0d 08},Doppelganger
+battle/battle_data_release/battle_text.xlc,XLC,1352,4,,,{span 02 7601 0a 08}Exhalatio,29,{span 02 7601 0a 08},Exhalatio
+battle/battle_data_release/battle_text.xlc,XLC,1353,4,,,{span 02 6801 08 08}Procera,27,{span 02 6801 08 08},Procera
+battle/battle_data_release/battle_text.xlc,XLC,1354,4,,,{span 02 6201 07 08}Pondus,26,{span 02 6201 07 08},Pondus
+battle/battle_data_release/battle_text.xlc,XLC,1355,4,,,{span 02 7001 09 08}Tonitrus,28,{span 02 7001 09 08},Tonitrus
+battle/battle_data_release/battle_text.xlc,XLC,1356,4,,,{span 02 6c01 08 08}Coctura,27,{span 02 6c01 08 08},Coctura
+battle/battle_data_release/battle_text.xlc,XLC,1357,4,,,{span 02 6a01 09 08}Diruptio,28,{span 02 6a01 09 08},Diruptio
+battle/battle_data_release/battle_text.xlc,XLC,1358,4,,,{span 02 8801 0b 08}Congelatio,30,{span 02 8801 0b 08},Congelatio
+battle/battle_data_release/battle_text.xlc,XLC,1359,4,,,{span 02 5e01 07 08}Radius,26,{span 02 5e01 07 08},Radius
+battle/battle_data_release/battle_text.xlc,XLC,1360,4,,,{span 02 5801 06 08}Umbra,25,{span 02 5801 06 08},Umbra
 battle/battle_data_release/battle_text.xlc,XLC,1361,4,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
 battle/battle_data_release/battle_text.xlc,XLC,1362,4,,,{span 02 4c01 06 08}Fists,25,{span 02 4c01 06 08},Puños
 battle/battle_data_release/battle_text.xlc,XLC,1363,4,,,{span 02 6e01 08 08}Daggers,27,{span 02 6e01 08 08},Dagas
@@ -25051,24 +25051,24 @@ battle/battle_data_release/battle_text.xlc,XLC,1374,4,,,{span 02 6001 08 08}noth
 battle/battle_data_release/battle_text.xlc,XLC,1375,4,,,{span 02 5601 06 08}Whips,25,{span 02 5601 06 08},Látigos
 battle/battle_data_release/battle_text.xlc,XLC,1376,4,,,{span 02 8a01 0b 08}Spellbooks,30,{span 02 8a01 0b 08},Grimorios
 battle/battle_data_release/battle_text.xlc,XLC,1377,4,,,{span 02 9201 0c 08}Instruments,31,{span 02 9201 0c 08},Instrumentos
-battle/battle_data_release/battle_text.xlc,XLC,1378,4,,,{span 02 7a01 09 08}Sidearms,28,{span 02 7a01 09 08},
+battle/battle_data_release/battle_text.xlc,XLC,1378,4,,,{span 02 7a01 09 08}Sidearms,28,{span 02 7a01 09 08},Armas auxiliares
 battle/battle_data_release/battle_text.xlc,XLC,1379,4,,,{span 02 4e01 05 08}Bows,24,{span 02 4e01 05 08},Arcos
 battle/battle_data_release/battle_text.xlc,XLC,1380,4,,,{span 02 8c01 0a 08}Crossbows,29,{span 02 8c01 0a 08},Ballestas
 battle/battle_data_release/battle_text.xlc,XLC,1381,4,,,{span 02 5401 07 08}Fusils,26,{span 02 5401 07 08},Fusiles
 battle/battle_data_release/battle_text.xlc,XLC,1382,4,,,{span 02 6401 07 08}Thrown,26,{span 02 6401 07 08},Arrojadizas
-battle/battle_data_release/battle_text.xlc,XLC,1383,4,,,{span 02 7001 08 08}Anatomy,27,{span 02 7001 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,1384,4,,,{span 02 8c01 0b 08}Teratology,30,{span 02 8c01 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1385,4,,,{span 02 9801 0c 08}Herpetology,31,{span 02 9801 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1386,4,,,{span 02 9e01 0c 08}Draconology,31,{span 02 9e01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1387,4,,,{span 02 8201 0a 08}Sacrology,29,{span 02 8201 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1388,4,,,{span 02 a601 0c 08}Daemonology,31,{span 02 a601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1389,4,,,{span 02 7601 09 08}Aurology,28,{span 02 7601 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1390,4,,,{span 02 9a01 0c 08}Thanatology,31,{span 02 9a01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1391,4,,,{span 02 6401 07 08}Golemy,26,{span 02 6401 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1392,4,,,{span 02 9c01 0c 08}Augment Air,31,{span 02 9c01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1393,4,,,{span 02 b401 0e 08}Augment Earth,33,{span 02 b401 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1394,4,,,{span 02 d801 12 08}Augment Lightning,37,{span 02 d801 12 08},
-battle/battle_data_release/battle_text.xlc,XLC,1395,4,,,{span 02 be01 0e 08}Augment Water,33,{span 02 be01 0e 08},
+battle/battle_data_release/battle_text.xlc,XLC,1383,4,,,{span 02 7001 08 08}Anatomy,27,{span 02 7001 08 08},Anatomia
+battle/battle_data_release/battle_text.xlc,XLC,1384,4,,,{span 02 8c01 0b 08}Teratology,30,{span 02 8c01 0b 08},Teratologia
+battle/battle_data_release/battle_text.xlc,XLC,1385,4,,,{span 02 9801 0c 08}Herpetology,31,{span 02 9801 0c 08},Herpetologia
+battle/battle_data_release/battle_text.xlc,XLC,1386,4,,,{span 02 9e01 0c 08}Draconology,31,{span 02 9e01 0c 08},Draconologia
+battle/battle_data_release/battle_text.xlc,XLC,1387,4,,,{span 02 8201 0a 08}Sacrology,29,{span 02 8201 0a 08},Sacrologia
+battle/battle_data_release/battle_text.xlc,XLC,1388,4,,,{span 02 a601 0c 08}Daemonology,31,{span 02 a601 0c 08},Demonologia
+battle/battle_data_release/battle_text.xlc,XLC,1389,4,,,{span 02 7601 09 08}Aurology,28,{span 02 7601 09 08},Aurologia
+battle/battle_data_release/battle_text.xlc,XLC,1390,4,,,{span 02 9a01 0c 08}Thanatology,31,{span 02 9a01 0c 08},Tanatologia
+battle/battle_data_release/battle_text.xlc,XLC,1391,4,,,{span 02 6401 07 08}Golemy,26,{span 02 6401 07 08},Golemologia
+battle/battle_data_release/battle_text.xlc,XLC,1392,4,,,{span 02 9c01 0c 08}Augment Air,31,{span 02 9c01 0c 08},Potenciar aire
+battle/battle_data_release/battle_text.xlc,XLC,1393,4,,,{span 02 b401 0e 08}Augment Earth,33,{span 02 b401 0e 08},Potenciar tierra
+battle/battle_data_release/battle_text.xlc,XLC,1394,4,,,{span 02 d801 12 08}Augment Lightning,37,{span 02 d801 12 08},Potenciar rayo
+battle/battle_data_release/battle_text.xlc,XLC,1395,4,,,{span 02 be01 0e 08}Augment Water,33,{span 02 be01 0e 08},Potenciar agua
 battle/battle_data_release/battle_text.xlc,XLC,1396,4,,,{span 02 a201 0d 08}Augment Fire,32,{span 02 a201 0d 08},
 battle/battle_data_release/battle_text.xlc,XLC,1397,4,,,{span 02 9801 0c 08}Augment Ice,31,{span 02 9801 0c 08},
 battle/battle_data_release/battle_text.xlc,XLC,1398,4,,,{span 02 b201 0e 08}Augment Light,33,{span 02 b201 0e 08},
@@ -25163,7 +25163,7 @@ battle/battle_data_release/battle_text.xlc,XLC,1486,4,,,{span 02 6001 08 08}noth
 battle/battle_data_release/battle_text.xlc,XLC,1487,4,,,{span 02 9e01 0e 08}Feral Remedy,33,{span 02 9e01 0e 08},Remedio salvaje
 battle/battle_data_release/battle_text.xlc,XLC,1488,4,,,{span 02 a401 0f 08}REMOVED,34,{span 02 a401 0f 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1489,4,,,{span 02 aa01 10 08}REMOVED,35,{span 02 aa01 10 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1490,4,,,{span 02 a401 0f 08}Jolly Roger,34,{span 02 a401 0f 08},
+battle/battle_data_release/battle_text.xlc,XLC,1490,4,,,{span 02 a401 0f 08}Jolly Roger,34,{span 02 a401 0f 08},Bandera pirata
 battle/battle_data_release/battle_text.xlc,XLC,1491,4,,,foes.,7,,
 battle/battle_data_release/battle_text.xlc,XLC,1492,4,,,{span 02 7001 08 08}REMOVED,27,{span 02 7001 08 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1493,4,,,{span 02 7601 09 08}REMOVED,28,{span 02 7601 09 08},ELIMINADO
@@ -25175,7 +25175,7 @@ battle/battle_data_release/battle_text.xlc,XLC,1498,4,,,{span 02 8e01 0c 08}REMO
 battle/battle_data_release/battle_text.xlc,XLC,1499,4,,,{span 02 9401 0d 08}REMOVED,32,{span 02 9401 0d 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1500,4,,,{span 02 8e01 0c 08}REMOVED,31,{span 02 8e01 0c 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1501,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-battle/battle_data_release/battle_text.xlc,XLC,1502,4,,,{span 02 a001 0d 08}Holy Spirit,32,{span 02 a001 0d 08},
+battle/battle_data_release/battle_text.xlc,XLC,1502,4,,,{span 02 a001 0d 08}Holy Spirit,32,{span 02 a001 0d 08},Espiritu sagrado
 battle/battle_data_release/battle_text.xlc,XLC,1503,4,,,{span 02 a601 0e 08}REMOVED,33,{span 02 a601 0e 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1504,4,,,{span 02 ac01 0f 08}REMOVED,34,{span 02 ac01 0f 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1505,4,,,{span 02 a601 0e 08}REMOVED,33,{span 02 a601 0e 08},ELIMINADO
@@ -25372,88 +25372,88 @@ battle/battle_data_release/battle_text.xlc,XLC,1695,4,,,{span 02 b001 0f 08}Time
 battle/battle_data_release/battle_text.xlc,XLC,1696,4,,,{span 02 b201 0e 08}Mighty Strike,33,{span 02 b201 0e 08},Golpe poderoso
 battle/battle_data_release/battle_text.xlc,XLC,1697,4,,,{span 02 7601 09 08}Apostate,28,{span 02 7601 09 08},Apóstata
 battle/battle_data_release/battle_text.xlc,XLC,1698,4,,,{span 02 8c01 0b 08}Conviction,30,{span 02 8c01 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1699,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1700,4,,,{span 02 d001 10 08}Blood Brothers,35,{span 02 d001 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1701,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1702,4,,,{span 02 a801 0d 08}Beastheart,32,{span 02 a801 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1703,4,,,{span 02 9a01 0c 08}Dragonheart,31,{span 02 9a01 0c 08},
+battle/battle_data_release/battle_text.xlc,XLC,1699,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},Falange
+battle/battle_data_release/battle_text.xlc,XLC,1700,4,,,{span 02 d001 10 08}Blood Brothers,35,{span 02 d001 10 08},Hermanos de sangre
+battle/battle_data_release/battle_text.xlc,XLC,1701,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},Reflejo
+battle/battle_data_release/battle_text.xlc,XLC,1702,4,,,{span 02 a801 0d 08}Beastheart,32,{span 02 a801 0d 08},Corazon de bestia
+battle/battle_data_release/battle_text.xlc,XLC,1703,4,,,{span 02 9a01 0c 08}Dragonheart,31,{span 02 9a01 0c 08},Corazon de dragon
 battle/battle_data_release/battle_text.xlc,XLC,1704,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-battle/battle_data_release/battle_text.xlc,XLC,1705,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},
+battle/battle_data_release/battle_text.xlc,XLC,1705,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},Torre de marfil
 battle/battle_data_release/battle_text.xlc,XLC,1706,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-battle/battle_data_release/battle_text.xlc,XLC,1707,4,,,{span 02 5a01 07 08}Entomb,26,{span 02 5a01 07 08},
+battle/battle_data_release/battle_text.xlc,XLC,1707,4,,,{span 02 5a01 07 08}Entomb,26,{span 02 5a01 07 08},Sepultar
 battle/battle_data_release/battle_text.xlc,XLC,1708,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-battle/battle_data_release/battle_text.xlc,XLC,1709,4,,,{span 02 9601 0c 08}Aqua Bubble,31,{span 02 9601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1710,4,,,{span 02 b201 0e 08}Agonal Scream,33,{span 02 b201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1711,4,,,{span 02 9401 0c 08}Acid Breath,31,{span 02 9401 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1712,4,,,{span 02 ae01 0f 08}Hydro Press,34,{span 02 ae01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1713,4,,,{span 02 ac01 0d 08}Piledriver,32,{span 02 ac01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1714,4,,,{span 02 8801 0a 08}Hurricane,29,{span 02 8801 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1715,4,,,{span 02 ba01 0f 08}Virtuous Dance,34,{span 02 ba01 0f 08},
+battle/battle_data_release/battle_text.xlc,XLC,1709,4,,,{span 02 9601 0c 08}Aqua Bubble,31,{span 02 9601 0c 08},Burbuja acuatica
+battle/battle_data_release/battle_text.xlc,XLC,1710,4,,,{span 02 b201 0e 08}Agonal Scream,33,{span 02 b201 0e 08},Grito agonal
+battle/battle_data_release/battle_text.xlc,XLC,1711,4,,,{span 02 9401 0c 08}Acid Breath,31,{span 02 9401 0c 08},Aliento acido
+battle/battle_data_release/battle_text.xlc,XLC,1712,4,,,{span 02 ae01 0f 08}Hydro Press,34,{span 02 ae01 0f 08},Presion acuatica
+battle/battle_data_release/battle_text.xlc,XLC,1713,4,,,{span 02 ac01 0d 08}Piledriver,32,{span 02 ac01 0d 08},Martinete
+battle/battle_data_release/battle_text.xlc,XLC,1714,4,,,{span 02 8801 0a 08}Hurricane,29,{span 02 8801 0a 08},Huracan
+battle/battle_data_release/battle_text.xlc,XLC,1715,4,,,{span 02 ba01 0f 08}Virtuous Dance,34,{span 02 ba01 0f 08},Danza virtuosa
 battle/battle_data_release/battle_text.xlc,XLC,1716,4,,,{span 02 a401 0d 08}REMOVED,32,{span 02 a401 0d 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1717,4,,,{span 02 9a01 0d 08}Haymaker,32,{span 02 9a01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1718,4,,,{span 02 c401 10 08}Crystal Pumpkin,35,{span 02 c401 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1719,4,,,{span 02 d801 12 08}Cross Chop,37,{span 02 d801 12 08},
-battle/battle_data_release/battle_text.xlc,XLC,1720,4,,,{span 02 c201 10 08}Coquettish Kiss,35,{span 02 c201 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1721,4,,,{span 02 c201 10 08}Tainted Kiss,35,{span 02 c201 10 08},
+battle/battle_data_release/battle_text.xlc,XLC,1717,4,,,{span 02 9a01 0d 08}Haymaker,32,{span 02 9a01 0d 08},Gancho
+battle/battle_data_release/battle_text.xlc,XLC,1718,4,,,{span 02 c401 10 08}Crystal Pumpkin,35,{span 02 c401 10 08},Calabaza cristalina
+battle/battle_data_release/battle_text.xlc,XLC,1719,4,,,{span 02 d801 12 08}Cross Chop,37,{span 02 d801 12 08},Corte cruzado
+battle/battle_data_release/battle_text.xlc,XLC,1720,4,,,{span 02 c201 10 08}Coquettish Kiss,35,{span 02 c201 10 08},Beso coqueto
+battle/battle_data_release/battle_text.xlc,XLC,1721,4,,,{span 02 c201 10 08}Tainted Kiss,35,{span 02 c201 10 08},Beso corrupto
 battle/battle_data_release/battle_text.xlc,XLC,1722,4,,,{span 02 8e01 0c 08}REMOVED,31,{span 02 8e01 0c 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1723,4,,,{span 02 a401 0e 08}Bad Breath,33,{span 02 a401 0e 08},
+battle/battle_data_release/battle_text.xlc,XLC,1723,4,,,{span 02 a401 0e 08}Bad Breath,33,{span 02 a401 0e 08},Mal aliento
 battle/battle_data_release/battle_text.xlc,XLC,1724,4,,,{span 02 6a01 08 08}REMOVED,27,{span 02 6a01 08 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1725,4,,,{span 02 bc01 0f 08}Thunder Breath,34,{span 02 bc01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1726,4,,,{span 02 d601 12 08}Storm Front,37,{span 02 d601 12 08},
-battle/battle_data_release/battle_text.xlc,XLC,1727,4,,,{span 02 9601 0c 08}Vile Breath,31,{span 02 9601 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1728,4,,,{span 02 b001 0f 08}Baleful Mist,34,{span 02 b001 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1729,4,,,{span 02 9001 0a 08}Sparagmos,29,{span 02 9001 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1730,4,,,{span 02 9a01 0c 08}Sand Breath,31,{span 02 9a01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1731,4,,,{span 02 b401 0f 08}Fault Line,34,{span 02 b401 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1732,4,,,{span 02 aa01 0f 08}Lingering Kiss,34,{span 02 aa01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1733,4,,,{span 02 aa01 0f 08}Infernal Kiss,34,{span 02 aa01 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1734,4,,,{span 02 ce01 11 08}Day of Reckoning,36,{span 02 ce01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1735,4,,,{span 02 a401 0e 08}Sacred Breath,33,{span 02 a401 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1736,4,,,{span 02 be01 11 08}Holy War,36,{span 02 be01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1737,4,,,{span 02 7801 0a 08}Tail Lash,29,{span 02 7801 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1738,4,,,{span 02 9c01 0d 08}Toxic Breath,32,{span 02 9c01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1739,4,,,{span 02 b601 10 08}Delirium Haze,35,{span 02 b601 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1740,4,,,{span 02 ae01 0e 08}Vortex Breath,33,{span 02 ae01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1741,4,,,{span 02 c801 11 08}Radiant Gale,36,{span 02 c801 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1742,4,,,{span 02 ae01 0d 08}Talon Dive,32,{span 02 ae01 0d 08},
+battle/battle_data_release/battle_text.xlc,XLC,1725,4,,,{span 02 bc01 0f 08}Thunder Breath,34,{span 02 bc01 0f 08},Aliento de trueno
+battle/battle_data_release/battle_text.xlc,XLC,1726,4,,,{span 02 d601 12 08}Storm Front,37,{span 02 d601 12 08},Frente de tormenta
+battle/battle_data_release/battle_text.xlc,XLC,1727,4,,,{span 02 9601 0c 08}Vile Breath,31,{span 02 9601 0c 08},Aliento vil
+battle/battle_data_release/battle_text.xlc,XLC,1728,4,,,{span 02 b001 0f 08}Baleful Mist,34,{span 02 b001 0f 08},Niebla funesta
+battle/battle_data_release/battle_text.xlc,XLC,1729,4,,,{span 02 9001 0a 08}Sparagmos,29,{span 02 9001 0a 08},Sparagmos
+battle/battle_data_release/battle_text.xlc,XLC,1730,4,,,{span 02 9a01 0c 08}Sand Breath,31,{span 02 9a01 0c 08},Aliento de arena
+battle/battle_data_release/battle_text.xlc,XLC,1731,4,,,{span 02 b401 0f 08}Fault Line,34,{span 02 b401 0f 08},Falla geologica
+battle/battle_data_release/battle_text.xlc,XLC,1732,4,,,{span 02 aa01 0f 08}Lingering Kiss,34,{span 02 aa01 0f 08},Beso persistente
+battle/battle_data_release/battle_text.xlc,XLC,1733,4,,,{span 02 aa01 0f 08}Infernal Kiss,34,{span 02 aa01 0f 08},Beso infernal
+battle/battle_data_release/battle_text.xlc,XLC,1734,4,,,{span 02 ce01 11 08}Day of Reckoning,36,{span 02 ce01 11 08},Dia del juicio
+battle/battle_data_release/battle_text.xlc,XLC,1735,4,,,{span 02 a401 0e 08}Sacred Breath,33,{span 02 a401 0e 08},Aliento sagrado
+battle/battle_data_release/battle_text.xlc,XLC,1736,4,,,{span 02 be01 11 08}Holy War,36,{span 02 be01 11 08},Guerra santa
+battle/battle_data_release/battle_text.xlc,XLC,1737,4,,,{span 02 7801 0a 08}Tail Lash,29,{span 02 7801 0a 08},Latigazo de cola
+battle/battle_data_release/battle_text.xlc,XLC,1738,4,,,{span 02 9c01 0d 08}Toxic Breath,32,{span 02 9c01 0d 08},Aliento toxico
+battle/battle_data_release/battle_text.xlc,XLC,1739,4,,,{span 02 b601 10 08}Delirium Haze,35,{span 02 b601 10 08},Bruma delirante
+battle/battle_data_release/battle_text.xlc,XLC,1740,4,,,{span 02 ae01 0e 08}Vortex Breath,33,{span 02 ae01 0e 08},Aliento de vortice
+battle/battle_data_release/battle_text.xlc,XLC,1741,4,,,{span 02 c801 11 08}Radiant Gale,36,{span 02 c801 11 08},Vendaval radiante
+battle/battle_data_release/battle_text.xlc,XLC,1742,4,,,{span 02 ae01 0d 08}Talon Dive,32,{span 02 ae01 0d 08},Picado de garras
 battle/battle_data_release/battle_text.xlc,XLC,1743,4,,,{span 02 9601 0c 08}Encase,31,{span 02 9601 0c 08},Encerrar
-battle/battle_data_release/battle_text.xlc,XLC,1744,4,,,{span 02 b401 0f 08}Pumpkin Strike,34,{span 02 b401 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1745,4,,,{span 02 9201 0c 08}Pumpkin Pie,31,{span 02 9201 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1746,4,,,{span 02 ae01 0d 08}Pumpkin Bomb,32,{span 02 ae01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1747,4,,,{span 02 a201 0d 08}Flame Breath,32,{span 02 a201 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1748,4,,,{span 02 bc01 10 08}Crimson Note,35,{span 02 bc01 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1749,4,,,{span 02 a401 0d 08}Bloodbath,32,{span 02 a401 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1750,4,,,{span 02 a201 0e 08}Selfless Kiss,33,{span 02 a201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1751,4,,,{span 02 a201 0e 08}Vampiric Kiss,33,{span 02 a201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1752,4,,,{span 02 8e01 0c 08}Blue Spiral,31,{span 02 8e01 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1753,4,,,{span 02 9e01 0d 08}Frost Breath,32,{span 02 9e01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1754,4,,,{span 02 b801 10 08}Total Whiteout,35,{span 02 b801 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1755,4,,,{span 02 b001 0e 08}Heaven's Tear,33,{span 02 b001 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1756,4,,,{span 02 9c01 0d 08}Petro Breath,32,{span 02 9c01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1757,4,,,{span 02 b601 10 08}Stone Circle,35,{span 02 b601 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1758,4,,,{span 02 9201 0c 08}Poison Rain,31,{span 02 9201 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1759,4,,,{span 02 aa01 0e 08}Poison Breath,33,{span 02 aa01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1760,4,,,{span 02 c401 11 08}Cloud Kill,36,{span 02 c401 11 08},
+battle/battle_data_release/battle_text.xlc,XLC,1744,4,,,{span 02 b401 0f 08}Pumpkin Strike,34,{span 02 b401 0f 08},Golpe de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1745,4,,,{span 02 9201 0c 08}Pumpkin Pie,31,{span 02 9201 0c 08},Pastel de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1746,4,,,{span 02 ae01 0d 08}Pumpkin Bomb,32,{span 02 ae01 0d 08},Bomba de calabaza
+battle/battle_data_release/battle_text.xlc,XLC,1747,4,,,{span 02 a201 0d 08}Flame Breath,32,{span 02 a201 0d 08},Aliento de fuego
+battle/battle_data_release/battle_text.xlc,XLC,1748,4,,,{span 02 bc01 10 08}Crimson Note,35,{span 02 bc01 10 08},Nota carmesi
+battle/battle_data_release/battle_text.xlc,XLC,1749,4,,,{span 02 a401 0d 08}Bloodbath,32,{span 02 a401 0d 08},Bano de sangre
+battle/battle_data_release/battle_text.xlc,XLC,1750,4,,,{span 02 a201 0e 08}Selfless Kiss,33,{span 02 a201 0e 08},Beso desinteresado
+battle/battle_data_release/battle_text.xlc,XLC,1751,4,,,{span 02 a201 0e 08}Vampiric Kiss,33,{span 02 a201 0e 08},Beso vampirico
+battle/battle_data_release/battle_text.xlc,XLC,1752,4,,,{span 02 8e01 0c 08}Blue Spiral,31,{span 02 8e01 0c 08},Espiral azul
+battle/battle_data_release/battle_text.xlc,XLC,1753,4,,,{span 02 9e01 0d 08}Frost Breath,32,{span 02 9e01 0d 08},Aliento helado
+battle/battle_data_release/battle_text.xlc,XLC,1754,4,,,{span 02 b801 10 08}Total Whiteout,35,{span 02 b801 10 08},Ventisca total
+battle/battle_data_release/battle_text.xlc,XLC,1755,4,,,{span 02 b001 0e 08}Heaven's Tear,33,{span 02 b001 0e 08},Lagrima celestial
+battle/battle_data_release/battle_text.xlc,XLC,1756,4,,,{span 02 9c01 0d 08}Petro Breath,32,{span 02 9c01 0d 08},Aliento petrificante
+battle/battle_data_release/battle_text.xlc,XLC,1757,4,,,{span 02 b601 10 08}Stone Circle,35,{span 02 b601 10 08},Circulo de piedra
+battle/battle_data_release/battle_text.xlc,XLC,1758,4,,,{span 02 9201 0c 08}Poison Rain,31,{span 02 9201 0c 08},Lluvia venenosa
+battle/battle_data_release/battle_text.xlc,XLC,1759,4,,,{span 02 aa01 0e 08}Poison Breath,33,{span 02 aa01 0e 08},Aliento venenoso
+battle/battle_data_release/battle_text.xlc,XLC,1760,4,,,{span 02 c401 11 08}Cloud Kill,36,{span 02 c401 11 08},Nube mortal
 battle/battle_data_release/battle_text.xlc,XLC,1761,4,,,{span 02 c401 10 08}REMOVED,35,{span 02 c401 10 08},ELIMINADO
-battle/battle_data_release/battle_text.xlc,XLC,1762,4,,,{span 02 7e01 0a 08}Maelstrom,29,{span 02 7e01 0a 08},
+battle/battle_data_release/battle_text.xlc,XLC,1762,4,,,{span 02 7e01 0a 08}Maelstrom,29,{span 02 7e01 0a 08},Remolino
 battle/battle_data_release/battle_text.xlc,XLC,1763,4,,,{span 02 9e01 0e 08}Meat Shield,33,{span 02 9e01 0e 08},Escudo de carne
-battle/battle_data_release/battle_text.xlc,XLC,1764,4,,,{span 02 9e01 0e 08}Forsaken Kiss,33,{span 02 9e01 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1765,4,,,{span 02 8401 0a 08}Lariat,29,{span 02 8401 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1766,4,,,{span 02 b201 0e 08}Corpse Breath,33,{span 02 b201 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1767,4,,,{span 02 cc01 11 08}Evil Dead,36,{span 02 cc01 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1768,4,,,{span 02 6c01 09 08}Evil Eye,28,{span 02 6c01 09 08},
+battle/battle_data_release/battle_text.xlc,XLC,1764,4,,,{span 02 9e01 0e 08}Forsaken Kiss,33,{span 02 9e01 0e 08},Beso maldito
+battle/battle_data_release/battle_text.xlc,XLC,1765,4,,,{span 02 8401 0a 08}Lariat,29,{span 02 8401 0a 08},Lazo
+battle/battle_data_release/battle_text.xlc,XLC,1766,4,,,{span 02 b201 0e 08}Corpse Breath,33,{span 02 b201 0e 08},Aliento de cadaver
+battle/battle_data_release/battle_text.xlc,XLC,1767,4,,,{span 02 cc01 11 08}Evil Dead,36,{span 02 cc01 11 08},Muertos malignos
+battle/battle_data_release/battle_text.xlc,XLC,1768,4,,,{span 02 6c01 09 08}Evil Eye,28,{span 02 6c01 09 08},Mal de ojo
 battle/battle_data_release/battle_text.xlc,XLC,1769,4,,,{span 02 b201 0f 08}REMOVED,34,{span 02 b201 0f 08},ELIMINADO
 battle/battle_data_release/battle_text.xlc,XLC,1770,4,,,{span 02 6001 08 08}nothing,27,{span 02 6001 08 08},nada
-battle/battle_data_release/battle_text.xlc,XLC,1771,4,,,{span 02 aa01 0d 08}Doppelganger,32,{span 02 aa01 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1772,4,,,{span 02 7601 0a 08}Exhalatio,29,{span 02 7601 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1773,4,,,{span 02 6801 08 08}Procera,27,{span 02 6801 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,1774,4,,,{span 02 6201 07 08}Pondus,26,{span 02 6201 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1775,4,,,{span 02 7001 09 08}Tonitrus,28,{span 02 7001 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1776,4,,,{span 02 6c01 08 08}Coctura,27,{span 02 6c01 08 08},
-battle/battle_data_release/battle_text.xlc,XLC,1777,4,,,{span 02 6a01 09 08}Diruptio,28,{span 02 6a01 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1778,4,,,{span 02 8801 0b 08}Congelatio,30,{span 02 8801 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1779,4,,,{span 02 5e01 07 08}Radius,26,{span 02 5e01 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1780,4,,,{span 02 5801 06 08}Umbra,25,{span 02 5801 06 08},
+battle/battle_data_release/battle_text.xlc,XLC,1771,4,,,{span 02 aa01 0d 08}Doppelganger,32,{span 02 aa01 0d 08},Doppelganger
+battle/battle_data_release/battle_text.xlc,XLC,1772,4,,,{span 02 7601 0a 08}Exhalatio,29,{span 02 7601 0a 08},Exhalatio
+battle/battle_data_release/battle_text.xlc,XLC,1773,4,,,{span 02 6801 08 08}Procera,27,{span 02 6801 08 08},Procera
+battle/battle_data_release/battle_text.xlc,XLC,1774,4,,,{span 02 6201 07 08}Pondus,26,{span 02 6201 07 08},Pondus
+battle/battle_data_release/battle_text.xlc,XLC,1775,4,,,{span 02 7001 09 08}Tonitrus,28,{span 02 7001 09 08},Tonitrus
+battle/battle_data_release/battle_text.xlc,XLC,1776,4,,,{span 02 6c01 08 08}Coctura,27,{span 02 6c01 08 08},Coctura
+battle/battle_data_release/battle_text.xlc,XLC,1777,4,,,{span 02 6a01 09 08}Diruptio,28,{span 02 6a01 09 08},Diruptio
+battle/battle_data_release/battle_text.xlc,XLC,1778,4,,,{span 02 8801 0b 08}Congelatio,30,{span 02 8801 0b 08},Congelatio
+battle/battle_data_release/battle_text.xlc,XLC,1779,4,,,{span 02 5e01 07 08}Radius,26,{span 02 5e01 07 08},Radius
+battle/battle_data_release/battle_text.xlc,XLC,1780,4,,,{span 02 5801 06 08}Umbra,25,{span 02 5801 06 08},Umbra
 battle/battle_data_release/battle_text.xlc,XLC,1781,4,,,{span 02 6a01 08 08}Not Use,27,{span 02 6a01 08 08},No usar
 battle/battle_data_release/battle_text.xlc,XLC,1782,4,,,{span 02 8801 0a 08}Mend Leaf,29,{span 02 8801 0a 08},
 battle/battle_data_release/battle_text.xlc,XLC,1783,4,,,{span 02 a801 0d 08}Gold Nugget,32,{span 02 a801 0d 08},
@@ -26269,7 +26269,7 @@ battle/battle_data_release/battle_text.xlc,XLC,2602,4,,,{span 02 a001 0c 08}Cons
 battle/battle_data_release/battle_text.xlc,XLC,2603,4,,,{span 02 5a01 07 08}Extend,26,{span 02 5a01 07 08},Extender
 battle/battle_data_release/battle_text.xlc,XLC,2604,4,,,{span 02 ce01 12 08}Mother's Blessing,37,{span 02 ce01 12 08},Bendicion maternal
 battle/battle_data_release/battle_text.xlc,XLC,2605,4,,,{span 02 a401 0c 08}Conserve MP,31,{span 02 a401 0c 08},Conservar PM
-battle/battle_data_release/battle_text.xlc,XLC,2606,4,,,{span 02 6401 08 08}Phalanx,27,{span 02 6401 08 08},
+battle/battle_data_release/battle_text.xlc,XLC,2606,4,,,{span 02 6401 08 08}Phalanx,27,{span 02 6401 08 08},Falange
 battle/battle_data_release/battle_text.xlc,XLC,2607,4,,,{span 02 b601 0f 08}Guardian Force,34,{span 02 b601 0f 08},Fuerza guardiana
 battle/battle_data_release/battle_text.xlc,XLC,2608,4,,,{span 02 b401 0f 08}Fearful Impact,34,{span 02 b401 0f 08},Impacto aterrador
 battle/battle_data_release/battle_text.xlc,XLC,2609,4,,,{span 02 6801 08 08}Berserk,27,{span 02 6801 08 08},Frenesi
@@ -26293,7 +26293,7 @@ battle/battle_data_release/battle_text.xlc,XLC,2626,4,,,{span 02 be01 0e 08}Empo
 battle/battle_data_release/battle_text.xlc,XLC,2627,4,,,{span 02 9a01 0c 08}Repel Beast,31,{span 02 9a01 0c 08},
 battle/battle_data_release/battle_text.xlc,XLC,2628,4,,,{span 02 9601 0b 08}Golemsbane,30,{span 02 9601 0b 08},Azote de golems
 battle/battle_data_release/battle_text.xlc,XLC,2629,4,,,{span 02 bc01 0e 08}Empower Golem,33,{span 02 bc01 0e 08},Potenciar golem
-battle/battle_data_release/battle_text.xlc,XLC,2630,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},
+battle/battle_data_release/battle_text.xlc,XLC,2630,4,,,{span 02 8401 0b 08}Reflection,30,{span 02 8401 0b 08},Reflejo
 battle/battle_data_release/battle_text.xlc,XLC,2631,4,,,{span 02 7a01 0a 08}Evilsbane,29,{span 02 7a01 0a 08},Azote del mal
 battle/battle_data_release/battle_text.xlc,XLC,2632,4,,,{span 02 a001 06 08}Taunt,32,{span 02 a001 06 08},
 battle/battle_data_release/battle_text.xlc,XLC,2633,4,,,{span 02 7601 09 08}Aquaveil,28,{span 02 7601 09 08},Velo acuatico
@@ -26307,7 +26307,7 @@ battle/battle_data_release/battle_text.xlc,XLC,2640,4,,,{span 02 b801 0b 08}Spik
 battle/battle_data_release/battle_text.xlc,XLC,2641,4,,,{span 02 9a01 06 08}Feint,31,{span 02 9a01 06 08},Finta
 battle/battle_data_release/battle_text.xlc,XLC,2642,4,,,{span 02 ae01 0e 08}Broaden Force,33,{span 02 ae01 0e 08},Fuerza expansiva
 battle/battle_data_release/battle_text.xlc,XLC,2643,4,,,{span 02 7601 09 08}Apostate,28,{span 02 7601 09 08},Apóstata
-battle/battle_data_release/battle_text.xlc,XLC,2644,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},
+battle/battle_data_release/battle_text.xlc,XLC,2644,4,,,{span 02 9a01 0c 08}Ivory Tower,31,{span 02 9a01 0c 08},Torre de marfil
 battle/battle_data_release/battle_text.xlc,XLC,2645,4,,,{span 02 6401 08 08}Nothing,27,{span 02 6401 08 08},Ninguno
 battle/battle_data_release/battle_text.xlc,XLC,2646,4,,,{span 02 7201 09 08}Obstacle,28,{span 02 7201 09 08},Obstáculo
 battle/battle_data_release/battle_text.xlc,XLC,2647,4,,,{span 02 5001 06 08}Earth,25,{span 02 5001 06 08},Tierra
@@ -26414,7 +26414,7 @@ battle/battle_data_release/battle_text.xlc,XLC,2847,4,,,{span 02 fa01 16 08}Azel
 battle/battle_data_release/battle_text.xlc,XLC,2848,4,,,{span 04 9001 22 08}The Star Seer Warren cannot fall!,53,{span 04 9001 22 08},
 battle/battle_data_release/battle_text.xlc,XLC,2849,4,,,{span 04 b001 26 08}The Holy Knight Lanselot cannot fall!,57,{span 04 b001 26 08},
 battle/battle_data_release/battle_text.xlc,XLC,2850,4,,,{span 02 9801 0c 08}Bag of Loot,31,{span 02 9801 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,2851,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},
+battle/battle_data_release/battle_text.xlc,XLC,2851,4,,,{span 02 c801 0f 08}Phalanx,34,{span 02 c801 0f 08},Falange
 battle/battle_data_release/battle_text.xlc,XLC,2852,4,,,{span 02 da01 11 08}Avatar,36,{span 02 da01 11 08},
 battle/battle_data_release/battle_text.xlc,XLC,2853,4,,,{span 02 6001 07 08}Zombie,26,{span 02 6001 07 08},
 battle/battle_data_release/battle_text.xlc,XLC,2854,4,,,{span 03 5641 08 08 025730303031}Zombie {FF 83 0101fff1f0},58,{FF 83 0101fff1f0} | {span 03 5641 08 08 025730303031},
@@ -27374,117 +27374,117 @@ battle/battle_data_release/battle_text.xlc,XLC,1273,8,,,{span 04 c401 21 08}FRIG
 battle/battle_data_release/battle_text.xlc,XLC,1274,8,,,{span 0a e002 2c 08}Redirects all damage taken by the user to allies within 2 tiles until next turn.,126,{span 0a e002 2c 08},Redirige todo el dano que reciba el usuario a los aliados que esten a 2 casillas o menos hasta el siguiente turno.
 battle/battle_data_release/battle_text.xlc,XLC,1275,8,,,{span 08 2c02 0a 08}Advances RT counter and restores HP of allies by the amount of TP spent.,92,{span 08 2c02 0a 08},Adelanta el contador de TE y restaura PS a los aliados en una cantidad equivalente a los PT gastados.
 battle/battle_data_release/battle_text.xlc,XLC,1276,8,,,"{span 0e 6403 10 08}Creates a localized temporal anomaly which can inflict BOUND, SHACKLE or STOP on enemies in the AREA.",161,{span 0e 6403 10 08},"Crea una anomalia temporal localizada que puede aplicar UNION, ATADO o PARO a los enemigos en el AREA."
-battle/battle_data_release/battle_text.xlc,XLC,1277,8,,,{span 06 4801 34 08}Renders the user immune to MAGIC until next turn.,71,{span 06 4801 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1278,8,,,{span 08 4402 0c 08}A melee-range attack that deals SLASHING AIR damage in an AREA.,94,{span 08 4402 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1279,8,,,{span 06 6601 31 08}Creates a shield wall using ethereal clones.,68,{span 06 6601 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1280,8,,,{span 0a 1202 22 08}Transfers a percentage of an ally's CURRENT HP to self and returns some of the amount as TP.,116,{span 0a 1202 22 08},
-battle/battle_data_release/battle_text.xlc,XLC,1281,8,,,{span 08 b202 18 08}Causes spells cast on allies in an AREA to be reflected back to the caster.,106,{span 08 b202 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1282,8,,,{span 0a a802 2d 08}Restores 10% of max HP to an ALLY and an additional 40% if they're a BEAST or a DRAGON.,127,{span 0a a802 2d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1283,8,,,"{span 0a 9602 2c 08}Grants INSTINCT and sets the RT of a monster unit to zero, allowing it to act next.",126,{span 0a 9602 2c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1285,8,,,{span 06 b801 3f 08}Renders the user immune to attacks until next turn.,82,{span 06 b801 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1287,8,,,{span 04 8401 2f 08}Instantly STILLS a LIVING ally or an UNDEAD.,68,{span 04 8401 2f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1289,8,,,{span 10 e803 2e 08}A long-range attack that deals CRUSHING WATER damage to a SINGLE TARGET and can inflict SLOW. Usable only on water tiles.,191,{span 10 e803 2e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1290,8,,,{span 0c 2202 2f 08}A scream of pure anguish that can inflict SLOW and FRIGHTEN on enemies in the AREA.,129,{span 0c 2202 2f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1291,8,,,{span 0e 7603 0f 08}A short-range breath attack that deals PIERCING WATER damage in a LINE and can inflict SLOW with highly corrosive liquid.,160,{span 0e 7603 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1292,8,,,{span 0e 8c03 10 08}A short-range breath attack that deals PIERCING WATER damage in an AREA and can inflict SLOW with a high pressure blast.,161,{span 0e 8c03 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1293,8,,,{span 0e 3403 05 08}A melee-range attack that deals CRUSHING damage to a SINGLE TARGET. Has a chance to inflict LEADEN and delay RT.,150,{span 0e 3403 05 08},
-battle/battle_data_release/battle_text.xlc,XLC,1294,8,,,{span 0c 0802 2b 08}A short-range attack that deals SLASHING  AIR damage to enemies in an AREA.,125,{span 0c 0802 2b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1295,8,,,{span 0c 7002 32 08}A seductive dance that heals allies in the AREA and can inflict CHARM on enemies.,132,{span 0c 7002 32 08},
-battle/battle_data_release/battle_text.xlc,XLC,1296,8,,,{span 0e 6a03 0c 08}A short-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a concussive blast.,157,{span 0e 6a03 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1297,8,,,{span 0c d002 3f 08}A short-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a massive punch.,145,{span 0c d002 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1298,8,,,{span 10 bc03 30 08}A medium-range attack that deals LIGHT damage to a SINGLE TARGET by hitting it with a crystalline pumpkin. It will destroy UNDEAD remains if stilled.,193,{span 10 bc03 30 08},
-battle/battle_data_release/battle_text.xlc,XLC,1299,8,,,"{span 0e 7003 0d 08}A melee-range SLASHING attack that strikes twice with simultaneous swings of huge, clawed hands.",158,{span 0e 7003 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1300,8,,,{span 0c 4802 31 08}A playful kiss blown at a SINGLE TARGET that can inflict CHARM.,131,{span 0c 4802 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1301,8,,,{span 0c 5402 32 08}An impish kiss blown at a SINGLE TARGET than can inflict STUN and always inflicts POISON.,132,{span 0c 5402 32 08},
-battle/battle_data_release/battle_text.xlc,XLC,1302,8,,,"{span 0c ca02 3e 08}A hymn with no words, removes all MP from targets in the AREA and deals an equal amount of damage to HP.",144,{span 0c ca02 3e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1303,8,,,{span 0e 4e03 09 08}A short-range attack that removes a percentage of HP from all targets in a LINE with a reeking belch.,154,{span 0e 4e03 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1304,8,,,{span 0c ae02 3f 08}A rueful requiem in the divine tongue that deals LIGHT damage to UNDEAD in the AREA and destroys their remains if stilled.,145,{span 0c ae02 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1305,8,,,{span 10 4403 21 08}A short-range breath attack that deals PIERCING LIGHTNING damage in a LINE and can inflict STUN with a high intensity discharge.,178,{span 10 4403 21 08},
-battle/battle_data_release/battle_text.xlc,XLC,1306,8,,,{span 10 5a03 22 08}A short-range breath attack that deals PIERCING LIGHTNING damage in an AREA and can inflict STUN by creating a localized thunderstorm.,179,{span 10 5a03 22 08},
-battle/battle_data_release/battle_text.xlc,XLC,1307,8,,,{span 0c 6802 34 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict POISON with miasmic gas.,134,{span 0c 6802 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1308,8,,,{span 0c 7e02 35 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict POISON with lethal gas.,135,{span 0c 7e02 35 08},
-battle/battle_data_release/battle_text.xlc,XLC,1309,8,,,{span 0a e202 2a 08}A touch spell that deals RAW damage and drains it as MP.,124,{span 0a e202 2a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1310,8,,,{span 0e 1203 03 08}A short-range breath attack that deals CRUSHING EARTH damage in a LINE and delays RT by pelting the area with debris.,148,{span 0e 1203 03 08},
-battle/battle_data_release/battle_text.xlc,XLC,1311,8,,,{span 0e 2803 04 08}A short-range breath attack that deals CRUSHING EARTH damage in an AREA and delays RT by opening a fissure in the bedrock.,149,{span 0e 2803 04 08},
-battle/battle_data_release/battle_text.xlc,XLC,1312,8,,,{span 10 7c03 2d 08}A passionate kiss that ACCELERATES the RT counter of a SINGLE TARGET and doubles its TP reserves.,190,{span 10 7c03 2d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1313,8,,,"{span 0c c803 01 08}A feverish kiss that can inflict BOUND, SHACKLE and STOP on a SINGLE TARGET.",146,{span 0c c803 01 08},
-battle/battle_data_release/battle_text.xlc,XLC,1314,8,,,"{span 0e 4c03 0e 08}A dignified hymn that resets RT, TP and MP of enemies in the AREA.",159,{span 0e 4c03 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1315,8,,,{span 0e 2003 09 08}A short-range breath attack that deals SLASHING LIGHT damage in a LINE and can inflict SLEEP with holy flames.,154,{span 0e 2003 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1316,8,,,{span 0e 3603 0a 08}A short-range breath attack that deals SLASHING LIGHT damage in an AREA and can inflict SLEEP with a shower of shooting stars.,155,{span 0e 3603 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1317,8,,,{span 0c 7602 38 08}A short-range attack that deals CRUSHING damage to a SINGLE TARGET with a tail flick that could tear through bedrock.,138,{span 0c 7602 38 08},
-battle/battle_data_release/battle_text.xlc,XLC,1318,8,,,{span 0c 9c02 39 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict CHARM with a spew of musky gas.,139,{span 0c 9c02 39 08},
-battle/battle_data_release/battle_text.xlc,XLC,1319,8,,,{span 0c b202 3a 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict CHARM with pheromone-laden mist.,140,{span 0c b202 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1320,8,,,{span 0e 6203 0d 08}A short-range breath attack that deals SLASHING AIR damage in a LINE and inflicts SILENCE/RUPTURE by creating a small vacuum pocket.,158,{span 0e 6203 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1321,8,,,{span 0e 7803 0e 08}A short-range breath attack that deals SLASHING AIR damage in an AREA and inflicts SILENCE/RUPTURE with a heavy implosion.,159,{span 0e 7803 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1322,8,,,{span 0c 7202 34 08}A melee-range attack that deals SLASHING damage to a SINGLE TARGET and can inflict STUN with razor sharp talons.,134,{span 0c 7202 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1323,8,,,"{span 0c c202 3d 08}Inflicts STAGGER on the USER by consuming one dose of SPIRITS, while granting them QUICKEN and FORTIFY.",143,{span 0c c202 3d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1324,8,,,"{span 0e bc03 11 08}A medium-range attack that deals VOID damage in an AREA and can inflict LEADEN by dropping a giant, festering pumpkin from a great height.",162,{span 0e bc03 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1325,8,,,"{span 0a 1002 1f 08}Drops a shower of pumpkin pies on ALLIES in an AREA doubling their HP, up to the max.",113,{span 0a 1002 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1326,8,,,{span 08 fc02 18 08}Detonates a Jack-o'-Lantern to deal VOID damage in the AREA around it.,106,{span 08 fc02 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1327,8,,,{span 0c f803 02 08}A short-range breath attack that deals CRUSHING FIRE damage in a LINE and removes TP with a spout of superheated gas.,147,{span 0c f803 02 08},
-battle/battle_data_release/battle_text.xlc,XLC,1328,8,,,{span 0e 1003 03 08}A short-range breath attack that deals CRUSHING FIRE damage in an AREA and removes TP with a massive nova.,148,{span 0e 1003 03 08},
-battle/battle_data_release/battle_text.xlc,XLC,1329,8,,,{span 0e 4003 09 08}A melee-range attack that deals SLASHING AIR damage to a SINGLE TARGET and drains HP from it with a powerful vacuum.,154,{span 0e 4003 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1330,8,,,"{span 0c 4a02 32 08}A sweet, soft kiss that restores the HP of a SINGLE TARGET at the cost of own, and clears it of DEBUFFS.",132,{span 0c 4a02 32 08},
-battle/battle_data_release/battle_text.xlc,XLC,1331,8,,,"{span 0c 9802 3a 08}A depraved kiss that deals DARK damage to a SINGLE TARGET, drains its HP and resets the RT countdown.",140,{span 0c 9802 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1332,8,,,{span 10 1203 1f 08}A medium-range attack that deals PIERCING WATER damage to targets in a LINE with a jet of water that could cut through steel. Usable only on water tiles.,176,{span 10 1203 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1333,8,,,{span 0e 5603 0c 08}A short-range breath attack that deals PIERCING ICE damage in a LINE and can inflict BIND with freezing mist.,157,{span 0e 5603 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1334,8,,,{span 0e 6c03 0d 08}A short-range breath attack that deals PIERCING ICE damage in an AREA and can inflict BIND by summoning a blinding blizzard.,158,{span 0e 6c03 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1335,8,,,{span 0e 7c03 0b 08}A short-range attack that deals CRUSHING EARTH damage in an AREA by dropping a highly concentrated mass of energy.,156,{span 0e 7c03 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1336,8,,,{span 0c 8a02 37 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict PETRIFY with fossilizing gas.,137,{span 0c 8a02 37 08},
-battle/battle_data_release/battle_text.xlc,XLC,1337,8,,,{span 0c a002 38 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict PETRIFY with a malevolent gaze.,138,{span 0c a002 38 08},
-battle/battle_data_release/battle_text.xlc,XLC,1338,8,,,{span 10 2e03 1f 08}A medium-range attack that deals WATER damage in an AREA and can inflict POISON with a caustic downpour. Usable only on water tiles.,176,{span 10 2e03 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1339,8,,,{span 0c 6202 34 08}A short-range breath attack that deals PIERCING DARK damage in a LINE and can inflict POISON with corrosive gas.,134,{span 0c 6202 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1340,8,,,{span 0c 7802 35 08}A short-range breath attack that deals PIERCING DARK damage in an AREA and can inflict POISON by spreading miasma.,135,{span 0c 7802 35 08},
-battle/battle_data_release/battle_text.xlc,XLC,1341,8,,,"{span 0e 2203 07 08}A sedate hymn in the divine tongue, removes all TP from targets in the AREA and deals an equal amount of damage to HP.",152,{span 0e 2203 07 08},
-battle/battle_data_release/battle_text.xlc,XLC,1342,8,,,{span 10 8a03 29 08}A short-range attack that deals SLASHING WATER damage in a large AREA by summoning an enormous whirlpool. Usable only on water tiles.,186,{span 10 8a03 29 08},
-battle/battle_data_release/battle_text.xlc,XLC,1343,8,,,"{span 0a c402 24 08}Raises the pirate banner, advancing the RT countdown for allies in the AREA and delaying enemies.",118,{span 0a c402 24 08},
-battle/battle_data_release/battle_text.xlc,XLC,1344,8,,,"{span 0c 1402 2c 08}Sends a wicked kiss that can inflict CURSE, FRIGHTEN and SLOW on a SINGLE TARGET.",126,{span 0c 1402 2c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1345,8,,,{span 0a 9e02 23 08}A short-range attack that deals CRUSHING EARTH damage in the AREA with a flailing arm assault.,117,{span 0a 9e02 23 08},
-battle/battle_data_release/battle_text.xlc,XLC,1346,8,,,{span 0c ac02 3a 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict FRIGHTEN with rotting fumes.,140,{span 0c ac02 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1347,8,,,{span 0c c202 3b 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict FRIGHTEN with a potent curse.,141,{span 0c c202 3b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1348,8,,,{span 0a 1002 19 08}A frightful gaze able to PETRIFY enemies that carelessly meet it.,107,{span 0a 1002 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1349,8,,,{span 0e c803 17 08}A rapturous hymn in the divine tongue that restores HP to other LIVING units in the AREA and removes all DEBUFFS.,168,{span 0e c803 17 08},
-battle/battle_data_release/battle_text.xlc,XLC,1351,8,,,{span 06 2801 2e 08}Summon forth a doppelganger of an enemy unit.,65,{span 06 2801 2e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1352,8,,,{span 10 aa03 2f 08}A long-range malediction that deals SLASHING damage to targets in an AREA and drains their MP by corrupting the fabric of reality.,192,{span 10 aa03 2f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1353,8,,,{span 10 4c03 26 08}A long-range malediction that deals SLASHING AIR damage to targets in an AREA and inflicts SILENCE/RUPTURE with a terrifying gale.,183,{span 10 4c03 26 08},
-battle/battle_data_release/battle_text.xlc,XLC,1354,8,,,{span 10 e403 31 08}A long-range malediction that deals CRUSHING EARTH damage to targets in an AREA and resets their RT by manipulating gravity's bonds.,194,{span 10 e403 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1355,8,,,{span 12 2803 39 08}A long-range malediction that deals PIERCING LIGHTNING damage to targets in an AREA and inflicts STUN with a brutal flurry of lightning.,202,{span 12 2803 39 08},
-battle/battle_data_release/battle_text.xlc,XLC,1356,8,,,{span 12 2603 33 08}A long-range malediction that deals PIERCING WATER damage to targets in an AREA and inflicts SLOW with a matter-congealing wave.,196,{span 12 2603 33 08},
-battle/battle_data_release/battle_text.xlc,XLC,1357,8,,,{span 12 7403 3f 08}A long-range malediction that deals CRUSHING FIRE damage to targets in an AREA and resets their TP to zero with an explosive ripple of energy.,208,{span 12 7403 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1358,8,,,{span 14 2204 10 08}A long-range malediction that deals PIERCING ICE damage to targets in an AREA and inflicts BIND with a soul-chilling blast that penetrates the body's core.,224,{span 14 2204 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1359,8,,,"{span 12 4603 3c 08}A long-range malediction that deals SLASHING LIGHT damage to targets in an AREA, inflicts SLEEP and EXORCISES any STILLED UNDEAD with a radiant burst of divine light.",205,{span 12 4603 3c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1360,8,,,{span 12 3c03 38 08}A long-range malediction that deals CRUSHING DARK damage to targets in an AREA and inflicts FRIGHTEN with malevolent whispers.,201,{span 12 3c03 38 08},
+battle/battle_data_release/battle_text.xlc,XLC,1277,8,,,{span 06 4801 34 08}Renders the user immune to MAGIC until next turn.,71,{span 06 4801 34 08},Vuelve al usuario inmune a la MAGIA hasta el siguiente turno.
+battle/battle_data_release/battle_text.xlc,XLC,1278,8,,,{span 08 4402 0c 08}A melee-range attack that deals SLASHING AIR damage in an AREA.,94,{span 08 4402 0c 08},Ataque cuerpo a cuerpo que inflige dano CORTANTE de AIRE en un AREA.
+battle/battle_data_release/battle_text.xlc,XLC,1279,8,,,{span 06 6601 31 08}Creates a shield wall using ethereal clones.,68,{span 06 6601 31 08},Crea un muro de escudos con clones etereos.
+battle/battle_data_release/battle_text.xlc,XLC,1280,8,,,{span 0a 1202 22 08}Transfers a percentage of an ally's CURRENT HP to self and returns some of the amount as TP.,116,{span 0a 1202 22 08},Transfiere al usuario un porcentaje de los PS ACTUALES de un aliado y devuelve parte de esa cantidad como PT.
+battle/battle_data_release/battle_text.xlc,XLC,1281,8,,,{span 08 b202 18 08}Causes spells cast on allies in an AREA to be reflected back to the caster.,106,{span 08 b202 18 08},Hace que los hechizos lanzados sobre los aliados en un AREA se reflejen hacia quien los lanzo.
+battle/battle_data_release/battle_text.xlc,XLC,1282,8,,,{span 0a a802 2d 08}Restores 10% of max HP to an ALLY and an additional 40% if they're a BEAST or a DRAGON.,127,{span 0a a802 2d 08},Restaura el 10 % de los PS maximos de un ALIADO y un 40 % adicional si es una BESTIA o un DRAGON.
+battle/battle_data_release/battle_text.xlc,XLC,1283,8,,,"{span 0a 9602 2c 08}Grants INSTINCT and sets the RT of a monster unit to zero, allowing it to act next.",126,{span 0a 9602 2c 08},"Otorga INSTINTO y reduce a cero el TE de una unidad monstruosa, lo que le permite actuar a continuacion."
+battle/battle_data_release/battle_text.xlc,XLC,1285,8,,,{span 06 b801 3f 08}Renders the user immune to attacks until next turn.,82,{span 06 b801 3f 08},Vuelve al usuario inmune a los ataques hasta el siguiente turno.
+battle/battle_data_release/battle_text.xlc,XLC,1287,8,,,{span 04 8401 2f 08}Instantly STILLS a LIVING ally or an UNDEAD.,68,{span 04 8401 2f 08},Deja INERTE al instante a un aliado VIVO o a un NO MUERTO.
+battle/battle_data_release/battle_text.xlc,XLC,1289,8,,,{span 10 e803 2e 08}A long-range attack that deals CRUSHING WATER damage to a SINGLE TARGET and can inflict SLOW. Usable only on water tiles.,191,{span 10 e803 2e 08},Ataque de largo alcance que inflige dano CONTUNDENTE de AGUA a UN SOLO OBJETIVO y puede aplicar LENTITUD. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1290,8,,,{span 0c 2202 2f 08}A scream of pure anguish that can inflict SLOW and FRIGHTEN on enemies in the AREA.,129,{span 0c 2202 2f 08},Grito de pura angustia que puede aplicar LENTITUD y MIEDO a los enemigos en el AREA.
+battle/battle_data_release/battle_text.xlc,XLC,1291,8,,,{span 0e 7603 0f 08}A short-range breath attack that deals PIERCING WATER damage in a LINE and can inflict SLOW with highly corrosive liquid.,160,{span 0e 7603 0f 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de AGUA en una LINEA y puede aplicar LENTITUD con un liquido altamente corrosivo.
+battle/battle_data_release/battle_text.xlc,XLC,1292,8,,,{span 0e 8c03 10 08}A short-range breath attack that deals PIERCING WATER damage in an AREA and can inflict SLOW with a high pressure blast.,161,{span 0e 8c03 10 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de AGUA en un AREA y puede aplicar LENTITUD con una descarga de alta presion.
+battle/battle_data_release/battle_text.xlc,XLC,1293,8,,,{span 0e 3403 05 08}A melee-range attack that deals CRUSHING damage to a SINGLE TARGET. Has a chance to inflict LEADEN and delay RT.,150,{span 0e 3403 05 08},Ataque cuerpo a cuerpo que inflige dano CONTUNDENTE a UN SOLO OBJETIVO. Puede aplicar COJERA y retrasar su TE.
+battle/battle_data_release/battle_text.xlc,XLC,1294,8,,,{span 0c 0802 2b 08}A short-range attack that deals SLASHING  AIR damage to enemies in an AREA.,125,{span 0c 0802 2b 08},Ataque de corto alcance que inflige dano CORTANTE de AIRE a los enemigos en un AREA.
+battle/battle_data_release/battle_text.xlc,XLC,1295,8,,,{span 0c 7002 32 08}A seductive dance that heals allies in the AREA and can inflict CHARM on enemies.,132,{span 0c 7002 32 08},Danza seductora que cura a los aliados en el AREA y puede aplicar ENCANTO a los enemigos.
+battle/battle_data_release/battle_text.xlc,XLC,1296,8,,,{span 0e 6a03 0c 08}A short-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a concussive blast.,157,{span 0e 6a03 0c 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA a UN SOLO OBJETIVO y puede aplicar SOMNOLENCIA con una onda de choque.
+battle/battle_data_release/battle_text.xlc,XLC,1297,8,,,{span 0c d002 3f 08}A short-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a massive punch.,145,{span 0c d002 3f 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA a UN SOLO OBJETIVO y puede aplicar SOMNOLENCIA con un punetazo devastador.
+battle/battle_data_release/battle_text.xlc,XLC,1298,8,,,{span 10 bc03 30 08}A medium-range attack that deals LIGHT damage to a SINGLE TARGET by hitting it with a crystalline pumpkin. It will destroy UNDEAD remains if stilled.,193,{span 10 bc03 30 08},Ataque de alcance medio que inflige dano de LUZ a UN SOLO OBJETIVO al golpearlo con una calabaza cristalina. Destruye los restos de los NO MUERTOS si estan INERTES.
+battle/battle_data_release/battle_text.xlc,XLC,1299,8,,,"{span 0e 7003 0d 08}A melee-range SLASHING attack that strikes twice with simultaneous swings of huge, clawed hands.",158,{span 0e 7003 0d 08},Ataque CORTANTE cuerpo a cuerpo que golpea dos veces con movimientos simultaneos de enormes manos con garras.
+battle/battle_data_release/battle_text.xlc,XLC,1300,8,,,{span 0c 4802 31 08}A playful kiss blown at a SINGLE TARGET that can inflict CHARM.,131,{span 0c 4802 31 08},Beso jugueton lanzado a UN SOLO OBJETIVO que puede aplicar ENCANTO.
+battle/battle_data_release/battle_text.xlc,XLC,1301,8,,,{span 0c 5402 32 08}An impish kiss blown at a SINGLE TARGET than can inflict STUN and always inflicts POISON.,132,{span 0c 5402 32 08},Beso travieso lanzado a UN SOLO OBJETIVO que puede aplicar ATURDIMIENTO y siempre aplica VENENO.
+battle/battle_data_release/battle_text.xlc,XLC,1302,8,,,"{span 0c ca02 3e 08}A hymn with no words, removes all MP from targets in the AREA and deals an equal amount of damage to HP.",144,{span 0c ca02 3e 08},Himno sin palabras que elimina todos los PM de los objetivos en el AREA y les inflige una cantidad equivalente de dano a sus PS.
+battle/battle_data_release/battle_text.xlc,XLC,1303,8,,,{span 0e 4e03 09 08}A short-range attack that removes a percentage of HP from all targets in a LINE with a reeking belch.,154,{span 0e 4e03 09 08},Ataque de corto alcance que elimina un porcentaje de los PS de todos los objetivos en una LINEA con un eructo pestilente.
+battle/battle_data_release/battle_text.xlc,XLC,1304,8,,,{span 0c ae02 3f 08}A rueful requiem in the divine tongue that deals LIGHT damage to UNDEAD in the AREA and destroys their remains if stilled.,145,{span 0c ae02 3f 08},Un triste requiem en la lengua divina que inflige dano de LUZ a los NO MUERTOS en el AREA y destruye sus restos si estan INERTES.
+battle/battle_data_release/battle_text.xlc,XLC,1305,8,,,{span 10 4403 21 08}A short-range breath attack that deals PIERCING LIGHTNING damage in a LINE and can inflict STUN with a high intensity discharge.,178,{span 10 4403 21 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de RAYO en una LINEA y puede aplicar ATURDIMIENTO con una descarga de alta intensidad.
+battle/battle_data_release/battle_text.xlc,XLC,1306,8,,,{span 10 5a03 22 08}A short-range breath attack that deals PIERCING LIGHTNING damage in an AREA and can inflict STUN by creating a localized thunderstorm.,179,{span 10 5a03 22 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de RAYO en un AREA y puede aplicar ATURDIMIENTO al crear una tormenta localizada.
+battle/battle_data_release/battle_text.xlc,XLC,1307,8,,,{span 0c 6802 34 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict POISON with miasmic gas.,134,{span 0c 6802 34 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar VENENO con gas miasmatico.
+battle/battle_data_release/battle_text.xlc,XLC,1308,8,,,{span 0c 7e02 35 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict POISON with lethal gas.,135,{span 0c 7e02 35 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar VENENO con un gas letal.
+battle/battle_data_release/battle_text.xlc,XLC,1309,8,,,{span 0a e202 2a 08}A touch spell that deals RAW damage and drains it as MP.,124,{span 0a e202 2a 08},Hechizo de contacto que inflige dano PURO y absorbe esa cantidad como PM.
+battle/battle_data_release/battle_text.xlc,XLC,1310,8,,,{span 0e 1203 03 08}A short-range breath attack that deals CRUSHING EARTH damage in a LINE and delays RT by pelting the area with debris.,148,{span 0e 1203 03 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de TIERRA en una LINEA y retrasa el TE al lanzar escombros sobre la zona.
+battle/battle_data_release/battle_text.xlc,XLC,1311,8,,,{span 0e 2803 04 08}A short-range breath attack that deals CRUSHING EARTH damage in an AREA and delays RT by opening a fissure in the bedrock.,149,{span 0e 2803 04 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de TIERRA en un AREA y retrasa el TE al abrir una grieta en el lecho rocoso.
+battle/battle_data_release/battle_text.xlc,XLC,1312,8,,,{span 10 7c03 2d 08}A passionate kiss that ACCELERATES the RT counter of a SINGLE TARGET and doubles its TP reserves.,190,{span 10 7c03 2d 08},Beso apasionado que ACELERA el contador de TE de UN SOLO OBJETIVO y duplica sus reservas de PT.
+battle/battle_data_release/battle_text.xlc,XLC,1313,8,,,"{span 0c c803 01 08}A feverish kiss that can inflict BOUND, SHACKLE and STOP on a SINGLE TARGET.",146,{span 0c c803 01 08},"Beso febril que puede aplicar UNION, ATADO y PARO a UN SOLO OBJETIVO."
+battle/battle_data_release/battle_text.xlc,XLC,1314,8,,,"{span 0e 4c03 0e 08}A dignified hymn that resets RT, TP and MP of enemies in the AREA.",159,{span 0e 4c03 0e 08},"Himno solemne que reinicia el TE, los PT y los PM de los enemigos en el AREA."
+battle/battle_data_release/battle_text.xlc,XLC,1315,8,,,{span 0e 2003 09 08}A short-range breath attack that deals SLASHING LIGHT damage in a LINE and can inflict SLEEP with holy flames.,154,{span 0e 2003 09 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de LUZ en una LINEA y puede aplicar SOMNOLENCIA con llamas sagradas.
+battle/battle_data_release/battle_text.xlc,XLC,1316,8,,,{span 0e 3603 0a 08}A short-range breath attack that deals SLASHING LIGHT damage in an AREA and can inflict SLEEP with a shower of shooting stars.,155,{span 0e 3603 0a 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de LUZ en un AREA y puede aplicar SOMNOLENCIA con una lluvia de estrellas fugaces.
+battle/battle_data_release/battle_text.xlc,XLC,1317,8,,,{span 0c 7602 38 08}A short-range attack that deals CRUSHING damage to a SINGLE TARGET with a tail flick that could tear through bedrock.,138,{span 0c 7602 38 08},Ataque de corto alcance que inflige dano CONTUNDENTE a UN SOLO OBJETIVO con un coletazo capaz de atravesar la roca madre.
+battle/battle_data_release/battle_text.xlc,XLC,1318,8,,,{span 0c 9c02 39 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict CHARM with a spew of musky gas.,139,{span 0c 9c02 39 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar ENCANTO con una nube de gas almizclado.
+battle/battle_data_release/battle_text.xlc,XLC,1319,8,,,{span 0c b202 3a 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict CHARM with pheromone-laden mist.,140,{span 0c b202 3a 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar ENCANTO con una niebla cargada de feromonas.
+battle/battle_data_release/battle_text.xlc,XLC,1320,8,,,{span 0e 6203 0d 08}A short-range breath attack that deals SLASHING AIR damage in a LINE and inflicts SILENCE/RUPTURE by creating a small vacuum pocket.,158,{span 0e 6203 0d 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de AIRE en una LINEA y aplica SILENCIO/RUPTURA al crear una pequena bolsa de vacio.
+battle/battle_data_release/battle_text.xlc,XLC,1321,8,,,{span 0e 7803 0e 08}A short-range breath attack that deals SLASHING AIR damage in an AREA and inflicts SILENCE/RUPTURE with a heavy implosion.,159,{span 0e 7803 0e 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de AIRE en un AREA y aplica SILENCIO/RUPTURA con una potente implosion.
+battle/battle_data_release/battle_text.xlc,XLC,1322,8,,,{span 0c 7202 34 08}A melee-range attack that deals SLASHING damage to a SINGLE TARGET and can inflict STUN with razor sharp talons.,134,{span 0c 7202 34 08},Ataque cuerpo a cuerpo que inflige dano CORTANTE a UN SOLO OBJETIVO y puede aplicar ATURDIMIENTO con garras afiladas como navajas.
+battle/battle_data_release/battle_text.xlc,XLC,1323,8,,,"{span 0c c202 3d 08}Inflicts STAGGER on the USER by consuming one dose of SPIRITS, while granting them QUICKEN and FORTIFY.",143,{span 0c c202 3d 08},"Inflige TAMBALEO al USUARIO al consumir una dosis de ESPIRITUS, y le otorga ACELERACION y FORTIFICACION."
+battle/battle_data_release/battle_text.xlc,XLC,1324,8,,,"{span 0e bc03 11 08}A medium-range attack that deals VOID damage in an AREA and can inflict LEADEN by dropping a giant, festering pumpkin from a great height.",162,{span 0e bc03 11 08},Ataque de alcance medio que inflige dano de VACIO en un AREA y puede aplicar COJERA al dejar caer una calabaza gigante y putrefacta desde gran altura.
+battle/battle_data_release/battle_text.xlc,XLC,1325,8,,,"{span 0a 1002 1f 08}Drops a shower of pumpkin pies on ALLIES in an AREA doubling their HP, up to the max.",113,{span 0a 1002 1f 08},Hace caer una lluvia de pasteles de calabaza sobre los ALIADOS en un AREA y duplica sus PS hasta el maximo.
+battle/battle_data_release/battle_text.xlc,XLC,1326,8,,,{span 08 fc02 18 08}Detonates a Jack-o'-Lantern to deal VOID damage in the AREA around it.,106,{span 08 fc02 18 08},Detona un FAROL DE CALABAZA e inflige dano de VACIO en el AREA que lo rodea.
+battle/battle_data_release/battle_text.xlc,XLC,1327,8,,,{span 0c f803 02 08}A short-range breath attack that deals CRUSHING FIRE damage in a LINE and removes TP with a spout of superheated gas.,147,{span 0c f803 02 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de FUEGO en una LINEA y elimina PT con un chorro de gas sobrecalentado.
+battle/battle_data_release/battle_text.xlc,XLC,1328,8,,,{span 0e 1003 03 08}A short-range breath attack that deals CRUSHING FIRE damage in an AREA and removes TP with a massive nova.,148,{span 0e 1003 03 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de FUEGO en un AREA y elimina PT con una enorme nova.
+battle/battle_data_release/battle_text.xlc,XLC,1329,8,,,{span 0e 4003 09 08}A melee-range attack that deals SLASHING AIR damage to a SINGLE TARGET and drains HP from it with a powerful vacuum.,154,{span 0e 4003 09 08},Ataque CORTANTE cuerpo a cuerpo que inflige dano de AIRE a UN SOLO OBJETIVO y le absorbe PS con un potente vacio.
+battle/battle_data_release/battle_text.xlc,XLC,1330,8,,,"{span 0c 4a02 32 08}A sweet, soft kiss that restores the HP of a SINGLE TARGET at the cost of own, and clears it of DEBUFFS.",132,{span 0c 4a02 32 08},Beso dulce y suave que restaura los PS de UN SOLO OBJETIVO a costa de los del usuario y elimina sus EFECTOS NEGATIVOS.
+battle/battle_data_release/battle_text.xlc,XLC,1331,8,,,"{span 0c 9802 3a 08}A depraved kiss that deals DARK damage to a SINGLE TARGET, drains its HP and resets the RT countdown.",140,{span 0c 9802 3a 08},"Beso depravado que inflige dano de OSCURIDAD a UN SOLO OBJETIVO, le absorbe PS y reinicia la cuenta regresiva de su TE."
+battle/battle_data_release/battle_text.xlc,XLC,1332,8,,,{span 10 1203 1f 08}A medium-range attack that deals PIERCING WATER damage to targets in a LINE with a jet of water that could cut through steel. Usable only on water tiles.,176,{span 10 1203 1f 08},Ataque de alcance medio que inflige dano PERFORANTE de AGUA a los objetivos en una LINEA con un chorro capaz de cortar el acero. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1333,8,,,{span 0e 5603 0c 08}A short-range breath attack that deals PIERCING ICE damage in a LINE and can inflict BIND with freezing mist.,157,{span 0e 5603 0c 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de HIELO en una LINEA y puede aplicar UNION con una niebla congelante.
+battle/battle_data_release/battle_text.xlc,XLC,1334,8,,,{span 0e 6c03 0d 08}A short-range breath attack that deals PIERCING ICE damage in an AREA and can inflict BIND by summoning a blinding blizzard.,158,{span 0e 6c03 0d 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de HIELO en un AREA y puede aplicar UNION al invocar una ventisca cegadora.
+battle/battle_data_release/battle_text.xlc,XLC,1335,8,,,{span 0e 7c03 0b 08}A short-range attack that deals CRUSHING EARTH damage in an AREA by dropping a highly concentrated mass of energy.,156,{span 0e 7c03 0b 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA en un AREA al dejar caer una masa de energia muy concentrada.
+battle/battle_data_release/battle_text.xlc,XLC,1336,8,,,{span 0c 8a02 37 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict PETRIFY with fossilizing gas.,137,{span 0c 8a02 37 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar PETRIFICACION con gas fosilizante.
+battle/battle_data_release/battle_text.xlc,XLC,1337,8,,,{span 0c a002 38 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict PETRIFY with a malevolent gaze.,138,{span 0c a002 38 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar PETRIFICACION con una mirada maligna.
+battle/battle_data_release/battle_text.xlc,XLC,1338,8,,,{span 10 2e03 1f 08}A medium-range attack that deals WATER damage in an AREA and can inflict POISON with a caustic downpour. Usable only on water tiles.,176,{span 10 2e03 1f 08},Ataque de alcance medio que inflige dano de AGUA en un AREA y puede aplicar VENENO con un aguacero corrosivo. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1339,8,,,{span 0c 6202 34 08}A short-range breath attack that deals PIERCING DARK damage in a LINE and can inflict POISON with corrosive gas.,134,{span 0c 6202 34 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de OSCURIDAD en una LINEA y puede aplicar VENENO con gas corrosivo.
+battle/battle_data_release/battle_text.xlc,XLC,1340,8,,,{span 0c 7802 35 08}A short-range breath attack that deals PIERCING DARK damage in an AREA and can inflict POISON by spreading miasma.,135,{span 0c 7802 35 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de OSCURIDAD en un AREA y puede aplicar VENENO al esparcir miasma.
+battle/battle_data_release/battle_text.xlc,XLC,1341,8,,,"{span 0e 2203 07 08}A sedate hymn in the divine tongue, removes all TP from targets in the AREA and deals an equal amount of damage to HP.",152,{span 0e 2203 07 08},Himno sereno en la lengua divina que elimina todos los PT de los objetivos en el AREA y les inflige una cantidad equivalente de dano a sus PS.
+battle/battle_data_release/battle_text.xlc,XLC,1342,8,,,{span 10 8a03 29 08}A short-range attack that deals SLASHING WATER damage in a large AREA by summoning an enormous whirlpool. Usable only on water tiles.,186,{span 10 8a03 29 08},Ataque de corto alcance que inflige dano CORTANTE de AGUA en un AREA extensa al invocar un enorme remolino. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1343,8,,,"{span 0a c402 24 08}Raises the pirate banner, advancing the RT countdown for allies in the AREA and delaying enemies.",118,{span 0a c402 24 08},"Alza la bandera pirata, adelanta la cuenta regresiva de TE de los aliados en el AREA y retrasa la de los enemigos."
+battle/battle_data_release/battle_text.xlc,XLC,1344,8,,,"{span 0c 1402 2c 08}Sends a wicked kiss that can inflict CURSE, FRIGHTEN and SLOW on a SINGLE TARGET.",126,{span 0c 1402 2c 08},"Lanza un beso perverso que puede aplicar MALDICION, MIEDO y LENTITUD a UN SOLO OBJETIVO."
+battle/battle_data_release/battle_text.xlc,XLC,1345,8,,,{span 0a 9e02 23 08}A short-range attack that deals CRUSHING EARTH damage in the AREA with a flailing arm assault.,117,{span 0a 9e02 23 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA en el AREA con una arremetida de brazos descontrolados.
+battle/battle_data_release/battle_text.xlc,XLC,1346,8,,,{span 0c ac02 3a 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict FRIGHTEN with rotting fumes.,140,{span 0c ac02 3a 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar MIEDO con vapores putrefactos.
+battle/battle_data_release/battle_text.xlc,XLC,1347,8,,,{span 0c c202 3b 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict FRIGHTEN with a potent curse.,141,{span 0c c202 3b 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar MIEDO con una maldicion poderosa.
+battle/battle_data_release/battle_text.xlc,XLC,1348,8,,,{span 0a 1002 19 08}A frightful gaze able to PETRIFY enemies that carelessly meet it.,107,{span 0a 1002 19 08},Mirada aterradora capaz de PETRIFICAR a los enemigos que la miren descuidadamente.
+battle/battle_data_release/battle_text.xlc,XLC,1349,8,,,{span 0e c803 17 08}A rapturous hymn in the divine tongue that restores HP to other LIVING units in the AREA and removes all DEBUFFS.,168,{span 0e c803 17 08},Himno de extasis en la lengua divina que restaura PS a otras unidades VIVAS en el AREA y elimina todos sus EFECTOS NEGATIVOS.
+battle/battle_data_release/battle_text.xlc,XLC,1351,8,,,{span 06 2801 2e 08}Summon forth a doppelganger of an enemy unit.,65,{span 06 2801 2e 08},Invoca un doble de una unidad enemiga.
+battle/battle_data_release/battle_text.xlc,XLC,1352,8,,,{span 10 aa03 2f 08}A long-range malediction that deals SLASHING damage to targets in an AREA and drains their MP by corrupting the fabric of reality.,192,{span 10 aa03 2f 08},Maldicion de largo alcance que inflige dano CORTANTE a los objetivos en un AREA y absorbe sus PM al corromper el tejido de la realidad.
+battle/battle_data_release/battle_text.xlc,XLC,1353,8,,,{span 10 4c03 26 08}A long-range malediction that deals SLASHING AIR damage to targets in an AREA and inflicts SILENCE/RUPTURE with a terrifying gale.,183,{span 10 4c03 26 08},Maldicion de largo alcance que inflige dano CORTANTE de AIRE a los objetivos en un AREA y aplica SILENCIO/RUPTURA con un vendaval aterrador.
+battle/battle_data_release/battle_text.xlc,XLC,1354,8,,,{span 10 e403 31 08}A long-range malediction that deals CRUSHING EARTH damage to targets in an AREA and resets their RT by manipulating gravity's bonds.,194,{span 10 e403 31 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de TIERRA a los objetivos en un AREA y reinicia su TE al manipular los vinculos de la gravedad.
+battle/battle_data_release/battle_text.xlc,XLC,1355,8,,,{span 12 2803 39 08}A long-range malediction that deals PIERCING LIGHTNING damage to targets in an AREA and inflicts STUN with a brutal flurry of lightning.,202,{span 12 2803 39 08},Maldicion de largo alcance que inflige dano PERFORANTE de RAYO a los objetivos en un AREA y aplica ATURDIMIENTO con una brutal rafaga de rayos.
+battle/battle_data_release/battle_text.xlc,XLC,1356,8,,,{span 12 2603 33 08}A long-range malediction that deals PIERCING WATER damage to targets in an AREA and inflicts SLOW with a matter-congealing wave.,196,{span 12 2603 33 08},Maldicion de largo alcance que inflige dano PERFORANTE de AGUA a los objetivos en un AREA y aplica LENTITUD con una ola que solidifica la materia.
+battle/battle_data_release/battle_text.xlc,XLC,1357,8,,,{span 12 7403 3f 08}A long-range malediction that deals CRUSHING FIRE damage to targets in an AREA and resets their TP to zero with an explosive ripple of energy.,208,{span 12 7403 3f 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de FUEGO a los objetivos en un AREA y reduce sus PT a cero con una onda expansiva de energia.
+battle/battle_data_release/battle_text.xlc,XLC,1358,8,,,{span 14 2204 10 08}A long-range malediction that deals PIERCING ICE damage to targets in an AREA and inflicts BIND with a soul-chilling blast that penetrates the body's core.,224,{span 14 2204 10 08},Maldicion de largo alcance que inflige dano PERFORANTE de HIELO a los objetivos en un AREA y aplica UNION con una descarga helada que penetra hasta el nucleo del cuerpo.
+battle/battle_data_release/battle_text.xlc,XLC,1359,8,,,"{span 12 4603 3c 08}A long-range malediction that deals SLASHING LIGHT damage to targets in an AREA, inflicts SLEEP and EXORCISES any STILLED UNDEAD with a radiant burst of divine light.",205,{span 12 4603 3c 08},"Maldicion de largo alcance que inflige dano CORTANTE de LUZ a los objetivos en un AREA, aplica SOMNOLENCIA y EXORCIZA a los NO MUERTOS INERTES con un estallido de luz divina."
+battle/battle_data_release/battle_text.xlc,XLC,1360,8,,,{span 12 3c03 38 08}A long-range malediction that deals CRUSHING DARK damage to targets in an AREA and inflicts FRIGHTEN with malevolent whispers.,201,{span 12 3c03 38 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de OSCURIDAD a los objetivos en un AREA y aplica MIEDO con susurros malignos.
 battle/battle_data_release/battle_text.xlc,XLC,1361,8,,,{span 02 8801 09 08}NOT USED,28,{span 02 8801 09 08},NO USADO
-battle/battle_data_release/battle_text.xlc,XLC,1362,8,,,{span 0a 2c02 20 08}Weapon skill reflecting proficiency with fist weapons. Accuracy and damage increase with rank.,114,{span 0a 2c02 20 08},
-battle/battle_data_release/battle_text.xlc,XLC,1363,8,,,{span 08 f802 1b 08}Weapon skill reflecting proficiency with daggers. Accuracy and damage increase with rank.,109,{span 08 f802 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1364,8,,,{span 0a 7602 25 08}Weapon skill reflecting proficiency with one-handed swords. Accuracy and damage increase with rank.,119,{span 0a 7602 25 08},
-battle/battle_data_release/battle_text.xlc,XLC,1365,8,,,{span 0a 7a02 25 08}Weapon skill reflecting proficiency with two-handed swords. Accuracy and damage increase with rank.,119,{span 0a 7a02 25 08},
-battle/battle_data_release/battle_text.xlc,XLC,1366,8,,,{span 08 d402 18 08}Weapon skill reflecting proficiency with axes. Accuracy and damage increase with rank.,106,{span 08 d402 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1368,8,,,{span 08 e602 1a 08}Weapon skill reflecting proficiency with spears. Accuracy and damage increase with rank.,108,{span 08 e602 1a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1369,8,,,{span 08 fc02 1b 08}Weapon skill reflecting proficiency with hammers. Accuracy and damage increase with rank.,109,{span 08 fc02 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1371,8,,,{span 0a 6e02 25 08}Weapon skill reflecting proficiency with one-handed katana. Accuracy and damage increase with rank.,119,{span 0a 6e02 25 08},
-battle/battle_data_release/battle_text.xlc,XLC,1372,8,,,{span 0a 7202 25 08}Weapon skill reflecting proficiency with two-handed katana. Accuracy and damage increase with rank.,119,{span 0a 7202 25 08},
-battle/battle_data_release/battle_text.xlc,XLC,1373,8,,,{span 08 f202 1b 08}Weapon skill reflecting proficiency with cudgels. Accuracy and damage increase with rank.,109,{span 08 f202 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1375,8,,,{span 08 dc02 19 08}Weapon skill reflecting proficiency with whips. Accuracy and damage increase with rank.,107,{span 08 dc02 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1376,8,,,{span 0a 1202 1e 08}Weapon skill reflecting proficiency with spellbooks. Accuracy and damage increase with rank.,112,{span 0a 1202 1e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1377,8,,,{span 0a 7402 27 08}Weapon skill reflecting proficiency with musical instruments. Accuracy and damage increase with rank.,121,{span 0a 7402 27 08},
-battle/battle_data_release/battle_text.xlc,XLC,1378,8,,,{span 0a 0402 1c 08}Proficiency with blowguns and thrown weapons. Accuracy and damage increase with rank.,110,{span 0a 0402 1c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1379,8,,,{span 08 d602 18 08}Weapon skill reflecting proficiency with bows. Accuracy and damage increase with rank.,106,{span 08 d602 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1380,8,,,{span 0a 1202 1d 08}Weapon skill reflecting proficiency with crossbows. Accuracy and damage increase with rank.,111,{span 0a 1202 1d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1381,8,,,{span 08 da02 1a 08}Weapon skill reflecting proficiency with fusils. Accuracy and damage increase with rank.,108,{span 08 da02 1a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1382,8,,,{span 0a 4e02 22 08}Weapon skill reflecting proficiency with thrown weapons. Accuracy and damage increase with rank.,116,{span 0a 4e02 22 08},
-battle/battle_data_release/battle_text.xlc,XLC,1383,8,,,{span 0e ca03 19 08}Loremaster skill reflecting study of the inner workings of HUMAN units. DAMAGE against human units and the ease of RECRUITING them increase with rank.,170,{span 0e ca03 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1384,8,,,{span 0e bc03 19 08}Loremaster skill reflecting study of the inner workings of BEAST units. DAMAGE against beast units and the ease of RECRUITING them increase with rank.,170,{span 0e bc03 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1385,8,,,{span 0e d603 1d 08}Loremaster skill reflecting study of the inner workings of REPTILE units. DAMAGE against reptile units and the ease of RECRUITING them increase with rank.,174,{span 0e d603 1d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1386,8,,,{span 0e e603 1b 08}Loremaster skill reflecting study of the inner workings of DRAGON units. DAMAGE against dragon units and the ease of RECRUITING them increase with rank.,172,{span 0e e603 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1387,8,,,{span 0e c003 1b 08}Loremaster skill reflecting study of the inner workings of DIVINE units. DAMAGE against divine units and the ease of RECRUITING them increase with rank.,172,{span 0e c003 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1388,8,,,{span 0e c603 19 08}Loremaster skill reflecting study of the inner workings of UMBRA units. DAMAGE against umbra units and the ease of RECRUITING them increase with rank.,170,{span 0e c603 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1389,8,,,{span 0e c203 1b 08}Loremaster skill reflecting study of the inner workings of FAERIE units. DAMAGE against faerie units and the ease of RECRUITING them increase with rank.,172,{span 0e c203 1b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1390,8,,,{span 0e fe03 1d 08}Loremaster skill reflecting study of the inner workings of PHANTOM units. DAMAGE against phantom units and the ease of RECRUITING them increase with rank.,174,{span 0e fe03 1d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1391,8,,,{span 0e c603 19 08}Loremaster skill reflecting study of the inner workings of GOLEM units. DAMAGE against golem units and the ease of RECRUITING them increase with rank.,170,{span 0e c603 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1392,8,,,"{span 08 fa02 16 08}Raises the AIR DAMAGE dealt and lowers DAMAGE received, improves with rank.",104,{span 08 fa02 16 08},
-battle/battle_data_release/battle_text.xlc,XLC,1393,8,,,"{span 0a 2202 18 08}Raises the EARTH DAMAGE dealt and lowers DAMAGE received, improves with rank.",106,{span 0a 2202 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1394,8,,,"{span 0a 4e02 1c 08}Raises the LIGHTNING DAMAGE dealt and lowers DAMAGE received, improves with rank.",110,{span 0a 4e02 1c 08},
+battle/battle_data_release/battle_text.xlc,XLC,1362,8,,,{span 0a 2c02 20 08}Weapon skill reflecting proficiency with fist weapons. Accuracy and damage increase with rank.,114,{span 0a 2c02 20 08},Habilidad de arma que representa el dominio de las armas de nudillos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1363,8,,,{span 08 f802 1b 08}Weapon skill reflecting proficiency with daggers. Accuracy and damage increase with rank.,109,{span 08 f802 1b 08},Habilidad de arma que representa el dominio de las dagas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1364,8,,,{span 0a 7602 25 08}Weapon skill reflecting proficiency with one-handed swords. Accuracy and damage increase with rank.,119,{span 0a 7602 25 08},Habilidad de arma que representa el dominio de las espadas de una mano. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1365,8,,,{span 0a 7a02 25 08}Weapon skill reflecting proficiency with two-handed swords. Accuracy and damage increase with rank.,119,{span 0a 7a02 25 08},Habilidad de arma que representa el dominio de las espadas de dos manos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1366,8,,,{span 08 d402 18 08}Weapon skill reflecting proficiency with axes. Accuracy and damage increase with rank.,106,{span 08 d402 18 08},Habilidad de arma que representa el dominio de las hachas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1368,8,,,{span 08 e602 1a 08}Weapon skill reflecting proficiency with spears. Accuracy and damage increase with rank.,108,{span 08 e602 1a 08},Habilidad de arma que representa el dominio de las lanzas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1369,8,,,{span 08 fc02 1b 08}Weapon skill reflecting proficiency with hammers. Accuracy and damage increase with rank.,109,{span 08 fc02 1b 08},Habilidad de arma que representa el dominio de los martillos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1371,8,,,{span 0a 6e02 25 08}Weapon skill reflecting proficiency with one-handed katana. Accuracy and damage increase with rank.,119,{span 0a 6e02 25 08},Habilidad de arma que representa el dominio de las katanas de una mano. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1372,8,,,{span 0a 7202 25 08}Weapon skill reflecting proficiency with two-handed katana. Accuracy and damage increase with rank.,119,{span 0a 7202 25 08},Habilidad de arma que representa el dominio de las katanas de dos manos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1373,8,,,{span 08 f202 1b 08}Weapon skill reflecting proficiency with cudgels. Accuracy and damage increase with rank.,109,{span 08 f202 1b 08},Habilidad de arma que representa el dominio de los garrotes. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1375,8,,,{span 08 dc02 19 08}Weapon skill reflecting proficiency with whips. Accuracy and damage increase with rank.,107,{span 08 dc02 19 08},Habilidad de arma que representa el dominio de los latigos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1376,8,,,{span 0a 1202 1e 08}Weapon skill reflecting proficiency with spellbooks. Accuracy and damage increase with rank.,112,{span 0a 1202 1e 08},Habilidad de arma que representa el dominio de los grimorios. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1377,8,,,{span 0a 7402 27 08}Weapon skill reflecting proficiency with musical instruments. Accuracy and damage increase with rank.,121,{span 0a 7402 27 08},Habilidad de arma que representa el dominio de los instrumentos musicales. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1378,8,,,{span 0a 0402 1c 08}Proficiency with blowguns and thrown weapons. Accuracy and damage increase with rank.,110,{span 0a 0402 1c 08},Dominio de las cerbatanas y las armas arrojadizas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1379,8,,,{span 08 d602 18 08}Weapon skill reflecting proficiency with bows. Accuracy and damage increase with rank.,106,{span 08 d602 18 08},Habilidad de arma que representa el dominio de los arcos. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1380,8,,,{span 0a 1202 1d 08}Weapon skill reflecting proficiency with crossbows. Accuracy and damage increase with rank.,111,{span 0a 1202 1d 08},Habilidad de arma que representa el dominio de las ballestas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1381,8,,,{span 08 da02 1a 08}Weapon skill reflecting proficiency with fusils. Accuracy and damage increase with rank.,108,{span 08 da02 1a 08},Habilidad de arma que representa el dominio de los fusiles. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1382,8,,,{span 0a 4e02 22 08}Weapon skill reflecting proficiency with thrown weapons. Accuracy and damage increase with rank.,116,{span 0a 4e02 22 08},Habilidad de arma que representa el dominio de las armas arrojadizas. La precision y el dano aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1383,8,,,{span 0e ca03 19 08}Loremaster skill reflecting study of the inner workings of HUMAN units. DAMAGE against human units and the ease of RECRUITING them increase with rank.,170,{span 0e ca03 19 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades HUMANAS. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1384,8,,,{span 0e bc03 19 08}Loremaster skill reflecting study of the inner workings of BEAST units. DAMAGE against beast units and the ease of RECRUITING them increase with rank.,170,{span 0e bc03 19 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades BESTIA. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1385,8,,,{span 0e d603 1d 08}Loremaster skill reflecting study of the inner workings of REPTILE units. DAMAGE against reptile units and the ease of RECRUITING them increase with rank.,174,{span 0e d603 1d 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades REPTIL. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1386,8,,,{span 0e e603 1b 08}Loremaster skill reflecting study of the inner workings of DRAGON units. DAMAGE against dragon units and the ease of RECRUITING them increase with rank.,172,{span 0e e603 1b 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades DRAGON. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1387,8,,,{span 0e c003 1b 08}Loremaster skill reflecting study of the inner workings of DIVINE units. DAMAGE against divine units and the ease of RECRUITING them increase with rank.,172,{span 0e c003 1b 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades DIVINAS. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1388,8,,,{span 0e c603 19 08}Loremaster skill reflecting study of the inner workings of UMBRA units. DAMAGE against umbra units and the ease of RECRUITING them increase with rank.,170,{span 0e c603 19 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades UMBRA. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1389,8,,,{span 0e c203 1b 08}Loremaster skill reflecting study of the inner workings of FAERIE units. DAMAGE against faerie units and the ease of RECRUITING them increase with rank.,172,{span 0e c203 1b 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades FEERICAS. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1390,8,,,{span 0e fe03 1d 08}Loremaster skill reflecting study of the inner workings of PHANTOM units. DAMAGE against phantom units and the ease of RECRUITING them increase with rank.,174,{span 0e fe03 1d 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades ESPECTRO. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1391,8,,,{span 0e c603 19 08}Loremaster skill reflecting study of the inner workings of GOLEM units. DAMAGE against golem units and the ease of RECRUITING them increase with rank.,170,{span 0e c603 19 08},Habilidad de erudicion que refleja el estudio del funcionamiento interno de las unidades GOLEM. El DANO contra ellas y la facilidad para RECLUTARLAS aumentan con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1392,8,,,"{span 08 fa02 16 08}Raises the AIR DAMAGE dealt and lowers DAMAGE received, improves with rank.",104,{span 08 fa02 16 08},Aumenta el DANO de AIRE infligido y reduce el DANO recibido. El efecto mejora con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1393,8,,,"{span 0a 2202 18 08}Raises the EARTH DAMAGE dealt and lowers DAMAGE received, improves with rank.",106,{span 0a 2202 18 08},Aumenta el DANO de TIERRA infligido y reduce el DANO recibido. El efecto mejora con el rango.
+battle/battle_data_release/battle_text.xlc,XLC,1394,8,,,"{span 0a 4e02 1c 08}Raises the LIGHTNING DAMAGE dealt and lowers DAMAGE received, improves with rank.",110,{span 0a 4e02 1c 08},Aumenta el DANO de RAYO infligido y reduce el DANO recibido. El efecto mejora con el rango.
 battle/battle_data_release/battle_text.xlc,XLC,1395,8,,,"{span 0a 2602 18 08}Raises the WATER DAMAGE dealt and lowers DAMAGE received, improves with rank.",106,{span 0a 2602 18 08},
 battle/battle_data_release/battle_text.xlc,XLC,1396,8,,,"{span 0a 0802 17 08}Raises the FIRE DAMAGE dealt and lowers DAMAGE received, improves with rank.",105,{span 0a 0802 17 08},
 battle/battle_data_release/battle_text.xlc,XLC,1397,8,,,"{span 08 fa02 16 08}Raises the ICE DAMAGE dealt and lowers DAMAGE received, improves with rank.",104,{span 08 fa02 16 08},
@@ -27756,86 +27756,86 @@ battle/battle_data_release/battle_text.xlc,XLC,1693,8,,,{span 04 c401 21 08}FRIG
 battle/battle_data_release/battle_text.xlc,XLC,1694,8,,,{span 0a e002 2c 08}Increases RAMPART AURA rank by one until next turn. Has no effect if RAMPART AURA is not assigned.,126,{span 0a e002 2c 08},
 battle/battle_data_release/battle_text.xlc,XLC,1695,8,,,{span 08 2c02 0a 08}Advances RT counter and restores HP of allies by the amount of TP spent.,92,{span 08 2c02 0a 08},Adelanta el contador de TE y restaura PS a los aliados en una cantidad equivalente a los PT gastados.
 battle/battle_data_release/battle_text.xlc,XLC,1696,8,,,{span 0e 6403 10 08}Upgrades the next MELEE attack to a guaranteed critical hit that cannot be countered.,161,{span 0e 6403 10 08},Convierte el siguiente ataque CUERPO A CUERPO en un golpe critico garantizado que no puede ser contrarrestado.
-battle/battle_data_release/battle_text.xlc,XLC,1697,8,,,{span 06 4801 34 08}Renders the user immune to MAGIC until next turn.,71,{span 06 4801 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1698,8,,,{span 08 4402 0c 08}A touch spell that deals RAW damage and drains it as MP.,94,{span 08 4402 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1699,8,,,{span 06 6601 31 08}Creates a shield wall using ethereal clones.,68,{span 06 6601 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1700,8,,,{span 0a 1202 22 08}Transfers a percentage of an ally's CURRENT HP to self and returns some of the amount as TP.,116,{span 0a 1202 22 08},
-battle/battle_data_release/battle_text.xlc,XLC,1701,8,,,{span 08 b202 18 08}Causes spells cast on allies in an AREA to be reflected back to the caster.,106,{span 08 b202 18 08},
+battle/battle_data_release/battle_text.xlc,XLC,1697,8,,,{span 06 4801 34 08}Renders the user immune to MAGIC until next turn.,71,{span 06 4801 34 08},Vuelve al usuario inmune a la MAGIA hasta el siguiente turno.
+battle/battle_data_release/battle_text.xlc,XLC,1698,8,,,{span 08 4402 0c 08}A touch spell that deals RAW damage and drains it as MP.,94,{span 08 4402 0c 08},Hechizo de contacto que inflige dano PURO y absorbe esa cantidad como PM.
+battle/battle_data_release/battle_text.xlc,XLC,1699,8,,,{span 06 6601 31 08}Creates a shield wall using ethereal clones.,68,{span 06 6601 31 08},Crea un muro de escudos con clones etereos.
+battle/battle_data_release/battle_text.xlc,XLC,1700,8,,,{span 0a 1202 22 08}Transfers a percentage of an ally's CURRENT HP to self and returns some of the amount as TP.,116,{span 0a 1202 22 08},Transfiere al usuario un porcentaje de los PS ACTUALES de un aliado y devuelve parte de esa cantidad como PT.
+battle/battle_data_release/battle_text.xlc,XLC,1701,8,,,{span 08 b202 18 08}Causes spells cast on allies in an AREA to be reflected back to the caster.,106,{span 08 b202 18 08},Hace que los hechizos lanzados sobre los aliados en un AREA se reflejen hacia quien los lanzo.
 battle/battle_data_release/battle_text.xlc,XLC,1702,8,,,"{span 0a a802 2d 08}Grants INSTINCT and sets the RT of a BEAST unit to zero, allowing it to act next.",127,{span 0a a802 2d 08},
 battle/battle_data_release/battle_text.xlc,XLC,1703,8,,,"{span 0a 9602 2c 08}Grants INSTINCT and sets the RT of a DRAGON unit to zero, allowing it to act next.",126,{span 0a 9602 2c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1705,8,,,{span 06 b801 3f 08}Renders the user immune to attacks until next turn.,82,{span 06 b801 3f 08},
+battle/battle_data_release/battle_text.xlc,XLC,1705,8,,,{span 06 b801 3f 08}Renders the user immune to attacks until next turn.,82,{span 06 b801 3f 08},Vuelve al usuario inmune a los ataques hasta el siguiente turno.
 battle/battle_data_release/battle_text.xlc,XLC,1707,8,,,{span 04 8401 23 08}STILLS a LIVING ally or an UNDEAD.,54,{span 04 8401 23 08},
-battle/battle_data_release/battle_text.xlc,XLC,1709,8,,,{span 10 e803 2e 08}A long-range attack that deals CRUSHING WATER damage to a SINGLE TARGET and can inflict SLOW. Usable only on water tiles.,191,{span 10 e803 2e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1710,8,,,{span 0c 2202 2f 08}A scream of pure anguish that can inflict SLOW and FRIGHTEN on enemies in the AREA.,129,{span 0c 2202 2f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1711,8,,,{span 0e 7603 0f 08}A short-range breath attack that deals PIERCING WATER damage in a LINE and can inflict SLOW with highly corrosive liquid.,160,{span 0e 7603 0f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1712,8,,,{span 0e 8c03 10 08}A short-range breath attack that deals PIERCING WATER damage in an AREA and can inflict SLOW with a high pressure blast.,161,{span 0e 8c03 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1713,8,,,{span 0e 3403 05 08}A melee-range attack that deals CRUSHING damage to a SINGLE TARGET. Has a chance to inflict LEADEN and delay RT.,150,{span 0e 3403 05 08},
+battle/battle_data_release/battle_text.xlc,XLC,1709,8,,,{span 10 e803 2e 08}A long-range attack that deals CRUSHING WATER damage to a SINGLE TARGET and can inflict SLOW. Usable only on water tiles.,191,{span 10 e803 2e 08},Ataque de largo alcance que inflige dano CONTUNDENTE de AGUA a UN SOLO OBJETIVO y puede aplicar LENTITUD. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1710,8,,,{span 0c 2202 2f 08}A scream of pure anguish that can inflict SLOW and FRIGHTEN on enemies in the AREA.,129,{span 0c 2202 2f 08},Grito de pura angustia que puede aplicar LENTITUD y MIEDO a los enemigos en el AREA.
+battle/battle_data_release/battle_text.xlc,XLC,1711,8,,,{span 0e 7603 0f 08}A short-range breath attack that deals PIERCING WATER damage in a LINE and can inflict SLOW with highly corrosive liquid.,160,{span 0e 7603 0f 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de AGUA en una LINEA y puede aplicar LENTITUD con un liquido altamente corrosivo.
+battle/battle_data_release/battle_text.xlc,XLC,1712,8,,,{span 0e 8c03 10 08}A short-range breath attack that deals PIERCING WATER damage in an AREA and can inflict SLOW with a high pressure blast.,161,{span 0e 8c03 10 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de AGUA en un AREA y puede aplicar LENTITUD con una descarga de alta presion.
+battle/battle_data_release/battle_text.xlc,XLC,1713,8,,,{span 0e 3403 05 08}A melee-range attack that deals CRUSHING damage to a SINGLE TARGET. Has a chance to inflict LEADEN and delay RT.,150,{span 0e 3403 05 08},Ataque cuerpo a cuerpo que inflige dano CONTUNDENTE a UN SOLO OBJETIVO. Puede aplicar COJERA y retrasar su TE.
 battle/battle_data_release/battle_text.xlc,XLC,1714,8,,,{span 0c 0802 2b 08}A short-range attack that deals SLASHING AIR damage to enemies in an AREA.,125,{span 0c 0802 2b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1715,8,,,{span 0c 7002 32 08}A seductive dance that heals allies in the AREA and can inflict CHARM on enemies.,132,{span 0c 7002 32 08},
+battle/battle_data_release/battle_text.xlc,XLC,1715,8,,,{span 0c 7002 32 08}A seductive dance that heals allies in the AREA and can inflict CHARM on enemies.,132,{span 0c 7002 32 08},Danza seductora que cura a los aliados en el AREA y puede aplicar ENCANTO a los enemigos.
 battle/battle_data_release/battle_text.xlc,XLC,1716,8,,,{span 0e 6a03 0c 08}A melee-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a concussive blast.,157,{span 0e 6a03 0c 08},
 battle/battle_data_release/battle_text.xlc,XLC,1717,8,,,{span 0c d002 3f 08}A melee-range attack that deals CRUSHING EARTH damage to a SINGLE TARGET and can inflict SLEEP by delivering a massive punch.,145,{span 0c d002 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1718,8,,,{span 10 bc03 30 08}A medium-range attack that deals LIGHT damage to a SINGLE TARGET by hitting it with a crystalline pumpkin. It will destroy UNDEAD remains if stilled.,193,{span 10 bc03 30 08},
-battle/battle_data_release/battle_text.xlc,XLC,1719,8,,,"{span 0e 7003 0d 08}A melee-range SLASHING attack that strikes twice with simultaneous swings of huge, clawed hands.",158,{span 0e 7003 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1720,8,,,{span 0c 4802 31 08}A playful kiss blown at a SINGLE TARGET that can inflict CHARM.,131,{span 0c 4802 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1721,8,,,{span 0c 5402 32 08}An impish kiss blown at a SINGLE TARGET than can inflict STUN and always inflicts POISON.,132,{span 0c 5402 32 08},
-battle/battle_data_release/battle_text.xlc,XLC,1722,8,,,"{span 0c ca02 3e 08}A hymn with no words, removes all MP from targets in the AREA and deals an equal amount of damage to HP.",144,{span 0c ca02 3e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1723,8,,,{span 0e 4e03 09 08}A short-range attack that removes a percentage of HP from all targets in a LINE with a reeking belch.,154,{span 0e 4e03 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1724,8,,,{span 0c ae02 3f 08}A rueful requiem in the divine tongue that deals LIGHT damage to UNDEAD in the AREA and destroys their remains if stilled.,145,{span 0c ae02 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1725,8,,,{span 10 4403 21 08}A short-range breath attack that deals PIERCING LIGHTNING damage in a LINE and can inflict STUN with a high intensity discharge.,178,{span 10 4403 21 08},
-battle/battle_data_release/battle_text.xlc,XLC,1726,8,,,{span 10 5a03 22 08}A short-range breath attack that deals PIERCING LIGHTNING damage in an AREA and can inflict STUN by creating a localized thunderstorm.,179,{span 10 5a03 22 08},
-battle/battle_data_release/battle_text.xlc,XLC,1727,8,,,{span 0c 6802 34 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict POISON with miasmic gas.,134,{span 0c 6802 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1728,8,,,{span 0c 7e02 35 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict POISON with lethal gas.,135,{span 0c 7e02 35 08},
-battle/battle_data_release/battle_text.xlc,XLC,1729,8,,,{span 0a e202 2a 08}A melee-range attack that deals SLASHING AIR damage in an AREA.,124,{span 0a e202 2a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1730,8,,,{span 0e 1203 03 08}A short-range breath attack that deals CRUSHING EARTH damage in a LINE and delays RT by pelting the area with debris.,148,{span 0e 1203 03 08},
-battle/battle_data_release/battle_text.xlc,XLC,1731,8,,,{span 0e 2803 04 08}A short-range breath attack that deals CRUSHING EARTH damage in an AREA and delays RT by opening a fissure in the bedrock.,149,{span 0e 2803 04 08},
-battle/battle_data_release/battle_text.xlc,XLC,1732,8,,,{span 10 7c03 2d 08}A passionate kiss that ACCELERATES the RT counter of a SINGLE TARGET and doubles its TP reserves.,190,{span 10 7c03 2d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1733,8,,,"{span 0c c803 01 08}A feverish kiss that can inflict BOUND, SHACKLE and STOP on a SINGLE TARGET.",146,{span 0c c803 01 08},
-battle/battle_data_release/battle_text.xlc,XLC,1734,8,,,"{span 0e 4c03 0e 08}A dignified hymn that resets RT, TP and MP of enemies in the AREA.",159,{span 0e 4c03 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1735,8,,,{span 0e 2003 09 08}A short-range breath attack that deals SLASHING LIGHT damage in a LINE and can inflict SLEEP with holy flames.,154,{span 0e 2003 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1736,8,,,{span 0e 3603 0a 08}A short-range breath attack that deals SLASHING LIGHT damage in an AREA and can inflict SLEEP with a shower of shooting stars.,155,{span 0e 3603 0a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1737,8,,,{span 0c 7602 38 08}A short-range attack that deals CRUSHING damage to a SINGLE TARGET with a tail flick that could tear through bedrock.,138,{span 0c 7602 38 08},
-battle/battle_data_release/battle_text.xlc,XLC,1738,8,,,{span 0c 9c02 39 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict CHARM with a spew of musky gas.,139,{span 0c 9c02 39 08},
-battle/battle_data_release/battle_text.xlc,XLC,1739,8,,,{span 0c b202 3a 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict CHARM with pheromone-laden mist.,140,{span 0c b202 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1740,8,,,{span 0e 6203 0d 08}A short-range breath attack that deals SLASHING AIR damage in a LINE and inflicts SILENCE/RUPTURE by creating a small vacuum pocket.,158,{span 0e 6203 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1741,8,,,{span 0e 7803 0e 08}A short-range breath attack that deals SLASHING AIR damage in an AREA and inflicts SILENCE/RUPTURE with a heavy implosion.,159,{span 0e 7803 0e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1742,8,,,{span 0c 7202 34 08}A melee-range attack that deals SLASHING damage to a SINGLE TARGET and can inflict STUN with razor sharp talons.,134,{span 0c 7202 34 08},
+battle/battle_data_release/battle_text.xlc,XLC,1718,8,,,{span 10 bc03 30 08}A medium-range attack that deals LIGHT damage to a SINGLE TARGET by hitting it with a crystalline pumpkin. It will destroy UNDEAD remains if stilled.,193,{span 10 bc03 30 08},Ataque de alcance medio que inflige dano de LUZ a UN SOLO OBJETIVO al golpearlo con una calabaza cristalina. Destruye los restos de los NO MUERTOS si estan INERTES.
+battle/battle_data_release/battle_text.xlc,XLC,1719,8,,,"{span 0e 7003 0d 08}A melee-range SLASHING attack that strikes twice with simultaneous swings of huge, clawed hands.",158,{span 0e 7003 0d 08},Ataque CORTANTE cuerpo a cuerpo que golpea dos veces con movimientos simultaneos de enormes manos con garras.
+battle/battle_data_release/battle_text.xlc,XLC,1720,8,,,{span 0c 4802 31 08}A playful kiss blown at a SINGLE TARGET that can inflict CHARM.,131,{span 0c 4802 31 08},Beso jugueton lanzado a UN SOLO OBJETIVO que puede aplicar ENCANTO.
+battle/battle_data_release/battle_text.xlc,XLC,1721,8,,,{span 0c 5402 32 08}An impish kiss blown at a SINGLE TARGET than can inflict STUN and always inflicts POISON.,132,{span 0c 5402 32 08},Beso travieso lanzado a UN SOLO OBJETIVO que puede aplicar ATURDIMIENTO y siempre aplica VENENO.
+battle/battle_data_release/battle_text.xlc,XLC,1722,8,,,"{span 0c ca02 3e 08}A hymn with no words, removes all MP from targets in the AREA and deals an equal amount of damage to HP.",144,{span 0c ca02 3e 08},Himno sin palabras que elimina todos los PM de los objetivos en el AREA y les inflige una cantidad equivalente de dano a sus PS.
+battle/battle_data_release/battle_text.xlc,XLC,1723,8,,,{span 0e 4e03 09 08}A short-range attack that removes a percentage of HP from all targets in a LINE with a reeking belch.,154,{span 0e 4e03 09 08},Ataque de corto alcance que elimina un porcentaje de los PS de todos los objetivos en una LINEA con un eructo pestilente.
+battle/battle_data_release/battle_text.xlc,XLC,1724,8,,,{span 0c ae02 3f 08}A rueful requiem in the divine tongue that deals LIGHT damage to UNDEAD in the AREA and destroys their remains if stilled.,145,{span 0c ae02 3f 08},Un triste requiem en la lengua divina que inflige dano de LUZ a los NO MUERTOS en el AREA y destruye sus restos si estan INERTES.
+battle/battle_data_release/battle_text.xlc,XLC,1725,8,,,{span 10 4403 21 08}A short-range breath attack that deals PIERCING LIGHTNING damage in a LINE and can inflict STUN with a high intensity discharge.,178,{span 10 4403 21 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de RAYO en una LINEA y puede aplicar ATURDIMIENTO con una descarga de alta intensidad.
+battle/battle_data_release/battle_text.xlc,XLC,1726,8,,,{span 10 5a03 22 08}A short-range breath attack that deals PIERCING LIGHTNING damage in an AREA and can inflict STUN by creating a localized thunderstorm.,179,{span 10 5a03 22 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de RAYO en un AREA y puede aplicar ATURDIMIENTO al crear una tormenta localizada.
+battle/battle_data_release/battle_text.xlc,XLC,1727,8,,,{span 0c 6802 34 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict POISON with miasmic gas.,134,{span 0c 6802 34 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar VENENO con gas miasmatico.
+battle/battle_data_release/battle_text.xlc,XLC,1728,8,,,{span 0c 7e02 35 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict POISON with lethal gas.,135,{span 0c 7e02 35 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar VENENO con un gas letal.
+battle/battle_data_release/battle_text.xlc,XLC,1729,8,,,{span 0a e202 2a 08}A melee-range attack that deals SLASHING AIR damage in an AREA.,124,{span 0a e202 2a 08},Ataque cuerpo a cuerpo que inflige dano CORTANTE de AIRE en un AREA.
+battle/battle_data_release/battle_text.xlc,XLC,1730,8,,,{span 0e 1203 03 08}A short-range breath attack that deals CRUSHING EARTH damage in a LINE and delays RT by pelting the area with debris.,148,{span 0e 1203 03 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de TIERRA en una LINEA y retrasa el TE al lanzar escombros sobre la zona.
+battle/battle_data_release/battle_text.xlc,XLC,1731,8,,,{span 0e 2803 04 08}A short-range breath attack that deals CRUSHING EARTH damage in an AREA and delays RT by opening a fissure in the bedrock.,149,{span 0e 2803 04 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de TIERRA en un AREA y retrasa el TE al abrir una grieta en el lecho rocoso.
+battle/battle_data_release/battle_text.xlc,XLC,1732,8,,,{span 10 7c03 2d 08}A passionate kiss that ACCELERATES the RT counter of a SINGLE TARGET and doubles its TP reserves.,190,{span 10 7c03 2d 08},Beso apasionado que ACELERA el contador de TE de UN SOLO OBJETIVO y duplica sus reservas de PT.
+battle/battle_data_release/battle_text.xlc,XLC,1733,8,,,"{span 0c c803 01 08}A feverish kiss that can inflict BOUND, SHACKLE and STOP on a SINGLE TARGET.",146,{span 0c c803 01 08},"Beso febril que puede aplicar UNION, ATADO y PARO a UN SOLO OBJETIVO."
+battle/battle_data_release/battle_text.xlc,XLC,1734,8,,,"{span 0e 4c03 0e 08}A dignified hymn that resets RT, TP and MP of enemies in the AREA.",159,{span 0e 4c03 0e 08},"Himno solemne que reinicia el TE, los PT y los PM de los enemigos en el AREA."
+battle/battle_data_release/battle_text.xlc,XLC,1735,8,,,{span 0e 2003 09 08}A short-range breath attack that deals SLASHING LIGHT damage in a LINE and can inflict SLEEP with holy flames.,154,{span 0e 2003 09 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de LUZ en una LINEA y puede aplicar SOMNOLENCIA con llamas sagradas.
+battle/battle_data_release/battle_text.xlc,XLC,1736,8,,,{span 0e 3603 0a 08}A short-range breath attack that deals SLASHING LIGHT damage in an AREA and can inflict SLEEP with a shower of shooting stars.,155,{span 0e 3603 0a 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de LUZ en un AREA y puede aplicar SOMNOLENCIA con una lluvia de estrellas fugaces.
+battle/battle_data_release/battle_text.xlc,XLC,1737,8,,,{span 0c 7602 38 08}A short-range attack that deals CRUSHING damage to a SINGLE TARGET with a tail flick that could tear through bedrock.,138,{span 0c 7602 38 08},Ataque de corto alcance que inflige dano CONTUNDENTE a UN SOLO OBJETIVO con un coletazo capaz de atravesar la roca madre.
+battle/battle_data_release/battle_text.xlc,XLC,1738,8,,,{span 0c 9c02 39 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict CHARM with a spew of musky gas.,139,{span 0c 9c02 39 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar ENCANTO con una nube de gas almizclado.
+battle/battle_data_release/battle_text.xlc,XLC,1739,8,,,{span 0c b202 3a 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict CHARM with pheromone-laden mist.,140,{span 0c b202 3a 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar ENCANTO con una niebla cargada de feromonas.
+battle/battle_data_release/battle_text.xlc,XLC,1740,8,,,{span 0e 6203 0d 08}A short-range breath attack that deals SLASHING AIR damage in a LINE and inflicts SILENCE/RUPTURE by creating a small vacuum pocket.,158,{span 0e 6203 0d 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de AIRE en una LINEA y aplica SILENCIO/RUPTURA al crear una pequena bolsa de vacio.
+battle/battle_data_release/battle_text.xlc,XLC,1741,8,,,{span 0e 7803 0e 08}A short-range breath attack that deals SLASHING AIR damage in an AREA and inflicts SILENCE/RUPTURE with a heavy implosion.,159,{span 0e 7803 0e 08},Ataque de aliento de corto alcance que inflige dano CORTANTE de AIRE en un AREA y aplica SILENCIO/RUPTURA con una potente implosion.
+battle/battle_data_release/battle_text.xlc,XLC,1742,8,,,{span 0c 7202 34 08}A melee-range attack that deals SLASHING damage to a SINGLE TARGET and can inflict STUN with razor sharp talons.,134,{span 0c 7202 34 08},Ataque cuerpo a cuerpo que inflige dano CORTANTE a UN SOLO OBJETIVO y puede aplicar ATURDIMIENTO con garras afiladas como navajas.
 battle/battle_data_release/battle_text.xlc,XLC,1743,8,,,"{span 0c c202 3d 08}Encases the user in stone until next turn, raising their defenses, and charging a percentage of their MAX MP.",143,{span 0c c202 3d 08},"Envuelve al usuario en piedra hasta el siguiente turno, aumenta sus defensas y carga un porcentaje de sus PM MÁX."
-battle/battle_data_release/battle_text.xlc,XLC,1744,8,,,"{span 0e bc03 11 08}A medium-range attack that deals VOID damage in an AREA and can inflict LEADEN by dropping a giant, festering pumpkin from a great height.",162,{span 0e bc03 11 08},
-battle/battle_data_release/battle_text.xlc,XLC,1745,8,,,"{span 0a 1002 1f 08}Drops a shower of pumpkin pies on ALLIES in an AREA doubling their HP, up to the max.",113,{span 0a 1002 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1746,8,,,{span 08 fc02 18 08}Detonates a Jack-o'-Lantern to deal VOID damage in the AREA around it.,106,{span 08 fc02 18 08},
-battle/battle_data_release/battle_text.xlc,XLC,1747,8,,,{span 0c f803 02 08}A short-range breath attack that deals CRUSHING FIRE damage in a LINE and removes TP with a spout of superheated gas.,147,{span 0c f803 02 08},
-battle/battle_data_release/battle_text.xlc,XLC,1748,8,,,{span 0e 1003 03 08}A short-range breath attack that deals CRUSHING FIRE damage in an AREA and removes TP with a massive nova.,148,{span 0e 1003 03 08},
-battle/battle_data_release/battle_text.xlc,XLC,1749,8,,,{span 0e 4003 09 08}A melee-range attack that deals SLASHING AIR damage to a SINGLE TARGET and drains HP from it with a powerful vacuum.,154,{span 0e 4003 09 08},
-battle/battle_data_release/battle_text.xlc,XLC,1750,8,,,"{span 0c 4a02 32 08}A sweet, soft kiss that restores the HP of a SINGLE TARGET at the cost of own, and clears it of DEBUFFS.",132,{span 0c 4a02 32 08},
-battle/battle_data_release/battle_text.xlc,XLC,1751,8,,,"{span 0c 9802 3a 08}A depraved kiss that deals DARK damage to a SINGLE TARGET, drains its HP and resets the RT countdown.",140,{span 0c 9802 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1752,8,,,{span 10 1203 1f 08}A medium-range attack that deals PIERCING WATER damage to targets in a LINE with a jet of water that could cut through steel. Usable only on water tiles.,176,{span 10 1203 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1753,8,,,{span 0e 5603 0c 08}A short-range breath attack that deals PIERCING ICE damage in a LINE and can inflict BIND with freezing mist.,157,{span 0e 5603 0c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1754,8,,,{span 0e 6c03 0d 08}A short-range breath attack that deals PIERCING ICE damage in an AREA and can inflict BIND by summoning a blinding blizzard.,158,{span 0e 6c03 0d 08},
-battle/battle_data_release/battle_text.xlc,XLC,1755,8,,,{span 0e 7c03 0b 08}A short-range attack that deals CRUSHING EARTH damage in an AREA by dropping a highly concentrated mass of energy.,156,{span 0e 7c03 0b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1756,8,,,{span 0c 8a02 37 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict PETRIFY with fossilizing gas.,137,{span 0c 8a02 37 08},
-battle/battle_data_release/battle_text.xlc,XLC,1757,8,,,{span 0c a002 38 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict PETRIFY with a malevolent gaze.,138,{span 0c a002 38 08},
+battle/battle_data_release/battle_text.xlc,XLC,1744,8,,,"{span 0e bc03 11 08}A medium-range attack that deals VOID damage in an AREA and can inflict LEADEN by dropping a giant, festering pumpkin from a great height.",162,{span 0e bc03 11 08},Ataque de alcance medio que inflige dano de VACIO en un AREA y puede aplicar COJERA al dejar caer una calabaza gigante y putrefacta desde gran altura.
+battle/battle_data_release/battle_text.xlc,XLC,1745,8,,,"{span 0a 1002 1f 08}Drops a shower of pumpkin pies on ALLIES in an AREA doubling their HP, up to the max.",113,{span 0a 1002 1f 08},Hace caer una lluvia de pasteles de calabaza sobre los ALIADOS en un AREA y duplica sus PS hasta el maximo.
+battle/battle_data_release/battle_text.xlc,XLC,1746,8,,,{span 08 fc02 18 08}Detonates a Jack-o'-Lantern to deal VOID damage in the AREA around it.,106,{span 08 fc02 18 08},Detona un FAROL DE CALABAZA e inflige dano de VACIO en el AREA que lo rodea.
+battle/battle_data_release/battle_text.xlc,XLC,1747,8,,,{span 0c f803 02 08}A short-range breath attack that deals CRUSHING FIRE damage in a LINE and removes TP with a spout of superheated gas.,147,{span 0c f803 02 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de FUEGO en una LINEA y elimina PT con un chorro de gas sobrecalentado.
+battle/battle_data_release/battle_text.xlc,XLC,1748,8,,,{span 0e 1003 03 08}A short-range breath attack that deals CRUSHING FIRE damage in an AREA and removes TP with a massive nova.,148,{span 0e 1003 03 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de FUEGO en un AREA y elimina PT con una enorme nova.
+battle/battle_data_release/battle_text.xlc,XLC,1749,8,,,{span 0e 4003 09 08}A melee-range attack that deals SLASHING AIR damage to a SINGLE TARGET and drains HP from it with a powerful vacuum.,154,{span 0e 4003 09 08},Ataque CORTANTE cuerpo a cuerpo que inflige dano de AIRE a UN SOLO OBJETIVO y le absorbe PS con un potente vacio.
+battle/battle_data_release/battle_text.xlc,XLC,1750,8,,,"{span 0c 4a02 32 08}A sweet, soft kiss that restores the HP of a SINGLE TARGET at the cost of own, and clears it of DEBUFFS.",132,{span 0c 4a02 32 08},Beso dulce y suave que restaura los PS de UN SOLO OBJETIVO a costa de los del usuario y elimina sus EFECTOS NEGATIVOS.
+battle/battle_data_release/battle_text.xlc,XLC,1751,8,,,"{span 0c 9802 3a 08}A depraved kiss that deals DARK damage to a SINGLE TARGET, drains its HP and resets the RT countdown.",140,{span 0c 9802 3a 08},"Beso depravado que inflige dano de OSCURIDAD a UN SOLO OBJETIVO, le absorbe PS y reinicia la cuenta regresiva de su TE."
+battle/battle_data_release/battle_text.xlc,XLC,1752,8,,,{span 10 1203 1f 08}A medium-range attack that deals PIERCING WATER damage to targets in a LINE with a jet of water that could cut through steel. Usable only on water tiles.,176,{span 10 1203 1f 08},Ataque de alcance medio que inflige dano PERFORANTE de AGUA a los objetivos en una LINEA con un chorro capaz de cortar el acero. Solo se puede usar en casillas de AGUA.
+battle/battle_data_release/battle_text.xlc,XLC,1753,8,,,{span 0e 5603 0c 08}A short-range breath attack that deals PIERCING ICE damage in a LINE and can inflict BIND with freezing mist.,157,{span 0e 5603 0c 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de HIELO en una LINEA y puede aplicar UNION con una niebla congelante.
+battle/battle_data_release/battle_text.xlc,XLC,1754,8,,,{span 0e 6c03 0d 08}A short-range breath attack that deals PIERCING ICE damage in an AREA and can inflict BIND by summoning a blinding blizzard.,158,{span 0e 6c03 0d 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de HIELO en un AREA y puede aplicar UNION al invocar una ventisca cegadora.
+battle/battle_data_release/battle_text.xlc,XLC,1755,8,,,{span 0e 7c03 0b 08}A short-range attack that deals CRUSHING EARTH damage in an AREA by dropping a highly concentrated mass of energy.,156,{span 0e 7c03 0b 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA en un AREA al dejar caer una masa de energia muy concentrada.
+battle/battle_data_release/battle_text.xlc,XLC,1756,8,,,{span 0c 8a02 37 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict PETRIFY with fossilizing gas.,137,{span 0c 8a02 37 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar PETRIFICACION con gas fosilizante.
+battle/battle_data_release/battle_text.xlc,XLC,1757,8,,,{span 0c a002 38 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict PETRIFY with a malevolent gaze.,138,{span 0c a002 38 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar PETRIFICACION con una mirada maligna.
 battle/battle_data_release/battle_text.xlc,XLC,1758,8,,,{span 10 2e03 1f 08}A medium-range attack that deals PIERCING WATER damage in an AREA and can inflict POISON with a caustic downpour. Usable only on water tiles.,176,{span 10 2e03 1f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1759,8,,,{span 0c 6202 34 08}A short-range breath attack that deals PIERCING DARK damage in a LINE and can inflict POISON with corrosive gas.,134,{span 0c 6202 34 08},
-battle/battle_data_release/battle_text.xlc,XLC,1760,8,,,{span 0c 7802 35 08}A short-range breath attack that deals PIERCING DARK damage in an AREA and can inflict POISON by spreading miasma.,135,{span 0c 7802 35 08},
-battle/battle_data_release/battle_text.xlc,XLC,1761,8,,,"{span 0c f803 04 08}A sedate hymn in the divine tongue, removes all TP from targets in the AREA and deals an equal amount of damage to HP.",149,{span 0c f803 04 08},
-battle/battle_data_release/battle_text.xlc,XLC,1762,8,,,{span 10 8a03 29 08}A short-range attack that deals SLASHING WATER damage in a large AREA by summoning an enormous whirlpool. Usable only on water tiles.,186,{span 10 8a03 29 08},
+battle/battle_data_release/battle_text.xlc,XLC,1759,8,,,{span 0c 6202 34 08}A short-range breath attack that deals PIERCING DARK damage in a LINE and can inflict POISON with corrosive gas.,134,{span 0c 6202 34 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de OSCURIDAD en una LINEA y puede aplicar VENENO con gas corrosivo.
+battle/battle_data_release/battle_text.xlc,XLC,1760,8,,,{span 0c 7802 35 08}A short-range breath attack that deals PIERCING DARK damage in an AREA and can inflict POISON by spreading miasma.,135,{span 0c 7802 35 08},Ataque de aliento de corto alcance que inflige dano PERFORANTE de OSCURIDAD en un AREA y puede aplicar VENENO al esparcir miasma.
+battle/battle_data_release/battle_text.xlc,XLC,1761,8,,,"{span 0c f803 04 08}A sedate hymn in the divine tongue, removes all TP from targets in the AREA and deals an equal amount of damage to HP.",149,{span 0c f803 04 08},Himno sereno en la lengua divina que elimina todos los PT de los objetivos en el AREA y les inflige una cantidad equivalente de dano a sus PS.
+battle/battle_data_release/battle_text.xlc,XLC,1762,8,,,{span 10 8a03 29 08}A short-range attack that deals SLASHING WATER damage in a large AREA by summoning an enormous whirlpool. Usable only on water tiles.,186,{span 10 8a03 29 08},Ataque de corto alcance que inflige dano CORTANTE de AGUA en un AREA extensa al invocar un enorme remolino. Solo se puede usar en casillas de AGUA.
 battle/battle_data_release/battle_text.xlc,XLC,1763,8,,,{span 0a c402 24 08}Redirects all damage taken by the user to allies within 2 tiles until next turn.,118,{span 0a c402 24 08},Redirige todo el dano que reciba el usuario a los aliados que esten a 2 casillas o menos hasta el siguiente turno.
-battle/battle_data_release/battle_text.xlc,XLC,1764,8,,,"{span 0c 1402 2c 08}Sends a wicked kiss that can inflict CURSE, FRIGHTEN and SLOW on a SINGLE TARGET.",126,{span 0c 1402 2c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1765,8,,,{span 0a 9e02 23 08}A short-range attack that deals CRUSHING EARTH damage in the AREA with a flailing arm assault.,117,{span 0a 9e02 23 08},
-battle/battle_data_release/battle_text.xlc,XLC,1766,8,,,{span 0c ac02 3a 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict FRIGHTEN with rotting fumes.,140,{span 0c ac02 3a 08},
-battle/battle_data_release/battle_text.xlc,XLC,1767,8,,,{span 0c c202 3b 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict FRIGHTEN with a potent curse.,141,{span 0c c202 3b 08},
-battle/battle_data_release/battle_text.xlc,XLC,1768,8,,,{span 0a 1002 19 08}A frightful gaze able to PETRIFY enemies that carelessly meet it.,107,{span 0a 1002 19 08},
-battle/battle_data_release/battle_text.xlc,XLC,1769,8,,,{span 0e c803 17 08}A rapturous hymn in the divine tongue that restores HP to other LIVING units in the AREA and removes all DEBUFFS.,168,{span 0e c803 17 08},
-battle/battle_data_release/battle_text.xlc,XLC,1771,8,,,{span 06 2801 2e 08}Summon forth a doppelganger of an enemy unit.,65,{span 06 2801 2e 08},
-battle/battle_data_release/battle_text.xlc,XLC,1772,8,,,{span 10 aa03 2f 08}A long-range malediction that deals SLASHING damage to targets in an AREA and drains their MP by corrupting the fabric of reality.,192,{span 10 aa03 2f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1773,8,,,{span 10 4c03 26 08}A long-range malediction that deals SLASHING AIR damage to targets in an AREA and inflicts SILENCE/RUPTURE with a terrifying gale.,183,{span 10 4c03 26 08},
-battle/battle_data_release/battle_text.xlc,XLC,1774,8,,,{span 10 e403 31 08}A long-range malediction that deals CRUSHING EARTH damage to targets in an AREA and resets their RT by manipulating gravity's bonds.,194,{span 10 e403 31 08},
-battle/battle_data_release/battle_text.xlc,XLC,1775,8,,,{span 12 2803 39 08}A long-range malediction that deals PIERCING LIGHTNING damage to targets in an AREA and inflicts STUN with a brutal flurry of lightning.,202,{span 12 2803 39 08},
-battle/battle_data_release/battle_text.xlc,XLC,1776,8,,,{span 12 2603 33 08}A long-range malediction that deals PIERCING WATER damage to targets in an AREA and inflicts SLOW with a matter-congealing wave.,196,{span 12 2603 33 08},
-battle/battle_data_release/battle_text.xlc,XLC,1777,8,,,{span 12 7403 3f 08}A long-range malediction that deals CRUSHING FIRE damage to targets in an AREA and resets their TP to zero with an explosive ripple of energy.,208,{span 12 7403 3f 08},
-battle/battle_data_release/battle_text.xlc,XLC,1778,8,,,{span 14 2204 10 08}A long-range malediction that deals PIERCING ICE damage to targets in an AREA and inflicts BIND with a soul-chilling blast that penetrates the body's core.,224,{span 14 2204 10 08},
-battle/battle_data_release/battle_text.xlc,XLC,1779,8,,,"{span 12 4603 3c 08}A long-range malediction that deals SLASHING LIGHT damage to targets in an AREA, inflicts SLEEP and EXORCISES any STILLED UNDEAD with a radiant burst of divine light.",205,{span 12 4603 3c 08},
-battle/battle_data_release/battle_text.xlc,XLC,1780,8,,,{span 12 3c03 38 08}A long-range malediction that deals CRUSHING DARK damage to targets in an AREA and inflicts FRIGHTEN with malevolent whispers.,201,{span 12 3c03 38 08},
+battle/battle_data_release/battle_text.xlc,XLC,1764,8,,,"{span 0c 1402 2c 08}Sends a wicked kiss that can inflict CURSE, FRIGHTEN and SLOW on a SINGLE TARGET.",126,{span 0c 1402 2c 08},"Lanza un beso perverso que puede aplicar MALDICION, MIEDO y LENTITUD a UN SOLO OBJETIVO."
+battle/battle_data_release/battle_text.xlc,XLC,1765,8,,,{span 0a 9e02 23 08}A short-range attack that deals CRUSHING EARTH damage in the AREA with a flailing arm assault.,117,{span 0a 9e02 23 08},Ataque de corto alcance que inflige dano CONTUNDENTE de TIERRA en el AREA con una arremetida de brazos descontrolados.
+battle/battle_data_release/battle_text.xlc,XLC,1766,8,,,{span 0c ac02 3a 08}A short-range breath attack that deals CRUSHING DARK damage in a LINE and can inflict FRIGHTEN with rotting fumes.,140,{span 0c ac02 3a 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en una LINEA y puede aplicar MIEDO con vapores putrefactos.
+battle/battle_data_release/battle_text.xlc,XLC,1767,8,,,{span 0c c202 3b 08}A short-range breath attack that deals CRUSHING DARK damage in an AREA and can inflict FRIGHTEN with a potent curse.,141,{span 0c c202 3b 08},Ataque de aliento de corto alcance que inflige dano CONTUNDENTE de OSCURIDAD en un AREA y puede aplicar MIEDO con una maldicion poderosa.
+battle/battle_data_release/battle_text.xlc,XLC,1768,8,,,{span 0a 1002 19 08}A frightful gaze able to PETRIFY enemies that carelessly meet it.,107,{span 0a 1002 19 08},Mirada aterradora capaz de PETRIFICAR a los enemigos que la miren descuidadamente.
+battle/battle_data_release/battle_text.xlc,XLC,1769,8,,,{span 0e c803 17 08}A rapturous hymn in the divine tongue that restores HP to other LIVING units in the AREA and removes all DEBUFFS.,168,{span 0e c803 17 08},Himno de extasis en la lengua divina que restaura PS a otras unidades VIVAS en el AREA y elimina todos sus EFECTOS NEGATIVOS.
+battle/battle_data_release/battle_text.xlc,XLC,1771,8,,,{span 06 2801 2e 08}Summon forth a doppelganger of an enemy unit.,65,{span 06 2801 2e 08},Invoca un doble de una unidad enemiga.
+battle/battle_data_release/battle_text.xlc,XLC,1772,8,,,{span 10 aa03 2f 08}A long-range malediction that deals SLASHING damage to targets in an AREA and drains their MP by corrupting the fabric of reality.,192,{span 10 aa03 2f 08},Maldicion de largo alcance que inflige dano CORTANTE a los objetivos en un AREA y absorbe sus PM al corromper el tejido de la realidad.
+battle/battle_data_release/battle_text.xlc,XLC,1773,8,,,{span 10 4c03 26 08}A long-range malediction that deals SLASHING AIR damage to targets in an AREA and inflicts SILENCE/RUPTURE with a terrifying gale.,183,{span 10 4c03 26 08},Maldicion de largo alcance que inflige dano CORTANTE de AIRE a los objetivos en un AREA y aplica SILENCIO/RUPTURA con un vendaval aterrador.
+battle/battle_data_release/battle_text.xlc,XLC,1774,8,,,{span 10 e403 31 08}A long-range malediction that deals CRUSHING EARTH damage to targets in an AREA and resets their RT by manipulating gravity's bonds.,194,{span 10 e403 31 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de TIERRA a los objetivos en un AREA y reinicia su TE al manipular los vinculos de la gravedad.
+battle/battle_data_release/battle_text.xlc,XLC,1775,8,,,{span 12 2803 39 08}A long-range malediction that deals PIERCING LIGHTNING damage to targets in an AREA and inflicts STUN with a brutal flurry of lightning.,202,{span 12 2803 39 08},Maldicion de largo alcance que inflige dano PERFORANTE de RAYO a los objetivos en un AREA y aplica ATURDIMIENTO con una brutal rafaga de rayos.
+battle/battle_data_release/battle_text.xlc,XLC,1776,8,,,{span 12 2603 33 08}A long-range malediction that deals PIERCING WATER damage to targets in an AREA and inflicts SLOW with a matter-congealing wave.,196,{span 12 2603 33 08},Maldicion de largo alcance que inflige dano PERFORANTE de AGUA a los objetivos en un AREA y aplica LENTITUD con una ola que solidifica la materia.
+battle/battle_data_release/battle_text.xlc,XLC,1777,8,,,{span 12 7403 3f 08}A long-range malediction that deals CRUSHING FIRE damage to targets in an AREA and resets their TP to zero with an explosive ripple of energy.,208,{span 12 7403 3f 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de FUEGO a los objetivos en un AREA y reduce sus PT a cero con una onda expansiva de energia.
+battle/battle_data_release/battle_text.xlc,XLC,1778,8,,,{span 14 2204 10 08}A long-range malediction that deals PIERCING ICE damage to targets in an AREA and inflicts BIND with a soul-chilling blast that penetrates the body's core.,224,{span 14 2204 10 08},Maldicion de largo alcance que inflige dano PERFORANTE de HIELO a los objetivos en un AREA y aplica UNION con una descarga helada que penetra hasta el nucleo del cuerpo.
+battle/battle_data_release/battle_text.xlc,XLC,1779,8,,,"{span 12 4603 3c 08}A long-range malediction that deals SLASHING LIGHT damage to targets in an AREA, inflicts SLEEP and EXORCISES any STILLED UNDEAD with a radiant burst of divine light.",205,{span 12 4603 3c 08},"Maldicion de largo alcance que inflige dano CORTANTE de LUZ a los objetivos en un AREA, aplica SOMNOLENCIA y EXORCIZA a los NO MUERTOS INERTES con un estallido de luz divina."
+battle/battle_data_release/battle_text.xlc,XLC,1780,8,,,{span 12 3c03 38 08}A long-range malediction that deals CRUSHING DARK damage to targets in an AREA and inflicts FRIGHTEN with malevolent whispers.,201,{span 12 3c03 38 08},Maldicion de largo alcance que inflige dano CONTUNDENTE de OSCURIDAD a los objetivos en un AREA y aplica MIEDO con susurros malignos.
 battle/battle_data_release/battle_text.xlc,XLC,1782,8,,,{span 04 b201 22 08}Restores 50+ HP to a SINGLE UNIT.,53,{span 04 b201 22 08},Restaura 50 o más PS a UNA SOLA UNIDAD.
 battle/battle_data_release/battle_text.xlc,XLC,1783,8,,,"{span 06 ec01 3c 08}A big lump of gold, brings a smile to anyone's face.",79,{span 06 ec01 3c 08},
 battle/battle_data_release/battle_text.xlc,XLC,1784,8,,,"{span 06 ec01 3c 08}A stone fallen from the sky, prized by the collectors.",79,{span 06 ec01 3c 08},
