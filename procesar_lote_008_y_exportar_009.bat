@@ -15,25 +15,31 @@ if not exist "%NEUTRAL%" goto error
 if not exist "%CORRECCIONES_006%" goto error
 if not exist "%LOTE_TRADUCIDO%" goto error
 
-echo [1/5] Actualizando las 3 correcciones del lote 006...
+echo [1/6] Integrando las 3 correcciones puntuales del lote 006...
 python "%SCRIPT%" integrar "%CATALOGO%" "%CORRECCIONES_006%" --sobrescribir
 if errorlevel 1 goto error
 if exist "%CATALOGO%.bak" copy /y "%CATALOGO%.bak" "%CATALOGO%.pre_correcciones_006.bak" >nul
 
-echo [2/5] Integrando las traducciones nuevas del lote 008...
+echo [2/6] Aplicando esas 3 correcciones al neutral...
+python "%SCRIPT%" aplicar "%NEUTRAL%" "%CORRECCIONES_006%" --salida "%NEUTRAL%" --sobrescribir-existentes
+if errorlevel 1 goto error
+if exist "%NEUTRAL%.bak" copy /y "%NEUTRAL%.bak" "%NEUTRAL%.pre_correcciones_006.bak" >nul
+
+echo [3/6] Integrando las traducciones nuevas del lote 008...
 python "%SCRIPT%" integrar "%CATALOGO%" "%LOTE_TRADUCIDO%"
 if errorlevel 1 goto error
 if exist "%CATALOGO%.bak" copy /y "%CATALOGO%.bak" "%CATALOGO%.pre_lote_008.bak" >nul
 
-echo [3/5] Aplicando las traducciones globalmente al CSV neutral...
+echo [4/6] Aplicando el catalogo global al neutral sin sobrescribir traducciones existentes...
 python "%SCRIPT%" aplicar "%NEUTRAL%" "%CATALOGO%" --salida "%NEUTRAL%"
 if errorlevel 1 goto error
+if exist "%NEUTRAL%.bak" copy /y "%NEUTRAL%.bak" "%NEUTRAL%.pre_aplicacion_lote_008.bak" >nul
 
-echo [4/5] Actualizando el catalogo maestro desde el neutral...
+echo [5/6] Actualizando el catalogo maestro desde el neutral...
 python "%SCRIPT%" actualizar "%NEUTRAL%" "%CATALOGO%"
 if errorlevel 1 goto error
 
-echo [5/5] Exportando los siguientes 200 hashes pendientes...
+echo [6/6] Exportando los siguientes 200 hashes pendientes...
 python "%SCRIPT%" exportar "%CATALOGO%" --limite 200 --offset 34 --salida "%LOTE_009%"
 if errorlevel 1 goto error
 
@@ -41,7 +47,7 @@ echo.
 echo PROCESO COMPLETADO.
 echo Lote 009: %LOTE_009%
 echo Se conservan omitidos los 34 pendientes antiguos.
-echo Copias previas: catalogo.pre_correcciones_006.bak y catalogo.pre_lote_008.bak
+echo Se guardaron copias previas del catalogo y del neutral.
 echo.
 pause
 exit /b 0
