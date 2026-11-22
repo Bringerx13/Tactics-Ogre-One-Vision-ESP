@@ -7,6 +7,10 @@ Tactics Ogre: One Vision,UI,[FOCUS],[ENFOQUE],Confirmado,Mantener los corchetes.
 Tactics Ogre: One Vision,UI,Manual (sufijo),GUIA,Confirmado,Usar como sufijo.
 Tactics Ogre: One Vision,Elementos,LIGHT,LUZ,Confirmado,No traducir como Sol.
 Tactics Ogre: One Vision,Terminologia,damage,da?o,Confirmado,Excepcion explicita para la palabra inglesa damage; no usar ? en otras palabras.
+Tactics Ogre: One Vision,Estados y efectos,SHACKLE,Atado,Confirmado,Usar ATADO como nombre del estado; como verbo (SHACKLES), adaptar a ATA segun la construccion.
+Tactics Ogre: One Vision,Estados y efectos,TRUEFLIGHT,Tiro certero,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,FALSEFLIGHT,Tiro desviado,Confirmado,
+Tactics Ogre: One Vision,Estados y efectos,PRECISION,PRECISION,Confirmado,No confundir con TRUEFLIGHT (TIRO CERTERO) ni FALSEFLIGHT (TIRO DESVIADO).
 
 
 1 Godscale	Deidraco
