@@ -216,7 +216,7 @@ Al regresar a Almorica, {hero} intenta recuperar el castillo de manos de los res
 {bF7}{bF8}{bF9}{bFA}  Hobyrim
 
 While leading an assault on Rhime, {hero} happens upon a lone swordsman pursued by Bakram under Dark Knight command.",1,1,[],"[{""archivo"":""WarrenReport/WarrenReportText/1.xlc"",""tipo"":""XLC"",""fila"":""126"",""columna"":""12"",""id_entrada"":"""",""nid"":"""",""texto_ingles_original"":""{span 0d 1643 3a 28 0c1630313030}{bEF}{bF0}{bF1}{bF2}  The Dark Knights, The Bakram\n{bF3}{bF4}{bF5}{bF6}  The Dark Knight Ozma\n{bF7}{bF8}{bF9}{bFA}  Hobyrim\n\nWhile leading an assault on Rhime, {hero} happens upon a lone swordsman pursued by Bakram under Dark Knight command."",""texto_espanol_actual"":"""",""contexto_anterior"":""{span 09 a442 1e 18 08a430313030}{bEF}{bF0}{bF1}{bF2}  ???\n\n{hero} is attacked by ferocious beasts while traversing a mountain path leading to Rhime."",""contexto_siguiente"":""{span 0d 1a43 1f 20 0c1a30313030}{bEF}{bF0}{bF1}{bF2}  The Bakram\n{bF3}{bF4}{bF5}{bF6}  The Witch Vestiarri\n\nAfter liberating Rhime, the Resistance marches on Phidoch Castle. There {hero}'s forces trade blows with Bakram soldiers.""}]",PENDIENTE,"{bEF}{bF0}{bF1}{bF2}  Los Caballeros Oscuros, los bakram
-{bF3}{bF4}{bF5}{bF6}  La Caballero Oscuro Ozma
+{bF3}{bF4}{bF5}{bF6}  La Caballera Oscura Ozma
 {bF7}{bF8}{bF9}{bFA}  Hobyrim
 
 Mientras dirige un asalto a Rhime, {hero} se encuentra con un espadachín solitario perseguido por bakram bajo el mando de los Caballeros Oscuros.",[]
