@@ -1,0 +1,52 @@
+﻿termino_ingles,traduccion_espanol,categoria,notas
+AI,IA,Interfaz y combate,Sigla en español.
+Averse,Vulnerabilidad,Estados y elementos,Usar en construcciones como VULNERABILIDAD A LA TIERRA.
+Axes,Hachas,Armas,
+Blunt,Armas contundentes,Armas,
+Bows,Arcos,Armas,
+Crossbows,Ballestas,Armas,
+Dark Knight,Caballero oscuro,Personajes y facciones,
+Divine Magic,Magia divina,Magia,
+DODGE,Evasión,Estados y efectos,
+FALSEFLIGHT,Tiro desviado,Estados y efectos,
+Fetid Water,Agua fétida,Terreno,
+Finishing Move,Técnica final,Combate,
+Fist Weapons,Armas de puño,Armas,
+Fusils,Fusiles,Armas,
+Hammers,Martillos,Armas,
+HP,PS,Estadísticas,No dejar HP en el texto traducido.
+Holy Knight,Caballero sagrado,Personajes y facciones,
+Incapacitated,Incapacitado,Estados,Ajustar género y número: INCAPACITADO(S)/INCAPACITADA(S).
+Knockback,Empuje,Combate,
+MP,PM,Estadísticas,No dejar MP en el texto traducido.
+Parry,Parada,Combate,
+PRECISION,Precisión,Estados y efectos,
+Rampart Aura,Aura de muralla,Habilidades,
+Resist Earth,Resistencia a la tierra,Estados y efectos,
+RESILIENT,Tenacidad,Estados y efectos,
+Rock Wall,Muro de roca,Terreno,
+RT,TE,Estadísticas,Tiempo de recuperación.
+Sanctuary,Santuario,Habilidades,
+SHACKLE,Atado,Estados,
+Sidearms,Armas cortas,Armas,
+Spellcraft,Arte mágico,Estados y efectos,SPELLCRAFT: ARTE MÁGICA.
+Spellslip,Fallo de hechizos,Estados y efectos,
+Spellstrike,Golpe mágico,Estados y efectos,SPELLSTRIKE: GOLPE MÁGICO. Sustituye las formas IMPACTO MÁGICO y GOLPEMAGICO.
+SPELLSTRIKE,GOLPE MÁGICO,Estados y efectos,Forma en mayúsculas para textos que también estén en mayúsculas.
+Stilled,Inerte,Estados,En plural: INERTES. Estado de no muertos/zombis derribados que pueden revivir.
+STOP,PARO,Estados y efectos,Respetar mayúsculas; adaptar si es un adjetivo.
+Swords (1H),Espadas de una mano,Armas,
+Swords (2H),Espadas de dos manos,Armas,
+Terror Knight,Caballero Tétrico,Clases,
+TP,PT,Estadísticas,No dejar TP en el texto traducido.
+TRUEFLIGHT,Tiro certero,Estados y efectos,
+Undead,No muerto,Especies y tipos,En plural: no muertos.
+Ward,Velo,Estados y efectos,
+Zombie,Zombi,Especies y tipos,
+Templar Mortal,Templario Mortal,Clases,
+Templar Female Mortal,Templaria Mortal,Clases,
+Death Knight,Caballero Mortal,Clases,
+Death Dragon,Dragón Mortífero,Clases,
+Damascus Golem,Gólem de Damasco,Clases,
+Sword Mistress,Dama de la Espada,Clases,
+Dragon Tamer,Doma Dragones,Clases,
