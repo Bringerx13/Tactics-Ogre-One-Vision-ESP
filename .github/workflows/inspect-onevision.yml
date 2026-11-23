@@ -1,0 +1,94 @@
+name: Inspect One Vision archive
+
+on:
+  push:
+    paths:
+      - "One Vision/One_Vision.7z"
+      - ".github/workflows/inspect-onevision.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install 7-Zip
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full
+
+      - name: List and extract One Vision archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p inspection/extracted
+          7z l -slt "One Vision/One_Vision.7z" > inspection/archive_listing_slt.txt
+          7z x "One Vision/One_Vision.7z" "-oinspection/extracted" -y > inspection/extract_log.txt
+          python3 - <<'PY'
+          import os, hashlib, collections, struct
+          root = "inspection/extracted"
+          out = []
+          files = []
+          for base, dirs, names in os.walk(root):
+              dirs.sort()
+              for name in sorted(names):
+                  path = os.path.join(base, name)
+                  rel = os.path.relpath(path, root).replace(os.sep, "/")
+                  try:
+                      size = os.path.getsize(path)
+                      with open(path, "rb") as f:
+                          head = f.read(64)
+                      files.append((rel, size, head))
+                  except OSError as e:
+                      out.append(f"ERROR {rel}: {e}")
+          out.append(f"TOTAL_FILES={len(files)}")
+          out.append(f"TOTAL_BYTES={sum(x[1] for x in files)}")
+          ext_counts = collections.Counter(os.path.splitext(p)[1].lower() or "[no extension]" for p,_,_ in files)
+          out.append("\n[EXTENSION_COUNTS]")
+          for ext, count in sorted(ext_counts.items()):
+              out.append(f"{ext}\t{count}")
+          out.append("\n[IMPORTANT_PATHS]")
+          needles = ("filetable", ".bin", ".xlc", ".emes", ".pakd", ".toml", ".iso")
+          for p, size, head in files:
+              if any(n in p.lower() for n in needles):
+                  out.append(f"{size}\t{p}\tMAGIC={head[:16].hex(' ')}")
+          out.append("\n[FILETABLE_HEADERS]")
+          for p, size, _ in files:
+              if p.lower().endswith("filetable.bin"):
+                  full = os.path.join(root, p)
+                  try:
+                      data = open(full, "rb").read()
+                      if len(data) >= 0x44:
+                          sig, nc, dc, u6, fto, total = struct.unpack_from("<HHHHII", data, 0)
+                          out.append(f"{p}: size={len(data)} sig=0x{sig:04X} names={nc} dirs={dc} u6={u6} ft_off=0x{fto:X} total=0x{total:X}")
+                          if sig == 0x1EF1 and u6 == 4 and 0x44 + nc*8 + dc*24 <= len(data):
+                              pos = 0x44 + nc*8
+                              for _ in range(dc):
+                                  did, enc, bs, base, u8, inst, bc, ntc, nti, bto, ibase = struct.unpack_from("<HBBIBBHHHII", data, pos)
+                                  pos += 24
+                                  out.append(f"  DIR id={did} enc={enc} bs={bs} base=0x{base:X} inst={inst} batches={bc} bto=0x{bto:X} ibase=0x{ibase:X}")
+                  except Exception as e:
+                      out.append(f"{p}: FILETABLE_PARSE_ERROR={type(e).__name__}: {e}")
+          out.append("\n[ARCHIVE_ROOTS]")
+          roots = sorted({p.split("/",1)[0] for p,_,_ in files})
+          out.extend(roots)
+          with open("inspection/One_Vision_inventory.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(out) + "\n")
+          print("\n".join(out[:220]))
+          PY
+
+      - name: Upload inspection reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: one-vision-inspection
+          path: |
+            inspection/One_Vision_inventory.txt
+            inspection/archive_listing_slt.txt
+            inspection/extract_log.txt
+          if-no-files-found: error
+          retention-days: 7
