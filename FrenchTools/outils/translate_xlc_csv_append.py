@@ -119,6 +119,7 @@ def prepare(original, info, translations, mode):
     cells = {(c["row"], c["col"]): c for c in info["cells"]}
     missing = []
     source_mismatch = []
+    trailing_padding = []
     changes = []
     unchanged = []
     for key, tr in sorted(translations.items()):
@@ -127,8 +128,15 @@ def prepare(original, info, translations, mode):
             missing.append((key, tr["line"]))
             continue
         if cell["text"] != tr["english"]:
-            source_mismatch.append((key, tr["line"], tr["english"], cell["text"]))
-            continue
+            # En people.xlc hay una celda cuyo texto original termina en "\\n  ".
+            # El CSV conserva el salto de línea, pero omite esos dos espacios de relleno.
+            # Aceptamos exclusivamente esta diferencia; nunca se recorta ni reescribe
+            # el texto original que permanece en el bloque append-only.
+            if tr["english"].endswith("\\n") and cell["text"] == tr["english"] + "  ":
+                trailing_padding.append((key, tr["line"], 2))
+            else:
+                source_mismatch.append((key, tr["line"], tr["english"], cell["text"]))
+                continue
 
         hdr, autowrap, old_body = norm(cell["text"])
         new_body = tr["spanish"]
@@ -168,7 +176,7 @@ def prepare(original, info, translations, mode):
             "Hay que resolver las coordenadas o textos originales que no coinciden."
         )
 
-    return cells, changes, unchanged
+    return cells, changes, unchanged, trailing_padding
 
 
 def rebuild_append_batch(original, info, changes):
@@ -309,7 +317,15 @@ def main():
     if original is None:
         raise RuntimeError("No se encontró la hoja XLC 700/0/3 en USRDIR")
     info = parse_overlap_xlc(original)
-    cells, changes, unchanged = prepare(original, info, translations, mode)
+    cells, changes, unchanged, trailing_padding = prepare(original, info, translations, mode)
+    if trailing_padding:
+        log(f"DIFERENCIAS ACEPTADAS POR RELLENO FINAL: {len(trailing_padding)}")
+        for key, line, count in trailing_padding:
+            log(
+                f"  fila/columna={key}, línea CSV={line}: "
+                f"CSV termina en \\n; XLC conserva {count} espacios adicionales"
+            )
+        log("Los espacios originales se conservan; no se recortan ni reescriben.")
 
     log(f"Filas del CSV para people.xlc: {total_rows}")
     log(f"Filas con traducción no vacía: {translated_rows}")
