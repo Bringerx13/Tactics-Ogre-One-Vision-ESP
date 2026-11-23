@@ -1,0 +1,22 @@
+FRENCHTOOLS - BYTE ROUNDTRIP AUDIT (BIN)
+ROOT: E:\Tactics ogre\USRDIR_OneVision
+DIRECTORIES: 29
+TOP_LEVEL_FILES: 8651
+LEAVES_SCANNED: 46245
+TEXT_RESOURCES: 3093
+ELAPSED_SECONDS: 1.7
+
+[COUNTS]
+emes_signature=1606
+emes_slots=8406
+emes_text_files=1606
+xlc_not_text=1445
+xlc_slots=19357
+xlc_text_files=42
+xlce_signature=1487
+
+[FIRST 200 BYTE MISMATCHES OR ENCODE ERRORS]
+(none)
+
+[PARSE / TREE ERRORS]
+(none)
