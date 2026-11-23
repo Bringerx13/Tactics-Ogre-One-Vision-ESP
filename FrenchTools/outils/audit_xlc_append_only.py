@@ -130,7 +130,22 @@ def main():
     ]
     missing = [key for key in before if key not in after]
     extra = [key for key in after if key not in before]
-    changed_old_area = rebuilt[:len(original)] != original
+    # The record table changes only at pointer fields; the original text pool
+    # and all bytes after it must remain exactly where they were.
+    record_nonpointer_same = True
+    for row in range(info["n"]):
+        for col in range(0, info["es"], 4):
+            if col in info["pointer_columns"]:
+                continue
+            pos = 16 + row * info["es"] + col
+            if rebuilt[pos:pos + 4] != original[pos:pos + 4]:
+                record_nonpointer_same = False
+                break
+        if not record_nonpointer_same:
+            break
+    original_pool_same = rebuilt[info["hend"]:len(original)] == original[info["hend"]:]
+    fixed_header_same = rebuilt[:16] == original[:16]
+    preservation_ok = record_nonpointer_same and original_pool_same and fixed_header_same
 
     print("FRENCHTOOLS - APPEND-ONLY XLC SELF TEST")
     print("RECURSO:", "/".join(map(str, target)))
@@ -144,14 +159,16 @@ def main():
     print("CELDAS REDIRIGIDAS A COPIAS:", changed)
     print("BYTES RESULTANTES EN MEMORIA:", len(rebuilt))
     print("BYTES AÑADIDOS:", len(rebuilt) - len(original))
-    print("ZONA ORIGINAL CONSERVADA BYTE A BYTE:", "SI" if not changed_old_area else "NO")
+    print("CABECERA FIJA CONSERVADA:", "SI" if fixed_header_same else "NO")
+    print("CAMPOS NO PUNTERO CONSERVADOS:", "SI" if record_nonpointer_same else "NO")
+    print("POOL ORIGINAL DE TEXTOS CONSERVADO:", "SI" if original_pool_same else "NO")
     print("CELDAS FALTANTES TRAS RELECTURA:", len(missing))
     print("CELDAS ADICIONALES:", len(extra))
     print("TEXTOS DISTINTOS TRAS RELECTURA:", len(mismatch))
-    print("RESULTADO:", "OK" if not mismatch and not missing and not extra and not changed_old_area else "FALLO")
+    print("RESULTADO:", "OK" if not mismatch and not missing and not extra and preservation_ok else "FALLO")
     if mismatch[:20]:
         print("PRIMERAS DIFERENCIAS:", mismatch[:20])
-    return 0 if not mismatch and not missing and not extra and not changed_old_area else 1
+    return 0 if not mismatch and not missing and not extra and preservation_ok else 1
 
 
 if __name__ == "__main__":
