@@ -132,7 +132,7 @@ def prepare(original, info, translations, mode):
             # El CSV conserva el salto de línea, pero omite esos dos espacios de relleno.
             # Aceptamos exclusivamente esta diferencia; nunca se recorta ni reescribe
             # el texto original que permanece en el bloque append-only.
-            if tr["english"].endswith("\\n") and cell["text"] == tr["english"] + "  ":
+            if tr["english"].endswith("\n") and cell["text"] == tr["english"] + "  ":
                 trailing_padding.append((key, tr["line"], 2))
             else:
                 source_mismatch.append((key, tr["line"], tr["english"], cell["text"]))
@@ -323,7 +323,7 @@ def main():
         for key, line, count in trailing_padding:
             log(
                 f"  fila/columna={key}, línea CSV={line}: "
-                f"CSV termina en \\n; XLC conserva {count} espacios adicionales"
+                f"CSV termina en salto de línea; XLC conserva {count} espacios adicionales"
             )
         log("Los espacios originales se conservan; no se recortan ni reescriben.")
 
