@@ -139,31 +139,34 @@ jobs:
                   counts["other_leaves"] += 1
                   rows.append(f"{rootname}\t{nodepath}\tOTHER\tbytes={len(data)}\tmagic={magic.hex()}")
           
-          for name in sorted(os.listdir(root)):
-              p = os.path.join(root, name)
-              if not os.path.isfile(p) or not name.upper().endswith(".BIN"):
-                  continue
-              data = open(p, "rb").read()
-              if name.upper() == "0000.BIN":
-                  try:
-                      n = struct.unpack_from("<I", data, 0)[0]
-                      if n > 1000 or 4 + 8*n > len(data):
-                          raise ValueError(f"invalid preload count {n}")
-                      pos = 4 + 8*n
-                      rows.append(f"0000.BIN\tPRELOAD\tcount={n}\theader_bytes={pos}")
-                      for i in range(n):
-                          id_, size = struct.unpack_from("<II", data, 4 + 8*i)
-                          chunk = data[pos:pos+size]
-                          if len(chunk) != size:
-                              raise ValueError(f"preload entry {i} truncated")
-                          rows.append(f"0000.BIN\tPRELOAD[{i}]\tid=0x{id_:08X}\tsize={size}\tmagic={chunk[:4].hex()}")
-                          pos += size
-                      if pos < len(data):
-                          rows.append(f"0000.BIN\tPRELOAD_TAIL\tbytes={len(data)-pos}")
-                  except Exception as e:
-                      errors.append(f"0000.BIN\tPRELOAD_ERROR\t{type(e).__name__}: {e}")
-              else:
-                  walk(data, name, "ROOT")
+          for base, dirs, names in os.walk(root):
+              dirs.sort()
+              for name in sorted(names):
+                  if not name.upper().endswith(".BIN"):
+                      continue
+                  p = os.path.join(base, name)
+                  rel = os.path.relpath(p, root).replace(os.sep, "/")
+                  data = open(p, "rb").read()
+                  if name.upper() == "0000.BIN":
+                      try:
+                          n = struct.unpack_from("<I", data, 0)[0]
+                          if n > 1000 or 4 + 8*n > len(data):
+                              raise ValueError(f"invalid preload count {n}")
+                          pos = 4 + 8*n
+                          rows.append(f"{rel}\\tPRELOAD\\tcount={n}\\theader_bytes={pos}")
+                          for i in range(n):
+                              id_, size = struct.unpack_from("<II", data, 4 + 8*i)
+                              chunk = data[pos:pos+size]
+                              if len(chunk) != size:
+                                  raise ValueError(f"preload entry {i} truncated")
+                              rows.append(f"{rel}\\tPRELOAD[{i}]\\tid=0x{id_:08X}\\tsize={size}\\tmagic={chunk[:4].hex()}")
+                              pos += size
+                          if pos < len(data):
+                              rows.append(f"{rel}\\tPRELOAD_TAIL\\tbytes={len(data)-pos}")
+                      except Exception as e:
+                          errors.append(f"{rel}\\tPRELOAD_ERROR\\t{type(e).__name__}: {e}")
+                  else:
+                      walk(data, rel, "ROOT")
           
           header = [f"{k}={v}" for k,v in sorted(counts.items())]
           with open("inspection/One_Vision_nested_inventory.tsv", "w", encoding="utf-8") as f:
