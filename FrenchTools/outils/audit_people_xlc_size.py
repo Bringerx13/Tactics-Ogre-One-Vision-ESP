@@ -127,7 +127,7 @@ def main():
                 "bytes_espanol_codificado", "diferencia_bytes",
                 "texto_ingles", "texto_espanol"
             ],
-            delimiter="\\t",
+            delimiter="\t",
             quoting=csv.QUOTE_MINIMAL
         )
         writer.writeheader()
