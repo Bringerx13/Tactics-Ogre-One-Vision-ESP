@@ -30,7 +30,7 @@ jobs:
           7z l -slt "One Vision/One_Vision.7z" > inspection/archive_listing_slt.txt
           7z x "One Vision/One_Vision.7z" "-oinspection/extracted" -y > inspection/extract_log.txt
           python3 - <<'PY'
-          import os, hashlib, collections, struct
+          import os, collections, struct
           root = "inspection/extracted"
           out = []
           files = []
@@ -52,34 +52,130 @@ jobs:
           out.append("\n[EXTENSION_COUNTS]")
           for ext, count in sorted(ext_counts.items()):
               out.append(f"{ext}\t{count}")
-          out.append("\n[IMPORTANT_PATHS]")
-          needles = ("filetable", ".bin", ".xlc", ".emes", ".pakd", ".toml", ".iso")
+          out.append("\n[FILES]")
           for p, size, head in files:
-              if any(n in p.lower() for n in needles):
-                  out.append(f"{size}\t{p}\tMAGIC={head[:16].hex(' ')}")
+              out.append(f"{size}\t{p}\tMAGIC={head[:16].hex(' ')}")
           out.append("\n[FILETABLE_HEADERS]")
           for p, size, _ in files:
               if p.lower().endswith("filetable.bin"):
-                  full = os.path.join(root, p)
-                  try:
-                      data = open(full, "rb").read()
-                      if len(data) >= 0x44:
-                          sig, nc, dc, u6, fto, total = struct.unpack_from("<HHHHII", data, 0)
-                          out.append(f"{p}: size={len(data)} sig=0x{sig:04X} names={nc} dirs={dc} u6={u6} ft_off=0x{fto:X} total=0x{total:X}")
-                          if sig == 0x1EF1 and u6 == 4 and 0x44 + nc*8 + dc*24 <= len(data):
-                              pos = 0x44 + nc*8
-                              for _ in range(dc):
-                                  did, enc, bs, base, u8, inst, bc, ntc, nti, bto, ibase = struct.unpack_from("<HBBIBBHHHII", data, pos)
-                                  pos += 24
-                                  out.append(f"  DIR id={did} enc={enc} bs={bs} base=0x{base:X} inst={inst} batches={bc} bto=0x{bto:X} ibase=0x{ibase:X}")
-                  except Exception as e:
-                      out.append(f"{p}: FILETABLE_PARSE_ERROR={type(e).__name__}: {e}")
+                  data = open(os.path.join(root, p), "rb").read()
+                  if len(data) >= 0x44:
+                      sig, nc, dc, u6, fto, total = struct.unpack_from("<HHHHII", data, 0)
+                      out.append(f"{p}: size={len(data)} sig=0x{sig:04X} names={nc} dirs={dc} u6={u6} ft_off=0x{fto:X} total=0x{total:X}")
           out.append("\n[ARCHIVE_ROOTS]")
-          roots = sorted({p.split("/",1)[0] for p,_,_ in files})
-          out.extend(roots)
+          out.extend(sorted({p.split("/",1)[0] for p,_,_ in files}))
           with open("inspection/One_Vision_inventory.txt", "w", encoding="utf-8") as f:
               f.write("\n".join(out) + "\n")
           print("\n".join(out[:220]))
+          PY
+
+      - name: Inspect nested PAKD, XLC, EMES and preload
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os, struct, collections
+          root = "inspection/extracted"
+          rows = []
+          errors = []
+          counts = collections.Counter()
+
+          def parse_pakd(data):
+              if len(data) < 12 or data[:4] != b"pakd":
+                  raise ValueError("missing pakd header")
+              n = struct.unpack_from("<I", data, 4)[0]
+              if n > 200000 or 12 + 4*n > len(data):
+                  raise ValueError(f"implausible entry count {n}")
+              offs = list(struct.unpack_from("<%dI" % n, data, 8)) if n else []
+              total = struct.unpack_from("<I", data, 8 + 4*n)[0]
+              if total > len(data) or total < 12 + 4*n:
+                  raise ValueError(f"invalid total size {total}")
+              if n == 0:
+                  return []
+              if any(o < 12 + 4*n or o >= total for o in offs):
+                  raise ValueError("child offset outside PAKD")
+              if offs != sorted(offs):
+                  raise ValueError("unordered PAKD offsets")
+              ids = [0] * n
+              hsz = 4 + 4 + 4*n + 4 + 4
+              idsz = offs[0] - hsz
+              if idsz > 0 and idsz <= 4*n and idsz % 4 == 0:
+                  ids = list(struct.unpack_from("<%dI" % (idsz//4), data, 12+4*n)) + [0]*(n-idsz//4)
+              ends = offs[1:] + [total]
+              return [(ids[i], data[offs[i]:ends[i]]) for i in range(n)]
+
+          def walk(data, rootname, nodepath, depth=0):
+              if data[:4] == b"pakd":
+                  counts["pakd_containers"] += 1
+                  try:
+                      ents = parse_pakd(data)
+                  except Exception as e:
+                      errors.append(f"{rootname}\t{nodepath}\tPAKD_ERROR\t{type(e).__name__}: {e}\tlen={len(data)}")
+                      return
+                  for i, (rid, child) in enumerate(ents):
+                      walk(child, rootname, nodepath + f"/{i:04d}[id={rid:08X}]", depth+1)
+                  return
+              counts["leaves"] += 1
+              magic = data[:4]
+              if magic == b"xlce":
+                  try:
+                      if len(data) < 16:
+                          raise ValueError("short XLC header")
+                      n, do, es = struct.unpack_from("<III", data, 4)
+                      hend = 16 + n*es
+                      if es < 4 or hend > len(data):
+                          raise ValueError(f"invalid header n={n} es={es} hend={hend} len={len(data)}")
+                      counts["xlc"] += 1
+                      rows.append(f"{rootname}\t{nodepath}\tXLC\tbytes={len(data)}\trecords={n}\trecord_size={es}\theader_end=0x{hend:X}")
+                  except Exception as e:
+                      errors.append(f"{rootname}\t{nodepath}\tXLC_ERROR\t{type(e).__name__}: {e}")
+              elif magic == b"EMES":
+                  try:
+                      n = struct.unpack_from("<H", data, 4)[0]
+                      counts["emes"] += 1
+                      rows.append(f"{rootname}\t{nodepath}\tEMES\tbytes={len(data)}\tentries={n}")
+                  except Exception as e:
+                      errors.append(f"{rootname}\t{nodepath}\tEMES_ERROR\t{type(e).__name__}: {e}")
+              else:
+                  counts["other_leaves"] += 1
+                  rows.append(f"{rootname}\t{nodepath}\tOTHER\tbytes={len(data)}\tmagic={magic.hex()}")
+          
+          for name in sorted(os.listdir(root)):
+              p = os.path.join(root, name)
+              if not os.path.isfile(p) or not name.upper().endswith(".BIN"):
+                  continue
+              data = open(p, "rb").read()
+              if name.upper() == "0000.BIN":
+                  try:
+                      n = struct.unpack_from("<I", data, 0)[0]
+                      if n > 1000 or 4 + 8*n > len(data):
+                          raise ValueError(f"invalid preload count {n}")
+                      pos = 4 + 8*n
+                      rows.append(f"0000.BIN\tPRELOAD\tcount={n}\theader_bytes={pos}")
+                      for i in range(n):
+                          id_, size = struct.unpack_from("<II", data, 4 + 8*i)
+                          chunk = data[pos:pos+size]
+                          if len(chunk) != size:
+                              raise ValueError(f"preload entry {i} truncated")
+                          rows.append(f"0000.BIN\tPRELOAD[{i}]\tid=0x{id_:08X}\tsize={size}\tmagic={chunk[:4].hex()}")
+                          pos += size
+                      if pos < len(data):
+                          rows.append(f"0000.BIN\tPRELOAD_TAIL\tbytes={len(data)-pos}")
+                  except Exception as e:
+                      errors.append(f"0000.BIN\tPRELOAD_ERROR\t{type(e).__name__}: {e}")
+              else:
+                  walk(data, name, "ROOT")
+          
+          header = [f"{k}={v}" for k,v in sorted(counts.items())]
+          with open("inspection/One_Vision_nested_inventory.tsv", "w", encoding="utf-8") as f:
+              f.write("SUMMARY\n" + "\n".join(header) + "\n\n")
+              f.write("BIN\tTREE_PATH\tTYPE\tDETAILS\n")
+              f.write("\n".join(rows) + "\n")
+              f.write("\nERRORS\n" + "\n".join(errors) + "\n")
+          print("\n".join(header))
+          print(f"resource rows={len(rows)} parse errors={len(errors)}")
+          print("\n".join(rows[:80]))
+          if errors:
+              print("\n".join(errors[:50]))
           PY
 
       - name: Upload inspection reports
@@ -88,6 +184,7 @@ jobs:
           name: one-vision-inspection
           path: |
             inspection/One_Vision_inventory.txt
+            inspection/One_Vision_nested_inventory.tsv
             inspection/archive_listing_slt.txt
             inspection/extract_log.txt
           if-no-files-found: error
