@@ -62,7 +62,7 @@ class Builder:
                 f['bo'] = (newpos - d['base']) // unit
                 f['size'] = len(data)
             bb += b'\0' * ((-len(bb)) % UNIT)
-            d['inst'] = 0
+            # Preserve the original IsInInstallData flag from FILETABLE.BIN.
             out['%04X.BIN' % did] = bytes(bb)
         out['FILETABLE.BIN'] = ft.serialize(self.g._orig_ft)
         return out
