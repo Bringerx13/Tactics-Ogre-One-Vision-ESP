@@ -105,6 +105,7 @@ def main():
             item = {name: (row.get(name) or "") for name in output_fields}
             item["estado_original"] = status
             item["texto_ingles_original"] = english_original
+            item["texto_ingles_csv"] = row.get("texto_ingles") or ""
             writer.writerow(item)
 
     duplicates = sum(1 for n in seen_keys.values() if n > 1)
