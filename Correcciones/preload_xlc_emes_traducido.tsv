@@ -157,8 +157,8 @@ Affects DEFENSE against attacks."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d
 + HEAVY/FOCUS ATTACK  + ACC + EVADE"	"{span 06 6241 3d 10}DEX (Dexterity)
 Affects melee and ranged ACCURACY and ATTACK."	"{span 06 6241 3d 10}DEX (Dexterity)
 Affects melee and ranged ACCURACY and ATTACK."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Destreza
-++ ATAQUE LIGERO
-+ ATAQUE PESADO/DE ENFOQUE  + PRECISIÓN + EVASIÓN"
+++ ATAQUE LIGERO + ATAQUE PESADO
+ENFOQUE  + PRECISIÓN + EVASIÓN"
 2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	200	4			0x405E	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 a441 13 10}Agility
 ++ ACCURACY"	"{span 04 a441 2f 10}AGIL (Agility)
 Affects the ACCURACY of attacks."	"{span 04 a441 2f 10}AGIL (Agility)
@@ -181,8 +181,8 @@ Affects the strength of OFFENSIVE MAGIC."	27936	27936	a7b04b97ffe6a0d7c4b7605031
 + SPELL DAMAGE  + SPELL EVADE  + SPELL DEF"	"{span 08 6842 15 10}MIND (Mind)
 Affects the success of SPECIAL SKILLS and offensive and defensive MAGIC."	"{span 08 6842 15 10}MIND (Mind)
 Affects the success of SPECIAL SKILLS and offensive and defensive MAGIC."	27936	27936	a7b04b97ffe6a0d7c4b76050315e84de5d70bd0aba848c05de866c584a254b43	37019fa87a3d11f3491671de971bdbb5ef3574afd1c60c67f08ec99a90b885a9	"Mente
-++ PRECISIÓN DE HECHIZOS  + ATAQUE DE ENFOQUE
-+ DAÑO DE HECHIZOS  + EVASIÓN DE HECHIZOS  + DEFENSA MÁGICA"
+++ PRECISIÓN DE HECHIZOS + DAÑO DE HECHIZOS
++ ATAQ ENFOQUE + EVA DE HECHIZOS  + DEF MÁGICA"
 2	500	10241	9	menu/menu_data/unit_condition_help_text.xlc	XLC	204	4			0x4185	TEXTO_PRELOAD_DIFERENTE	NO	"{span 04 b641 1b 10}Resistance
 ++ SPELL DEFENSE"	"{span 04 b641 35 10}RES (Resistance)
 Affects the ability to RESIST MAGIC."	"{span 04 b641 35 10}RES (Resistance)
