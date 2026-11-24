@@ -73,7 +73,7 @@ def main():
 
     with out_path.open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(
-            f, fieldnames=output_fields, delimiter="\\t",
+            f, fieldnames=output_fields, delimiter="\t",
             quoting=csv.QUOTE_MINIMAL, extrasaction="ignore"
         )
         writer.writeheader()
