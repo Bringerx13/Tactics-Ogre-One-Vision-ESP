@@ -1,0 +1,32 @@
+INFORME REDUCIDO: ETIQUETAS DE LA FICHA DE UNIDAD
+TSV de entrada: 3
+  - gibbed_todos_todas_las_cadenas.tsv
+  - gibbed_todos_tokens_codigo.tsv
+  - gibbed_todos_no_en_csv.tsv
+Filas leídas: 37,731,193
+Filas coincidentes únicas (por etiqueta/offset/texto): 28,462
+Grupos etiqueta/recurso: 6,999
+Filas del detalle reducido: 17,645
+
+COINCIDENCIAS POR ETIQUETA:
+  ATK           441 coincidencias en 236 recursos
+  DEF           743 coincidencias en 451 recursos
+  HP          9,818 coincidencias en 2,534 recursos
+  MP          6,295 coincidencias en 1,656 recursos
+  LUCK          137 coincidencias en 35 recursos
+  STR           163 coincidencias en 85 recursos
+  VIT           277 coincidencias en 100 recursos
+  DEX           134 coincidencias en 55 recursos
+  AGIL            3 coincidencias en 1 recursos
+  AVD           234 coincidencias en 97 recursos
+  INT           203 coincidencias en 94 recursos
+  MIND          211 coincidencias en 56 recursos
+  RES           167 coincidencias en 59 recursos
+  REST          315 coincidencias en 86 recursos
+  RANGE         534 coincidencias en 13 recursos
+  WEIGHT         41 coincidencias en 12 recursos
+  AREA        1,219 coincidencias en 8 recursos
+  RT          7,527 coincidencias en 1,421 recursos
+
+Los slots XLC_SLOT y EMES_SLOT se conservan completos. Para otros tipos se guardan hasta 8 ejemplos por etiqueta y recurso; el resumen conserva el conteo total.
+Los offsets son hexadecimales y corresponden al archivo original; los duplicados entre informes se consolidan.
