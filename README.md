@@ -169,23 +169,23 @@ Nuestro parche es `.xdelta` y necesita una **ISO USA de One Vision v1.11d**, no 
 
 > **Nota para Android:** las ISO de PSP son archivos grandes. El parcheo desde el navegador depende de la memoria disponible en el teléfono y puede fallar en dispositivos con poca memoria. Si ocurre, aplica el xdelta en un PC y transfiere la ISO española al teléfono mediante USB o Wi-Fi. La transferencia por Wi-Fi integrada requiere PPSSPP 1.20 o posterior; consulta la [guía oficial de PPSSPP](https://www.ppsspp.org/docs/getting-started/installing-games-android/).
 
-## Compatibilidad con el HD UI Pack en PPSSPP
+## HD UI Pack para PPSSPP (opcional)
 
-El HD UI Pack es independiente del parche de traducción y debe instalarse por separado. Para que el texto del menú principal mantenga la textura HD en la versión española, conserva `ignoreAddress = false` en el `textures.ini` del pack y añade las siguientes entradas en sus secciones correspondientes.
+Si quieres jugar con la interfaz en alta definición, puedes descargar el **Tactics Ogre LUCT HD UI v0.9.9**, creado por **Sirbagsalot**. Es un paquete independiente de esta traducción y debe descargarse por separado.
 
-En **[hashes]**:
+- **[Descargar HD UI Pack v0.9.9 (versión estándar PNG)](https://www.mediafire.com/file/xl9q1t063v9m7g3/Tactics_Ogre_HD_UI_v0.9.9.rar/file)** — esta es la versión compatible con el `textures.ini` adaptado que ofrecemos aquí.
+- **[Ver la publicación original en los foros de PPSSPP](https://forums.ppsspp.org/showthread.php?tid=26100)** — incluye capturas, notas del autor y la descarga alternativa KTX2.
 
-```ini
-095d311007f80e0abb0f539f = ui/titlescreentext.png
-```
+### Instalar el pack y el archivo de compatibilidad
 
-En **[hashranges]**:
+1. Descarga y extrae el archivo RAR del HD UI Pack.
+2. Copia la carpeta `ULUS10565` del paquete dentro de `PSP/TEXTURES/` de PPSSPP. La ruta final debe ser `PSP/TEXTURES/ULUS10565/`.
+3. Descarga nuestro [`textures.ini` adaptado para la traducción española](https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/HD%20Texture%20Pack%20Fix/textures.ini).
+4. Coloca ese `textures.ini` directamente dentro de `PSP/TEXTURES/ULUS10565/`, junto a las carpetas de imágenes del pack. Si ya existe otro archivo con ese nombre, reemplázalo.
+5. En PPSSPP, activa **Ajustes → Herramientas → Herramientas de desarrollador → Reemplazar texturas** (en algunas versiones también aparece en **Ajustes → Gráficos**).
+6. Comprueba que **Guardar texturas nuevas** esté desactivado y configura **Screen Scaling Filter** en **Linear**.
 
-```ini
-0x095d3110, 256, 128 = 256, 72
-```
-
-No cambies globalmente `ignoreAddress` a `true`: esa opción impide que muchas de las texturas del pack coincidan correctamente.
+La versión estándar PNG enlazada arriba es la que corresponde al `textures.ini` de este repositorio. La publicación original también ofrece una versión KTX2 para móviles, pero ese paquete utiliza rutas de archivo distintas; no uses el `textures.ini` PNG de esta traducción con KTX2.
 
 ## Alcance
 
