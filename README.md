@@ -44,6 +44,7 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 - Para preparar una ISO en PC: [7-Zip](https://www.7-zip.org/) y [UMDGen](https://www.romhacking.net/utilities/1218/).
 - Para aplicar el parche en PC: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases).
 - Para jugar: [PPSSPP](https://www.ppsspp.org/download/).
+- **Opcional — Pack de texturas HD:** [Tactics Ogre LUCT HD UI v0.9.9 (PNG)](https://www.mediafire.com/file/xl9q1t063v9m7g3/Tactics_Ogre_HD_UI_v0.9.9.rar/file). Para instalarlo, consulta el apartado [HD UI Pack para PPSSPP](#hd-ui-pack-para-ppsspp-opcional), donde también encontrarás el `textures.ini` adaptado para esta traducción.
 
 **Región compatible con este parche:** USA, código **ULUS10565**.
 
