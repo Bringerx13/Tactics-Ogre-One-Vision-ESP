@@ -180,12 +180,12 @@ Si quieres jugar con la interfaz en alta definición, puedes descargar el **Tact
 
 1. Descarga y extrae el archivo RAR del HD UI Pack.
 2. Copia la carpeta `ULUS10565` del paquete dentro de `PSP/TEXTURES/` de PPSSPP. La ruta final debe ser `PSP/TEXTURES/ULUS10565/`.
-3. Descarga nuestro [`textures.ini` adaptado para la traducción española](https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/HD%20Texture%20Pack%20Fix/textures.ini).
+3. Descarga el archivo [`textures.ini` adaptado para la traducción española desde GitHub Releases](https://github.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/releases/download/ESP/textures.ini) (en la sección **Assets** de la publicación).
 4. Coloca ese `textures.ini` directamente dentro de `PSP/TEXTURES/ULUS10565/`, junto a las carpetas de imágenes del pack. Si ya existe otro archivo con ese nombre, reemplázalo.
 5. En PPSSPP, activa **Ajustes → Herramientas → Herramientas de desarrollador → Reemplazar texturas** (en algunas versiones también aparece en **Ajustes → Gráficos**).
 6. Comprueba que **Guardar texturas nuevas** esté desactivado y configura **Screen Scaling Filter** en **Linear**.
 
-La versión estándar PNG enlazada arriba es la que corresponde al `textures.ini` de este repositorio. La publicación original también ofrece una versión KTX2 para móviles, pero ese paquete utiliza rutas de archivo distintas; no uses el `textures.ini` PNG de esta traducción con KTX2.
+El archivo `textures.ini` disponible en GitHub Releases está preparado para la versión estándar PNG enlazada arriba. La publicación original también ofrece una versión KTX2 para móviles, pero ese paquete utiliza rutas de archivo distintas; no uses el `textures.ini` PNG de esta traducción con KTX2.
 
 ## ¿Qué está traducido?
 
