@@ -187,18 +187,37 @@ Si quieres jugar con la interfaz en alta definición, puedes descargar el **Tact
 
 La versión estándar PNG enlazada arriba es la que corresponde al `textures.ini` de este repositorio. La publicación original también ofrece una versión KTX2 para móviles, pero ese paquete utiliza rutas de archivo distintas; no uses el `textures.ini` PNG de esta traducción con KTX2.
 
-## Alcance
+## ¿Qué está traducido?
 
-Esta modificación distribuye la traducción al español neutro de los textos del juego y de One Vision incluidos en el parche, entre ellos menús, nombres y descripciones de objetos, clases, habilidades, magia, mensajes y textos del Warren Report.
+El parche traduce al español neutro los textos del juego y del contenido de **One Vision** que están almacenados como texto y forman parte de los archivos incluidos. Entre ellos:
+
+- **Menús e interfaz:** opciones, comandos, etiquetas, nombres de parámetros y estadísticas, avisos y mensajes del sistema que estén definidos como texto.
+- **Diálogos e historia:** conversaciones entre personajes, textos narrativos y diálogos de los acontecimientos de la historia.
+- **Warren Report:** artículos, crónicas, entradas históricas y biografías de personajes.
+- **Personajes, unidades y clases:** nombres, descripciones y textos explicativos relacionados con personajes, unidades y clases.
+- **Objetos y equipo:** armas, armaduras, accesorios, consumibles, materiales, objetos clave y sus descripciones.
+- **Combate:** habilidades, técnicas, magia, hechizos, estados, efectos y mensajes que aparecen durante las batallas.
+- **Ayuda y contenidos adicionales:** tutoriales, instrucciones, objetivos, descripciones y otros textos del juego o añadidos por One Vision que están incluidos en la traducción.
+
+## ¿Qué no está traducido?
+
+La traducción se limita a los textos que el juego almacena como cadenas de texto. No modifica ni redibuja los recursos gráficos o audiovisuales. Por tanto, permanecen en su forma original:
+
+- **Imágenes e ilustraciones:** retratos, fondos, logotipos, iconos, mapas, ilustraciones y demás elementos visuales.
+- **Textos integrados en imágenes o texturas:** cualquier palabra o rótulo que forme parte de una imagen, en lugar de existir como texto editable del juego.
+- **Vídeos y secuencias animadas:** escenas, clips y otros contenidos audiovisuales.
+- **Otros elementos gráficos:** texturas, sprites, marcos y elementos visuales de la interfaz.
+
+En resumen, los diálogos, menús y demás cadenas de texto incluidas en el parche están traducidos; los textos que aparecen dibujados dentro de imágenes, vídeos o recursos gráficos no se sustituyen.
 
 One Vision es una modificación de equilibrio y contenido creada por **raics**. Este proyecto no es una nueva versión del mod ni pretende sustituir su distribución original.
 
 ## Créditos y agradecimientos
 
-- **Bringerx13** — traducción al español neutro, integración, correcciones y pruebas de la versión española.
+- **raics** — creador de [One Vision](https://www.moddb.com/mods/one-vision1). También contribuyó numerosas sustituciones HD de interfaz y texto al paquete de texturas HD, y **Sirbagsalot** lo reconoce como uno de los co creadores del pack.
+- **Sirbagsalot** — autor de [Tactics Ogre LUCT HD UI v0.9.9](https://forums.ppsspp.org/showthread.php?tid=26100), el paquete de texturas HD mencionado en esta guía.
 - **Gabin-CC** — por compartir su trabajo y sus herramientas de localización para Tactics Ogre PSP, utilizadas como referencia y apoyo técnico. Sus herramientas se publican bajo licencia MIT; consulta [FrenchTools/LICENSE](FrenchTools/LICENSE) y el [proyecto original](https://github.com/Gabin-CC/tactics-ogre-psp-fr).
 - **Rick “Gibbed”** — por la investigación de formatos y [Gibbed's Let Us Cling Together Tools](https://github.com/gibbed/Gibbed.LetUsClingTogether), fundamentales para la exploración y modificación de los archivos del juego.
-- **raics** — creador de [One Vision](https://www.moddb.com/mods/one-vision1), la modificación sobre la que se basa este proyecto.
 
 Agradecimientos a todas las personas que han contribuido a la comunidad de modding de Tactics Ogre. Las capturas de instalación de One Vision enlazadas en esta guía proceden de la [guía oficial del mod](https://ogre-db.github.io/one-vision/installation.html).
 
