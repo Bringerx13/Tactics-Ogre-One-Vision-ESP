@@ -1,5 +1,5 @@
 # Tactics Ogre: Let Us Cling Together — One Vision (PSP)
-## Traducción al español neutro
+## Traducción al español
 
 Proyecto de traducción no oficial al español neutro de **Tactics Ogre: Let Us Cling Together para PSP**, compatible con **One Vision v1.11d**, el mod de raics.
 
