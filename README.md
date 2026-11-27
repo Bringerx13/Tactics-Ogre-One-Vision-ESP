@@ -3,9 +3,9 @@
 
 Proyecto de traducción no oficial al español neutro de **Tactics Ogre: Let Us Cling Together para PSP**, compatible con la modificación **One Vision** de raics.
 
-La descarga pública se distribuirá como un parche **xdelta**. No se distribuyen imágenes ISO ni archivos originales del juego.
+La descarga pública se distribuye como un parche **xdelta**. No se distribuyen imágenes ISO ni archivos originales del juego.
 
-## Descargar
+## Descargar la traducción
 
 **[Descargar la última versión desde GitHub Releases](https://github.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/releases/latest)**
 
@@ -14,24 +14,68 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 ## Requisitos
 
 - Una copia propia de **Tactics Ogre: Let Us Cling Together para PSP**.
-- La modificación **One Vision** ya aplicada.
-- La misma edición, región y revisión de la ISO inglesa que se utilizó como archivo de origen al crear el parche. El parche no está pensado para aplicarse sobre una ISO sin modificar, una versión distinta de One Vision ni **Tactics Ogre: Reborn**.
-- **Delta Patcher** para Windows: [GitHub — Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases).
+- Los archivos de la modificación **One Vision**.
+- **7-Zip** u otro programa capaz de extraer archivos `.7z`.
+- **UMDGen** para preparar la ISO modificada.
+- **Delta Patcher** para aplicar la traducción: [descargar desde GitHub](https://github.com/marco-calautti/DeltaPatcher/releases).
+- La misma edición, región y versión de One Vision que se utilizó como archivo de origen al crear el parche español.
 
-> **Importante:** un parche xdelta depende de la ISO de origen exacta. Si Delta Patcher indica que el archivo original no coincide, no fuerces la aplicación: comprueba que estás usando la ISO inglesa de One Vision correcta.
+> **Importante:** el parche xdelta solo funciona con la ISO exacta usada como base. No lo apliques sobre una ISO limpia, una versión diferente de One Vision ni **Tactics Ogre: Reborn**. Si Delta Patcher informa que el archivo original no coincide, detente y comprueba la región y la versión.
 
-## Instalación
+## 1. Instalar One Vision
 
-1. Haz una copia de seguridad de tu ISO original de One Vision.
-2. Descarga el parche `.xdelta` desde [Releases](https://github.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/releases/latest).
-3. Abre Delta Patcher y selecciona:
-   - **Original file:** tu ISO inglesa de Tactics Ogre con One Vision ya aplicado.
+La página oficial del mod ofrece la descarga y una guía ilustrada de instalación:
+
+- **[One Vision — página oficial de raics en ModDB](https://www.moddb.com/mods/one-vision1)**.
+- **[Descargar One Vision](https://www.moddb.com/mods/one-vision1/downloads/one-vision1)**.
+- **[Guía oficial de instalación](https://ogre-db.github.io/one-vision/installation.html)**.
+
+Descarga la versión de One Vision compatible con la versión base que requiere el parche español. La página de ModDB identifica el paquete completo v1.11d; comprueba siempre la versión indicada en la publicación del parche español antes de continuar.
+
+### Identificar la región del juego
+
+Antes de instalar el mod, averigua la región de tu copia. En PPSSPP, mantén pulsado el juego en la lista y abre la información del juego. También puedes consultar el identificador del disco con UMDGen.
+
+Los identificadores habituales son:
+
+- **USA:** `ULUS10565`.
+- **Europa:** `ULES01500`.
+
+La carpeta de *Data Install Fix* que se aplica debe corresponder a la región de tu juego. No mezcles los archivos USA y Europa.
+
+### Preparar la ISO de One Vision con UMDGen
+
+1. Haz una copia de seguridad de tu ISO original.
+2. Extrae el archivo de One Vision `.7z` en una carpeta. Dentro encontrarás la carpeta `PSP_GAME` del mod y las carpetas de corrección de *Data Install*.
+3. Abre **UMDGen** y carga tu ISO original de Tactics Ogre. Asegúrate de estar viendo la raíz de la ISO, donde aparece `PSP_GAME`.
+4. Desde la carpeta extraída de One Vision, arrastra la carpeta `PSP_GAME` del mod a la ventana de UMDGen. Cuando pregunte si deseas reemplazar archivos, selecciona **Yes to All**.
+5. Abre en los archivos extraídos de One Vision la carpeta de **Data Install Fix** correspondiente a tu región (USA o Europa).
+6. Arrastra a UMDGen la carpeta `PSP_GAME` que se encuentra dentro de esa carpeta de corrección. Cuando pregunte si deseas sobrescribir archivos, selecciona **Yes to All**.
+7. En UMDGen, elige **File → Save As → Uncompressed (*.iso)** y guarda la nueva imagen con un nombre distinto, por ejemplo `Tactics_Ogre_One_Vision.iso`.
+8. Conserva esa ISO como tu base de One Vision. No la confundas con la ISO original ni con la ISO española que crearás en el siguiente paso.
+
+**Nota sobre Data Install:** en una instalación nueva de One Vision, aplica la corrección de *Data Install* correspondiente a tu región. La guía oficial indica que, al actualizar desde una versión anterior del mod que ya tiene esa corrección, no es necesario volver a aplicarla.
+
+## 2. Aplicar la traducción al español
+
+Una vez que tengas preparada la ISO de One Vision:
+
+1. Haz otra copia de seguridad de la ISO de One Vision.
+2. Descarga el parche `.xdelta` desde [GitHub Releases](https://github.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/releases/latest).
+3. Abre **Delta Patcher** y selecciona:
+   - **Original file:** la ISO de One Vision preparada en el paso anterior y que coincida exactamente con la versión base del parche.
    - **XDelta patch:** el archivo `.xdelta` descargado.
-   - **Output file:** el nombre y la ubicación donde guardarás la ISO en español.
+   - **Output file:** la ubicación y el nombre de la nueva ISO española, por ejemplo `Tactics_Ogre_One_Vision_ESP.iso`.
 4. Aplica el parche y espera a que termine el proceso.
-5. Abre la ISO resultante en PPSSPP o en el dispositivo compatible que utilices.
+5. Abre la ISO española resultante en PPSSPP o en el dispositivo compatible que utilices.
 
-No compartas ni descargues ISOs pretraducidas de terceros: el parche está diseñado para aplicarse a una copia propia del juego.
+No apliques el parche español antes de instalar One Vision. Tampoco uses una ISO de una región o versión distinta: aunque el juego llegue a iniciar, el parche podría no funcionar correctamente.
+
+### Nota para usuarios de PPSSPP
+
+La guía oficial de One Vision también explica cómo ejecutar el juego desde una carpeta extraída, sin reconstruir una ISO. Sin embargo, el parche español distribuido aquí es xdelta y necesita una ISO de origen. Para usar este parche, sigue el método con UMDGen descrito arriba y luego aplica el xdelta.
+
+Al probar una versión nueva del mod o de la traducción, carga una partida guardada normal. Evita cargar estados rápidos (*save states*) creados con una versión diferente del juego, ya que pueden conservar datos antiguos en memoria.
 
 ## Compatibilidad con el HD UI Pack en PPSSPP
 
