@@ -5,6 +5,17 @@ Proyecto de traducción no oficial al español neutro de **Tactics Ogre: Let Us 
 
 La descarga pública se distribuye como un parche **xdelta**. No se distribuyen imágenes ISO ni archivos originales del juego.
 
+## Capturas del proyecto
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/Im%C3%A1genes/One%20Vision%20ESP1.png" alt="Tactics Ogre One Vision en español — captura 1" width="49%">
+  <img src="https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/Im%C3%A1genes/One%20Vision%20ESP2.png" alt="Tactics Ogre One Vision en español — captura 2" width="49%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/Im%C3%A1genes/One%20Vision%20ESP3.png" alt="Tactics Ogre One Vision en español — captura 3" width="49%">
+  <img src="https://raw.githubusercontent.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/main/Im%C3%A1genes/One%20Vision%20ESP4.png" alt="Tactics Ogre One Vision en español — captura 4" width="49%">
+</p>
+
 ## Descargar la traducción
 
 **[Descargar la última versión desde GitHub Releases](https://github.com/Bringerx13/Tactics-Ogre-One-Vision-ESP/releases/latest)**
