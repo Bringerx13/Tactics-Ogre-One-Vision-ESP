@@ -28,7 +28,7 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 - **One Vision v1.11d**.
 - Para preparar una ISO en PC: [7-Zip](https://www.7-zip.org/) y [UMDGen](https://www.romhacking.net/utilities/1218/).
 - Para aplicar el parche en PC: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases).
-- Para jugar en móvil: [PPSSPP](https://www.ppsspp.org/download/).
+- Para jugar: [PPSSPP](https://www.ppsspp.org/download/).
 
 **Región compatible con este parche:** USA, código **ULUS10565**.
 
