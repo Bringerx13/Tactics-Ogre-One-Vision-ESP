@@ -174,7 +174,7 @@ Nuestro parche es `.xdelta` y necesita una **ISO USA de One Vision v1.11d**, no 
 Si quieres jugar con la interfaz en alta definición, puedes descargar el **Tactics Ogre LUCT HD UI v0.9.9**, creado por **Sirbagsalot**. Es un paquete independiente de esta traducción y debe descargarse por separado.
 
 - **[Descargar HD UI Pack v0.9.9 (versión estándar PNG)](https://www.mediafire.com/file/xl9q1t063v9m7g3/Tactics_Ogre_HD_UI_v0.9.9.rar/file)** — esta es la versión compatible con el `textures.ini` adaptado que ofrecemos aquí.
-- **[Ver la publicación original en los foros de PPSSPP](https://forums.ppsspp.org/showthread.php?tid=26100)** — incluye capturas, notas del autor y la descarga alternativa KTX2.
+- **[Ver la publicación original en los foros de PPSSPP](https://forums.ppsspp.org/showthread.php?tid=26100)** — incluye capturas, notas del autor y la descarga alternativa KTX2 para Celulares.
 
 ### Instalar el pack y el archivo de compatibilidad
 
