@@ -1,0 +1,27 @@
+ESCANEO COMPLETO DE GIBBED_EXTRACTED
+Raíz: E:\Tactics ogre\Gibbed_Extracted
+Archivos escaneados: 63022
+Bytes leídos: 1072926804
+Cadenas registradas: 16068594
+Tokens/identificadores cortos: 5796656
+No encontrados en texto_ingles del CSV: 15865943
+Errores de lectura/parseo: 0
+Tiempo: 2575.6 s
+
+Por codificación:
+  ASCII: 13461995
+  CODEC_TACTICS_OGRE: 2434751
+  UTF-16BE: 9668
+  UTF-16LE: 7017
+  UTF-8: 155163
+
+Por tipo:
+  CADENA_ASCII: 7665339
+  CADENA_UTF16: 16685
+  CADENA_UTF8: 155163
+  CANDIDATO_CODEC: 2416723
+  EMES_SLOT: 8170
+  TOKEN_CODIGO: 5796656
+  XLC_SLOT: 9858
+
+Aviso: las cadenas sin parser pueden incluir falsos positivos; los offsets se refieren al archivo original.
