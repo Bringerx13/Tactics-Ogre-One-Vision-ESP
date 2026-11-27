@@ -218,6 +218,7 @@ One Vision es una modificación de equilibrio y contenido creada por **raics**. 
 - **Sirbagsalot** — autor de [Tactics Ogre LUCT HD UI v0.9.9](https://forums.ppsspp.org/showthread.php?tid=26100), el paquete de texturas HD mencionado en esta guía.
 - **Gabin-CC** — por compartir su trabajo y sus herramientas de localización para Tactics Ogre PSP, utilizadas como referencia y apoyo técnico. Sus herramientas se publican bajo licencia MIT; consulta [FrenchTools/LICENSE](FrenchTools/LICENSE) y el [proyecto original](https://github.com/Gabin-CC/tactics-ogre-psp-fr).
 - **Rick “Gibbed”** — por la investigación de formatos y [Gibbed's Let Us Cling Together Tools](https://github.com/gibbed/Gibbed.LetUsClingTogether), fundamentales para la exploración y modificación de los archivos del juego.
+- **A mí, Bringerx13:** si te gustó mi aporte, te agradecería una suscripción a mi canal de YouTube: [BringerxRPGs](https://www.youtube.com/@bringerxRPGs).
 
 Agradecimientos a todas las personas que han contribuido a la comunidad de modding de Tactics Ogre. Las capturas de instalación de One Vision enlazadas en esta guía proceden de la [guía oficial del mod](https://ogre-db.github.io/one-vision/installation.html).
 
