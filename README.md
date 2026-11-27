@@ -13,7 +13,7 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 
 ## Requisitos y compatibilidad
 
-- Una copia propia de **Tactics Ogre: Let Us Cling Together para PSP**, edición **USA**.
+- Una copia propia de **Tactics Ogre: Let Us Cling Together para PSP**, probado en la edición **USA**.
 - **One Vision v1.11d**.
 - Para preparar una ISO en PC: [7-Zip](https://www.7-zip.org/) y [UMDGen](https://www.romhacking.net/utilities/1218/).
 - Para aplicar el parche en PC: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases).
@@ -21,7 +21,7 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 
 **Región compatible con este parche:** USA, código **ULUS10565**.
 
-> **Importante:** el parche xdelta solo funciona con la ISO USA de One Vision v1.11d preparada de la misma forma que la ISO utilizada para crear el parche. No lo apliques sobre una ISO limpia, una versión distinta de One Vision, una edición europea ni **Tactics Ogre: Reborn**. Si el programa informa que el archivo original no coincide, detente y comprueba la fuente.
+> **Importante:** el parche xdelta solo funciona con la ISO USA de One Vision v1.11d preparada de la misma forma que la ISO utilizada para crear el parche. No lo apliques sobre una ISO limpia, una versión distinta de One Vision. Si el programa informa que el archivo original no coincide, detente y comprueba la fuente.
 
 ## 1. Instalar One Vision en PC (crear una ISO)
 
