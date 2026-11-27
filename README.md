@@ -5,6 +5,21 @@ Proyecto de traducción no oficial al español neutro de **Tactics Ogre: Let Us 
 
 La descarga pública se distribuye como un parche **xdelta**. No se distribuyen imágenes ISO ni archivos originales del juego.
 
+## ¿Por qué One Vision y no la versión Vanilla?
+
+Elegí **One Vision** porque no se limita a aumentar la dificultad: replantea muchos de los sistemas de combate de *Tactics Ogre* para ofrecer una experiencia más equilibrada, variada y estratégica. Para mí, su mayor atractivo está en las posibilidades que abre a la hora de formar un ejército y desarrollar equipos diferentes.
+
+- **Team building y personalización:** los personajes genéricos cuentan con perfiles y atributos más variados, orientados a distintos estilos —como luchador, pícaro, mago o generalista—. Esto hace que reclutar, combinar y desarrollar unidades tenga más peso en la composición del equipo.
+- **Mejor equilibrio:** armas, clases y habilidades se reajustan para acercar su rendimiento y evitar que unas pocas opciones o combinaciones dominen los combates. También se revisan las habilidades especiales y los movimientos finales.
+- **Más opciones de clases y combate:** numerosas clases reciben ajustes y nuevas posibilidades, y el mod incorpora opciones adicionales de equipo, habilidades, técnicas y hechizos. Así hay más formas de definir el papel de cada unidad dentro del grupo.
+- **Armas y equipamiento renovados:** se revisan armas, armaduras y objetos para que sus características tengan una función más clara. Por ejemplo, las armas a dos manos destacan por su daño y las armaduras pesadas permiten construir unidades resistentes.
+- **Menos grindeo repetitivo:** One Vision acelera el progreso de habilidades que antes tardaban demasiado en subir, facilita conseguir muchos objetos y simplifica la fabricación. Además, elimina buena parte de los métodos de obtención de estadísticas permanentes, reduciendo la necesidad de repetir actividades únicamente para mejorar números.
+
+Por estas razones prefiero jugar con One Vision: me gusta experimentar con distintas composiciones, aprovechar las fortalezas de cada clase y ganar los combates mediante la estrategia y la preparación del equipo, en lugar de depender de unas pocas configuraciones demasiado poderosas.
+
+Para consultar los detalles del mod, sus clases, armas, armaduras, objetos, personajes, habilidades y demás contenido, visita la **[base de datos de One Vision](https://ogre-db.github.io/one-vision/)**. También puedes leer la **[descripción y los objetivos del mod en ModDB](https://www.moddb.com/mods/one-vision1)** y las **[notas de cambios de sus versiones](https://www.moddb.com/mods/one-vision1/downloads/one-vision1)**.
+
+
 ## Capturas del proyecto
 
 <p align="center">
