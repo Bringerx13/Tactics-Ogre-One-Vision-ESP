@@ -1,5 +1,5 @@
 # Tactics Ogre: Let Us Cling Together — One Vision (PSP)
-## Traducción al español neutro
+## Traducción al español
 
 Proyecto de traducción no oficial al español neutro de **Tactics Ogre: Let Us Cling Together para PSP**, compatible con la modificación **One Vision** de raics.
 
@@ -14,39 +14,27 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 ## Requisitos
 
 - Una copia propia de **Tactics Ogre: Let Us Cling Together para PSP**.
-- Los archivos de la modificación **One Vision**.
+- Los archivos de la modificación **One Vision**, Versión v1.11d.
 - **7-Zip** u otro programa capaz de extraer archivos `.7z`.
 - **UMDGen** para preparar la ISO modificada.
 - **Delta Patcher** para aplicar la traducción: [descargar desde GitHub](https://github.com/marco-calautti/DeltaPatcher/releases).
 - La misma edición, región y versión de One Vision que se utilizó como archivo de origen al crear el parche español.
 
-> **Importante:** el parche xdelta solo funciona con la ISO exacta usada como base. No lo apliques sobre una ISO limpia, una versión diferente de One Vision ni **Tactics Ogre: Reborn**. Si Delta Patcher informa que el archivo original no coincide, detente y comprueba la región y la versión.
+> **Importante:** el parche xdelta solo funciona con la ISO exacta usada como base. No lo apliques sobre una ISO limpia, una versión diferente de One Vision ni **Tactics Ogre: Reborn**. Si Delta Patcher informa que el archivo original no coincide, detente y comprueba la región y la versión, la traducción fué creada usando la versión USA del ISO. 
 
 ## 1. Instalar One Vision
 
 La página oficial del mod ofrece la descarga y una guía ilustrada de instalación:
 
-- **[One Vision — página oficial de raics en ModDB](https://www.moddb.com/mods/one-vision1)**.
 - **[Descargar One Vision](https://www.moddb.com/mods/one-vision1/downloads/one-vision1)**.
 - **[Guía oficial de instalación](https://ogre-db.github.io/one-vision/installation.html)**.
 
 Descarga la versión de One Vision compatible con la versión base que requiere el parche español. La página de ModDB identifica el paquete completo v1.11d; comprueba siempre la versión indicada en la publicación del parche español antes de continuar.
 
-### Identificar la región del juego
-
-Antes de instalar el mod, averigua la región de tu copia. En PPSSPP, mantén pulsado el juego en la lista y abre la información del juego. También puedes consultar el identificador del disco con UMDGen.
-
-Los identificadores habituales son:
-
-- **USA:** `ULUS10565`.
-- **Europa:** `ULES01500`.
-
-La carpeta de *Data Install Fix* que se aplica debe corresponder a la región de tu juego. No mezcles los archivos USA y Europa.
-
 ### Preparar la ISO de One Vision con UMDGen
 
 1. Haz una copia de seguridad de tu ISO original.
-2. Extrae el archivo de One Vision `.7z` en una carpeta. Dentro encontrarás la carpeta `PSP_GAME` del mod y las carpetas de corrección de *Data Install*.
+2. Extrae el archivo de One Vision `.7z` en una carpeta. Dentro encontrarás la carpeta `PSP_GAME` del mod y las carpetas de corrección de *Data Install*(No usar).
 3. Abre **UMDGen** y carga tu ISO original de Tactics Ogre. Asegúrate de estar viendo la raíz de la ISO, donde aparece `PSP_GAME`.
 4. Desde la carpeta extraída de One Vision, arrastra la carpeta `PSP_GAME` del mod a la ventana de UMDGen. Cuando pregunte si deseas reemplazar archivos, selecciona **Yes to All**.
 5. Abre en los archivos extraídos de One Vision la carpeta de **Data Install Fix** correspondiente a tu región (USA o Europa).
