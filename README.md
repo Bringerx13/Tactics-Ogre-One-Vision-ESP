@@ -40,7 +40,7 @@ En la sección *Assets* de la publicación, descarga el archivo `.xdelta` corres
 ## Requisitos y compatibilidad
 
 - Una copia propia de **Tactics Ogre: Let Us Cling Together para PSP**, probado en la edición **USA**.
-- **One Vision v1.11d**.
+- **One Vision v1.11d:** [Descargar el mod desde ModDB](https://www.moddb.com/mods/one-vision1/downloads/one-vision1).
 - Para preparar una ISO en PC: [7-Zip](https://www.7-zip.org/) y [UMDGen](https://www.romhacking.net/utilities/1218/).
 - Para aplicar el parche en PC: [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases).
 - Para jugar: [PPSSPP](https://www.ppsspp.org/download/).
